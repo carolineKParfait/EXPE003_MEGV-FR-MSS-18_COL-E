@@ -1,0 +1,82 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Autrain antoine",
+    "jalons": [
+      0,
+      15
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Registre",
+    "jalons": [
+      59,
+      67
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "FRANÇOISES",
+    "jalons": [
+      78,
+      89
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Antoine",
+    "jalons": [
+      268,
+      275
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Militaire",
+    "jalons": [
+      348,
+      357
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Cimetiere",
+    "jalons": [
+      452,
+      461
+    ]
+  },
+  "entite_6": {
+    "label": "ORG",
+    "text": "Sacrements",
+    "jalons": [
+      514,
+      524
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Basse-Terre",
+    "jalons": [
+      537,
+      548
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "Vu",
+    "jalons": [
+      601,
+      603
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Commissaire",
+    "jalons": [
+      664,
+      675
+    ]
+  }
+}

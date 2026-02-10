@@ -1,0 +1,58 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "ptenis du dé dommaye",
+    "jalons": [
+      6,
+      27
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "offecté",
+    "jalons": [
+      68,
+      76
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "considération",
+    "jalons": [
+      147,
+      161
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Connoissance",
+    "jalons": [
+      179,
+      191
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Jujet",
+    "jalons": [
+      242,
+      247
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Vous Salue",
+    "jalons": [
+      252,
+      262
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "※.",
+    "jalons": [
+      264,
+      266
+    ]
+  }
+}

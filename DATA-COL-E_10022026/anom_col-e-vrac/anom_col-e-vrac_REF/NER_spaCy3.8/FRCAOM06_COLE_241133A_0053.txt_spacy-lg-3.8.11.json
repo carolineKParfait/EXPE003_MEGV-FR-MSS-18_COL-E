@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "M Mithon",
+    "jalons": [
+      0,
+      8
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Domingue",
+    "jalons": [
+      15,
+      23
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Goaüe",
+    "jalons": [
+      95,
+      100
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Enfans–",
+    "jalons": [
+      215,
+      222
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Jannot",
+    "jalons": [
+      284,
+      290
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Goave",
+    "jalons": [
+      356,
+      361
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "france",
+    "jalons": [
+      444,
+      450
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Despousses",
+    "jalons": [
+      653,
+      663
+    ]
+  }
+}

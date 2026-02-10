@@ -1,0 +1,58 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Croiriéz vous",
+    "jalons": [
+      0,
+      13
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "M^r",
+    "jalons": [
+      105,
+      108
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Cap",
+    "jalons": [
+      223,
+      226
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "vüe",
+    "jalons": [
+      749,
+      752
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "m&#x27;ocuper",
+    "jalons": [
+      777,
+      790
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Cabinet",
+    "jalons": [
+      814,
+      821
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "voila",
+    "jalons": [
+      1009,
+      1014
+    ]
+  }
+}

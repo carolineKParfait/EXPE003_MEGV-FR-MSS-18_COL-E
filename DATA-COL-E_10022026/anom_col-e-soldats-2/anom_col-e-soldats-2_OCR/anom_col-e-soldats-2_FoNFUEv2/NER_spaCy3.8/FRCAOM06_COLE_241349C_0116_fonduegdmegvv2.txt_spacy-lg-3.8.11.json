@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Martinique",
+    "jalons": [
+      136,
+      146
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "M",
+    "jalons": [
+      184,
+      185
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Roy",
+    "jalons": [
+      194,
+      197
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "S^t",
+    "jalons": [
+      256,
+      259
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "l&#39;adresse",
+    "jalons": [
+      388,
+      401
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "cel",
+    "jalons": [
+      459,
+      462
+    ]
+  }
+}

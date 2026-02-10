@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      2,
+      8
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Madame la Comtesse de Conflans",
+    "jalons": [
+      9,
+      39
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Rûe",
+    "jalons": [
+      53,
+      56
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Grenelle f^g s^t",
+    "jalons": [
+      60,
+      76
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Germain",
+    "jalons": [
+      77,
+      84
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      87,
+      92
+    ]
+  }
+}

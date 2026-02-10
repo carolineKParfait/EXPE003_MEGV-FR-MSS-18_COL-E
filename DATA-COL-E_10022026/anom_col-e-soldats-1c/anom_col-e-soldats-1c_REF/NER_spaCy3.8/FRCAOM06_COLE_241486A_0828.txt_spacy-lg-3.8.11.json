@@ -1,0 +1,106 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Loüis",
+    "jalons": [
+      17,
+      22
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      54,
+      62
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Domingue",
+    "jalons": [
+      101,
+      109
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Suplie",
+    "jalons": [
+      111,
+      117
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Coulons",
+    "jalons": [
+      141,
+      148
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "qu&#x27;il",
+    "jalons": [
+      210,
+      220
+    ]
+  },
+  "entite_6": {
+    "label": "ORG",
+    "text": "Contumace",
+    "jalons": [
+      238,
+      247
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Jean",
+    "jalons": [
+      339,
+      343
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Dumas",
+    "jalons": [
+      364,
+      369
+    ]
+  },
+  "entite_9": {
+    "label": "ORG",
+    "text": "Compagnie",
+    "jalons": [
+      386,
+      395
+    ]
+  },
+  "entite_10": {
+    "label": "ORG",
+    "text": "Justice",
+    "jalons": [
+      438,
+      445
+    ]
+  },
+  "entite_11": {
+    "label": "MISC",
+    "text": "Ch^er",
+    "jalons": [
+      499,
+      504
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "Brach",
+    "jalons": [
+      618,
+      623
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "entite_0": {
+    "label": "ORG",
+    "text": "s^t Domingue",
+    "jalons": [
+      3,
+      15
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      76,
+      84
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Brach",
+    "jalons": [
+      88,
+      93
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "s^t",
+    "jalons": [
+      129,
+      132
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Loüis",
+    "jalons": [
+      165,
+      170
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Composé",
+    "jalons": [
+      187,
+      194
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "s^r",
+    "jalons": [
+      205,
+      208
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Brach",
+    "jalons": [
+      212,
+      217
+    ]
+  },
+  "entite_8": {
+    "label": "ORG",
+    "text": "M^es",
+    "jalons": [
+      240,
+      244
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "Capitaine",
+    "jalons": [
+      265,
+      274
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Bignon",
+    "jalons": [
+      351,
+      357
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "Bailleul",
+    "jalons": [
+      405,
+      413
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "Godroy",
+    "jalons": [
+      417,
+      423
+    ]
+  },
+  "entite_13": {
+    "label": "LOC",
+    "text": "Enseignes",
+    "jalons": [
+      424,
+      433
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "M",
+    "jalons": [
+      477,
+      478
+    ]
+  },
+  "entite_15": {
+    "label": "PER",
+    "text": "Roy",
+    "jalons": [
+      547,
+      550
+    ]
+  },
+  "entite_16": {
+    "label": "MISC",
+    "text": "s^r",
+    "jalons": [
+      641,
+      644
+    ]
+  },
+  "entite_17": {
+    "label": "PER",
+    "text": "Brach",
+    "jalons": [
+      648,
+      653
+    ]
+  },
+  "entite_18": {
+    "label": "MISC",
+    "text": "Jean",
+    "jalons": [
+      743,
+      747
+    ]
+  },
+  "entite_19": {
+    "label": "PER",
+    "text": "Dumas",
+    "jalons": [
+      768,
+      773
+    ]
+  },
+  "entite_20": {
+    "label": "ORG",
+    "text": "Compagnie",
+    "jalons": [
+      792,
+      801
+    ]
+  },
+  "entite_21": {
+    "label": "ORG",
+    "text": "Crime",
+    "jalons": [
+      823,
+      828
+    ]
+  },
+  "entite_22": {
+    "label": "MISC",
+    "text": "s^r",
+    "jalons": [
+      902,
+      905
+    ]
+  },
+  "entite_23": {
+    "label": "LOC",
+    "text": "Brach",
+    "jalons": [
+      909,
+      914
+    ]
+  },
+  "entite_24": {
+    "label": "PER",
+    "text": "Informé",
+    "jalons": [
+      928,
+      935
+    ]
+  },
+  "entite_25": {
+    "label": "MISC",
+    "text": "Information",
+    "jalons": [
+      1020,
+      1031
+    ]
+  },
+  "entite_26": {
+    "label": "MISC",
+    "text": "Interrogatoire",
+    "jalons": [
+      1035,
+      1049
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "Témoins",
+    "jalons": [
+      1060,
+      1067
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "Temoins",
+    "jalons": [
+      1089,
+      1096
+    ]
+  },
+  "entite_29": {
+    "label": "MISC",
+    "text": "Confrontation",
+    "jalons": [
+      1134,
+      1147
+    ]
+  },
+  "entite_30": {
+    "label": "MISC",
+    "text": "Conclusions",
+    "jalons": [
+      1181,
+      1192
+    ]
+  },
+  "entite_31": {
+    "label": "ORG",
+    "text": "Conseil",
+    "jalons": [
+      1231,
+      1238
+    ]
+  },
+  "entite_32": {
+    "label": "MISC",
+    "text": "Jean",
+    "jalons": [
+      1305,
+      1309
+    ]
+  },
+  "entite_33": {
+    "label": "PER",
+    "text": "Dumas",
+    "jalons": [
+      1330,
+      1335
+    ]
+  },
+  "entite_34": {
+    "label": "PER",
+    "text": "douzieme",
+    "jalons": [
+      1345,
+      1353
+    ]
+  }
+}

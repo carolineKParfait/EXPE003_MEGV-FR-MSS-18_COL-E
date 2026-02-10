@@ -1,0 +1,378 @@
+{
+  "entite_0": {
+    "label": "ORG",
+    "text": "JUGEMENT",
+    "jalons": [
+      0,
+      8
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "Déserteur",
+    "jalons": [
+      33,
+      42
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Laroch",
+    "jalons": [
+      44,
+      50
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "DE PAR",
+    "jalons": [
+      52,
+      58
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "VU",
+    "jalons": [
+      67,
+      69
+    ]
+  },
+  "entite_5": {
+    "label": "ORG",
+    "text": "Conseil de guerre",
+    "jalons": [
+      77,
+      94
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "La basse terre",
+    "jalons": [
+      106,
+      120
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Guadeloupe",
+    "jalons": [
+      126,
+      136
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "M. de Repentigny",
+    "jalons": [
+      150,
+      166
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Brigadier",
+    "jalons": [
+      168,
+      177
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Roy",
+    "jalons": [
+      192,
+      195
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "Rég^t",
+    "jalons": [
+      208,
+      213
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "Guadeloupe",
+    "jalons": [
+      220,
+      230
+    ]
+  },
+  "entite_13": {
+    "label": "LOC",
+    "text": "Les",
+    "jalons": [
+      240,
+      243
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "Roy",
+    "jalons": [
+      267,
+      270
+    ]
+  },
+  "entite_15": {
+    "label": "PER",
+    "text": "S^t Charle",
+    "jalons": [
+      279,
+      289
+    ]
+  },
+  "entite_16": {
+    "label": "MISC",
+    "text": "Ville basse terre",
+    "jalons": [
+      293,
+      310
+    ]
+  },
+  "entite_17": {
+    "label": "MISC",
+    "text": "le Procès",
+    "jalons": [
+      311,
+      320
+    ]
+  },
+  "entite_18": {
+    "label": "PER",
+    "text": "Jacques la Roch",
+    "jalons": [
+      358,
+      373
+    ]
+  },
+  "entite_19": {
+    "label": "PER",
+    "text": "Roch Chasseur de la Comp^e de Tarragon",
+    "jalons": [
+      381,
+      419
+    ]
+  },
+  "entite_20": {
+    "label": "PER",
+    "text": "Julien la Roch",
+    "jalons": [
+      429,
+      443
+    ]
+  },
+  "entite_21": {
+    "label": "PER",
+    "text": "feuë marie Guerelle",
+    "jalons": [
+      451,
+      470
+    ]
+  },
+  "entite_22": {
+    "label": "LOC",
+    "text": "Cherbourg",
+    "jalons": [
+      481,
+      490
+    ]
+  },
+  "entite_23": {
+    "label": "LOC",
+    "text": "Normandie",
+    "jalons": [
+      494,
+      503
+    ]
+  },
+  "entite_24": {
+    "label": "MISC",
+    "text": "Vingt deux ans taille",
+    "jalons": [
+      523,
+      544
+    ]
+  },
+  "entite_25": {
+    "label": "MISC",
+    "text": "Cheveux et sourcils bruns",
+    "jalons": [
+      585,
+      610
+    ]
+  },
+  "entite_26": {
+    "label": "ORG",
+    "text": "Compagnie des Chasseurs de tarragon",
+    "jalons": [
+      735,
+      770
+    ]
+  },
+  "entite_27": {
+    "label": "MISC",
+    "text": "Régiment d&#x27;Armagnac",
+    "jalons": [
+      774,
+      798
+    ]
+  },
+  "entite_28": {
+    "label": "MISC",
+    "text": "S^r Jean de lesponne",
+    "jalons": [
+      930,
+      950
+    ]
+  },
+  "entite_29": {
+    "label": "ORG",
+    "text": "Cap^e",
+    "jalons": [
+      951,
+      956
+    ]
+  },
+  "entite_30": {
+    "label": "PER",
+    "text": "Major",
+    "jalons": [
+      962,
+      967
+    ]
+  },
+  "entite_31": {
+    "label": "LOC",
+    "text": "Reg^t",
+    "jalons": [
+      971,
+      976
+    ]
+  },
+  "entite_32": {
+    "label": "LOC",
+    "text": "Guadeloupe",
+    "jalons": [
+      983,
+      993
+    ]
+  },
+  "entite_33": {
+    "label": "MISC",
+    "text": "Conseil de guerre",
+    "jalons": [
+      1000,
+      1017
+    ]
+  },
+  "entite_34": {
+    "label": "PER",
+    "text": "Jacques la Roch",
+    "jalons": [
+      1100,
+      1115
+    ]
+  },
+  "entite_35": {
+    "label": "MISC",
+    "text": "Roch",
+    "jalons": [
+      1124,
+      1128
+    ]
+  },
+  "entite_36": {
+    "label": "PER",
+    "text": "Chaines",
+    "jalons": [
+      1230,
+      1237
+    ]
+  },
+  "entite_37": {
+    "label": "PER",
+    "text": "Galeres",
+    "jalons": [
+      1242,
+      1249
+    ]
+  },
+  "entite_38": {
+    "label": "LOC",
+    "text": "Guadeloupe",
+    "jalons": [
+      1315,
+      1325
+    ]
+  },
+  "entite_39": {
+    "label": "LOC",
+    "text": "Badisse",
+    "jalons": [
+      1354,
+      1361
+    ]
+  },
+  "entite_40": {
+    "label": "PER",
+    "text": "Marin",
+    "jalons": [
+      1365,
+      1370
+    ]
+  },
+  "entite_41": {
+    "label": "PER",
+    "text": "Chenamy",
+    "jalons": [
+      1371,
+      1378
+    ]
+  },
+  "entite_42": {
+    "label": "LOC",
+    "text": "Reputiny",
+    "jalons": [
+      1379,
+      1387
+    ]
+  },
+  "entite_43": {
+    "label": "PER",
+    "text": "Grilliér",
+    "jalons": [
+      1388,
+      1396
+    ]
+  },
+  "entite_44": {
+    "label": "LOC",
+    "text": "D&#x27;Engny",
+    "jalons": [
+      1397,
+      1409
+    ]
+  },
+  "entite_45": {
+    "label": "MISC",
+    "text": "Jugement",
+    "jalons": [
+      1421,
+      1429
+    ]
+  },
+  "entite_46": {
+    "label": "MISC",
+    "text": "Garde montante",
+    "jalons": [
+      1444,
+      1458
+    ]
+  }
+}

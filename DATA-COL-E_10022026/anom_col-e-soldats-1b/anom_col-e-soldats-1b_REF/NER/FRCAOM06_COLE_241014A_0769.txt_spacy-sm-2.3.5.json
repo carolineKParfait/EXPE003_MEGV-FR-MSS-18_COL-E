@@ -1,0 +1,330 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Aujourd&#x27;huy Vingt-six",
+    "jalons": [
+      0,
+      26
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Roy",
+    "jalons": [
+      63,
+      66
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Versailles",
+    "jalons": [
+      75,
+      85
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Majesté",
+    "jalons": [
+      120,
+      127
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "jacques Augerant",
+    "jalons": [
+      148,
+      164
+    ]
+  },
+  "entite_5": {
+    "label": "ORG",
+    "text": "Légion de l&#x27;isle de france",
+    "jalons": [
+      181,
+      212
+    ]
+  },
+  "entite_6": {
+    "label": "ORG",
+    "text": "Légion",
+    "jalons": [
+      301,
+      307
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "qu&#x27;un",
+    "jalons": [
+      335,
+      345
+    ]
+  },
+  "entite_8": {
+    "label": "ORG",
+    "text": "Conseil de Guerre",
+    "jalons": [
+      358,
+      375
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "Contumace au Port Louis",
+    "jalons": [
+      386,
+      409
+    ]
+  },
+  "entite_10": {
+    "label": "ORG",
+    "text": "Avril",
+    "jalons": [
+      418,
+      423
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "Mort",
+    "jalons": [
+      503,
+      507
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "Majesté de",
+    "jalons": [
+      554,
+      564
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "la Discipline militaire",
+    "jalons": [
+      735,
+      758
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "Majesté",
+    "jalons": [
+      763,
+      770
+    ]
+  },
+  "entite_15": {
+    "label": "PER",
+    "text": "Jacques Augerant",
+    "jalons": [
+      829,
+      845
+    ]
+  },
+  "entite_16": {
+    "label": "LOC",
+    "text": "Amendes",
+    "jalons": [
+      902,
+      909
+    ]
+  },
+  "entite_17": {
+    "label": "PER",
+    "text": "Majesté",
+    "jalons": [
+      999,
+      1006
+    ]
+  },
+  "entite_18": {
+    "label": "PER",
+    "text": "Néant",
+    "jalons": [
+      1038,
+      1043
+    ]
+  },
+  "entite_19": {
+    "label": "MISC",
+    "text": "Jugement",
+    "jalons": [
+      1055,
+      1063
+    ]
+  },
+  "entite_20": {
+    "label": "PER",
+    "text": "Délit",
+    "jalons": [
+      1183,
+      1188
+    ]
+  },
+  "entite_21": {
+    "label": "PER",
+    "text": "Majesté",
+    "jalons": [
+      1219,
+      1226
+    ]
+  },
+  "entite_22": {
+    "label": "MISC",
+    "text": "Silence",
+    "jalons": [
+      1352,
+      1359
+    ]
+  },
+  "entite_23": {
+    "label": "MISC",
+    "text": "Procureurs Généraux",
+    "jalons": [
+      1376,
+      1395
+    ]
+  },
+  "entite_24": {
+    "label": "MISC",
+    "text": "Autres",
+    "jalons": [
+      1443,
+      1449
+    ]
+  },
+  "entite_25": {
+    "label": "MISC",
+    "text": "Toutes fois par le Dit Jacques Augerent",
+    "jalons": [
+      1463,
+      1502
+    ]
+  },
+  "entite_26": {
+    "label": "MISC",
+    "text": "Vie\ndans la Légion de S^t Domingue",
+    "jalons": [
+      1539,
+      1573
+    ]
+  },
+  "entite_27": {
+    "label": "PER",
+    "text": "Ordonne sa Majesté",
+    "jalons": [
+      1585,
+      1603
+    ]
+  },
+  "entite_28": {
+    "label": "ORG",
+    "text": "Conseil de guenne",
+    "jalons": [
+      1607,
+      1624
+    ]
+  },
+  "entite_29": {
+    "label": "ORG",
+    "text": "Légion de St Domingue",
+    "jalons": [
+      1677,
+      1698
+    ]
+  },
+  "entite_30": {
+    "label": "PER",
+    "text": "Brevet de grace",
+    "jalons": [
+      1728,
+      1743
+    ]
+  },
+  "entite_31": {
+    "label": "MISC",
+    "text": "Du Contenu",
+    "jalons": [
+      1768,
+      1778
+    ]
+  },
+  "entite_32": {
+    "label": "PER",
+    "text": "Jouïs er",
+    "jalons": [
+      1789,
+      1797
+    ]
+  },
+  "entite_33": {
+    "label": "PER",
+    "text": "Augerant",
+    "jalons": [
+      1849,
+      1857
+    ]
+  },
+  "entite_34": {
+    "label": "MISC",
+    "text": "Majesté",
+    "jalons": [
+      1913,
+      1920
+    ]
+  },
+  "entite_35": {
+    "label": "MISC",
+    "text": "Volonté",
+    "jalons": [
+      1942,
+      1949
+    ]
+  },
+  "entite_36": {
+    "label": "PER",
+    "text": "Dit",
+    "jalons": [
+      1971,
+      1974
+    ]
+  },
+  "entite_37": {
+    "label": "PER",
+    "text": "Brevet",
+    "jalons": [
+      1983,
+      1989
+    ]
+  },
+  "entite_38": {
+    "label": "ORG",
+    "text": "Conseiller secrétaire d&#x27;Etat",
+    "jalons": [
+      2036,
+      2069
+    ]
+  },
+  "entite_39": {
+    "label": "MISC",
+    "text": "Commandements",
+    "jalons": [
+      2080,
+      2093
+    ]
+  },
+  "entite_40": {
+    "label": "PER",
+    "text": "Louïs",
+    "jalons": [
+      2107,
+      2112
+    ]
+  }
+}

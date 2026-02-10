@@ -1,0 +1,106 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Domingue",
+    "jalons": [
+      4,
+      12
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Prince",
+    "jalons": [
+      72,
+      78
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "⟦",
+    "jalons": [
+      100,
+      101
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      109,
+      120
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "R",
+    "jalons": [
+      127,
+      128
+    ]
+  },
+  "entite_5": {
+    "label": "ORG",
+    "text": "Brevet",
+    "jalons": [
+      153,
+      159
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "V^e",
+    "jalons": [
+      178,
+      181
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Décision",
+    "jalons": [
+      185,
+      193
+    ]
+  },
+  "entite_8": {
+    "label": "ORG",
+    "text": "Conseil",
+    "jalons": [
+      197,
+      204
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "Dépêche",
+    "jalons": [
+      285,
+      292
+    ]
+  },
+  "entite_10": {
+    "label": "ORG",
+    "text": "Procédure",
+    "jalons": [
+      343,
+      352
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "S^r",
+    "jalons": [
+      369,
+      372
+    ]
+  },
+  "entite_12": {
+    "label": "PER",
+    "text": "Thomy",
+    "jalons": [
+      402,
+      407
+    ]
+  }
+}

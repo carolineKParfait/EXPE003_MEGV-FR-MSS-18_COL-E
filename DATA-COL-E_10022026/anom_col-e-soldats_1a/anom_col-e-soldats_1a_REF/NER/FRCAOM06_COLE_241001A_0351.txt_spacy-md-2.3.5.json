@@ -1,0 +1,354 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Adert",
+    "jalons": [
+      0,
+      5
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "Pierre",
+    "jalons": [
+      6,
+      12
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Procès Criminel",
+    "jalons": [
+      13,
+      28
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Cejourd&#x27;huy",
+    "jalons": [
+      57,
+      73
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Louis Gabriel Casamajor",
+    "jalons": [
+      154,
+      177
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Capitaine",
+    "jalons": [
+      178,
+      187
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Régiment du Cap fésant fonctions d&#x27;aide major",
+    "jalons": [
+      191,
+      241
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Roy",
+    "jalons": [
+      250,
+      253
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Joseph Cazac Fouries",
+    "jalons": [
+      281,
+      301
+    ]
+  },
+  "entite_9": {
+    "label": "ORG",
+    "text": "Régiment fésant fonctions",
+    "jalons": [
+      308,
+      333
+    ]
+  },
+  "entite_10": {
+    "label": "ORG",
+    "text": "Nous",
+    "jalons": [
+      353,
+      357
+    ]
+  },
+  "entite_11": {
+    "label": "ORG",
+    "text": "La Compagnie de Dupuy",
+    "jalons": [
+      420,
+      441
+    ]
+  },
+  "entite_12": {
+    "label": "ORG",
+    "text": "Régiment du Cap",
+    "jalons": [
+      445,
+      460
+    ]
+  },
+  "entite_13": {
+    "label": "ORG",
+    "text": "Ladite Compagnie Le Trois",
+    "jalons": [
+      492,
+      517
+    ]
+  },
+  "entite_14": {
+    "label": "MISC",
+    "text": "Capture",
+    "jalons": [
+      601,
+      608
+    ]
+  },
+  "entite_15": {
+    "label": "PER",
+    "text": "L&#x27;officier",
+    "jalons": [
+      612,
+      627
+    ]
+  },
+  "entite_16": {
+    "label": "ORG",
+    "text": "Conduit",
+    "jalons": [
+      685,
+      692
+    ]
+  },
+  "entite_17": {
+    "label": "ORG",
+    "text": "Prisons",
+    "jalons": [
+      697,
+      704
+    ]
+  },
+  "entite_18": {
+    "label": "ORG",
+    "text": "Cazernes de Cette Ville",
+    "jalons": [
+      709,
+      732
+    ]
+  },
+  "entite_19": {
+    "label": "MISC",
+    "text": "Réquête",
+    "jalons": [
+      776,
+      783
+    ]
+  },
+  "entite_20": {
+    "label": "PER",
+    "text": "Comm&#x27;il",
+    "jalons": [
+      835,
+      847
+    ]
+  },
+  "entite_21": {
+    "label": "MISC",
+    "text": "s&#x27;en",
+    "jalons": [
+      848,
+      857
+    ]
+  },
+  "entite_22": {
+    "label": "ORG",
+    "text": "Prémier Témoin",
+    "jalons": [
+      879,
+      893
+    ]
+  },
+  "entite_23": {
+    "label": "LOC",
+    "text": "Nommé",
+    "jalons": [
+      914,
+      919
+    ]
+  },
+  "entite_24": {
+    "label": "PER",
+    "text": "Jean Baptiste Monsay",
+    "jalons": [
+      920,
+      940
+    ]
+  },
+  "entite_25": {
+    "label": "MISC",
+    "text": "Sergent",
+    "jalons": [
+      941,
+      948
+    ]
+  },
+  "entite_26": {
+    "label": "ORG",
+    "text": "La Compagnie de Dupuy",
+    "jalons": [
+      952,
+      973
+    ]
+  },
+  "entite_27": {
+    "label": "ORG",
+    "text": "Régiment du Cap",
+    "jalons": [
+      977,
+      992
+    ]
+  },
+  "entite_28": {
+    "label": "PER",
+    "text": "Réligion Catholique apostolique &amp",
+    "jalons": [
+      996,
+      1032
+    ]
+  },
+  "entite_29": {
+    "label": "PER",
+    "text": "Romaine",
+    "jalons": [
+      1034,
+      1041
+    ]
+  },
+  "entite_30": {
+    "label": "MISC",
+    "text": "Verité",
+    "jalons": [
+      1089,
+      1095
+    ]
+  },
+  "entite_31": {
+    "label": "PER",
+    "text": "Contre Lé",
+    "jalons": [
+      1125,
+      1134
+    ]
+  },
+  "entite_32": {
+    "label": "PER",
+    "text": "Pierre Adert",
+    "jalons": [
+      1141,
+      1153
+    ]
+  },
+  "entite_33": {
+    "label": "LOC",
+    "text": "Luy",
+    "jalons": [
+      1164,
+      1167
+    ]
+  },
+  "entite_34": {
+    "label": "MISC",
+    "text": "Fait Lecture",
+    "jalons": [
+      1174,
+      1186
+    ]
+  },
+  "entite_35": {
+    "label": "PER",
+    "text": "Adert",
+    "jalons": [
+      1231,
+      1236
+    ]
+  },
+  "entite_36": {
+    "label": "ORG",
+    "text": "Compagnie de Dupuy",
+    "jalons": [
+      1265,
+      1283
+    ]
+  },
+  "entite_37": {
+    "label": "MISC",
+    "text": "Régiment du Cap",
+    "jalons": [
+      1287,
+      1302
+    ]
+  },
+  "entite_38": {
+    "label": "LOC",
+    "text": "Service",
+    "jalons": [
+      1354,
+      1361
+    ]
+  },
+  "entite_39": {
+    "label": "LOC",
+    "text": "Revüe",
+    "jalons": [
+      1375,
+      1380
+    ]
+  },
+  "entite_40": {
+    "label": "LOC",
+    "text": "Compagne",
+    "jalons": [
+      1415,
+      1423
+    ]
+  },
+  "entite_41": {
+    "label": "LOC",
+    "text": "Luy",
+    "jalons": [
+      1563,
+      1566
+    ]
+  },
+  "entite_42": {
+    "label": "PER",
+    "text": "s&#x27;il",
+    "jalons": [
+      1581,
+      1590
+    ]
+  },
+  "entite_43": {
+    "label": "PER",
+    "text": "Pourquoy",
+    "jalons": [
+      1596,
+      1604
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "Medecin",
+    "jalons": [
+      63,
+      70
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Officier",
+    "jalons": [
+      80,
+      88
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Maisons",
+    "jalons": [
+      360,
+      367
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "D&#39;abord",
+    "jalons": [
+      430,
+      441
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "L&#39;hopital",
+    "jalons": [
+      462,
+      475
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "M",
+    "jalons": [
+      531,
+      532
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Grandville",
+    "jalons": [
+      539,
+      549
+    ]
+  }
+}

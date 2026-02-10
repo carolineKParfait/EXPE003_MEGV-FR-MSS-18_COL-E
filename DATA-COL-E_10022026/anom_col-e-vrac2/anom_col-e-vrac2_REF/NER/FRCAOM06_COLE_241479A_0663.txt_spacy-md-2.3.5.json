@@ -1,0 +1,266 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "sentence",
+    "jalons": [
+      0,
+      8
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "R. B. fourchus",
+    "jalons": [
+      25,
+      39
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Et",
+    "jalons": [
+      76,
+      78
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Bans",
+    "jalons": [
+      92,
+      96
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Requisition",
+    "jalons": [
+      110,
+      121
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Justice",
+    "jalons": [
+      143,
+      150
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Heussay",
+    "jalons": [
+      157,
+      164
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Procureur du Roy",
+    "jalons": [
+      185,
+      201
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Signé P. Romain–",
+    "jalons": [
+      234,
+      250
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "Veu",
+    "jalons": [
+      251,
+      254
+    ]
+  },
+  "entite_10": {
+    "label": "MISC",
+    "text": "Requeste",
+    "jalons": [
+      267,
+      275
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "le Roy",
+    "jalons": [
+      333,
+      339
+    ]
+  },
+  "entite_12": {
+    "label": "MISC",
+    "text": "Conformement",
+    "jalons": [
+      344,
+      356
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "Sentence",
+    "jalons": [
+      364,
+      372
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "Reverend Pere Curé du Lieux",
+    "jalons": [
+      407,
+      434
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "Bans de la Suppliante",
+    "jalons": [
+      469,
+      490
+    ]
+  },
+  "entite_16": {
+    "label": "LOC",
+    "text": "Signé",
+    "jalons": [
+      540,
+      545
+    ]
+  },
+  "entite_17": {
+    "label": "LOC",
+    "text": "Veu",
+    "jalons": [
+      556,
+      559
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "Vingz",
+    "jalons": [
+      575,
+      580
+    ]
+  },
+  "entite_19": {
+    "label": "MISC",
+    "text": "Conformement",
+    "jalons": [
+      597,
+      609
+    ]
+  },
+  "entite_20": {
+    "label": "PER",
+    "text": "Requisitoire",
+    "jalons": [
+      613,
+      625
+    ]
+  },
+  "entite_21": {
+    "label": "LOC",
+    "text": "Bans",
+    "jalons": [
+      704,
+      708
+    ]
+  },
+  "entite_22": {
+    "label": "MISC",
+    "text": "Celebration",
+    "jalons": [
+      748,
+      759
+    ]
+  },
+  "entite_23": {
+    "label": "MISC",
+    "text": "Sentence",
+    "jalons": [
+      788,
+      796
+    ]
+  },
+  "entite_24": {
+    "label": "MISC",
+    "text": "S^t",
+    "jalons": [
+      799,
+      802
+    ]
+  },
+  "entite_25": {
+    "label": "PER",
+    "text": "Romain–",
+    "jalons": [
+      836,
+      843
+    ]
+  },
+  "entite_26": {
+    "label": "LOC",
+    "text": "Collationné",
+    "jalons": [
+      844,
+      855
+    ]
+  },
+  "entite_27": {
+    "label": "PER",
+    "text": "representé–",
+    "jalons": [
+      874,
+      885
+    ]
+  },
+  "entite_28": {
+    "label": "PER",
+    "text": "moy Notaire Royal",
+    "jalons": [
+      936,
+      953
+    ]
+  },
+  "entite_29": {
+    "label": "ORG",
+    "text": "l&#x27;Isle martinique",
+    "jalons": [
+      957,
+      979
+    ]
+  },
+  "entite_30": {
+    "label": "LOC",
+    "text": "bourg saint Pierre soussigné–",
+    "jalons": [
+      992,
+      1021
+    ]
+  },
+  "entite_31": {
+    "label": "LOC",
+    "text": "Vacquin",
+    "jalons": [
+      1060,
+      1067
+    ]
+  },
+  "entite_32": {
+    "label": "PER",
+    "text": "no^re Royal",
+    "jalons": [
+      1068,
+      1079
+    ]
+  }
+}

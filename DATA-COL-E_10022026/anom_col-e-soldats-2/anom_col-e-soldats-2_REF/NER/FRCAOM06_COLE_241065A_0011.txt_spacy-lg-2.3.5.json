@@ -1,0 +1,82 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Cabaret",
+    "jalons": [
+      15,
+      22
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "N^e Cabaret",
+    "jalons": [
+      45,
+      56
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "R",
+    "jalons": [
+      58,
+      59
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      85,
+      96
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Les Parens",
+    "jalons": [
+      108,
+      118
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "N^e Cabaret",
+    "jalons": [
+      122,
+      133
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Reg^t",
+    "jalons": [
+      144,
+      149
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "M^e",
+    "jalons": [
+      215,
+      218
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Agobert",
+    "jalons": [
+      219,
+      226
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Genlich",
+    "jalons": [
+      371,
+      378
+    ]
+  }
+}

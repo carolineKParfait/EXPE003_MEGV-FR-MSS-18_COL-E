@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "ORG",
+    "text": "DLC",
+    "jalons": [
+      2,
+      5
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Monséigneur",
+    "jalons": [
+      6,
+      17
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "L. R. n^e",
+    "jalons": [
+      21,
+      30
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "josse",
+    "jalons": [
+      399,
+      404
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Egard",
+    "jalons": [
+      455,
+      460
+    ]
+  }
+}

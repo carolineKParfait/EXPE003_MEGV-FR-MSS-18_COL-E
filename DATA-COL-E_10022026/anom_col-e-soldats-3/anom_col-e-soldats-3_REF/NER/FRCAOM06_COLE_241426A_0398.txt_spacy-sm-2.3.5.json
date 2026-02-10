@@ -1,0 +1,34 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Arnold Lemius",
+    "jalons": [
+      15,
+      28
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "Anc",
+    "jalons": [
+      30,
+      33
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "d&#x27;Inf^ie",
+    "jalons": [
+      42,
+      55
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Cap^ne",
+    "jalons": [
+      57,
+      63
+    ]
+  }
+}

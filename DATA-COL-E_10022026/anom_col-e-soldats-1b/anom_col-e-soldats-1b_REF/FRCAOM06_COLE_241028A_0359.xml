@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>FRCAOM06_COLE_241028A_0359.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="QZ7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="QZ8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="QZ9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="QZ10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="QZ11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="QZ12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="QZ13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="QZ14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="QZ15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="QZ17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="QZ18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="QZ19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="QZ20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="QZ21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="QZ22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3072"
+          HEIGHT="3424"
+          PHYSICAL_IMG_NR="96"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3072"
+                  HEIGHT="3424">
+        <TextBlock HPOS="644"
+                   VPOS="551"
+                   WIDTH="1770"
+                   HEIGHT="787"
+                   ID="eSc_textblock_eba89ace"
+                   TAGREFS="QZ12">
+          <Shape><Polygon POINTS="644 551 644 1324 2414 1338 2414 551"/></Shape>
+          <TextLine ID="eSc_line_51d0cf07"
+                    TAGREFS="LT8"
+                    BASELINE="841 760 1326 783 1343 785 1878 791" 
+                    HPOS="836"
+                    VPOS="667"
+                    WIDTH="1039"
+                    HEIGHT="189">
+            <Shape><Polygon POINTS="839 758 836 790 933 836 1024 836 1024 833 1076 807 1102 821 1110 821 1161 798 1350 844 1447 830 1447 827 1473 807 1581 827 1664 810 1718 816 1767 856 1778 856 1872 813 1875 790 1875 701 1827 699 1787 730 1772 719 1661 730 1630 701 1624 699 1624 696 1458 681 1361 724 1187 721 1170 704 1153 704 1079 716 1010 670 905 667 905 670 865 707 859 710 839 707 839 758"/></Shape>
+            <String CONTENT="Béguinot (Antoine)"
+                    HPOS="836"
+                    VPOS="667"
+                    WIDTH="1039"
+                    HEIGHT="189"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_111de423"
+                    TAGREFS="LT8"
+                    BASELINE="761 914 1817 964 1874 964 2304 972" 
+                    HPOS="756"
+                    VPOS="853"
+                    WIDTH="1548"
+                    HEIGHT="171">
+            <Shape><Polygon POINTS="759 913 756 941 879 967 1079 953 1147 978 1239 981 1284 961 1358 987 1367 987 1401 972 1447 990 1458 990 1487 972 1561 990 1601 975 1650 998 1732 981 1824 1007 1832 1007 1892 987 1969 1012 2072 998 2092 1015 2092 1018 2104 1018 2161 1001 2175 1021 2184 1024 2298 1024 2304 970 2298 910 2186 930 2121 898 2032 898 2009 915 1932 913 1915 893 1901 893 1861 915 1715 913 1698 893 1687 893 1647 907 1621 884 1621 881 1507 901 1341 875 1241 881 1170 858 1059 878 990 853 759 853 759 913"/></Shape>
+            <String CONTENT="soldat du dépôt des colonies à l&#x27;île de Ré"
+                    HPOS="756"
+                    VPOS="853"
+                    WIDTH="1548"
+                    HEIGHT="171"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_39cb5696"
+                    TAGREFS="LT8"
+                    BASELINE="1168 1048 1574 1057" 
+                    HPOS="1166"
+                    VPOS="1000"
+                    WIDTH="408"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="1168 1048 1166 1070 1193 1080 1195 1080 1197 1080 1332 1078 1368 1078 1376 1080 1408 1093 1410 1093 1412 1095 1457 1095 1457 1093 1459 1093 1461 1093 1461 1091 1469 1086 1473 1082 1478 1086 1490 1095 1492 1095 1494 1095 1496 1095 1572 1089 1574 1057 1572 1027 1463 1025 1454 1019 1433 1008 1431 1008 1429 1008 1381 1015 1332 1023 1284 1010 1252 1000 1250 1000 1248 1000 1168 1002 1168 1048"/></Shape>
+            <String CONTENT="deserteur"
+                    HPOS="1166"
+                    VPOS="1000"
+                    WIDTH="408"
+                    HEIGHT="95"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_69d42ea5"
+                    BASELINE="1237 1197 1485 1193" 
+                    HPOS="1233"
+                    VPOS="1132"
+                    WIDTH="251"
+                    HEIGHT="140">
+            <Shape><Polygon POINTS="1236 1195 1236 1238 1284 1238 1287 1241 1333 1269 1336 1269 1339 1269 1341 1272 1396 1272 1396 1269 1398 1269 1401 1269 1444 1235 1447 1235 1484 1235 1484 1192 1478 1147 1304 1132 1301 1132 1233 1147 1236 1195"/></Shape>
+            <String CONTENT="1775"
+                    HPOS="1233"
+                    VPOS="1132"
+                    WIDTH="251"
+                    HEIGHT="140"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>FRCAOM06_COLE_241351A_0036.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="QZ7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="QZ8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="QZ9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="QZ10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="QZ11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="QZ12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="QZ13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="QZ14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="QZ15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="QZ17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="QZ18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="QZ19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="QZ20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="QZ21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="QZ22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="1927"
+          HEIGHT="2868"
+          PHYSICAL_IMG_NR="10"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1927"
+                  HEIGHT="2868">
+        <TextBlock HPOS="152"
+                   VPOS="636"
+                   WIDTH="1531"
+                   HEIGHT="620"
+                   ID="eSc_textblock_d904849f"
+                   TAGREFS="QZ12">
+          <Shape><Polygon POINTS="152 636 152 1256 1683 1256 1683 636"/></Shape>
+          <TextLine ID="eSc_line_b03fc066"
+                    TAGREFS="LT8"
+                    BASELINE="208 785 1077 812" 
+                    HPOS="203"
+                    VPOS="669"
+                    WIDTH="875"
+                    HEIGHT="186">
+            <Shape><Polygon POINTS="203 807 301 836 303 836 306 836 408 819 470 836 473 836 475 836 478 836 514 819 678 848 681 848 832 829 863 850 865 850 867 850 975 855 977 855 1073 834 1075 810 1078 712 1032 676 1030 676 1028 676 848 669 846 669 767 673 765 673 762 673 712 705 686 719 595 719 571 702 525 669 523 669 521 669 518 669 449 683 447 683 444 683 425 697 401 712 229 709 212 693 205 783 203 807"/></Shape>
+            <String CONTENT="Julien (Pierre),"
+                    HPOS="203"
+                    VPOS="669"
+                    WIDTH="875"
+                    HEIGHT="186"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_01d38372"
+                    TAGREFS="LT8"
+                    BASELINE="204 941 688 959 1603 963" 
+                    HPOS="202"
+                    VPOS="893"
+                    WIDTH="1401"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="204 941 202 959 307 960 309 962 368 979 369 979 371 979 455 965 463 963 471 965 510 975 511 975 513 975 514 975 537 965 540 965 640 965 648 968 678 984 680 984 682 984 729 976 753 984 755 984 997 986 999 986 1043 976 1069 970 1085 976 1115 989 1117 989 1216 991 1217 991 1273 979 1286 978 1314 981 1350 984 1351 984 1353 984 1359 981 1377 975 1415 983 1469 994 1471 994 1531 984 1579 978 1598 986 1603 963 1603 936 1538 935 1538 933 1488 914 1487 914 1485 914 1407 922 1375 909 1373 909 1372 909 1324 920 1299 905 1297 905 1295 905 1203 905 1201 905 1200 905 1198 905 1169 922 1144 924 1079 928 1051 920 997 906 996 906 994 906 941 919 911 927 808 927 717 912 669 906 667 906 666 906 648 911 604 922 565 912 564 912 562 912 444 919 408 905 380 893 379 893 377 893 204 898 204 941"/></Shape>
+            <String CONTENT="Chasseur au regiment de la Martinique"
+                    HPOS="202"
+                    VPOS="893"
+                    WIDTH="1401"
+                    HEIGHT="101"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_f0016b96"
+                    TAGREFS="LT8"
+                    BASELINE="498 1081 884 1088" 
+                    HPOS="497"
+                    VPOS="1027"
+                    WIDTH="387"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="498 1081 497 1107 545 1110 546 1110 548 1110 562 1107 592 1099 612 1107 626 1112 627 1112 629 1112 631 1112 653 1105 671 1100 677 1105 688 1113 690 1113 691 1113 693 1115 737 1115 737 1113 816 1104 819 1104 836 1115 838 1115 839 1115 841 1115 843 1115 883 1102 884 1088 883 1053 841 1043 839 1043 838 1043 836 1043 824 1051 820 1053 744 1053 741 1050 704 1030 702 1030 596 1027 594 1027 498 1046 498 1081"/></Shape>
+            <String CONTENT="déserteur"
+                    HPOS="497"
+                    VPOS="1027"
+                    WIDTH="387"
+                    HEIGHT="88"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_4f26a469"
+                    TAGREFS="LT8"
+                    BASELINE="700 1228 953 1230" 
+                    HPOS="695"
+                    VPOS="1137"
+                    WIDTH="256"
+                    HEIGHT="146">
+            <Shape><Polygon POINTS="698 1226 695 1249 743 1257 767 1278 767 1281 769 1281 772 1281 774 1283 870 1283 870 1281 872 1281 949 1252 951 1228 944 1137 922 1151 896 1142 882 1137 879 1137 877 1137 698 1159 698 1226"/></Shape>
+            <String CONTENT="1780"
+                    HPOS="695"
+                    VPOS="1137"
+                    WIDTH="256"
+                    HEIGHT="146"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

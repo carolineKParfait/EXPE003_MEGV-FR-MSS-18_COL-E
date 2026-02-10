@@ -1,0 +1,90 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "S^t",
+    "jalons": [
+      3,
+      6
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Martinque",
+    "jalons": [
+      122,
+      131
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "labonté",
+    "jalons": [
+      161,
+      169
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "Compagnie",
+    "jalons": [
+      181,
+      190
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "memt",
+    "jalons": [
+      230,
+      234
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Roy",
+    "jalons": [
+      248,
+      251
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Jeluis",
+    "jalons": [
+      351,
+      357
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "ue",
+    "jalons": [
+      363,
+      365
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      382,
+      393
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Rochefort",
+    "jalons": [
+      396,
+      405
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Karrer",
+    "jalons": [
+      473,
+      479
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Général",
+    "jalons": [
+      22,
+      29
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "ordonnée–",
+    "jalons": [
+      229,
+      238
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Surcharge",
+    "jalons": [
+      273,
+      282
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "V^e",
+    "jalons": [
+      337,
+      340
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Beuns–",
+    "jalons": [
+      341,
+      347
+    ]
+  },
+  "entite_5": {
+    "label": "ORG",
+    "text": "Notaire",
+    "jalons": [
+      675,
+      682
+    ]
+  }
+}

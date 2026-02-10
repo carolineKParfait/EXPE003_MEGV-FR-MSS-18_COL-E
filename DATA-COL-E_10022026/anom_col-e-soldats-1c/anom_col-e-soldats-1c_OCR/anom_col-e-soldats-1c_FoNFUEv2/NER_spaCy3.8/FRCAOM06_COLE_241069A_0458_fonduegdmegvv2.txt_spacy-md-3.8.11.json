@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Cassée",
+    "jalons": [
+      13,
+      20
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "jusqu&#39;à",
+    "jalons": [
+      22,
+      34
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Conformement",
+    "jalons": [
+      57,
+      69
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Rigneu",
+    "jalons": [
+      75,
+      81
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Cap",
+    "jalons": [
+      123,
+      126
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Minutte",
+    "jalons": [
+      179,
+      186
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Vradelle",
+    "jalons": [
+      237,
+      245
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Lereginel",
+    "jalons": [
+      272,
+      281
+    ]
+  }
+}

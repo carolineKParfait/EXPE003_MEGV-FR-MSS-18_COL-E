@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Duparc",
+    "jalons": [
+      0,
+      6
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Jean-Pierre",
+    "jalons": [
+      8,
+      19
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Lieutenant",
+    "jalons": [
+      21,
+      31
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Karrer",
+    "jalons": [
+      54,
+      60
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "martinique",
+    "jalons": [
+      66,
+      76
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Antoine",
+    "jalons": [
+      95,
+      102
+    ]
+  }
+}

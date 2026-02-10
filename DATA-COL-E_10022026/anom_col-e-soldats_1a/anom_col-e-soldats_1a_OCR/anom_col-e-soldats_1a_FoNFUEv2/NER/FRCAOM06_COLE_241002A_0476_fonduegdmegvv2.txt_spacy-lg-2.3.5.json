@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Grandville",
+    "jalons": [
+      6,
+      16
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "Nous sommes avec",
+    "jalons": [
+      85,
+      101
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Monseigneur Vos",
+    "jalons": [
+      111,
+      126
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Obrissans",
+    "jalons": [
+      150,
+      159
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Le C^te de Vaudreuil",
+    "jalons": [
+      171,
+      191
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Gandville",
+    "jalons": [
+      198,
+      207
+    ]
+  }
+}

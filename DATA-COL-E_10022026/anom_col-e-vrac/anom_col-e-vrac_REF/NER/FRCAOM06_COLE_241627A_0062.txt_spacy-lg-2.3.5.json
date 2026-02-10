@@ -1,0 +1,154 @@
+{
+  "entite_0": {
+    "label": "ORG",
+    "text": "⟦juge Royal",
+    "jalons": [
+      0,
+      11
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "⟦dit janson",
+    "jalons": [
+      50,
+      61
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "janson.⟧",
+    "jalons": [
+      142,
+      150
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "Dupuy.⟧",
+    "jalons": [
+      219,
+      226
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "procureur⟧",
+    "jalons": [
+      349,
+      359
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "⟦fiscal",
+    "jalons": [
+      360,
+      367
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "⟦acord Renduë",
+    "jalons": [
+      404,
+      417
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "juge⟧",
+    "jalons": [
+      439,
+      444
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "⟦Royal",
+    "jalons": [
+      445,
+      451
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "En datte du vingt sept⟧\n",
+    "jalons": [
+      468,
+      492
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "procés⟧",
+    "jalons": [
+      535,
+      542
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "⟦dudit janson",
+    "jalons": [
+      543,
+      556
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "Etre",
+    "jalons": [
+      564,
+      568
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "En⟧",
+    "jalons": [
+      580,
+      583
+    ]
+  },
+  "entite_14": {
+    "label": "MISC",
+    "text": "DEcopin.⟧",
+    "jalons": [
+      662,
+      671
+    ]
+  },
+  "entite_15": {
+    "label": "ORG",
+    "text": "N^a",
+    "jalons": [
+      672,
+      675
+    ]
+  },
+  "entite_16": {
+    "label": "LOC",
+    "text": "Est Battonné cy dessus",
+    "jalons": [
+      683,
+      705
+    ]
+  },
+  "entite_17": {
+    "label": "LOC",
+    "text": "Battonné",
+    "jalons": [
+      720,
+      728
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "Collationné",
+    "jalons": [
+      766,
+      777
+    ]
+  }
+}

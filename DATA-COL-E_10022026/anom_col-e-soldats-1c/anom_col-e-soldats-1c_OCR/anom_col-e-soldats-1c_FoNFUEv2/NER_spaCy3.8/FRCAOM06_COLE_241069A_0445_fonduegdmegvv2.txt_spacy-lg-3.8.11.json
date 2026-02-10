@@ -1,0 +1,58 @@
+{
+  "entite_0": {
+    "label": "ORG",
+    "text": "id",
+    "jalons": [
+      12,
+      14
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "Fladit",
+    "jalons": [
+      38,
+      44
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Monter",
+    "jalons": [
+      92,
+      98
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Luy",
+    "jalons": [
+      290,
+      293
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Connoissance",
+    "jalons": [
+      331,
+      343
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Rassis",
+    "jalons": [
+      488,
+      494
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Lecture",
+    "jalons": [
+      539,
+      546
+    ]
+  }
+}

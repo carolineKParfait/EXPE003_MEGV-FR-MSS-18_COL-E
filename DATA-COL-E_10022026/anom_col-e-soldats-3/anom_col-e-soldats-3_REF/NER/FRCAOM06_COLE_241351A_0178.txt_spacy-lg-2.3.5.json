@@ -1,0 +1,362 @@
+{
+  "entite_0": {
+    "label": "ORG",
+    "text": "Etat des Batiments Anglois",
+    "jalons": [
+      0,
+      26
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "M^r",
+    "jalons": [
+      31,
+      34
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Dejujardy",
+    "jalons": [
+      39,
+      48
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Ports",
+    "jalons": [
+      81,
+      86
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Colonie",
+    "jalons": [
+      93,
+      100
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Messieurs",
+    "jalons": [
+      123,
+      132
+    ]
+  },
+  "entite_6": {
+    "label": "ORG",
+    "text": "General",
+    "jalons": [
+      138,
+      145
+    ]
+  },
+  "entite_7": {
+    "label": "ORG",
+    "text": "Intendant d&#x27;apres la Permission qu&#x27;il",
+    "jalons": [
+      149,
+      196
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Sa Majesté",
+    "jalons": [
+      213,
+      223
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Terray Ministre de la Marine",
+    "jalons": [
+      276,
+      304
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "18 Mars",
+    "jalons": [
+      308,
+      315
+    ]
+  },
+  "entite_11": {
+    "label": "MISC",
+    "text": "15 Juin 1772",
+    "jalons": [
+      325,
+      337
+    ]
+  },
+  "entite_12": {
+    "label": "ORG",
+    "text": "Junon Cap^e James",
+    "jalons": [
+      375,
+      392
+    ]
+  },
+  "entite_13": {
+    "label": "PER",
+    "text": "Warden",
+    "jalons": [
+      393,
+      399
+    ]
+  },
+  "entite_14": {
+    "label": "ORG",
+    "text": "M^r Dejujardy",
+    "jalons": [
+      445,
+      458
+    ]
+  },
+  "entite_15": {
+    "label": "MISC",
+    "text": "Scavoir",
+    "jalons": [
+      460,
+      467
+    ]
+  },
+  "entite_16": {
+    "label": "LOC",
+    "text": "Essentes d^t",
+    "jalons": [
+      477,
+      489
+    ]
+  },
+  "entite_17": {
+    "label": "LOC",
+    "text": "Milliers d&#x27;Essentes",
+    "jalons": [
+      538,
+      562
+    ]
+  },
+  "entite_18": {
+    "label": "PER",
+    "text": "Idem Cy",
+    "jalons": [
+      572,
+      579
+    ]
+  },
+  "entite_19": {
+    "label": "PER",
+    "text": "Barils de Harang",
+    "jalons": [
+      651,
+      667
+    ]
+  },
+  "entite_20": {
+    "label": "ORG",
+    "text": "Caisses de Morue Verte",
+    "jalons": [
+      711,
+      733
+    ]
+  },
+  "entite_21": {
+    "label": "ORG",
+    "text": "Caisse",
+    "jalons": [
+      744,
+      750
+    ]
+  },
+  "entite_22": {
+    "label": "LOC",
+    "text": "Paniers",
+    "jalons": [
+      768,
+      775
+    ]
+  },
+  "entite_23": {
+    "label": "LOC",
+    "text": "Biere Bristol",
+    "jalons": [
+      779,
+      792
+    ]
+  },
+  "entite_24": {
+    "label": "LOC",
+    "text": "Panier",
+    "jalons": [
+      804,
+      810
+    ]
+  },
+  "entite_25": {
+    "label": "ORG",
+    "text": "Cydre meme",
+    "jalons": [
+      834,
+      844
+    ]
+  },
+  "entite_26": {
+    "label": "LOC",
+    "text": "Moulins",
+    "jalons": [
+      867,
+      874
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "Caffé",
+    "jalons": [
+      877,
+      882
+    ]
+  },
+  "entite_28": {
+    "label": "MISC",
+    "text": "Cargaison de la Goelette",
+    "jalons": [
+      941,
+      965
+    ]
+  },
+  "entite_29": {
+    "label": "LOC",
+    "text": "Boston",
+    "jalons": [
+      982,
+      988
+    ]
+  },
+  "entite_30": {
+    "label": "PER",
+    "text": "abraham Parsan",
+    "jalons": [
+      1016,
+      1030
+    ]
+  },
+  "entite_31": {
+    "label": "MISC",
+    "text": "Compte",
+    "jalons": [
+      1046,
+      1052
+    ]
+  },
+  "entite_32": {
+    "label": "PER",
+    "text": "M^r Dejujardy",
+    "jalons": [
+      1056,
+      1069
+    ]
+  },
+  "entite_33": {
+    "label": "MISC",
+    "text": "Scavoir",
+    "jalons": [
+      1070,
+      1077
+    ]
+  },
+  "entite_34": {
+    "label": "MISC",
+    "text": "Milliers de Planches",
+    "jalons": [
+      1128,
+      1148
+    ]
+  },
+  "entite_35": {
+    "label": "LOC",
+    "text": "Sap Blanc",
+    "jalons": [
+      1152,
+      1161
+    ]
+  },
+  "entite_36": {
+    "label": "LOC",
+    "text": "Milliers d&#x27;Essentes",
+    "jalons": [
+      1194,
+      1218
+    ]
+  },
+  "entite_37": {
+    "label": "LOC",
+    "text": "Carg^on",
+    "jalons": [
+      1277,
+      1284
+    ]
+  },
+  "entite_38": {
+    "label": "ORG",
+    "text": "Goelette L&#x27;amitié",
+    "jalons": [
+      1291,
+      1313
+    ]
+  },
+  "entite_39": {
+    "label": "PER",
+    "text": "Samuel Davier",
+    "jalons": [
+      1320,
+      1333
+    ]
+  },
+  "entite_40": {
+    "label": "LOC",
+    "text": "La virginie Chargée Pour le Compte",
+    "jalons": [
+      1337,
+      1371
+    ]
+  },
+  "entite_41": {
+    "label": "PER",
+    "text": "M^r Dejujardy",
+    "jalons": [
+      1375,
+      1388
+    ]
+  },
+  "entite_42": {
+    "label": "MISC",
+    "text": "Scavoir",
+    "jalons": [
+      1389,
+      1396
+    ]
+  },
+  "entite_43": {
+    "label": "MISC",
+    "text": "30000 Pieds de Bois",
+    "jalons": [
+      1397,
+      1416
+    ]
+  },
+  "entite_44": {
+    "label": "LOC",
+    "text": "Essentes",
+    "jalons": [
+      1447,
+      1455
+    ]
+  }
+}

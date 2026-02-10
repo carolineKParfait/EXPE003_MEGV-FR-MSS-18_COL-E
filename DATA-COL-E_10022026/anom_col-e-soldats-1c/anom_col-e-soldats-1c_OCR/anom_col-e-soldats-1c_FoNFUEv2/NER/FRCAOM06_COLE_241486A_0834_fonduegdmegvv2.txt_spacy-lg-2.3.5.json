@@ -1,0 +1,314 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "dre ponoil hetre ny",
+    "jalons": [
+      0,
+      19
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "Interrogé",
+    "jalons": [
+      39,
+      49
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Dumas",
+    "jalons": [
+      79,
+      84
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "accusé",
+    "jalons": [
+      89,
+      96
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Canme",
+    "jalons": [
+      100,
+      105
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Croit",
+    "jalons": [
+      134,
+      139
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Repondu",
+    "jalons": [
+      166,
+      173
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Interrogé",
+    "jalons": [
+      227,
+      237
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "Croire",
+    "jalons": [
+      267,
+      273
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Jean françois monpas",
+    "jalons": [
+      284,
+      305
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Dumas",
+    "jalons": [
+      310,
+      315
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "Repondu",
+    "jalons": [
+      335,
+      342
+    ]
+  },
+  "entite_12": {
+    "label": "PER",
+    "text": "Euadé",
+    "jalons": [
+      369,
+      375
+    ]
+  },
+  "entite_13": {
+    "label": "ORG",
+    "text": "Compagnie",
+    "jalons": [
+      382,
+      391
+    ]
+  },
+  "entite_14": {
+    "label": "ORG",
+    "text": "Depart",
+    "jalons": [
+      403,
+      409
+    ]
+  },
+  "entite_15": {
+    "label": "ORG",
+    "text": "Compaynie",
+    "jalons": [
+      421,
+      430
+    ]
+  },
+  "entite_16": {
+    "label": "ORG",
+    "text": "Compagnie n&#39;y paroitre",
+    "jalons": [
+      509,
+      535
+    ]
+  },
+  "entite_17": {
+    "label": "MISC",
+    "text": "Interrogé",
+    "jalons": [
+      591,
+      601
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "Connoissance",
+    "jalons": [
+      613,
+      625
+    ]
+  },
+  "entite_19": {
+    "label": "MISC",
+    "text": "Choses de son uinformé",
+    "jalons": [
+      674,
+      697
+    ]
+  },
+  "entite_20": {
+    "label": "PER",
+    "text": "Repondu",
+    "jalons": [
+      700,
+      707
+    ]
+  },
+  "entite_21": {
+    "label": "MISC",
+    "text": "accusé",
+    "jalons": [
+      756,
+      763
+    ]
+  },
+  "entite_22": {
+    "label": "MISC",
+    "text": "emporté",
+    "jalons": [
+      768,
+      776
+    ]
+  },
+  "entite_23": {
+    "label": "MISC",
+    "text": "Choses",
+    "jalons": [
+      795,
+      801
+    ]
+  },
+  "entite_24": {
+    "label": "MISC",
+    "text": "Interrogé",
+    "jalons": [
+      818,
+      828
+    ]
+  },
+  "entite_25": {
+    "label": "MISC",
+    "text": "accusé",
+    "jalons": [
+      867,
+      874
+    ]
+  },
+  "entite_26": {
+    "label": "MISC",
+    "text": "Compagnie de Coulons",
+    "jalons": [
+      892,
+      912
+    ]
+  },
+  "entite_27": {
+    "label": "PER",
+    "text": "Repondu",
+    "jalons": [
+      915,
+      922
+    ]
+  },
+  "entite_28": {
+    "label": "PER",
+    "text": "Jean françois Monpas",
+    "jalons": [
+      949,
+      970
+    ]
+  },
+  "entite_29": {
+    "label": "PER",
+    "text": "Dumas",
+    "jalons": [
+      975,
+      980
+    ]
+  },
+  "entite_30": {
+    "label": "MISC",
+    "text": "Incorporé",
+    "jalons": [
+      989,
+      999
+    ]
+  },
+  "entite_31": {
+    "label": "MISC",
+    "text": "Compagnie de Coulons",
+    "jalons": [
+      1014,
+      1034
+    ]
+  },
+  "entite_32": {
+    "label": "ORG",
+    "text": "Interrogé",
+    "jalons": [
+      1057,
+      1067
+    ]
+  },
+  "entite_33": {
+    "label": "PER",
+    "text": "Repondu",
+    "jalons": [
+      1141,
+      1148
+    ]
+  },
+  "entite_34": {
+    "label": "ORG",
+    "text": "Depart",
+    "jalons": [
+      1267,
+      1273
+    ]
+  },
+  "entite_35": {
+    "label": "ORG",
+    "text": "Compagnie du petis goacre",
+    "jalons": [
+      1285,
+      1310
+    ]
+  },
+  "entite_36": {
+    "label": "ORG",
+    "text": "Interrogé",
+    "jalons": [
+      1312,
+      1322
+    ]
+  },
+  "entite_37": {
+    "label": "LOC",
+    "text": "Connoissance",
+    "jalons": [
+      1334,
+      1346
+    ]
+  },
+  "entite_38": {
+    "label": "MISC",
+    "text": "Sept^e",
+    "jalons": [
+      1371,
+      1377
+    ]
+  }
+}

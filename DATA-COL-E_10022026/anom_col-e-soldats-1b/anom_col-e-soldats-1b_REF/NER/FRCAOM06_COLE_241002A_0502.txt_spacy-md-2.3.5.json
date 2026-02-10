@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "c&#x27;est",
+    "jalons": [
+      0,
+      10
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "francs",
+    "jalons": [
+      92,
+      98
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "l&#x27;an",
+    "jalons": [
+      117,
+      126
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Invalides",
+    "jalons": [
+      162,
+      171
+    ]
+  },
+  "entite_4": {
+    "label": "ORG",
+    "text": "Bureau des fonds",
+    "jalons": [
+      223,
+      239
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "C^n Bonpeur",
+    "jalons": [
+      360,
+      371
+    ]
+  }
+}

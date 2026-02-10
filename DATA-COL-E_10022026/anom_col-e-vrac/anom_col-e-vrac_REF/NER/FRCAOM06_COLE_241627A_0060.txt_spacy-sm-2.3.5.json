@@ -1,0 +1,434 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Route",
+    "jalons": [
+      8,
+      13
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "saint Louis",
+    "jalons": [
+      19,
+      30
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "qu&#x27;un",
+    "jalons": [
+      32,
+      42
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Elle Entendit",
+    "jalons": [
+      57,
+      70
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Cobert",
+    "jalons": [
+      153,
+      159
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Coutois",
+    "jalons": [
+      164,
+      171
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Thomy",
+    "jalons": [
+      255,
+      260
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Gillet",
+    "jalons": [
+      264,
+      270
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Gillet",
+    "jalons": [
+      282,
+      288
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "Coutois",
+    "jalons": [
+      309,
+      316
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Thomy",
+    "jalons": [
+      383,
+      388
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "Thomy",
+    "jalons": [
+      467,
+      472
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "Est",
+    "jalons": [
+      478,
+      481
+    ]
+  },
+  "entite_13": {
+    "label": "LOC",
+    "text": "Lecture",
+    "jalons": [
+      517,
+      524
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "Enquise",
+    "jalons": [
+      632,
+      639
+    ]
+  },
+  "entite_15": {
+    "label": "MISC",
+    "text": "DEcopin",
+    "jalons": [
+      766,
+      773
+    ]
+  },
+  "entite_16": {
+    "label": "LOC",
+    "text": "Casamajor",
+    "jalons": [
+      777,
+      786
+    ]
+  },
+  "entite_17": {
+    "label": "LOC",
+    "text": "Greffier",
+    "jalons": [
+      788,
+      796
+    ]
+  },
+  "entite_18": {
+    "label": "PER",
+    "text": "Catherine Cogre",
+    "jalons": [
+      860,
+      875
+    ]
+  },
+  "entite_19": {
+    "label": "PER",
+    "text": "Cobert",
+    "jalons": [
+      894,
+      900
+    ]
+  },
+  "entite_20": {
+    "label": "LOC",
+    "text": "Coutois",
+    "jalons": [
+      905,
+      912
+    ]
+  },
+  "entite_21": {
+    "label": "MISC",
+    "text": "Domestique des partis",
+    "jalons": [
+      1131,
+      1152
+    ]
+  },
+  "entite_22": {
+    "label": "LOC",
+    "text": "Graugé",
+    "jalons": [
+      1226,
+      1232
+    ]
+  },
+  "entite_23": {
+    "label": "PER",
+    "text": "jean Thomy",
+    "jalons": [
+      1331,
+      1341
+    ]
+  },
+  "entite_24": {
+    "label": "LOC",
+    "text": "Le\n",
+    "jalons": [
+      1343,
+      1346
+    ]
+  },
+  "entite_25": {
+    "label": "MISC",
+    "text": "En\nla plainte Et nouvelle requête dudit",
+    "jalons": [
+      1401,
+      1440
+    ]
+  },
+  "entite_26": {
+    "label": "PER",
+    "text": "jean\nThomy",
+    "jalons": [
+      1441,
+      1451
+    ]
+  },
+  "entite_27": {
+    "label": "PER",
+    "text": "Dimanche",
+    "jalons": [
+      1503,
+      1511
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "Etant assise",
+    "jalons": [
+      1571,
+      1583
+    ]
+  },
+  "entite_29": {
+    "label": "LOC",
+    "text": "Bois",
+    "jalons": [
+      1592,
+      1596
+    ]
+  },
+  "entite_30": {
+    "label": "PER",
+    "text": "Thomy",
+    "jalons": [
+      1688,
+      1693
+    ]
+  },
+  "entite_31": {
+    "label": "PER",
+    "text": "Gillet",
+    "jalons": [
+      1697,
+      1703
+    ]
+  },
+  "entite_32": {
+    "label": "ORG",
+    "text": "Riviere",
+    "jalons": [
+      1725,
+      1732
+    ]
+  },
+  "entite_33": {
+    "label": "PER",
+    "text": "Route",
+    "jalons": [
+      1751,
+      1756
+    ]
+  },
+  "entite_34": {
+    "label": "PER",
+    "text": "saint louis",
+    "jalons": [
+      1762,
+      1773
+    ]
+  },
+  "entite_35": {
+    "label": "MISC",
+    "text": "Cavalier",
+    "jalons": [
+      1809,
+      1817
+    ]
+  },
+  "entite_36": {
+    "label": "PER",
+    "text": "S^t Louis",
+    "jalons": [
+      1872,
+      1881
+    ]
+  },
+  "entite_37": {
+    "label": "MISC",
+    "text": "Remontre desdits Gillets Et Thomy",
+    "jalons": [
+      1895,
+      1928
+    ]
+  },
+  "entite_38": {
+    "label": "MISC",
+    "text": "Elle Entendit",
+    "jalons": [
+      1962,
+      1975
+    ]
+  },
+  "entite_39": {
+    "label": "MISC",
+    "text": "Coup de pistolet",
+    "jalons": [
+      1985,
+      2001
+    ]
+  },
+  "entite_40": {
+    "label": "MISC",
+    "text": "qu&#x27;Ensuite Elle\napperçut",
+    "jalons": [
+      2003,
+      2032
+    ]
+  },
+  "entite_41": {
+    "label": "PER",
+    "text": "Gillet",
+    "jalons": [
+      2041,
+      2047
+    ]
+  },
+  "entite_42": {
+    "label": "PER",
+    "text": "Thomy",
+    "jalons": [
+      2051,
+      2056
+    ]
+  },
+  "entite_43": {
+    "label": "PER",
+    "text": "S^t Louis",
+    "jalons": [
+      2083,
+      2092
+    ]
+  },
+  "entite_44": {
+    "label": "LOC",
+    "text": "qu&#x27;un",
+    "jalons": [
+      2104,
+      2114
+    ]
+  },
+  "entite_45": {
+    "label": "MISC",
+    "text": "Elle qui luy demanda",
+    "jalons": [
+      2166,
+      2186
+    ]
+  },
+  "entite_46": {
+    "label": "MISC",
+    "text": "Etoit",
+    "jalons": [
+      2190,
+      2195
+    ]
+  },
+  "entite_47": {
+    "label": "PER",
+    "text": "Coutois",
+    "jalons": [
+      2205,
+      2212
+    ]
+  },
+  "entite_48": {
+    "label": "PER",
+    "text": "qu&#x27;il Etoit",
+    "jalons": [
+      2245,
+      2261
+    ]
+  },
+  "entite_49": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      2267,
+      2273
+    ]
+  },
+  "entite_50": {
+    "label": "MISC",
+    "text": "qu&#x27;Ensuite Elle déposante –\n",
+    "jalons": [
+      2286,
+      2319
+    ]
+  },
+  "entite_51": {
+    "label": "MISC",
+    "text": "qu&#x27;il",
+    "jalons": [
+      2395,
+      2405
+    ]
+  },
+  "entite_52": {
+    "label": "PER",
+    "text": "Thomy",
+    "jalons": [
+      2440,
+      2445
+    ]
+  },
+  "entite_53": {
+    "label": "PER",
+    "text": "Thomy",
+    "jalons": [
+      2563,
+      2568
+    ]
+  }
+}

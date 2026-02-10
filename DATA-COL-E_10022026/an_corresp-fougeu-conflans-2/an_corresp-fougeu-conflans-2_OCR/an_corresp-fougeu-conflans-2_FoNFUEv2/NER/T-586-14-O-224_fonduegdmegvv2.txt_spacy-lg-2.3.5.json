@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Madame Cadame",
+    "jalons": [
+      2,
+      15
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Comtesse de Conflans",
+    "jalons": [
+      19,
+      39
+    ]
+  },
+  "entite_2": {
+    "label": "ORG",
+    "text": "Rüe",
+    "jalons": [
+      53,
+      57
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "S^t",
+    "jalons": [
+      75,
+      78
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Germain E0",
+    "jalons": [
+      79,
+      89
+    ]
+  }
+}

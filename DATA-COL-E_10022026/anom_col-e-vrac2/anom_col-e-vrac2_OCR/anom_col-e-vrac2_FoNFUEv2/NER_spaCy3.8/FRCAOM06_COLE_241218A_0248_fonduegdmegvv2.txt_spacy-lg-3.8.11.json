@@ -1,0 +1,130 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "accordée",
+    "jalons": [
+      104,
+      113
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Roi",
+    "jalons": [
+      153,
+      156
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Esclave",
+    "jalons": [
+      204,
+      211
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Chef",
+    "jalons": [
+      246,
+      250
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Bande",
+    "jalons": [
+      254,
+      259
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Maron",
+    "jalons": [
+      261,
+      266
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Geolier",
+    "jalons": [
+      285,
+      292
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Esclaves",
+    "jalons": [
+      344,
+      352
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "Prison",
+    "jalons": [
+      361,
+      367
+    ]
+  },
+  "entite_9": {
+    "label": "ORG",
+    "text": "Administrateurs",
+    "jalons": [
+      373,
+      388
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      429,
+      440
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "Protecteurs",
+    "jalons": [
+      496,
+      507
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "france",
+    "jalons": [
+      630,
+      636
+    ]
+  },
+  "entite_13": {
+    "label": "PER",
+    "text": "Garet",
+    "jalons": [
+      672,
+      677
+    ]
+  },
+  "entite_14": {
+    "label": "MISC",
+    "text": "Esclaves",
+    "jalons": [
+      891,
+      899
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "var",
+    "jalons": [
+      940,
+      943
+    ]
+  }
+}

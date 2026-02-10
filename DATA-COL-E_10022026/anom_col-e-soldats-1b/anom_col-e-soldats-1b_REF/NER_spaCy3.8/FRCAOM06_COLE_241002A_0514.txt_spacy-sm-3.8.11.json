@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Daillebout",
+    "jalons": [
+      283,
+      293
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Daillebout",
+    "jalons": [
+      535,
+      545
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Senlis",
+    "jalons": [
+      742,
+      748
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "^depuis",
+    "jalons": [
+      802,
+      809
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Vendémiaire",
+    "jalons": [
+      900,
+      911
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "⟦",
+    "jalons": [
+      942,
+      943
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "⟦",
+    "jalons": [
+      1041,
+      1042
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Janvier",
+    "jalons": [
+      1134,
+      1141
+    ]
+  }
+}

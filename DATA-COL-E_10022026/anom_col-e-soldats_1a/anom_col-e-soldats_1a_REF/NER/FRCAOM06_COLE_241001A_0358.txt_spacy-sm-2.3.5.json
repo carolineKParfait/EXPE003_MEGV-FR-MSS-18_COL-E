@@ -1,0 +1,298 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "l&#x27;Ordonnance",
+    "jalons": [
+      50,
+      67
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Cournoyer",
+    "jalons": [
+      75,
+      84
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "L&#x27;accusé",
+    "jalons": [
+      86,
+      99
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "Crime de Désertion",
+    "jalons": [
+      119,
+      137
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Chaine",
+    "jalons": [
+      173,
+      179
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Majesté Confromément",
+    "jalons": [
+      209,
+      229
+    ]
+  },
+  "entite_6": {
+    "label": "ORG",
+    "text": "Ministre",
+    "jalons": [
+      321,
+      329
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Signé Lelancour",
+    "jalons": [
+      359,
+      374
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "De Par le Roy\nVû",
+    "jalons": [
+      375,
+      391
+    ]
+  },
+  "entite_9": {
+    "label": "ORG",
+    "text": "Conseil de Guerre",
+    "jalons": [
+      399,
+      416
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "Cap français",
+    "jalons": [
+      429,
+      441
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "M. de Lilancour Brigadier",
+    "jalons": [
+      456,
+      481
+    ]
+  },
+  "entite_12": {
+    "label": "PER",
+    "text": "Roy Commandant",
+    "jalons": [
+      496,
+      510
+    ]
+  },
+  "entite_13": {
+    "label": "LOC",
+    "text": "Nord",
+    "jalons": [
+      524,
+      528
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "Lisle de S^t",
+    "jalons": [
+      532,
+      544
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "Domingue",
+    "jalons": [
+      545,
+      553
+    ]
+  },
+  "entite_16": {
+    "label": "PER",
+    "text": "Adert",
+    "jalons": [
+      609,
+      614
+    ]
+  },
+  "entite_17": {
+    "label": "ORG",
+    "text": "Compagnie de\nDupuy",
+    "jalons": [
+      628,
+      646
+    ]
+  },
+  "entite_18": {
+    "label": "MISC",
+    "text": "Régiment du Cap",
+    "jalons": [
+      650,
+      665
+    ]
+  },
+  "entite_19": {
+    "label": "ORG",
+    "text": "Crime de Désertion",
+    "jalons": [
+      675,
+      693
+    ]
+  },
+  "entite_20": {
+    "label": "MISC",
+    "text": "Capture de l&#x27;officier de Maréchaussée",
+    "jalons": [
+      714,
+      756
+    ]
+  },
+  "entite_21": {
+    "label": "PER",
+    "text": "M.\nLe Ch",
+    "jalons": [
+      801,
+      809
+    ]
+  },
+  "entite_22": {
+    "label": "PER",
+    "text": "Dupuy Capitaine",
+    "jalons": [
+      811,
+      826
+    ]
+  },
+  "entite_23": {
+    "label": "PER",
+    "text": "Lilancour",
+    "jalons": [
+      850,
+      859
+    ]
+  },
+  "entite_24": {
+    "label": "LOC",
+    "text": "Répondüe d&#x27;un",
+    "jalons": [
+      882,
+      900
+    ]
+  },
+  "entite_25": {
+    "label": "MISC",
+    "text": "qu&#x27;il",
+    "jalons": [
+      917,
+      927
+    ]
+  },
+  "entite_26": {
+    "label": "MISC",
+    "text": "Confrontation des\n",
+    "jalons": [
+      1046,
+      1064
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "Sieur",
+    "jalons": [
+      1119,
+      1124
+    ]
+  },
+  "entite_28": {
+    "label": "PER",
+    "text": "Louis Gabriel Casamajor Capitaine",
+    "jalons": [
+      1125,
+      1158
+    ]
+  },
+  "entite_29": {
+    "label": "MISC",
+    "text": "Régiment du Cap Fésant fonctions d&#x27;aide major",
+    "jalons": [
+      1162,
+      1212
+    ]
+  },
+  "entite_30": {
+    "label": "MISC",
+    "text": "Sept de ce mois",
+    "jalons": [
+      1238,
+      1253
+    ]
+  },
+  "entite_31": {
+    "label": "ORG",
+    "text": "Compagnie de Dupuy",
+    "jalons": [
+      1336,
+      1354
+    ]
+  },
+  "entite_32": {
+    "label": "MISC",
+    "text": "Régiment du\nCap",
+    "jalons": [
+      1358,
+      1373
+    ]
+  },
+  "entite_33": {
+    "label": "MISC",
+    "text": "atteint &amp",
+    "jalons": [
+      1375,
+      1387
+    ]
+  },
+  "entite_34": {
+    "label": "MISC",
+    "text": "Convaincu du Crime de Désertion",
+    "jalons": [
+      1389,
+      1420
+    ]
+  },
+  "entite_35": {
+    "label": "MISC",
+    "text": "Condamné",
+    "jalons": [
+      1463,
+      1471
+    ]
+  },
+  "entite_36": {
+    "label": "LOC",
+    "text": "Condamne",
+    "jalons": [
+      1475,
+      1483
+    ]
+  }
+}

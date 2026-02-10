@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "ORG",
+    "text": "s^t Domingue",
+    "jalons": [
+      0,
+      12
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Montarcher",
+    "jalons": [
+      16,
+      26
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Dup^a",
+    "jalons": [
+      53,
+      58
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Port",
+    "jalons": [
+      70,
+      74
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Prince",
+    "jalons": [
+      78,
+      84
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "J&#x27;ai",
+    "jalons": [
+      193,
+      202
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Jujard",
+    "jalons": [
+      225,
+      231
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Roy",
+    "jalons": [
+      249,
+      252
+    ]
+  }
+}

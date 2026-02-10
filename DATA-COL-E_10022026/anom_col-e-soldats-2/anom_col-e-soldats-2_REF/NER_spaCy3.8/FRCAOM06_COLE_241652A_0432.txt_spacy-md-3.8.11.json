@@ -1,0 +1,90 @@
+{
+  "entite_0": {
+    "label": "ORG",
+    "text": "Ch^er",
+    "jalons": [
+      14,
+      19
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "Troupes",
+    "jalons": [
+      110,
+      117
+    ]
+  },
+  "entite_2": {
+    "label": "ORG",
+    "text": "Certificats",
+    "jalons": [
+      240,
+      251
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "france",
+    "jalons": [
+      303,
+      309
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "A",
+    "jalons": [
+      349,
+      350
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Majesté",
+    "jalons": [
+      404,
+      411
+    ]
+  },
+  "entite_6": {
+    "label": "ORG",
+    "text": "Marine",
+    "jalons": [
+      475,
+      481
+    ]
+  },
+  "entite_7": {
+    "label": "ORG",
+    "text": "Brevet",
+    "jalons": [
+      519,
+      525
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "Brevet",
+    "jalons": [
+      630,
+      636
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "A",
+    "jalons": [
+      960,
+      961
+    ]
+  },
+  "entite_10": {
+    "label": "MISC",
+    "text": "Corps",
+    "jalons": [
+      979,
+      984
+    ]
+  }
+}

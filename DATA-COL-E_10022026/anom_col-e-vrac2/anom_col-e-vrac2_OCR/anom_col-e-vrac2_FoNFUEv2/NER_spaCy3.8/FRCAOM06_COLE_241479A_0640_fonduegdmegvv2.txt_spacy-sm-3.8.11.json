@@ -1,0 +1,90 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Martinique",
+    "jalons": [
+      21,
+      31
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Champigny",
+    "jalons": [
+      60,
+      69
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Dorgeville",
+    "jalons": [
+      73,
+      83
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Mariage",
+    "jalons": [
+      153,
+      160
+    ]
+  },
+  "entite_4": {
+    "label": "ORG",
+    "text": "Conseil",
+    "jalons": [
+      262,
+      269
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Romain",
+    "jalons": [
+      316,
+      322
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Pierre",
+    "jalons": [
+      382,
+      388
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Fait",
+    "jalons": [
+      493,
+      497
+    ]
+  },
+  "entite_8": {
+    "label": "ORG",
+    "text": "Emancipée",
+    "jalons": [
+      545,
+      555
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "Paul",
+    "jalons": [
+      566,
+      570
+    ]
+  },
+  "entite_10": {
+    "label": "MISC",
+    "text": "Delamure",
+    "jalons": [
+      637,
+      645
+    ]
+  }
+}

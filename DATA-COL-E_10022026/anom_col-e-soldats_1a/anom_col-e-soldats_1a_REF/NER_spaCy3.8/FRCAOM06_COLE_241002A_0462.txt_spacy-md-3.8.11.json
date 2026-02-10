@@ -1,0 +1,34 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Lieutenant",
+    "jalons": [
+      50,
+      60
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "Nationnales",
+    "jalons": [
+      88,
+      99
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Goux",
+    "jalons": [
+      124,
+      128
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Colonies",
+    "jalons": [
+      149,
+      157
+    ]
+  }
+}

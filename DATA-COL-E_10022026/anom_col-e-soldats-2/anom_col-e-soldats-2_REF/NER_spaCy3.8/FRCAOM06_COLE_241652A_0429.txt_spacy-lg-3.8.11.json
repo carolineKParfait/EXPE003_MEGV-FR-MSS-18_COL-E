@@ -1,0 +1,82 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "M. Volant",
+    "jalons": [
+      0,
+      9
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "J&#x27;ai",
+    "jalons": [
+      25,
+      34
+    ]
+  },
+  "entite_2": {
+    "label": "ORG",
+    "text": "PJ",
+    "jalons": [
+      75,
+      77
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Lieutenant",
+    "jalons": [
+      114,
+      124
+    ]
+  },
+  "entite_4": {
+    "label": "ORG",
+    "text": "Troupes",
+    "jalons": [
+      151,
+      158
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "d&#x27;obtenir",
+    "jalons": [
+      201,
+      215
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Brevet",
+    "jalons": [
+      309,
+      315
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Les",
+    "jalons": [
+      380,
+      383
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Roi",
+    "jalons": [
+      392,
+      395
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "MX",
+    "jalons": [
+      400,
+      402
+    ]
+  }
+}

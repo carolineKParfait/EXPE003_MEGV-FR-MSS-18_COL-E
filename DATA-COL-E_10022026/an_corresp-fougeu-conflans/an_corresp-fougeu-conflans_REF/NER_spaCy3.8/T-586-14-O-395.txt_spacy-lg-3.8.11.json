@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "ORG",
+    "text": "credit",
+    "jalons": [
+      214,
+      220
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Rennes",
+    "jalons": [
+      645,
+      651
+    ]
+  },
+  "entite_2": {
+    "label": "ORG",
+    "text": "Lard",
+    "jalons": [
+      661,
+      665
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "mary",
+    "jalons": [
+      713,
+      717
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Conflans",
+    "jalons": [
+      722,
+      730
+    ]
+  }
+}

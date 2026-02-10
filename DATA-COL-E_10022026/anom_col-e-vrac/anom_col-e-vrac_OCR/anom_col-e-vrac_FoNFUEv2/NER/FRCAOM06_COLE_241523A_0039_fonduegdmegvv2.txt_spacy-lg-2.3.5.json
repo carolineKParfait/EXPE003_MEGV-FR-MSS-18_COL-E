@@ -1,0 +1,354 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "ly seroit",
+    "jalons": [
+      0,
+      9
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      50,
+      61
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "S^r Intendant",
+    "jalons": [
+      153,
+      166
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Il s&#39;en reponse tres claire",
+    "jalons": [
+      177,
+      208
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Il avoit été fait enieur du Roy de 15",
+    "jalons": [
+      256,
+      295
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "M. tte",
+    "jalons": [
+      521,
+      527
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "M. De Clugny",
+    "jalons": [
+      565,
+      577
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "De Perrigny",
+    "jalons": [
+      605,
+      616
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "Mahautiere",
+    "jalons": [
+      670,
+      680
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "unloisé",
+    "jalons": [
+      736,
+      744
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Bart",
+    "jalons": [
+      804,
+      808
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "Clugny",
+    "jalons": [
+      815,
+      821
+    ]
+  },
+  "entite_12": {
+    "label": "MISC",
+    "text": "toisé",
+    "jalons": [
+      904,
+      910
+    ]
+  },
+  "entite_13": {
+    "label": "PER",
+    "text": "recû",
+    "jalons": [
+      973,
+      978
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "le Roy le S^r De Perrigny",
+    "jalons": [
+      1037,
+      1062
+    ]
+  },
+  "entite_15": {
+    "label": "MISC",
+    "text": "postérieurement",
+    "jalons": [
+      1070,
+      1086
+    ]
+  },
+  "entite_16": {
+    "label": "MISC",
+    "text": "S^r De Perrigny",
+    "jalons": [
+      1478,
+      1493
+    ]
+  },
+  "entite_17": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      1513,
+      1524
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "Gouvernement de Leogane",
+    "jalons": [
+      1568,
+      1591
+    ]
+  },
+  "entite_19": {
+    "label": "MISC",
+    "text": "étoit",
+    "jalons": [
+      1598,
+      1604
+    ]
+  },
+  "entite_20": {
+    "label": "PER",
+    "text": "M^r De Clugny",
+    "jalons": [
+      1667,
+      1680
+    ]
+  },
+  "entite_21": {
+    "label": "PER",
+    "text": "M. le Comte De Langeron",
+    "jalons": [
+      1744,
+      1767
+    ]
+  },
+  "entite_22": {
+    "label": "PER",
+    "text": "M. De Kerdisien temais Commissaire",
+    "jalons": [
+      1793,
+      1827
+    ]
+  },
+  "entite_23": {
+    "label": "LOC",
+    "text": "Cap",
+    "jalons": [
+      1856,
+      1859
+    ]
+  },
+  "entite_24": {
+    "label": "MISC",
+    "text": "Régiment",
+    "jalons": [
+      1914,
+      1923
+    ]
+  },
+  "entite_25": {
+    "label": "ORG",
+    "text": "M^r",
+    "jalons": [
+      1975,
+      1978
+    ]
+  },
+  "entite_26": {
+    "label": "PER",
+    "text": "Vicomte de Belsunce",
+    "jalons": [
+      1982,
+      2001
+    ]
+  },
+  "entite_27": {
+    "label": "PER",
+    "text": "M. De Clugny",
+    "jalons": [
+      2030,
+      2042
+    ]
+  },
+  "entite_28": {
+    "label": "PER",
+    "text": "Juile",
+    "jalons": [
+      2059,
+      2064
+    ]
+  },
+  "entite_29": {
+    "label": "MISC",
+    "text": "dépense",
+    "jalons": [
+      2087,
+      2095
+    ]
+  },
+  "entite_30": {
+    "label": "PER",
+    "text": "S^r De Perrigny",
+    "jalons": [
+      2109,
+      2124
+    ]
+  },
+  "entite_31": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      2161,
+      2172
+    ]
+  },
+  "entite_32": {
+    "label": "MISC",
+    "text": "vû",
+    "jalons": [
+      2184,
+      2187
+    ]
+  },
+  "entite_33": {
+    "label": "PER",
+    "text": "M. Lagneau",
+    "jalons": [
+      2233,
+      2243
+    ]
+  },
+  "entite_34": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      2247,
+      2252
+    ]
+  },
+  "entite_35": {
+    "label": "MISC",
+    "text": "bonté",
+    "jalons": [
+      2305,
+      2311
+    ]
+  },
+  "entite_36": {
+    "label": "MISC",
+    "text": "plénitede de votre puissance",
+    "jalons": [
+      2331,
+      2360
+    ]
+  },
+  "entite_37": {
+    "label": "MISC",
+    "text": "equité",
+    "jalons": [
+      2370,
+      2377
+    ]
+  },
+  "entite_38": {
+    "label": "ORG",
+    "text": "Saint Domingue",
+    "jalons": [
+      2491,
+      2505
+    ]
+  },
+  "entite_39": {
+    "label": "MISC",
+    "text": "Deux mille cinq cens soixante dix livres dix sols",
+    "jalons": [
+      2760,
+      2809
+    ]
+  },
+  "entite_40": {
+    "label": "LOC",
+    "text": "s^r",
+    "jalons": [
+      2819,
+      2822
+    ]
+  },
+  "entite_41": {
+    "label": "PER",
+    "text": "recû",
+    "jalons": [
+      2853,
+      2858
+    ]
+  },
+  "entite_42": {
+    "label": "ORG",
+    "text": "fondé",
+    "jalons": [
+      2914,
+      2920
+    ]
+  },
+  "entite_43": {
+    "label": "PER",
+    "text": "prospérité Perrigny",
+    "jalons": [
+      3003,
+      3024
+    ]
+  }
+}

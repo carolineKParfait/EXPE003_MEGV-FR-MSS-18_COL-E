@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "l&#x27;hospice",
+    "jalons": [
+      76,
+      90
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Senlis",
+    "jalons": [
+      94,
+      100
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "s&#x27;occuper",
+    "jalons": [
+      133,
+      147
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "^précéde",
+    "jalons": [
+      241,
+      249
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "l&#x27;entretien",
+    "jalons": [
+      602,
+      618
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Senlis",
+    "jalons": [
+      681,
+      687
+    ]
+  }
+}

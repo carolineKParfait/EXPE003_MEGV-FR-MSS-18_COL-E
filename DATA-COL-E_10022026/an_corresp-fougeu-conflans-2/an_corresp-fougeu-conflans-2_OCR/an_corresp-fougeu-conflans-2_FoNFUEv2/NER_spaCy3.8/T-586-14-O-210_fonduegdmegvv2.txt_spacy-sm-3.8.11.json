@@ -1,0 +1,106 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Cuis à",
+    "jalons": [
+      6,
+      13
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Brest",
+    "jalons": [
+      14,
+      19
+    ]
+  },
+  "entite_2": {
+    "label": "ORG",
+    "text": "FIE",
+    "jalons": [
+      37,
+      40
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "Piece",
+    "jalons": [
+      46,
+      51
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Touche",
+    "jalons": [
+      114,
+      120
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "D&#39;aubigni",
+    "jalons": [
+      158,
+      171
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "D&#39;auligni",
+    "jalons": [
+      482,
+      495
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Doisi",
+    "jalons": [
+      664,
+      669
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "amiciés",
+    "jalons": [
+      762,
+      770
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "vienne",
+    "jalons": [
+      782,
+      788
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "Lamiral",
+    "jalons": [
+      901,
+      908
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "toulon",
+    "jalons": [
+      1000,
+      1006
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "corse",
+    "jalons": [
+      1087,
+      1092
+    ]
+  }
+}

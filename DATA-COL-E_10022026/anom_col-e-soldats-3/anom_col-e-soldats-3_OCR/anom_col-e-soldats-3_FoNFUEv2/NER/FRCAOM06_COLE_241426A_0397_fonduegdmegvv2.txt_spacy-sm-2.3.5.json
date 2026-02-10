@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "emius",
+    "jalons": [
+      0,
+      5
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Arnold",
+    "jalons": [
+      7,
+      13
+    ]
+  },
+  "entite_2": {
+    "label": "ORG",
+    "text": "réginment",
+    "jalons": [
+      31,
+      41
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Salis",
+    "jalons": [
+      45,
+      50
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Quercy",
+    "jalons": [
+      57,
+      63
+    ]
+  }
+}

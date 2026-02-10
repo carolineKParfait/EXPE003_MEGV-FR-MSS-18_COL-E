@@ -1,0 +1,122 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Troudre",
+    "jalons": [
+      83,
+      90
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Royal",
+    "jalons": [
+      169,
+      174
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "M^r",
+    "jalons": [
+      618,
+      621
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "M^r",
+    "jalons": [
+      712,
+      715
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "M^r",
+    "jalons": [
+      816,
+      819
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Duguay",
+    "jalons": [
+      820,
+      826
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Rade",
+    "jalons": [
+      859,
+      863
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "M^r",
+    "jalons": [
+      964,
+      967
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Daiguillon",
+    "jalons": [
+      968,
+      978
+    ]
+  },
+  "entite_9": {
+    "label": "ORG",
+    "text": "v^t",
+    "jalons": [
+      1348,
+      1351
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "Damnemere",
+    "jalons": [
+      1367,
+      1376
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "Minitre",
+    "jalons": [
+      1381,
+      1388
+    ]
+  },
+  "entite_12": {
+    "label": "PER",
+    "text": "mandé",
+    "jalons": [
+      1437,
+      1443
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "Vaiss^t",
+    "jalons": [
+      1462,
+      1469
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "conclieu",
+    "jalons": [
+      1765,
+      1773
+    ]
+  }
+}

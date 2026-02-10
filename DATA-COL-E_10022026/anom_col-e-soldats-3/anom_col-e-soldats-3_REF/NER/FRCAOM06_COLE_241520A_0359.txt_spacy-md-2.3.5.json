@@ -1,0 +1,74 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "La Grenade",
+    "jalons": [
+      0,
+      10
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Hopital Royal",
+    "jalons": [
+      11,
+      24
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Pérégard",
+    "jalons": [
+      40,
+      48
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Sacremens",
+    "jalons": [
+      168,
+      177
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Nicolas Peregard fusillier",
+    "jalons": [
+      204,
+      230
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Lauzun Comp^e de Trouville",
+    "jalons": [
+      247,
+      273
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "mere Natif",
+    "jalons": [
+      311,
+      321
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Cimetiere du Susd",
+    "jalons": [
+      346,
+      363
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Bullet",
+    "jalons": [
+      534,
+      540
+    ]
+  }
+}

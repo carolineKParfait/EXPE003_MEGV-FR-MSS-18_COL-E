@@ -1,0 +1,418 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "Cujourdhuy",
+    "jalons": [
+      0,
+      10
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Soireante Sept le Roy",
+    "jalons": [
+      39,
+      60
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Vrosailles",
+    "jalons": [
+      71,
+      81
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Elé re présenté",
+    "jalons": [
+      94,
+      112
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Majesté",
+    "jalons": [
+      118,
+      126
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "jacques Augerant",
+    "jalons": [
+      148,
+      164
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Etrangéres",
+    "jalons": [
+      251,
+      262
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Légion",
+    "jalons": [
+      306,
+      313
+    ]
+  },
+  "entite_8": {
+    "label": "LOC",
+    "text": "enrollé",
+    "jalons": [
+      333,
+      341
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Conseilde Gurve",
+    "jalons": [
+      365,
+      380
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Contumace",
+    "jalons": [
+      391,
+      400
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "Louis",
+    "jalons": [
+      409,
+      414
+    ]
+  },
+  "entite_12": {
+    "label": "MISC",
+    "text": "Avril dernier",
+    "jalons": [
+      423,
+      436
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "condamné",
+    "jalons": [
+      450,
+      459
+    ]
+  },
+  "entite_14": {
+    "label": "MISC",
+    "text": "Mort",
+    "jalons": [
+      510,
+      514
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "Majesté",
+    "jalons": [
+      561,
+      569
+    ]
+  },
+  "entite_16": {
+    "label": "MISC",
+    "text": "Vouloir bien",
+    "jalons": [
+      573,
+      585
+    ]
+  },
+  "entite_17": {
+    "label": "LOC",
+    "text": "Sererité",
+    "jalons": [
+      753,
+      762
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "Majesté",
+    "jalons": [
+      794,
+      802
+    ]
+  },
+  "entite_19": {
+    "label": "LOC",
+    "text": "quitté",
+    "jalons": [
+      805,
+      812
+    ]
+  },
+  "entite_20": {
+    "label": "MISC",
+    "text": "pardonné",
+    "jalons": [
+      822,
+      831
+    ]
+  },
+  "entite_21": {
+    "label": "PER",
+    "text": "Jacques Augerant",
+    "jalons": [
+      864,
+      880
+    ]
+  },
+  "entite_22": {
+    "label": "MISC",
+    "text": "A",
+    "jalons": [
+      940,
+      941
+    ]
+  },
+  "entite_23": {
+    "label": "MISC",
+    "text": "Civiles",
+    "jalons": [
+      976,
+      983
+    ]
+  },
+  "entite_24": {
+    "label": "MISC",
+    "text": "Envers sa Majesté en justice",
+    "jalons": [
+      1028,
+      1057
+    ]
+  },
+  "entite_25": {
+    "label": "LOC",
+    "text": "Néant",
+    "jalons": [
+      1080,
+      1086
+    ]
+  },
+  "entite_26": {
+    "label": "MISC",
+    "text": "Jugement par contunace",
+    "jalons": [
+      1098,
+      1120
+    ]
+  },
+  "entite_27": {
+    "label": "MISC",
+    "text": "Avril dernier",
+    "jalons": [
+      1129,
+      1142
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "Supliant",
+    "jalons": [
+      1249,
+      1257
+    ]
+  },
+  "entite_29": {
+    "label": "LOC",
+    "text": "Majesté",
+    "jalons": [
+      1269,
+      1277
+    ]
+  },
+  "entite_30": {
+    "label": "LOC",
+    "text": "orestitué",
+    "jalons": [
+      1289,
+      1299
+    ]
+  },
+  "entite_31": {
+    "label": "MISC",
+    "text": "Silence",
+    "jalons": [
+      1404,
+      1411
+    ]
+  },
+  "entite_32": {
+    "label": "MISC",
+    "text": "Procureurs Généraux",
+    "jalons": [
+      1429,
+      1450
+    ]
+  },
+  "entite_33": {
+    "label": "MISC",
+    "text": "Autres à condition toutes fois",
+    "jalons": [
+      1499,
+      1530
+    ]
+  },
+  "entite_34": {
+    "label": "PER",
+    "text": "Jacques Augerant",
+    "jalons": [
+      1542,
+      1558
+    ]
+  },
+  "entite_35": {
+    "label": "MISC",
+    "text": "Légion",
+    "jalons": [
+      1607,
+      1614
+    ]
+  },
+  "entite_36": {
+    "label": "LOC",
+    "text": "S^t Domingue",
+    "jalons": [
+      1618,
+      1630
+    ]
+  },
+  "entite_37": {
+    "label": "MISC",
+    "text": "Mande",
+    "jalons": [
+      1632,
+      1637
+    ]
+  },
+  "entite_38": {
+    "label": "LOC",
+    "text": "Ordonne",
+    "jalons": [
+      1641,
+      1648
+    ]
+  },
+  "entite_39": {
+    "label": "ORG",
+    "text": "Conseil de guerre qu&#39;Elle veur",
+    "jalons": [
+      1663,
+      1697
+    ]
+  },
+  "entite_40": {
+    "label": "LOC",
+    "text": "assemblé",
+    "jalons": [
+      1719,
+      1728
+    ]
+  },
+  "entite_41": {
+    "label": "LOC",
+    "text": "Légion",
+    "jalons": [
+      1735,
+      1742
+    ]
+  },
+  "entite_42": {
+    "label": "LOC",
+    "text": "S^t Domingue",
+    "jalons": [
+      1746,
+      1758
+    ]
+  },
+  "entite_43": {
+    "label": "PER",
+    "text": "Brevet de grace",
+    "jalons": [
+      1789,
+      1804
+    ]
+  },
+  "entite_44": {
+    "label": "MISC",
+    "text": "rémission et pardon",
+    "jalons": [
+      1806,
+      1826
+    ]
+  },
+  "entite_45": {
+    "label": "PER",
+    "text": "Dufontent",
+    "jalons": [
+      1830,
+      1839
+    ]
+  },
+  "entite_46": {
+    "label": "PER",
+    "text": "Augenant",
+    "jalons": [
+      1910,
+      1918
+    ]
+  },
+  "entite_47": {
+    "label": "LOC",
+    "text": "Majesté",
+    "jalons": [
+      1974,
+      1982
+    ]
+  },
+  "entite_48": {
+    "label": "PER",
+    "text": "Brevet qu&#39;Elle",
+    "jalons": [
+      2046,
+      2064
+    ]
+  },
+  "entite_49": {
+    "label": "PER",
+    "text": "Conseiller",
+    "jalons": [
+      2098,
+      2108
+    ]
+  },
+  "entite_50": {
+    "label": "MISC",
+    "text": "Commandements finances",
+    "jalons": [
+      2141,
+      2163
+    ]
+  },
+  "entite_51": {
+    "label": "PER",
+    "text": "Louis le duc de Braile",
+    "jalons": [
+      2165,
+      2187
+    ]
+  }
+}

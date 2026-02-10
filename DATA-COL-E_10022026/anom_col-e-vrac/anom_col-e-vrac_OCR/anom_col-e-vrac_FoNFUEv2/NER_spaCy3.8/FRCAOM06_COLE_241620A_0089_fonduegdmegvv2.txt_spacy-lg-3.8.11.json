@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "ORG",
+    "text": "Lanciennes Affaires",
+    "jalons": [
+      0,
+      19
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Comingue",
+    "jalons": [
+      20,
+      28
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Tach",
+    "jalons": [
+      38,
+      42
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Etienne",
+    "jalons": [
+      44,
+      51
+    ]
+  },
+  "entite_4": {
+    "label": "ORG",
+    "text": "Commis",
+    "jalons": [
+      106,
+      112
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Tan",
+    "jalons": [
+      150,
+      153
+    ]
+  }
+}

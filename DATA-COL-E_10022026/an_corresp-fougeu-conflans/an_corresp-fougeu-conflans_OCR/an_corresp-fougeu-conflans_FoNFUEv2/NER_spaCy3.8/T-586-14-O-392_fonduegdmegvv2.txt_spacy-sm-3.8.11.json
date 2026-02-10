@@ -1,0 +1,82 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      3,
+      8
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "versailles",
+    "jalons": [
+      96,
+      106
+    ]
+  },
+  "entite_2": {
+    "label": "ORG",
+    "text": "D&#39;armentieres",
+    "jalons": [
+      137,
+      154
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "s&#39;il",
+    "jalons": [
+      178,
+      186
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "vû",
+    "jalons": [
+      189,
+      192
+    ]
+  },
+  "entite_5": {
+    "label": "ORG",
+    "text": "Ministre",
+    "jalons": [
+      196,
+      204
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "j&#39;ai",
+    "jalons": [
+      338,
+      346
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "paris",
+    "jalons": [
+      449,
+      454
+    ]
+  },
+  "entite_8": {
+    "label": "LOC",
+    "text": "j&#39;ay",
+    "jalons": [
+      595,
+      603
+    ]
+  },
+  "entite_9": {
+    "label": "ORG",
+    "text": "mos",
+    "jalons": [
+      744,
+      747
+    ]
+  }
+}

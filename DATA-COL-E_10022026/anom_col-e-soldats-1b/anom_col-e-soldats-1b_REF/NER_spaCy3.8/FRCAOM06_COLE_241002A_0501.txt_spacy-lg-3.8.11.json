@@ -1,0 +1,154 @@
+{
+  "entite_0": {
+    "label": "ORG",
+    "text": "Marine",
+    "jalons": [
+      0,
+      6
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      77,
+      82
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Prairial",
+    "jalons": [
+      99,
+      107
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "floréal",
+    "jalons": [
+      349,
+      356
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Senlis",
+    "jalons": [
+      503,
+      509
+    ]
+  },
+  "entite_5": {
+    "label": "ORG",
+    "text": "Troupes",
+    "jalons": [
+      680,
+      687
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Cayenne",
+    "jalons": [
+      698,
+      705
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "hopital",
+    "jalons": [
+      721,
+      728
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Roi",
+    "jalons": [
+      785,
+      788
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "⟦",
+    "jalons": [
+      991,
+      992
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "Observations",
+    "jalons": [
+      1046,
+      1058
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "L&#x27;ordre",
+    "jalons": [
+      1123,
+      1135
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "Troupes",
+    "jalons": [
+      1225,
+      1232
+    ]
+  },
+  "entite_13": {
+    "label": "PER",
+    "text": "Général",
+    "jalons": [
+      1305,
+      1312
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "^seraient",
+    "jalons": [
+      1316,
+      1325
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "Colonies",
+    "jalons": [
+      1365,
+      1373
+    ]
+  },
+  "entite_16": {
+    "label": "PER",
+    "text": "datter",
+    "jalons": [
+      1470,
+      1476
+    ]
+  },
+  "entite_17": {
+    "label": "LOC",
+    "text": "Somme",
+    "jalons": [
+      1558,
+      1563
+    ]
+  },
+  "entite_18": {
+    "label": "MISC",
+    "text": "C^t",
+    "jalons": [
+      1600,
+      1603
+    ]
+  }
+}

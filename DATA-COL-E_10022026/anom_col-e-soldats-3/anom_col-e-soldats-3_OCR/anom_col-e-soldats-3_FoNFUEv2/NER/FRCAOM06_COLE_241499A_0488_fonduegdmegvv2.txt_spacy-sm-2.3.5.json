@@ -1,0 +1,314 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Negrier",
+    "jalons": [
+      0,
+      7
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "NOCHENORT",
+    "jalons": [
+      9,
+      18
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Régitres deposes",
+    "jalons": [
+      32,
+      49
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "Bureau des COTONtS",
+    "jalons": [
+      53,
+      71
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Listes des Passagers allants &amp",
+    "jalons": [
+      88,
+      121
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Colonies",
+    "jalons": [
+      137,
+      145
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "à S^t Martin",
+    "jalons": [
+      177,
+      190
+    ]
+  },
+  "entite_7": {
+    "label": "ORG",
+    "text": "L&#39;Isle",
+    "jalons": [
+      194,
+      204
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "Passagers",
+    "jalons": [
+      237,
+      246
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "Navire",
+    "jalons": [
+      265,
+      271
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "Le Comte-de-Nolivos commandé",
+    "jalons": [
+      284,
+      313
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "S. Cadon la Colonie de S^t Domingue",
+    "jalons": [
+      321,
+      356
+    ]
+  },
+  "entite_12": {
+    "label": "PER",
+    "text": "Joreph Negrier Jusilier du Rígôt de Rerues",
+    "jalons": [
+      373,
+      417
+    ]
+  },
+  "entite_13": {
+    "label": "ORG",
+    "text": "Colonres &#34;fils",
+    "jalons": [
+      422,
+      440
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "Maurice Negrier Tailleur",
+    "jalons": [
+      448,
+      472
+    ]
+  },
+  "entite_15": {
+    "label": "MISC",
+    "text": "Vigt neuf &#",
+    "jalons": [
+      492,
+      504
+    ]
+  },
+  "entite_16": {
+    "label": "LOC",
+    "text": "Chambourne",
+    "jalons": [
+      522,
+      532
+    ]
+  },
+  "entite_17": {
+    "label": "LOC",
+    "text": "Limousin",
+    "jalons": [
+      536,
+      544
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "Liste revenué dechargée de la Colonie",
+    "jalons": [
+      588,
+      627
+    ]
+  },
+  "entite_19": {
+    "label": "MISC",
+    "text": "Juin &#",
+    "jalons": [
+      642,
+      649
+    ]
+  },
+  "entite_20": {
+    "label": "ORG",
+    "text": "à Lisbonne",
+    "jalons": [
+      681,
+      692
+    ]
+  },
+  "entite_21": {
+    "label": "PER",
+    "text": "l. J",
+    "jalons": [
+      771,
+      775
+    ]
+  },
+  "entite_22": {
+    "label": "ORG",
+    "text": "Marine",
+    "jalons": [
+      809,
+      815
+    ]
+  },
+  "entite_23": {
+    "label": "LOC",
+    "text": "Colonies",
+    "jalons": [
+      842,
+      850
+    ]
+  },
+  "entite_24": {
+    "label": "LOC",
+    "text": "Port",
+    "jalons": [
+      857,
+      861
+    ]
+  },
+  "entite_25": {
+    "label": "MISC",
+    "text": "véritable &amp",
+    "jalons": [
+      898,
+      913
+    ]
+  },
+  "entite_26": {
+    "label": "MISC",
+    "text": "Registres",
+    "jalons": [
+      928,
+      937
+    ]
+  },
+  "entite_27": {
+    "label": "ORG",
+    "text": "Bureau des Colonies",
+    "jalons": [
+      951,
+      970
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "Port",
+    "jalons": [
+      981,
+      985
+    ]
+  },
+  "entite_29": {
+    "label": "MISC",
+    "text": "Listes des Passagers allants &amp",
+    "jalons": [
+      991,
+      1024
+    ]
+  },
+  "entite_30": {
+    "label": "LOC",
+    "text": "Colonies",
+    "jalons": [
+      1040,
+      1048
+    ]
+  },
+  "entite_31": {
+    "label": "LOC",
+    "text": "à Rochefort",
+    "jalons": [
+      1055,
+      1067
+    ]
+  },
+  "entite_32": {
+    "label": "MISC",
+    "text": "Clacues FRANÇOIS",
+    "jalons": [
+      1127,
+      1144
+    ]
+  },
+  "entite_33": {
+    "label": "PER",
+    "text": "AMBROISE DAUBENTON",
+    "jalons": [
+      1145,
+      1163
+    ]
+  },
+  "entite_34": {
+    "label": "MISC",
+    "text": "Chevalier",
+    "jalons": [
+      1165,
+      1174
+    ]
+  },
+  "entite_35": {
+    "label": "LOC",
+    "text": "Conseiller du Roi",
+    "jalons": [
+      1176,
+      1193
+    ]
+  },
+  "entite_36": {
+    "label": "LOC",
+    "text": "Conseils",
+    "jalons": [
+      1201,
+      1209
+    ]
+  },
+  "entite_37": {
+    "label": "PER",
+    "text": "Intendant de Justice",
+    "jalons": [
+      1211,
+      1231
+    ]
+  },
+  "entite_38": {
+    "label": "MISC",
+    "text": "Police &amp",
+    "jalons": [
+      1233,
+      1244
+    ]
+  }
+}

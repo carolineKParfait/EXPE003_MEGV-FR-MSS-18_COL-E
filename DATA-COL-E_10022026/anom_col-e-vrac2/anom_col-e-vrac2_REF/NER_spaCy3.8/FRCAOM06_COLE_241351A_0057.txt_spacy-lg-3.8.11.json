@@ -1,0 +1,170 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Sieur da",
+    "jalons": [
+      0,
+      8
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Seigneur",
+    "jalons": [
+      83,
+      91
+    ]
+  },
+  "entite_2": {
+    "label": "ORG",
+    "text": "Reigñe",
+    "jalons": [
+      131,
+      137
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Conptat",
+    "jalons": [
+      175,
+      182
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Testamant",
+    "jalons": [
+      242,
+      251
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Papiers",
+    "jalons": [
+      316,
+      323
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Durand",
+    "jalons": [
+      393,
+      399
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Carouel",
+    "jalons": [
+      423,
+      430
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Dacostat",
+    "jalons": [
+      551,
+      559
+    ]
+  },
+  "entite_9": {
+    "label": "ORG",
+    "text": "qen",
+    "jalons": [
+      586,
+      589
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Dacostat",
+    "jalons": [
+      677,
+      685
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "Berord",
+    "jalons": [
+      784,
+      790
+    ]
+  },
+  "entite_12": {
+    "label": "PER",
+    "text": "huniverssel",
+    "jalons": [
+      1081,
+      1092
+    ]
+  },
+  "entite_13": {
+    "label": "PER",
+    "text": "huniversell",
+    "jalons": [
+      1211,
+      1222
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "dacord",
+    "jalons": [
+      1284,
+      1290
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "Romaine",
+    "jalons": [
+      1420,
+      1427
+    ]
+  },
+  "entite_16": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      1621,
+      1625
+    ]
+  },
+  "entite_17": {
+    "label": "PER",
+    "text": "Saint",
+    "jalons": [
+      1675,
+      1680
+    ]
+  },
+  "entite_18": {
+    "label": "PER",
+    "text": "humble¬",
+    "jalons": [
+      1741,
+      1748
+    ]
+  },
+  "entite_19": {
+    "label": "LOC",
+    "text": "Sainttes",
+    "jalons": [
+      1816,
+      1824
+    ]
+  },
+  "entite_20": {
+    "label": "LOC",
+    "text": "Paradix",
+    "jalons": [
+      1828,
+      1835
+    ]
+  }
+}

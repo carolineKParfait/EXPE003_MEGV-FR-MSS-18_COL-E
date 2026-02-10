@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>FRCAOM06_COLE_241065A_0010.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="QZ7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="QZ8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="QZ9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="QZ10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="QZ11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="QZ12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="QZ13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="QZ14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="QZ15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="QZ17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="QZ18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="QZ19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="QZ20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="QZ21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="QZ22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2544"
+          HEIGHT="3159"
+          PHYSICAL_IMG_NR="4"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2544"
+                  HEIGHT="3159">
+        <TextBlock HPOS="508"
+                   VPOS="618"
+                   WIDTH="1651"
+                   HEIGHT="800"
+                   ID="eSc_textblock_169b2a85"
+                   TAGREFS="QZ12">
+          <Shape><Polygon POINTS="508 618 508 1418 2159 1418 2159 618"/></Shape>
+          <TextLine ID="eSc_line_06c1b9d3"
+                    TAGREFS="LT8"
+                    BASELINE="716 795 844 798 1743 766 1825 770" 
+                    HPOS="712"
+                    VPOS="698"
+                    WIDTH="1113"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="716 795 719 831 737 817 758 830 760 830 761 830 763 830 821 828 823 828 825 828 826 826 844 812 876 823 881 824 883 824 884 826 919 826 919 824 921 824 923 824 923 823 927 821 935 810 960 819 972 823 974 823 976 823 977 823 979 823 979 821 983 817 990 812 1009 817 1030 821 1032 821 1034 821 1051 814 1069 809 1093 812 1125 817 1127 817 1128 817 1130 817 1130 816 1135 810 1146 798 1192 796 1297 795 1318 802 1344 810 1346 810 1348 810 1350 810 1383 798 1402 791 1436 795 1506 805 1508 805 1509 805 1566 789 1578 786 1590 787 1648 798 1650 798 1652 798 1653 798 1673 784 1674 782 1674 784 1692 795 1694 795 1696 795 1697 795 1699 795 1720 786 1752 796 1753 796 1755 796 1757 796 1825 775 1825 770 1824 740 1801 733 1799 733 1797 733 1796 733 1794 733 1785 740 1782 744 1690 744 1660 737 1655 735 1653 735 1652 735 1650 735 1646 735 1608 751 1502 752 1481 737 1480 737 1478 737 1476 737 1474 737 1473 737 1446 756 1404 756 1383 737 1381 737 1379 737 1378 737 1376 737 1344 747 1329 737 1327 737 1325 737 1323 737 1322 737 1320 737 1302 751 1225 721 1195 710 1193 710 1192 710 1190 710 1188 710 1176 719 1172 723 1160 719 1141 714 1139 714 1137 714 1135 714 1121 717 1072 733 1035 717 1034 717 1032 717 1030 717 1028 717 1011 728 986 714 958 698 956 698 955 698 897 709 712 705 716 795"/></Shape>
+            <String CONTENT="Cabaret (le nommé)"
+                    HPOS="712"
+                    VPOS="698"
+                    WIDTH="1113"
+                    HEIGHT="133"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9e178463"
+                    TAGREFS="LT8"
+                    BASELINE="570 921 1004 931 2052 916" 
+                    HPOS="568"
+                    VPOS="856"
+                    WIDTH="1484"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="570 921 570 944 798 944 809 947 825 954 826 954 946 958 962 970 963 970 965 970 967 972 1134 972 1134 970 1135 970 1183 951 1193 947 1211 951 1251 959 1253 959 1295 951 1311 949 1332 951 1376 958 1378 958 1379 958 1381 958 1388 952 1395 947 1432 952 1485 959 1487 959 1548 954 1550 954 1552 954 1552 952 1578 937 1645 937 1678 954 1680 954 1681 954 1683 954 1685 954 1687 954 1722 944 1743 952 1745 952 1746 952 1748 952 1790 935 1883 956 1913 961 1915 961 1917 961 1931 956 1978 935 2047 956 2052 916 2050 893 1999 879 1997 879 1996 879 1852 888 1794 856 1792 856 1790 856 1616 858 1615 858 1576 873 1537 866 1536 866 1534 866 1467 886 1432 896 1378 889 1376 889 1179 898 1102 882 1081 879 1079 879 1056 882 944 902 876 891 874 891 818 902 786 882 784 882 783 882 781 882 753 886 735 879 709 866 707 866 591 866 589 866 588 866 568 875 570 921"/></Shape>
+            <String CONTENT="Soldat au regiment de l&#x27;Amérique"
+                    HPOS="568"
+                    VPOS="856"
+                    WIDTH="1484"
+                    HEIGHT="116"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b8593075"
+                    TAGREFS="LT8"
+                    BASELINE="721 1128 1322 1124 1975 1103" 
+                    HPOS="719"
+                    VPOS="1056"
+                    WIDTH="1256"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="721 1128 721 1151 837 1170 839 1170 840 1170 890 1147 897 1146 911 1147 960 1156 962 1156 1035 1151 1106 1175 1107 1175 1109 1175 1243 1174 1307 1165 1309 1165 1311 1165 1311 1163 1341 1138 1351 1146 1353 1146 1355 1146 1357 1146 1429 1137 1441 1135 1444 1135 1464 1146 1466 1146 1467 1146 1541 1133 1548 1133 1553 1133 1622 1146 1624 1146 1685 1130 1692 1130 1697 1130 1850 1161 1852 1161 1917 1160 1918 1160 1920 1160 1975 1124 1975 1103 1971 1056 1854 1056 1852 1056 1850 1056 1846 1058 1804 1081 1760 1081 1725 1060 1722 1056 1720 1056 1718 1056 1717 1056 1690 1060 1638 1068 1625 1061 1620 1058 1618 1058 1616 1058 1615 1058 1511 1060 1509 1060 1497 1063 1429 1088 1239 1091 1190 1091 1157 1068 1155 1068 1153 1068 1151 1068 1149 1068 1148 1068 1092 1095 1055 1095 939 1072 932 1072 930 1072 928 1072 925 1074 870 1095 719 1077 721 1128"/></Shape>
+            <String CONTENT="on demande pour lui son congé"
+                    HPOS="719"
+                    VPOS="1056"
+                    WIDTH="1256"
+                    HEIGHT="119"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_2e3adb23"
+                    BASELINE="1203 1284 1478 1278" 
+                    HPOS="1198"
+                    VPOS="1195"
+                    WIDTH="279"
+                    HEIGHT="147">
+            <Shape><Polygon POINTS="1200 1282 1200 1339 1306 1326 1327 1342 1329 1342 1332 1342 1335 1342 1337 1342 1340 1339 1372 1324 1474 1337 1477 1276 1466 1195 1406 1213 1361 1208 1314 1200 1311 1200 1308 1200 1306 1200 1282 1216 1264 1229 1198 1229 1200 1282"/></Shape>
+            <String CONTENT="1775"
+                    HPOS="1198"
+                    VPOS="1195"
+                    WIDTH="279"
+                    HEIGHT="147"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

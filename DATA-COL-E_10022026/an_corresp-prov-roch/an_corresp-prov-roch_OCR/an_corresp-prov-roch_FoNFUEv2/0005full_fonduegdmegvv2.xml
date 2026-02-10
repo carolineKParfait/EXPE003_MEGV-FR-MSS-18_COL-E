@@ -1,0 +1,2435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+    xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-3.xsd">
+    <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+            <fileName>images2/an_corresp_provenchere_rochefoucauld/0005full_fonduegdmegvv2.jpg</fileName>
+        </sourceImageInformation>
+        <Processing ID="OCR_a75276d7-802e-4d64-8fb3-9ff07dc8d199">
+            <processingCategory>contentGeneration</processingCategory>
+            <processingStepDescription>Text line recognition</processingStepDescription>
+            <processingStepSettings>text_direction: horizontal-tb; models: fondue_gd_megv_v2.mlmodel; pad: 16; bidi_reordering: True</processingStepSettings>
+            <processingSoftware>
+                <softwareName>kraken</softwareName>
+                <softwareVersion>5.3.0</softwareVersion>
+            </processingSoftware>
+        </Processing>
+    </Description>
+    <Tags>
+        <OtherTag DESCRIPTION="line type" ID="LINE_TYPE_1" TYPE="type" LABEL="default"/>
+        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_1" TYPE="region" LABEL="MainZone"/>
+    </Tags>
+    <Layout>
+        <Page WIDTH="4113" HEIGHT="2865" PHYSICAL_IMG_NR="0" ID="page_0">
+            <PrintSpace HPOS="0" VPOS="0" WIDTH="4113" HEIGHT="2865">
+                <TextBlock ID="ee95af91-c29d-42fb-8949-69c8790fb1a2" HPOS="37.0" VPOS="521.0" WIDTH="2032.0" HEIGHT="1176.0" TAGREFS="REGION_TYPE_1">
+<Shape>
+                        <Polygon POINTS="37.0 521.0 2069.0 521.0 2069.0 1697.0 37.0 1697.0 37.0 521.0"/>
+                    </Shape>
+                    <TextLine ID="948f9cbb-b0fa-484a-aab0-628b50e92ffa" HPOS="122.0" VPOS="536.0" WIDTH="1909.0" HEIGHT="137.0" BASELINE="124.0 643.0 1356.0 622.0 2031.0 617.0" TAGREFS="LINE_TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="124.0 643.0 124.0 671.0 198.0 673.0 200.0 673.0 202.0 673.0 233.0 662.0 332.0 673.0 334.0 673.0 418.0 654.0 466.0 663.0 467.0 663.0 469.0 663.0 488.0 654.0 593.0 663.0 595.0 663.0 689.0 649.0 904.0 654.0 905.0 654.0 907.0 654.0 937.0 646.0 966.0 654.0 967.0 654.0 969.0 654.0 970.0 654.0 1001.0 644.0 1386.0 657.0 1387.0 657.0 1389.0 657.0 1443.0 638.0 1520.0 654.0 1521.0 654.0 1523.0 654.0 1574.0 636.0 1704.0 652.0 1706.0 652.0 1870.0 650.0 2029.0 628.0 2031.0 617.0 2026.0 536.0 1930.0 537.0 1863.0 552.0 1833.0 547.0 1832.0 547.0 1830.0 547.0 1774.0 569.0 1730.0 571.0 1677.0 571.0 1618.0 545.0 1617.0 545.0 1615.0 545.0 1550.0 560.0 1494.0 544.0 1493.0 544.0 1435.0 544.0 1434.0 544.0 1227.0 547.0 1225.0 547.0 1179.0 561.0 1150.0 553.0 1149.0 553.0 1147.0 553.0 1146.0 553.0 1066.0 580.0 912.0 580.0 851.0 569.0 849.0 569.0 730.0 582.0 670.0 573.0 668.0 573.0 666.0 573.0 646.0 582.0 545.0 577.0 502.0 561.0 501.0 561.0 499.0 561.0 498.0 561.0 442.0 588.0 332.0 577.0 331.0 577.0 329.0 577.0 278.0 590.0 235.0 571.0 233.0 571.0 232.0 571.0 230.0 571.0 171.0 592.0 122.0 592.0 124.0 643.0"/>
+                        </Shape>
+                        <String ID="segment_0" CONTENT="De" HPOS="184" VPOS="578" WIDTH="69" HEIGHT="95" WC="1.0">
+                            <Shape>
+                                <Polygon POINTS="184 587 186 673 253 664 252 578"/>
+                            </Shape>
+                            <Glyph ID="char_0" CONTENT="D" HPOS="184" VPOS="587" WIDTH="2" HEIGHT="86" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="184 587 186 673 186 673 184 587"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_1" CONTENT="e" HPOS="252" VPOS="578" WIDTH="1" HEIGHT="86" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="252 578 253 664 253 664 252 578"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_1" HPOS="290"  VPOS="587" WIDTH="1"  HEIGHT="81"/>
+                        <String ID="segment_2" CONTENT="Praslin" HPOS="305" VPOS="566" WIDTH="214" HEIGHT="104" WC="0.9841">
+                            <Shape>
+                                <Polygon POINTS="305 583 306 670 519 657 518 567"/>
+                            </Shape>
+                            <Glyph ID="char_3" CONTENT="P" HPOS="305" VPOS="583" WIDTH="1" HEIGHT="87" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="305 583 306 670 306 670 305 583"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_4" CONTENT="r" HPOS="359" VPOS="580" WIDTH="1" HEIGHT="87" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="359 580 360 667 360 667 359 580"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_5" CONTENT="a" HPOS="389" VPOS="583" WIDTH="1" HEIGHT="77" GC="0.9998">
+                                <Shape>
+                                    <Polygon POINTS="389 583 390 660 390 660 389 583"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_6" CONTENT="s" HPOS="435" VPOS="587" WIDTH="1" HEIGHT="70" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="435 587 436 657 436 657 435 587"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_7" CONTENT="l" HPOS="465" VPOS="577" WIDTH="1" HEIGHT="86" GC="0.9997">
+                                <Shape>
+                                    <Polygon POINTS="465 577 466 663 466 663 465 577"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_8" CONTENT="i" HPOS="488" VPOS="566" WIDTH="1" HEIGHT="88" GC="0.8952">
+                                <Shape>
+                                    <Polygon POINTS="488 566 489 654 489 654 488 566"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_9" CONTENT="n" HPOS="518" VPOS="567" WIDTH="1" HEIGHT="90" GC="0.9941">
+                                <Shape>
+                                    <Polygon POINTS="518 567 519 657 519 657 518 567"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_3" HPOS="571"  VPOS="578" WIDTH="1"  HEIGHT="83"/>
+                        <String ID="segment_4" CONTENT="&amp;" HPOS="587" VPOS="579" WIDTH="1" HEIGHT="84" WC="0.9995">
+                            <Shape>
+                                <Polygon POINTS="587 579 588 663 588 663 587 579"/>
+                            </Shape>
+                            <Glyph ID="char_11" CONTENT="&amp;" HPOS="587" VPOS="579" WIDTH="1" HEIGHT="84" GC="0.9995">
+                                <Shape>
+                                    <Polygon POINTS="587 579 588 663 588 663 587 579"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_5" HPOS="632"  VPOS="581" WIDTH="1"  HEIGHT="76"/>
+                        <String ID="segment_6" CONTENT="un" HPOS="655" VPOS="576" WIDTH="39" HEIGHT="78" WC="0.9672">
+                            <Shape>
+                                <Polygon POINTS="655 578 656 654 694 649 693 576"/>
+                            </Shape>
+                            <Glyph ID="char_13" CONTENT="u" HPOS="655" VPOS="578" WIDTH="1" HEIGHT="76" GC="0.9994">
+                                <Shape>
+                                    <Polygon POINTS="655 578 656 654 656 654 655 578"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_14" CONTENT="n" HPOS="693" VPOS="576" WIDTH="1" HEIGHT="73" GC="0.9349">
+                                <Shape>
+                                    <Polygon POINTS="693 576 694 649 694 649 693 576"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_7" HPOS="724"  VPOS="581" WIDTH="8"  HEIGHT="69"/>
+                        <String ID="segment_8" CONTENT="autre" HPOS="746" VPOS="569" WIDTH="138" HEIGHT="85" WC="0.9424">
+                            <Shape>
+                                <Polygon POINTS="746 580 747 650 884 654 883 575"/>
+                            </Shape>
+                            <Glyph ID="char_16" CONTENT="a" HPOS="746" VPOS="580" WIDTH="1" HEIGHT="70" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="746 580 747 650 747 650 746 580"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_17" CONTENT="u" HPOS="792" VPOS="575" WIDTH="1" HEIGHT="76" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="792 575 793 651 793 651 792 575"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_18" CONTENT="t" HPOS="830" VPOS="571" WIDTH="1" HEIGHT="81" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="830 571 831 652 831 652 830 571"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_19" CONTENT="r" HPOS="853" VPOS="569" WIDTH="1" HEIGHT="84" GC="0.7123">
+                                <Shape>
+                                    <Polygon POINTS="853 569 854 653 854 653 853 569"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_20" CONTENT="e" HPOS="883" VPOS="575" WIDTH="1" HEIGHT="79" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="883 575 884 654 884 654 883 575"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_9" HPOS="906"  VPOS="579" WIDTH="9"  HEIGHT="75"/>
+                        <String ID="segment_10" CONTENT="pour" HPOS="921" VPOS="580" WIDTH="115" HEIGHT="72" WC="0.9999">
+                            <Shape>
+                                <Polygon POINTS="921 580 922 650 1036 645 1035 580"/>
+                            </Shape>
+                            <Glyph ID="char_22" CONTENT="p" HPOS="921" VPOS="580" WIDTH="1" HEIGHT="70" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="921 580 922 650 922 650 921 580"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_23" CONTENT="o" HPOS="974" VPOS="580" WIDTH="1" HEIGHT="72" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="974 580 975 652 975 652 974 580"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_24" CONTENT="u" HPOS="1005" VPOS="580" WIDTH="8" HEIGHT="64" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1005 580 1006 644 1013 644 1012 580"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_25" CONTENT="r" HPOS="1035" VPOS="580" WIDTH="1" HEIGHT="65" GC="0.9997">
+                                <Shape>
+                                    <Polygon POINTS="1035 580 1036 645 1036 645 1035 580"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_11" HPOS="1073"  VPOS="578" WIDTH="1"  HEIGHT="68"/>
+                        <String ID="segment_12" CONTENT="M." HPOS="1088" VPOS="559" WIDTH="93" HEIGHT="91" WC="0.9999">
+                            <Shape>
+                                <Polygon POINTS="1088 573 1089 647 1181 650 1180 561"/>
+                            </Shape>
+                            <Glyph ID="char_27" CONTENT="M" HPOS="1088" VPOS="573" WIDTH="1" HEIGHT="74" GC="0.9997">
+                                <Shape>
+                                    <Polygon POINTS="1088 573 1089 647 1089 647 1088 573"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_28" CONTENT="." HPOS="1172" VPOS="559" WIDTH="9" HEIGHT="91" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1172 559 1173 650 1181 650 1180 561"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_13" HPOS="1187"  VPOS="556" WIDTH="9"  HEIGHT="95"/>
+                        <String ID="segment_14" CONTENT="Le" HPOS="1202" VPOS="547" WIDTH="39" HEIGHT="105" WC="0.9974">
+                            <Shape>
+                                <Polygon POINTS="1202 554 1203 651 1241 652 1240 547"/>
+                            </Shape>
+                            <Glyph ID="char_30" CONTENT="L" HPOS="1202" VPOS="554" WIDTH="1" HEIGHT="97" GC="0.9947">
+                                <Shape>
+                                    <Polygon POINTS="1202 554 1203 651 1203 651 1202 554"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_31" CONTENT="e" HPOS="1240" VPOS="547" WIDTH="1" HEIGHT="105" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1240 547 1241 652 1241 652 1240 547"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_15" HPOS="1271"  VPOS="546" WIDTH="8"  HEIGHT="107"/>
+                        <String ID="segment_16" CONTENT="Duc" HPOS="1294" VPOS="545" WIDTH="99" HEIGHT="111" WC="0.9997">
+                            <Shape>
+                                <Polygon POINTS="1294 546 1295 654 1393 656 1392 545"/>
+                            </Shape>
+                            <Glyph ID="char_33" CONTENT="D" HPOS="1294" VPOS="546" WIDTH="1" HEIGHT="108" GC="0.9991">
+                                <Shape>
+                                    <Polygon POINTS="1294 546 1295 654 1295 654 1294 546"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_34" CONTENT="u" HPOS="1362" VPOS="545" WIDTH="1" HEIGHT="111" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1362 545 1363 656 1363 656 1362 545"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_35" CONTENT="c" HPOS="1392" VPOS="545" WIDTH="1" HEIGHT="111" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1392 545 1393 656 1393 656 1392 545"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_17" HPOS="1415"  VPOS="544" WIDTH="9"  HEIGHT="103"/>
+                        <String ID="segment_18" CONTENT="De" HPOS="1438" VPOS="544" WIDTH="54" HEIGHT="104" WC="0.9835">
+                            <Shape>
+                                <Polygon POINTS="1438 544 1439 639 1492 648 1491 544"/>
+                            </Shape>
+                            <Glyph ID="char_37" CONTENT="D" HPOS="1438" VPOS="544" WIDTH="1" HEIGHT="95" GC="0.998">
+                                <Shape>
+                                    <Polygon POINTS="1438 544 1439 639 1439 639 1438 544"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_38" CONTENT="e" HPOS="1491" VPOS="544" WIDTH="1" HEIGHT="104" GC="0.969">
+                                <Shape>
+                                    <Polygon POINTS="1491 544 1492 648 1492 648 1491 544"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_19" HPOS="1522"  VPOS="552" WIDTH="1"  HEIGHT="102"/>
+                        <String ID="segment_20" CONTENT="Choyseul," HPOS="1537" VPOS="548" WIDTH="290" HEIGHT="104" WC="0.9642">
+                            <Shape>
+                                <Polygon POINTS="1537 556 1538 649 1827 651 1826 548"/>
+                            </Shape>
+                            <Glyph ID="char_40" CONTENT="C" HPOS="1537" VPOS="556" WIDTH="1" HEIGHT="93" GC="0.9957">
+                                <Shape>
+                                    <Polygon POINTS="1537 556 1538 649 1538 649 1537 556"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_41" CONTENT="h" HPOS="1575" VPOS="554" WIDTH="1" HEIGHT="82" GC="0.9948">
+                                <Shape>
+                                    <Polygon POINTS="1575 554 1576 636 1576 636 1575 554"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_42" CONTENT="o" HPOS="1628" VPOS="550" WIDTH="1" HEIGHT="93" GC="0.9933">
+                                <Shape>
+                                    <Polygon POINTS="1628 550 1629 643 1629 643 1628 550"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_43" CONTENT="y" HPOS="1666" VPOS="566" WIDTH="1" HEIGHT="81" GC="0.8256">
+                                <Shape>
+                                    <Polygon POINTS="1666 566 1667 647 1667 647 1666 566"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_44" CONTENT="s" HPOS="1689" VPOS="571" WIDTH="1" HEIGHT="79" GC="0.9897">
+                                <Shape>
+                                    <Polygon POINTS="1689 571 1690 650 1690 650 1689 571"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_45" CONTENT="e" HPOS="1719" VPOS="571" WIDTH="1" HEIGHT="81" GC="0.9872">
+                                <Shape>
+                                    <Polygon POINTS="1719 571 1720 652 1720 652 1719 571"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_46" CONTENT="u" HPOS="1757" VPOS="570" WIDTH="1" HEIGHT="81" GC="0.8951">
+                                <Shape>
+                                    <Polygon POINTS="1757 570 1758 651 1758 651 1757 570"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_47" CONTENT="l" HPOS="1795" VPOS="561" WIDTH="1" HEIGHT="90" GC="0.9983">
+                                <Shape>
+                                    <Polygon POINTS="1795 561 1796 651 1796 651 1795 561"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_48" CONTENT="," HPOS="1826" VPOS="548" WIDTH="1" HEIGHT="103" GC="0.998">
+                                <Shape>
+                                    <Polygon POINTS="1826 548 1827 651 1827 651 1826 548"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_21" HPOS="1833"  VPOS="547" WIDTH="9"  HEIGHT="103"/>
+                        <String ID="segment_22" CONTENT="Enfin" HPOS="1856" VPOS="536" WIDTH="130" HEIGHT="114" WC="0.9998">
+                            <Shape>
+                                <Polygon POINTS="1856 551 1857 650 1986 634 1985 536"/>
+                            </Shape>
+                            <Glyph ID="char_50" CONTENT="E" HPOS="1856" VPOS="551" WIDTH="1" HEIGHT="99" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1856 551 1857 650 1857 650 1856 551"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_51" CONTENT="n" HPOS="1894" VPOS="545" WIDTH="1" HEIGHT="102" GC="0.9991">
+                                <Shape>
+                                    <Polygon POINTS="1894 545 1895 647 1895 647 1894 545"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_52" CONTENT="f" HPOS="1925" VPOS="538" WIDTH="1" HEIGHT="104" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="1925 538 1926 642 1926 642 1925 538"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_53" CONTENT="i" HPOS="1955" VPOS="537" WIDTH="1" HEIGHT="101" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1955 537 1956 638 1956 638 1955 537"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_54" CONTENT="n" HPOS="1985" VPOS="536" WIDTH="1" HEIGHT="98" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="1985 536 1986 634 1986 634 1985 536"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                    </TextLine>
+
+                    <TextLine ID="98aca71b-2bf0-4f71-a15f-0ef1035b000c" HPOS="113.0" VPOS="647.0" WIDTH="1892.0" HEIGHT="120.0" BASELINE="114.0 730.0 2005.0 701.0" TAGREFS="LINE_TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="114.0 730.0 114.0 751.0 246.0 749.0 311.0 767.0 313.0 767.0 315.0 767.0 316.0 767.0 359.0 749.0 407.0 760.0 409.0 760.0 722.0 751.0 740.0 759.0 741.0 759.0 743.0 760.0 869.0 760.0 869.0 759.0 951.0 748.0 1161.0 757.0 1163.0 757.0 1236.0 748.0 1278.0 752.0 1279.0 752.0 1281.0 752.0 1313.0 740.0 1341.0 754.0 1343.0 754.0 1345.0 754.0 1478.0 752.0 1547.0 751.0 1548.0 751.0 1578.0 738.0 1634.0 744.0 1636.0 744.0 1637.0 744.0 1691.0 725.0 2003.0 722.0 2005.0 701.0 2000.0 658.0 1757.0 663.0 1717.0 649.0 1715.0 649.0 1714.0 649.0 1625.0 666.0 1532.0 666.0 1480.0 647.0 1478.0 647.0 1477.0 647.0 1407.0 649.0 1405.0 649.0 1365.0 666.0 1341.0 655.0 1340.0 655.0 1338.0 655.0 1281.0 666.0 1157.0 657.0 1155.0 657.0 1153.0 657.0 1114.0 673.0 961.0 655.0 959.0 655.0 958.0 655.0 923.0 673.0 843.0 679.0 784.0 679.0 735.0 660.0 733.0 660.0 732.0 660.0 612.0 662.0 512.0 684.0 424.0 684.0 315.0 666.0 313.0 666.0 113.0 674.0 114.0 730.0"/>
+                        </Shape>
+                        <String ID="segment_23" CONTENT="Monsieur" HPOS="156" VPOS="667" WIDTH="327" HEIGHT="96" WC="0.9902">
+                            <Shape>
+                                <Polygon POINTS="156 672 157 750 483 758 482 684"/>
+                            </Shape>
+                            <Glyph ID="char_55" CONTENT="M" HPOS="156" VPOS="672" WIDTH="1" HEIGHT="78" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="156 672 157 750 157 750 156 672"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_56" CONTENT="o" HPOS="294" VPOS="667" WIDTH="2" HEIGHT="96" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="294 667 296 763 296 763 294 667"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_57" CONTENT="n" HPOS="330" VPOS="668" WIDTH="1" HEIGHT="93" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="330 668 331 761 331 761 330 668"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_58" CONTENT="s" HPOS="373" VPOS="676" WIDTH="1" HEIGHT="77" GC="0.929">
+                                <Shape>
+                                    <Polygon POINTS="373 676 374 753 374 753 373 676"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_59" CONTENT="i" HPOS="388" VPOS="678" WIDTH="8" HEIGHT="80" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="388 678 389 756 396 758 395 679"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_60" CONTENT="e" HPOS="416" VPOS="683" WIDTH="1" HEIGHT="77" GC="0.9941">
+                                <Shape>
+                                    <Polygon POINTS="416 683 417 760 417 760 416 683"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_61" CONTENT="u" HPOS="453" VPOS="684" WIDTH="1" HEIGHT="75" GC="0.9985">
+                                <Shape>
+                                    <Polygon POINTS="453 684 454 759 454 759 453 684"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_62" CONTENT="r" HPOS="482" VPOS="684" WIDTH="1" HEIGHT="74" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="482 684 483 758 483 758 482 684"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_24" HPOS="539"  VPOS="676" WIDTH="9"  HEIGHT="80"/>
+                        <String ID="segment_25" CONTENT="M^r" HPOS="561" VPOS="661" WIDTH="109" HEIGHT="95" WC="0.8801">
+                            <Shape>
+                                <Polygon POINTS="561 673 562 756 670 752 669 661"/>
+                            </Shape>
+                            <Glyph ID="char_64" CONTENT="M" HPOS="561" VPOS="673" WIDTH="1" HEIGHT="83" GC="0.6406">
+                                <Shape>
+                                    <Polygon POINTS="561 673 562 756 562 756 561 673"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_65" CONTENT="^" HPOS="655" VPOS="661" WIDTH="1" HEIGHT="92" GC="0.9998">
+                                <Shape>
+                                    <Polygon POINTS="655 661 656 753 656 753 655 661"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_66" CONTENT="r" HPOS="662" VPOS="661" WIDTH="8" HEIGHT="92" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="662 661 663 753 670 752 669 661"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_26" HPOS="684"  VPOS="661" WIDTH="8"  HEIGHT="91"/>
+                        <String ID="segment_27" CONTENT="Provenchere" HPOS="698" VPOS="658" WIDTH="348" HEIGHT="102" WC="0.9661">
+                            <Shape>
+                                <Polygon POINTS="698 661 699 752 1046 752 1045 665"/>
+                            </Shape>
+                            <Glyph ID="char_68" CONTENT="P" HPOS="698" VPOS="661" WIDTH="1" HEIGHT="91" GC="0.9948">
+                                <Shape>
+                                    <Polygon POINTS="698 661 699 752 699 752 698 661"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_69" CONTENT="r" HPOS="749" VPOS="665" WIDTH="2" HEIGHT="95" GC="0.9953">
+                                <Shape>
+                                    <Polygon POINTS="749 665 751 760 751 760 749 665"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_70" CONTENT="o" HPOS="778" VPOS="677" WIDTH="2" HEIGHT="83" GC="0.9949">
+                                <Shape>
+                                    <Polygon POINTS="778 677 780 760 780 760 778 677"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_71" CONTENT="v" HPOS="814" VPOS="679" WIDTH="2" HEIGHT="81" GC="0.9886">
+                                <Shape>
+                                    <Polygon POINTS="814 679 816 760 816 760 814 679"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_72" CONTENT="e" HPOS="850" VPOS="678" WIDTH="2" HEIGHT="82" GC="0.9906">
+                                <Shape>
+                                    <Polygon POINTS="850 678 852 760 852 760 850 678"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_73" CONTENT="n" HPOS="886" VPOS="676" WIDTH="1" HEIGHT="81" GC="0.9935">
+                                <Shape>
+                                    <Polygon POINTS="886 676 887 757 887 757 886 676"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_74" CONTENT="c" HPOS="922" VPOS="673" WIDTH="1" HEIGHT="79" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="922 673 923 752 923 752 922 673"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_75" CONTENT="h" HPOS="951" VPOS="659" WIDTH="1" HEIGHT="89" GC="0.9494">
+                                <Shape>
+                                    <Polygon POINTS="951 659 952 748 952 748 951 659"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_76" CONTENT="e" HPOS="987" VPOS="658" WIDTH="1" HEIGHT="92" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="987 658 988 750 988 750 987 658"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_77" CONTENT="r" HPOS="1016" VPOS="661" WIDTH="1" HEIGHT="90" GC="0.7196">
+                                <Shape>
+                                    <Polygon POINTS="1016 661 1017 751 1017 751 1016 661"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_78" CONTENT="e" HPOS="1045" VPOS="665" WIDTH="1" HEIGHT="87" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1045 665 1046 752 1046 752 1045 665"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_28" HPOS="1096"  VPOS="671" WIDTH="8"  HEIGHT="84"/>
+                        <String ID="segment_29" CONTENT="se" HPOS="1117" VPOS="657" WIDTH="46" HEIGHT="100" WC="1.0">
+                            <Shape>
+                                <Polygon POINTS="1117 672 1119 755 1163 757 1161 657"/>
+                            </Shape>
+                            <Glyph ID="char_80" CONTENT="s" HPOS="1117" VPOS="672" WIDTH="2" HEIGHT="83" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="1117 672 1119 755 1119 755 1117 672"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_81" CONTENT="e" HPOS="1161" VPOS="657" WIDTH="2" HEIGHT="100" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1161 657 1163 757 1163 757 1161 657"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_30" HPOS="1182"  VPOS="659" WIDTH="2"  HEIGHT="95"/>
+                        <String ID="segment_31" CONTENT="porte" HPOS="1197" VPOS="656" WIDTH="138" HEIGHT="97" WC="0.9982">
+                            <Shape>
+                                <Polygon POINTS="1197 660 1198 753 1335 751 1334 656"/>
+                            </Shape>
+                            <Glyph ID="char_83" CONTENT="p" HPOS="1197" VPOS="660" WIDTH="1" HEIGHT="93" GC="0.9922">
+                                <Shape>
+                                    <Polygon POINTS="1197 660 1198 753 1198 753 1197 660"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_84" CONTENT="o" HPOS="1240" VPOS="663" WIDTH="1" HEIGHT="86" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1240 663 1241 749 1241 749 1240 663"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_85" CONTENT="r" HPOS="1269" VPOS="665" WIDTH="1" HEIGHT="86" GC="0.999">
+                                <Shape>
+                                    <Polygon POINTS="1269 665 1270 751 1270 751 1269 665"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_86" CONTENT="t" HPOS="1305" VPOS="661" WIDTH="1" HEIGHT="82" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1305 661 1306 743 1306 743 1305 661"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_87" CONTENT="e" HPOS="1334" VPOS="656" WIDTH="1" HEIGHT="95" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="1334 656 1335 751 1335 751 1334 656"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_32" HPOS="1363"  VPOS="664" WIDTH="9"  HEIGHT="90"/>
+                        <String ID="segment_33" CONTENT="bien" HPOS="1377" VPOS="647" WIDTH="103" HEIGHT="106" WC="0.9999">
+                            <Shape>
+                                <Polygon POINTS="1377 661 1379 753 1480 752 1479 647"/>
+                            </Shape>
+                            <Glyph ID="char_89" CONTENT="b" HPOS="1377" VPOS="661" WIDTH="2" HEIGHT="92" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1377 661 1379 753 1379 753 1377 661"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_90" CONTENT="i" HPOS="1421" VPOS="648" WIDTH="9" HEIGHT="105" GC="0.9996">
+                                <Shape>
+                                    <Polygon POINTS="1421 649 1423 753 1430 753 1428 648"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_91" CONTENT="e" HPOS="1450" VPOS="648" WIDTH="2" HEIGHT="104" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1450 648 1452 752 1452 752 1450 648"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_92" CONTENT="n" HPOS="1479" VPOS="647" WIDTH="1" HEIGHT="105" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1479 647 1480 752 1480 752 1479 647"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_34" HPOS="1529"  VPOS="665" WIDTH="8"  HEIGHT="86"/>
+                        <String ID="segment_35" CONTENT="jl" HPOS="1551" VPOS="666" WIDTH="30" HEIGHT="83" WC="0.9819">
+                            <Shape>
+                                <Polygon POINTS="1551 666 1552 749 1581 738 1580 666"/>
+                            </Shape>
+                            <Glyph ID="char_94" CONTENT="j" HPOS="1551" VPOS="666" WIDTH="1" HEIGHT="83" GC="0.9896">
+                                <Shape>
+                                    <Polygon POINTS="1551 666 1552 749 1552 749 1551 666"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_95" CONTENT="l" HPOS="1580" VPOS="666" WIDTH="1" HEIGHT="72" GC="0.9743">
+                                <Shape>
+                                    <Polygon POINTS="1580 666 1581 738 1581 738 1580 666"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_36" HPOS="1616"  VPOS="666" WIDTH="8"  HEIGHT="77"/>
+                        <String ID="segment_37" CONTENT="est" HPOS="1637" VPOS="651" WIDTH="67" HEIGHT="93" WC="0.9985">
+                            <Shape>
+                                <Polygon POINTS="1637 664 1638 744 1704 725 1703 651"/>
+                            </Shape>
+                            <Glyph ID="char_97" CONTENT="e" HPOS="1637" VPOS="664" WIDTH="1" HEIGHT="80" GC="0.9995">
+                                <Shape>
+                                    <Polygon POINTS="1637 664 1638 744 1638 744 1637 664"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_98" CONTENT="s" HPOS="1674" VPOS="657" WIDTH="1" HEIGHT="74" GC="0.9963">
+                                <Shape>
+                                    <Polygon POINTS="1674 657 1675 731 1675 731 1674 657"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_99" CONTENT="t" HPOS="1695" VPOS="651" WIDTH="9" HEIGHT="74" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="1695 653 1696 725 1704 725 1703 651"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_38" HPOS="1731"  VPOS="654" WIDTH="9"  HEIGHT="71"/>
+                        <String ID="segment_39" CONTENT="joyeux" HPOS="1753" VPOS="659" WIDTH="203" HEIGHT="65" WC="0.9273">
+                            <Shape>
+                                <Polygon POINTS="1753 662 1754 724 1956 722 1955 659"/>
+                            </Shape>
+                            <Glyph ID="char_101" CONTENT="j" HPOS="1753" VPOS="662" WIDTH="1" HEIGHT="62" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1753 662 1754 724 1754 724 1753 662"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_102" CONTENT="o" HPOS="1782" VPOS="662" WIDTH="8" HEIGHT="62" GC="0.997">
+                                <Shape>
+                                    <Polygon POINTS="1782 662 1783 724 1790 724 1789 662"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_103" CONTENT="y" HPOS="1825" VPOS="662" WIDTH="1" HEIGHT="62" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="1825 662 1826 724 1826 724 1825 662"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_104" CONTENT="e" HPOS="1869" VPOS="661" WIDTH="1" HEIGHT="62" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1869 661 1870 723 1870 723 1869 661"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_105" CONTENT="u" HPOS="1905" VPOS="660" WIDTH="1" HEIGHT="63" GC="0.5673">
+                                <Shape>
+                                    <Polygon POINTS="1905 660 1906 723 1906 723 1905 660"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_106" CONTENT="x" HPOS="1955" VPOS="659" WIDTH="1" HEIGHT="63" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="1955 659 1956 722 1956 722 1955 659"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                    </TextLine>
+
+                    <TextLine ID="04381c51-12e9-4827-ab35-d08dc5a8042d" HPOS="136.0" VPOS="732.0" WIDTH="1887.0" HEIGHT="129.0" BASELINE="138.0 814.0 849.0 813.0 2023.0 787.0" TAGREFS="LINE_TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="138.0 814.0 140.0 861.0 198.0 835.0 237.0 835.0 405.0 840.0 407.0 840.0 464.0 832.0 536.0 853.0 538.0 853.0 539.0 854.0 620.0 854.0 620.0 853.0 724.0 832.0 803.0 838.0 805.0 838.0 807.0 838.0 834.0 826.0 905.0 845.0 907.0 845.0 908.0 845.0 978.0 832.0 1103.0 845.0 1104.0 845.0 1217.0 841.0 1219.0 841.0 1260.0 829.0 1403.0 834.0 1405.0 834.0 1529.0 822.0 1577.0 832.0 1578.0 832.0 1580.0 832.0 1625.0 818.0 1803.0 824.0 1805.0 824.0 1908.0 806.0 2023.0 805.0 2023.0 787.0 2018.0 746.0 1922.0 752.0 1867.0 732.0 1865.0 732.0 1781.0 732.0 1779.0 732.0 1777.0 732.0 1679.0 759.0 1392.0 760.0 1349.0 743.0 1348.0 743.0 1346.0 743.0 1345.0 743.0 1274.0 765.0 1181.0 765.0 1130.0 751.0 1128.0 751.0 1015.0 744.0 1013.0 744.0 1012.0 744.0 978.0 756.0 929.0 746.0 927.0 746.0 926.0 746.0 869.0 770.0 786.0 764.0 784.0 764.0 709.0 773.0 646.0 757.0 644.0 757.0 643.0 757.0 641.0 757.0 617.0 770.0 568.0 760.0 566.0 760.0 565.0 760.0 539.0 768.0 405.0 760.0 404.0 760.0 370.0 767.0 334.0 756.0 332.0 756.0 331.0 756.0 203.0 759.0 136.0 775.0 138.0 814.0"/>
+                        </Shape>
+                        <String ID="segment_40" CONTENT="Et" HPOS="187" VPOS="758" WIDTH="55" HEIGHT="82" WC="1.0">
+                            <Shape>
+                                <Polygon POINTS="187 763 187 840 242 835 242 758"/>
+                            </Shape>
+                            <Glyph ID="char_107" CONTENT="E" HPOS="187" VPOS="763" WIDTH="0" HEIGHT="77" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="187 763 187 840 187 840 187 763"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_108" CONTENT="t" HPOS="242" VPOS="758" WIDTH="0" HEIGHT="77" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="242 758 242 835 242 835 242 758"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_41" HPOS="270"  VPOS="757" WIDTH="7"  HEIGHT="79"/>
+                        <String ID="segment_42" CONTENT="content," HPOS="291" VPOS="756" WIDTH="257" HEIGHT="98" WC="0.9767">
+                            <Shape>
+                                <Polygon POINTS="291 757 291 837 548 854 548 765"/>
+                            </Shape>
+                            <Glyph ID="char_110" CONTENT="c" HPOS="291" VPOS="757" WIDTH="0" HEIGHT="80" GC="0.9996">
+                                <Shape>
+                                    <Polygon POINTS="291 757 291 837 291 837 291 757"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_111" CONTENT="o" HPOS="332" VPOS="756" WIDTH="0" HEIGHT="82" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="332 756 332 838 332 838 332 756"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_112" CONTENT="n" HPOS="374" VPOS="766" WIDTH="0" HEIGHT="73" GC="0.9635">
+                                <Shape>
+                                    <Polygon POINTS="374 766 374 839 374 839 374 766"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_113" CONTENT="t" HPOS="402" VPOS="760" WIDTH="0" HEIGHT="80" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="402 760 402 840 402 840 402 760"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_114" CONTENT="e" HPOS="430" VPOS="761" WIDTH="0" HEIGHT="76" GC="0.999">
+                                <Shape>
+                                    <Polygon POINTS="430 761 430 837 430 837 430 761"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_115" CONTENT="n" HPOS="471" VPOS="764" WIDTH="0" HEIGHT="70" GC="0.8519">
+                                <Shape>
+                                    <Polygon POINTS="471 764 471 834 471 834 471 764"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_116" CONTENT="t" HPOS="499" VPOS="766" WIDTH="0" HEIGHT="76" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="499 766 499 842 499 842 499 766"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_117" CONTENT="," HPOS="548" VPOS="765" WIDTH="0" HEIGHT="89" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="548 765 548 854 548 854 548 765"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_43" HPOS="561"  VPOS="760" WIDTH="7"  HEIGHT="94"/>
+                        <String ID="segment_44" CONTENT="et" HPOS="582" VPOS="763" WIDTH="35" HEIGHT="91" WC="1.0">
+                            <Shape>
+                                <Polygon POINTS="582 763 582 854 617 854 617 770"/>
+                            </Shape>
+                            <Glyph ID="char_119" CONTENT="e" HPOS="582" VPOS="763" WIDTH="0" HEIGHT="91" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="582 763 582 854 582 854 582 763"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_120" CONTENT="t" HPOS="617" VPOS="770" WIDTH="0" HEIGHT="84" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="617 770 617 854 617 854 617 770"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_45" HPOS="645"  VPOS="757" WIDTH="7"  HEIGHT="91"/>
+                        <String ID="segment_46" CONTENT="je" HPOS="666" VPOS="762" WIDTH="27" HEIGHT="82" WC="0.9302">
+                            <Shape>
+                                <Polygon POINTS="666 762 666 844 693 838 693 769"/>
+                            </Shape>
+                            <Glyph ID="char_122" CONTENT="j" HPOS="666" VPOS="762" WIDTH="0" HEIGHT="82" GC="0.8605">
+                                <Shape>
+                                    <Polygon POINTS="666 762 666 844 666 844 666 762"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_123" CONTENT="e" HPOS="693" VPOS="769" WIDTH="0" HEIGHT="69" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="693 769 693 838 693 838 693 769"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_47" HPOS="714"  VPOS="772" WIDTH="7"  HEIGHT="62"/>
+                        <String ID="segment_48" CONTENT="vous" HPOS="735" VPOS="766" WIDTH="104" HEIGHT="70" WC="1.0">
+                            <Shape>
+                                <Polygon POINTS="735 770 735 833 839 827 839 768"/>
+                            </Shape>
+                            <Glyph ID="char_125" CONTENT="v" HPOS="735" VPOS="770" WIDTH="0" HEIGHT="63" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="735 770 735 833 735 833 735 770"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_126" CONTENT="o" HPOS="770" VPOS="766" WIDTH="0" HEIGHT="69" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="770 766 770 835 770 835 770 766"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_127" CONTENT="u" HPOS="811" VPOS="766" WIDTH="0" HEIGHT="70" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="811 766 811 836 811 836 811 766"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_128" CONTENT="s" HPOS="839" VPOS="768" WIDTH="0" HEIGHT="59" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="839 768 839 827 839 827 839 768"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_49" HPOS="859"  VPOS="769" WIDTH="8"  HEIGHT="66"/>
+                        <String ID="segment_50" CONTENT="Reytere" HPOS="873" VPOS="744" WIDTH="238" HEIGHT="101" WC="0.9996">
+                            <Shape>
+                                <Polygon POINTS="873 768 875 837 1111 845 1109 750"/>
+                            </Shape>
+                            <Glyph ID="char_130" CONTENT="R" HPOS="873" VPOS="768" WIDTH="2" HEIGHT="69" GC="0.9986">
+                                <Shape>
+                                    <Polygon POINTS="873 768 875 837 875 837 873 768"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_131" CONTENT="e" HPOS="949" VPOS="750" WIDTH="2" HEIGHT="87" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="949 750 951 837 951 837 949 750"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_132" CONTENT="y" HPOS="991" VPOS="752" WIDTH="1" HEIGHT="82" GC="0.9997">
+                                <Shape>
+                                    <Polygon POINTS="991 752 992 834 992 834 991 752"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_133" CONTENT="t" HPOS="1019" VPOS="744" WIDTH="2" HEIGHT="92" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1019 744 1021 836 1021 836 1019 744"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_134" CONTENT="e" HPOS="1046" VPOS="746" WIDTH="2" HEIGHT="93" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1046 746 1048 839 1048 839 1046 746"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_135" CONTENT="r" HPOS="1074" VPOS="748" WIDTH="2" HEIGHT="94" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="1074 748 1076 842 1076 842 1074 748"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_136" CONTENT="e" HPOS="1102" VPOS="749" WIDTH="9" HEIGHT="96" GC="0.9992">
+                                <Shape>
+                                    <Polygon POINTS="1102 749 1104 845 1111 845 1109 750"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_51" HPOS="1150"  VPOS="756" WIDTH="9"  HEIGHT="87"/>
+                        <String ID="segment_52" CONTENT="que" HPOS="1171" VPOS="762" WIDTH="85" HEIGHT="81" WC="1.0">
+                            <Shape>
+                                <Polygon POINTS="1171 762 1173 843 1256 830 1255 765"/>
+                            </Shape>
+                            <Glyph ID="char_138" CONTENT="q" HPOS="1171" VPOS="762" WIDTH="2" HEIGHT="81" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1171 762 1173 843 1173 843 1171 762"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_139" CONTENT="u" HPOS="1227" VPOS="765" WIDTH="2" HEIGHT="73" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="1227 765 1229 838 1229 838 1227 765"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_140" CONTENT="e" HPOS="1255" VPOS="765" WIDTH="1" HEIGHT="65" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1255 765 1256 830 1256 830 1255 765"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_53" HPOS="1282"  VPOS="760" WIDTH="8"  HEIGHT="70"/>
+                        <String ID="segment_54" CONTENT="sans" HPOS="1303" VPOS="743" WIDTH="127" HEIGHT="91" WC="0.9971">
+                            <Shape>
+                                <Polygon POINTS="1303 756 1304 831 1430 832 1428 760"/>
+                            </Shape>
+                            <Glyph ID="char_142" CONTENT="s" HPOS="1303" VPOS="756" WIDTH="1" HEIGHT="75" GC="0.9931">
+                                <Shape>
+                                    <Polygon POINTS="1303 756 1304 831 1304 831 1303 756"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_143" CONTENT="a" HPOS="1345" VPOS="743" WIDTH="2" HEIGHT="89" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1345 743 1347 832 1347 832 1345 743"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_144" CONTENT="n" HPOS="1400" VPOS="760" WIDTH="2" HEIGHT="74" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="1400 760 1402 834 1402 834 1400 760"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_145" CONTENT="s" HPOS="1428" VPOS="760" WIDTH="2" HEIGHT="72" GC="0.9955">
+                                <Shape>
+                                    <Polygon POINTS="1428 760 1430 832 1430 832 1428 760"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_55" HPOS="1449"  VPOS="760" WIDTH="2"  HEIGHT="70"/>
+                        <String ID="segment_56" CONTENT="pas" HPOS="1463" VPOS="759" WIDTH="106" HEIGHT="71" WC="0.9873">
+                            <Shape>
+                                <Polygon POINTS="1463 760 1464 828 1569 830 1567 759"/>
+                            </Shape>
+                            <Glyph ID="char_147" CONTENT="p" HPOS="1463" VPOS="760" WIDTH="1" HEIGHT="68" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1463 760 1464 828 1464 828 1463 760"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_148" CONTENT="a" HPOS="1525" VPOS="760" WIDTH="1" HEIGHT="62" GC="0.9775">
+                                <Shape>
+                                    <Polygon POINTS="1525 760 1526 822 1526 822 1525 760"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_149" CONTENT="s" HPOS="1567" VPOS="759" WIDTH="2" HEIGHT="71" GC="0.9846">
+                                <Shape>
+                                    <Polygon POINTS="1567 759 1569 830 1569 830 1567 759"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_57" HPOS="1588"  VPOS="759" WIDTH="8"  HEIGHT="70"/>
+                        <String ID="segment_58" CONTENT="une" HPOS="1615" VPOS="755" WIDTH="78" HEIGHT="66" WC="0.9926">
+                            <Shape>
+                                <Polygon POINTS="1615 759 1616 821 1693 820 1692 755"/>
+                            </Shape>
+                            <Glyph ID="char_151" CONTENT="u" HPOS="1615" VPOS="759" WIDTH="8" HEIGHT="62" GC="0.9979">
+                                <Shape>
+                                    <Polygon POINTS="1615 759 1616 821 1623 819 1622 759"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_152" CONTENT="n" HPOS="1657" VPOS="759" WIDTH="1" HEIGHT="60" GC="0.9985">
+                                <Shape>
+                                    <Polygon POINTS="1657 759 1658 819 1658 819 1657 759"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_153" CONTENT="e" HPOS="1692" VPOS="755" WIDTH="1" HEIGHT="65" GC="0.9815">
+                                <Shape>
+                                    <Polygon POINTS="1692 755 1693 820 1693 820 1692 755"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_59" HPOS="1727"  VPOS="744" WIDTH="7"  HEIGHT="78"/>
+                        <String ID="segment_60" CONTENT="Reserve" HPOS="1740" VPOS="732" WIDTH="230" HEIGHT="90" WC="0.9991">
+                            <Shape>
+                                <Polygon POINTS="1740 742 1741 822 1970 805 1969 749"/>
+                            </Shape>
+                            <Glyph ID="char_155" CONTENT="R" HPOS="1740" VPOS="742" WIDTH="1" HEIGHT="80" GC="0.9966">
+                                <Shape>
+                                    <Polygon POINTS="1740 742 1741 822 1741 822 1740 742"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_156" CONTENT="e" HPOS="1823" VPOS="732" WIDTH="2" HEIGHT="88" GC="0.9998">
+                                <Shape>
+                                    <Polygon POINTS="1823 732 1825 820 1825 820 1823 732"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_157" CONTENT="s" HPOS="1850" VPOS="732" WIDTH="2" HEIGHT="84" GC="0.9992">
+                                <Shape>
+                                    <Polygon POINTS="1850 732 1852 816 1852 816 1850 732"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_158" CONTENT="e" HPOS="1886" VPOS="739" WIDTH="1" HEIGHT="71" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="1886 739 1887 810 1887 810 1886 739"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_159" CONTENT="r" HPOS="1914" VPOS="749" WIDTH="1" HEIGHT="57" GC="0.9993">
+                                <Shape>
+                                    <Polygon POINTS="1914 749 1915 806 1915 806 1914 749"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_160" CONTENT="v" HPOS="1942" VPOS="751" WIDTH="1" HEIGHT="55" GC="0.9998">
+                                <Shape>
+                                    <Polygon POINTS="1942 751 1943 806 1943 806 1942 751"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_161" CONTENT="e" HPOS="1969" VPOS="749" WIDTH="1" HEIGHT="56" GC="0.999">
+                                <Shape>
+                                    <Polygon POINTS="1969 749 1970 805 1970 805 1969 749"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                    </TextLine>
+
+                    <TextLine ID="8091e24b-76f5-4d61-8e8f-d2245faecf48" HPOS="127.0" VPOS="830.0" WIDTH="1908.0" HEIGHT="99.0" BASELINE="128.0 900.0 1618.0 889.0 2035.0 878.0" TAGREFS="LINE_TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="128.0 900.0 128.0 929.0 311.0 915.0 458.0 926.0 460.0 926.0 530.0 912.0 587.0 912.0 614.0 923.0 615.0 923.0 617.0 923.0 668.0 913.0 837.0 923.0 838.0 923.0 892.0 912.0 1002.0 923.0 1004.0 923.0 1206.0 908.0 1343.0 915.0 1345.0 915.0 1434.0 902.0 1526.0 912.0 1528.0 912.0 1730.0 905.0 1808.0 915.0 1809.0 915.0 1937.0 897.0 2035.0 897.0 2035.0 878.0 2032.0 849.0 1822.0 830.0 1820.0 830.0 1723.0 851.0 1563.0 832.0 1561.0 832.0 1481.0 834.0 1480.0 834.0 1418.0 853.0 1372.0 853.0 1332.0 835.0 1330.0 835.0 1329.0 835.0 1150.0 856.0 986.0 838.0 985.0 838.0 983.0 838.0 943.0 857.0 859.0 845.0 857.0 845.0 856.0 845.0 800.0 861.0 378.0 862.0 264.0 845.0 178.0 845.0 176.0 845.0 127.0 856.0 128.0 900.0"/>
+                        </Shape>
+                        <String ID="segment_61" CONTENT="tous" HPOS="209" VPOS="845" WIDTH="99" HEIGHT="78" WC="1.0">
+                            <Shape>
+                                <Polygon POINTS="209 845 209 923 308 915 308 852"/>
+                            </Shape>
+                            <Glyph ID="char_162" CONTENT="t" HPOS="209" VPOS="845" WIDTH="0" HEIGHT="78" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="209 845 209 923 209 923 209 845"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_163" CONTENT="o" HPOS="238" VPOS="845" WIDTH="0" HEIGHT="76" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="238 845 238 921 238 921 238 845"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_164" CONTENT="u" HPOS="279" VPOS="847" WIDTH="0" HEIGHT="70" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="279 847 279 917 279 917 279 847"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_165" CONTENT="s" HPOS="308" VPOS="852" WIDTH="0" HEIGHT="63" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="308 852 308 915 308 915 308 852"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_62" HPOS="325"  VPOS="854" WIDTH="6"  HEIGHT="63"/>
+                        <String ID="segment_63" CONTENT="mes" HPOS="360" VPOS="859" WIDTH="81" HEIGHT="66" WC="0.8974">
+                            <Shape>
+                                <Polygon POINTS="360 859 360 919 441 925 441 862"/>
+                            </Shape>
+                            <Glyph ID="char_167" CONTENT="m" HPOS="360" VPOS="859" WIDTH="0" HEIGHT="60" GC="0.9995">
+                                <Shape>
+                                    <Polygon POINTS="360 859 360 919 360 919 360 859"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_168" CONTENT="e" HPOS="407" VPOS="862" WIDTH="0" HEIGHT="60" GC="0.6927">
+                                <Shape>
+                                    <Polygon POINTS="407 862 407 922 407 922 407 862"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_169" CONTENT="s" HPOS="441" VPOS="862" WIDTH="0" HEIGHT="63" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="441 862 441 925 441 925 441 862"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_64" HPOS="459"  VPOS="862" WIDTH="0"  HEIGHT="64"/>
+                        <String ID="segment_65" CONTENT="pouvoirs" HPOS="476" VPOS="861" WIDTH="250" HEIGHT="62" WC="0.9991">
+                            <Shape>
+                                <Polygon POINTS="476 862 476 923 726 916 726 861"/>
+                            </Shape>
+                            <Glyph ID="char_171" CONTENT="p" HPOS="476" VPOS="862" WIDTH="0" HEIGHT="61" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="476 862 476 923 476 923 476 862"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_172" CONTENT="o" HPOS="523" VPOS="862" WIDTH="0" HEIGHT="51" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="523 862 523 913 523 913 523 862"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_173" CONTENT="u" HPOS="569" VPOS="862" WIDTH="0" HEIGHT="50" GC="0.9942">
+                                <Shape>
+                                    <Polygon POINTS="569 862 569 912 569 912 569 862"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_174" CONTENT="v" HPOS="604" VPOS="861" WIDTH="0" HEIGHT="58" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="604 861 604 919 604 919 604 861"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_175" CONTENT="o" HPOS="633" VPOS="861" WIDTH="0" HEIGHT="59" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="633 861 633 920 633 920 633 861"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_176" CONTENT="i" HPOS="662" VPOS="861" WIDTH="6" HEIGHT="53" GC="0.9988">
+                                <Shape>
+                                    <Polygon POINTS="662 861 662 914 668 913 668 861"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_177" CONTENT="r" HPOS="697" VPOS="861" WIDTH="0" HEIGHT="54" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="697 861 697 915 697 915 697 861"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_178" CONTENT="s" HPOS="726" VPOS="861" WIDTH="0" HEIGHT="55" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="726 861 726 916 726 916 726 861"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_66" HPOS="784"  VPOS="861" WIDTH="5"  HEIGHT="59"/>
+                        <String ID="segment_67" CONTENT="sont" HPOS="801" VPOS="847" WIDTH="116" HEIGHT="74" WC="0.9997">
+                            <Shape>
+                                <Polygon POINTS="801 861 801 921 917 915 917 853"/>
+                            </Shape>
+                            <Glyph ID="char_180" CONTENT="s" HPOS="801" VPOS="861" WIDTH="0" HEIGHT="60" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="801 861 801 921 801 921 801 861"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_181" CONTENT="o" HPOS="848" VPOS="847" WIDTH="0" HEIGHT="74" GC="0.9997">
+                                <Shape>
+                                    <Polygon POINTS="848 847 848 921 848 921 848 847"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_182" CONTENT="n" HPOS="888" VPOS="849" WIDTH="0" HEIGHT="64" GC="0.999">
+                                <Shape>
+                                    <Polygon POINTS="888 849 888 913 888 913 888 849"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_183" CONTENT="t" HPOS="917" VPOS="853" WIDTH="0" HEIGHT="62" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="917 853 917 915 917 915 917 853"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_68" HPOS="940"  VPOS="856" WIDTH="6"  HEIGHT="61"/>
+                        <String ID="segment_69" CONTENT="entierement" HPOS="958" VPOS="838" WIDTH="348" HEIGHT="85" WC="0.9853">
+                            <Shape>
+                                <Polygon POINTS="958 850 958 919 1306 913 1306 838"/>
+                            </Shape>
+                            <Glyph ID="char_185" CONTENT="e" HPOS="958" VPOS="850" WIDTH="0" HEIGHT="69" GC="0.9727">
+                                <Shape>
+                                    <Polygon POINTS="958 850 958 919 958 919 958 850"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_186" CONTENT="n" HPOS="998" VPOS="839" WIDTH="0" HEIGHT="84" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="998 839 998 923 998 923 998 839"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_187" CONTENT="t" HPOS="1039" VPOS="844" WIDTH="0" HEIGHT="76" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1039 844 1039 920 1039 920 1039 844"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_188" CONTENT="i" HPOS="1062" VPOS="846" WIDTH="0" HEIGHT="73" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1062 846 1062 919 1062 919 1062 846"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_189" CONTENT="e" HPOS="1085" VPOS="849" WIDTH="0" HEIGHT="68" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="1085 849 1085 917 1085 917 1085 849"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_190" CONTENT="r" HPOS="1114" VPOS="852" WIDTH="0" HEIGHT="63" GC="0.9994">
+                                <Shape>
+                                    <Polygon POINTS="1114 852 1114 915 1114 915 1114 852"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_191" CONTENT="e" HPOS="1143" VPOS="855" WIDTH="0" HEIGHT="58" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1143 855 1143 913 1143 913 1143 855"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_192" CONTENT="m" HPOS="1190" VPOS="851" WIDTH="0" HEIGHT="58" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1190 851 1190 909 1190 909 1190 851"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_193" CONTENT="e" HPOS="1230" VPOS="847" WIDTH="0" HEIGHT="62" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="1230 847 1230 909 1230 909 1230 847"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_194" CONTENT="n" HPOS="1265" VPOS="843" WIDTH="0" HEIGHT="68" GC="0.8669">
+                                <Shape>
+                                    <Polygon POINTS="1265 843 1265 911 1265 911 1265 843"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_195" CONTENT="t" HPOS="1306" VPOS="838" WIDTH="0" HEIGHT="75" GC="0.9997">
+                                <Shape>
+                                    <Polygon POINTS="1306 838 1306 913 1306 913 1306 838"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_70" HPOS="1352"  VPOS="844" WIDTH="6"  HEIGHT="70"/>
+                        <String ID="segment_71" CONTENT="à" HPOS="1376" VPOS="853" WIDTH="23" HEIGHT="57" WC="1.0">
+                            <Shape>
+                                <Polygon POINTS="1376 853 1376 910 1399 907 1399 853"/>
+                            </Shape>
+                            <Glyph ID="char_197" CONTENT="a" HPOS="1376" VPOS="853" WIDTH="0" HEIGHT="57" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1376 853 1376 910 1376 910 1376 853"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_198" CONTENT="̀" HPOS="1393" VPOS="853" WIDTH="6" HEIGHT="55" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1393 853 1393 908 1399 907 1399 853"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_72" HPOS="1410"  VPOS="853" WIDTH="6"  HEIGHT="52"/>
+                        <String ID="segment_73" CONTENT="son" HPOS="1428" VPOS="833" WIDTH="81" HEIGHT="77" WC="0.9906">
+                            <Shape>
+                                <Polygon POINTS="1428 850 1428 903 1509 910 1509 833"/>
+                            </Shape>
+                            <Glyph ID="char_200" CONTENT="s" HPOS="1428" VPOS="850" WIDTH="0" HEIGHT="53" GC="0.9985">
+                                <Shape>
+                                    <Polygon POINTS="1428 850 1428 903 1428 903 1428 850"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_201" CONTENT="o" HPOS="1474" VPOS="836" WIDTH="0" HEIGHT="70" GC="0.9967">
+                                <Shape>
+                                    <Polygon POINTS="1474 836 1474 906 1474 906 1474 836"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_202" CONTENT="n" HPOS="1509" VPOS="833" WIDTH="0" HEIGHT="77" GC="0.9766">
+                                <Shape>
+                                    <Polygon POINTS="1509 833 1509 910 1509 910 1509 833"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_74" HPOS="1544"  VPOS="832" WIDTH="6"  HEIGHT="79"/>
+                        <String ID="segment_75" CONTENT="service," HPOS="1561" VPOS="832" WIDTH="245" HEIGHT="83" WC="0.989">
+                            <Shape>
+                                <Polygon POINTS="1561 832 1561 911 1806 915 1804 834"/>
+                            </Shape>
+                            <Glyph ID="char_204" CONTENT="s" HPOS="1561" VPOS="832" WIDTH="0" HEIGHT="79" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1561 832 1561 911 1561 911 1561 832"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_205" CONTENT="e" HPOS="1608" VPOS="837" WIDTH="0" HEIGHT="72" GC="0.9998">
+                                <Shape>
+                                    <Polygon POINTS="1608 837 1608 909 1608 909 1608 837"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_206" CONTENT="r" HPOS="1636" VPOS="841" WIDTH="1" HEIGHT="67" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="1636 841 1637 908 1637 908 1636 841"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_207" CONTENT="v" HPOS="1670" VPOS="845" WIDTH="1" HEIGHT="62" GC="0.9795">
+                                <Shape>
+                                    <Polygon POINTS="1670 845 1671 907 1671 907 1670 845"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_208" CONTENT="i" HPOS="1705" VPOS="849" WIDTH="1" HEIGHT="57" GC="0.9997">
+                                <Shape>
+                                    <Polygon POINTS="1705 849 1706 906 1706 906 1705 849"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_209" CONTENT="c" HPOS="1734" VPOS="849" WIDTH="1" HEIGHT="57" GC="0.9336">
+                                <Shape>
+                                    <Polygon POINTS="1734 849 1735 906 1735 906 1734 849"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_210" CONTENT="e" HPOS="1763" VPOS="842" WIDTH="2" HEIGHT="67" GC="0.9995">
+                                <Shape>
+                                    <Polygon POINTS="1763 842 1765 909 1765 909 1763 842"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_211" CONTENT="," HPOS="1804" VPOS="834" WIDTH="2" HEIGHT="81" GC="0.9998">
+                                <Shape>
+                                    <Polygon POINTS="1804 834 1806 915 1806 915 1804 834"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_76" HPOS="1810"  VPOS="831" WIDTH="8"  HEIGHT="84"/>
+                        <String ID="segment_77" CONTENT="et" HPOS="1820" VPOS="830" WIDTH="50" HEIGHT="83" WC="0.9261">
+                            <Shape>
+                                <Polygon POINTS="1820 830 1823 913 1870 906 1868 834"/>
+                            </Shape>
+                            <Glyph ID="char_213" CONTENT="e" HPOS="1820" VPOS="830" WIDTH="3" HEIGHT="83" GC="0.8525">
+                                <Shape>
+                                    <Polygon POINTS="1820 830 1823 913 1823 913 1820 830"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_214" CONTENT="t" HPOS="1868" VPOS="834" WIDTH="2" HEIGHT="72" GC="0.9997">
+                                <Shape>
+                                    <Polygon POINTS="1868 834 1870 906 1870 906 1868 834"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_78" HPOS="1891"  VPOS="836" WIDTH="7"  HEIGHT="67"/>
+                        <String ID="segment_79" CONTENT="que" HPOS="1914" VPOS="838" WIDTH="77" HEIGHT="62" WC="0.9971">
+                            <Shape>
+                                <Polygon POINTS="1914 838 1915 900 1991 897 1990 845"/>
+                            </Shape>
+                            <Glyph ID="char_216" CONTENT="q" HPOS="1914" VPOS="838" WIDTH="1" HEIGHT="62" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="1914 838 1915 900 1915 900 1914 838"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_217" CONTENT="u" HPOS="1961" VPOS="843" WIDTH="1" HEIGHT="54" GC="0.9915">
+                                <Shape>
+                                    <Polygon POINTS="1961 843 1962 897 1962 897 1961 843"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_218" CONTENT="e" HPOS="1990" VPOS="845" WIDTH="1" HEIGHT="52" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="1990 845 1991 897 1991 897 1990 845"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                    </TextLine>
+
+                    <TextLine ID="364d8ef7-f25a-47fb-a8b5-3f741db72c8b" HPOS="170.0" VPOS="908.0" WIDTH="1841.0" HEIGHT="97.0" BASELINE="171.0 980.0 2011.0 970.0" TAGREFS="LINE_TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="171.0 980.0 171.0 1005.0 479.0 991.0 558.0 999.0 560.0 999.0 674.0 993.0 695.0 1001.0 697.0 1001.0 698.0 1002.0 1026.0 1002.0 1026.0 1001.0 1028.0 1001.0 1047.0 991.0 1098.0 999.0 1099.0 999.0 1225.0 991.0 1376.0 999.0 1378.0 999.0 1432.0 986.0 1470.0 997.0 1472.0 997.0 1473.0 997.0 1475.0 997.0 1496.0 990.0 1529.0 997.0 1531.0 997.0 1532.0 997.0 1645.0 988.0 1812.0 996.0 1814.0 996.0 1863.0 985.0 2008.0 991.0 2011.0 970.0 2008.0 908.0 1972.0 908.0 1970.0 908.0 1968.0 908.0 1930.0 929.0 1868.0 929.0 1820.0 908.0 1819.0 908.0 1817.0 908.0 1816.0 908.0 1768.0 929.0 1703.0 929.0 1671.0 916.0 1669.0 916.0 1668.0 916.0 1607.0 929.0 1563.0 910.0 1561.0 910.0 1497.0 910.0 1496.0 910.0 1395.0 931.0 1313.0 912.0 1157.0 912.0 1155.0 912.0 1153.0 912.0 1087.0 934.0 875.0 934.0 789.0 913.0 787.0 913.0 689.0 915.0 687.0 915.0 646.0 926.0 558.0 915.0 557.0 915.0 447.0 937.0 366.0 937.0 296.0 916.0 294.0 916.0 292.0 916.0 170.0 918.0 171.0 980.0"/>
+                        </Shape>
+                        <String ID="segment_80" CONTENT="je" HPOS="196" VPOS="917" WIDTH="43" HEIGHT="87" WC="0.8696">
+                            <Shape>
+                                <Polygon POINTS="196 918 196 1004 239 1002 239 917"/>
+                            </Shape>
+                            <Glyph ID="char_219" CONTENT="j" HPOS="196" VPOS="918" WIDTH="0" HEIGHT="86" GC="0.9997">
+                                <Shape>
+                                    <Polygon POINTS="196 918 196 1004 196 1004 196 918"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_220" CONTENT="e" HPOS="239" VPOS="917" WIDTH="0" HEIGHT="85" GC="0.7396">
+                                <Shape>
+                                    <Polygon POINTS="239 917 239 1002 239 1002 239 917"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_81" HPOS="257"  VPOS="916" WIDTH="6"  HEIGHT="85"/>
+                        <String ID="segment_82" CONTENT="suis" HPOS="275" VPOS="916" WIDTH="92" HEIGHT="84" WC="0.9998">
+                            <Shape>
+                                <Polygon POINTS="275 916 275 1000 367 996 367 937"/>
+                            </Shape>
+                            <Glyph ID="char_222" CONTENT="s" HPOS="275" VPOS="916" WIDTH="0" HEIGHT="84" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="275 916 275 1000 275 1000 275 916"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_223" CONTENT="u" HPOS="318" VPOS="923" WIDTH="0" HEIGHT="75" GC="0.9996">
+                                <Shape>
+                                    <Polygon POINTS="318 923 318 998 318 998 318 923"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_224" CONTENT="i" HPOS="343" VPOS="930" WIDTH="0" HEIGHT="67" GC="0.9996">
+                                <Shape>
+                                    <Polygon POINTS="343 930 343 997 343 997 343 930"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_225" CONTENT="s" HPOS="367" VPOS="937" WIDTH="0" HEIGHT="59" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="367 937 367 996 367 996 367 937"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_83" HPOS="398"  VPOS="937" WIDTH="6"  HEIGHT="58"/>
+                        <String ID="segment_84" CONTENT="impatient" HPOS="417" VPOS="915" WIDTH="282" HEIGHT="87" WC="0.9985">
+                            <Shape>
+                                <Polygon POINTS="417 937 417 994 699 1002 699 915"/>
+                            </Shape>
+                            <Glyph ID="char_227" CONTENT="i" HPOS="417" VPOS="937" WIDTH="0" HEIGHT="57" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="417 937 417 994 417 994 417 937"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_228" CONTENT="m" HPOS="466" VPOS="933" WIDTH="0" HEIGHT="59" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="466 933 466 992 466 992 466 933"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_229" CONTENT="p" HPOS="509" VPOS="925" WIDTH="0" HEIGHT="69" GC="0.9899">
+                                <Shape>
+                                    <Polygon POINTS="509 925 509 994 509 994 509 925"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_230" CONTENT="a" HPOS="558" VPOS="915" WIDTH="0" HEIGHT="84" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="558 915 558 999 558 999 558 915"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_231" CONTENT="t" HPOS="595" VPOS="920" WIDTH="0" HEIGHT="77" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="595 920 595 997 595 997 595 920"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_232" CONTENT="i" HPOS="613" VPOS="922" WIDTH="0" HEIGHT="74" GC="0.9975">
+                                <Shape>
+                                    <Polygon POINTS="613 922 613 996 613 996 613 922"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_233" CONTENT="e" HPOS="632" VPOS="924" WIDTH="0" HEIGHT="71" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="632 924 632 995 632 995 632 924"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_234" CONTENT="n" HPOS="668" VPOS="920" WIDTH="0" HEIGHT="73" GC="0.9993">
+                                <Shape>
+                                    <Polygon POINTS="668 920 668 993 668 993 668 920"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_235" CONTENT="t" HPOS="699" VPOS="915" WIDTH="0" HEIGHT="87" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="699 915 699 1002 699 1002 699 915"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_85" HPOS="736"  VPOS="914" WIDTH="6"  HEIGHT="88"/>
+                        <String ID="segment_86" CONTENT="de" HPOS="754" VPOS="913" WIDTH="37" HEIGHT="89" WC="1.0">
+                            <Shape>
+                                <Polygon POINTS="754 914 754 1002 791 1002 791 913"/>
+                            </Shape>
+                            <Glyph ID="char_237" CONTENT="d" HPOS="754" VPOS="914" WIDTH="0" HEIGHT="88" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="754 914 754 1002 754 1002 754 914"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_238" CONTENT="e" HPOS="791" VPOS="913" WIDTH="0" HEIGHT="89" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="791 913 791 1002 791 1002 791 913"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_87" HPOS="810"  VPOS="918" WIDTH="6"  HEIGHT="84"/>
+                        <String ID="segment_88" CONTENT="pouvoir" HPOS="828" VPOS="922" WIDTH="203" HEIGHT="80" WC="0.9999">
+                            <Shape>
+                                <Polygon POINTS="828 922 828 1002 1031 999 1031 934"/>
+                            </Shape>
+                            <Glyph ID="char_240" CONTENT="p" HPOS="828" VPOS="922" WIDTH="0" HEIGHT="80" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="828 922 828 1002 828 1002 828 922"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_241" CONTENT="o" HPOS="877" VPOS="934" WIDTH="0" HEIGHT="68" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="877 934 877 1002 877 1002 877 934"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_242" CONTENT="u" HPOS="914" VPOS="934" WIDTH="0" HEIGHT="68" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="914 934 914 1002 914 1002 914 934"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_243" CONTENT="v" HPOS="945" VPOS="934" WIDTH="0" HEIGHT="68" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="945 934 945 1002 945 1002 945 934"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_244" CONTENT="o" HPOS="975" VPOS="934" WIDTH="0" HEIGHT="68" GC="0.9994">
+                                <Shape>
+                                    <Polygon POINTS="975 934 975 1002 975 1002 975 934"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_245" CONTENT="i" HPOS="1006" VPOS="934" WIDTH="0" HEIGHT="68" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1006 934 1006 1002 1006 1002 1006 934"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_246" CONTENT="r" HPOS="1031" VPOS="934" WIDTH="0" HEIGHT="65" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1031 934 1031 999 1031 999 1031 934"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_89" HPOS="1067"  VPOS="934" WIDTH="7"  HEIGHT="61"/>
+                        <String ID="segment_90" CONTENT="sortir" HPOS="1086" VPOS="912" WIDTH="147" HEIGHT="85" WC="1.0">
+                            <Shape>
+                                <Polygon POINTS="1086 934 1086 997 1233 991 1233 912"/>
+                            </Shape>
+                            <Glyph ID="char_248" CONTENT="s" HPOS="1086" VPOS="934" WIDTH="0" HEIGHT="63" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1086 934 1086 997 1086 997 1086 934"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_249" CONTENT="o" HPOS="1129" VPOS="920" WIDTH="0" HEIGHT="77" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1129 920 1129 997 1129 997 1129 920"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_250" CONTENT="r" HPOS="1160" VPOS="912" WIDTH="0" HEIGHT="83" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="1160 912 1160 995 1160 995 1160 912"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_251" CONTENT="t" HPOS="1190" VPOS="912" WIDTH="0" HEIGHT="81" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1190 912 1190 993 1190 993 1190 912"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_252" CONTENT="i" HPOS="1209" VPOS="912" WIDTH="0" HEIGHT="80" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1209 912 1209 992 1209 992 1209 912"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_253" CONTENT="r" HPOS="1233" VPOS="912" WIDTH="0" HEIGHT="79" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1233 912 1233 991 1233 991 1233 912"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_91" HPOS="1264"  VPOS="912" WIDTH="6"  HEIGHT="81"/>
+                        <String ID="segment_92" CONTENT="de" HPOS="1282" VPOS="912" WIDTH="31" HEIGHT="84" WC="1.0">
+                            <Shape>
+                                <Polygon POINTS="1282 912 1282 994 1313 996 1313 912"/>
+                            </Shape>
+                            <Glyph ID="char_255" CONTENT="d" HPOS="1282" VPOS="912" WIDTH="0" HEIGHT="82" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1282 912 1282 994 1282 994 1282 912"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_256" CONTENT="e" HPOS="1313" VPOS="912" WIDTH="0" HEIGHT="84" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1313 912 1313 996 1313 996 1313 912"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_93" HPOS="1331"  VPOS="916" WIDTH="7"  HEIGHT="81"/>
+                        <String ID="segment_94" CONTENT="ma" HPOS="1362" VPOS="923" WIDTH="49" HEIGHT="75" WC="0.9899">
+                            <Shape>
+                                <Polygon POINTS="1362 923 1362 998 1411 991 1411 928"/>
+                            </Shape>
+                            <Glyph ID="char_258" CONTENT="m" HPOS="1362" VPOS="923" WIDTH="0" HEIGHT="75" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1362 923 1362 998 1362 998 1362 923"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_259" CONTENT="a" HPOS="1411" VPOS="928" WIDTH="0" HEIGHT="63" GC="0.9799">
+                                <Shape>
+                                    <Polygon POINTS="1411 928 1411 991 1411 991 1411 928"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_95" HPOS="1448"  VPOS="920" WIDTH="0"  HEIGHT="71"/>
+                        <String ID="segment_96" CONTENT="chambre" HPOS="1460" VPOS="910" WIDTH="258" HEIGHT="86" WC="0.9427">
+                            <Shape>
+                                <Polygon POINTS="1460 918 1460 994 1718 992 1718 929"/>
+                            </Shape>
+                            <Glyph ID="char_261" CONTENT="c" HPOS="1460" VPOS="918" WIDTH="0" HEIGHT="76" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1460 918 1460 994 1460 994 1460 918"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_262" CONTENT="h" HPOS="1491" VPOS="911" WIDTH="0" HEIGHT="81" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1491 911 1491 992 1491 992 1491 911"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_263" CONTENT="a" HPOS="1546" VPOS="910" WIDTH="0" HEIGHT="86" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1546 910 1546 996 1546 996 1546 910"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_264" CONTENT="m" HPOS="1602" VPOS="927" WIDTH="0" HEIGHT="64" GC="0.9978">
+                                <Shape>
+                                    <Polygon POINTS="1602 927 1602 991 1602 991 1602 927"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_265" CONTENT="b" HPOS="1645" VPOS="921" WIDTH="0" HEIGHT="67" GC="0.93">
+                                <Shape>
+                                    <Polygon POINTS="1645 921 1645 988 1645 988 1645 921"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_266" CONTENT="r" HPOS="1688" VPOS="923" WIDTH="0" HEIGHT="67" GC="0.922">
+                                <Shape>
+                                    <Polygon POINTS="1688 923 1688 990 1688 990 1688 923"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_267" CONTENT="e" HPOS="1718" VPOS="929" WIDTH="0" HEIGHT="63" GC="0.7489">
+                                <Shape>
+                                    <Polygon POINTS="1718 929 1718 992 1718 992 1718 929"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_97" HPOS="1761"  VPOS="929" WIDTH="6"  HEIGHT="65"/>
+                        <String ID="segment_98" CONTENT="Et" HPOS="1780" VPOS="908" WIDTH="37" HEIGHT="87" WC="0.9999">
+                            <Shape>
+                                <Polygon POINTS="1780 924 1780 994 1817 995 1817 908"/>
+                            </Shape>
+                            <Glyph ID="char_269" CONTENT="E" HPOS="1780" VPOS="924" WIDTH="0" HEIGHT="70" GC="0.9998">
+                                <Shape>
+                                    <Polygon POINTS="1780 924 1780 994 1780 994 1780 924"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_270" CONTENT="t" HPOS="1817" VPOS="908" WIDTH="0" HEIGHT="87" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1817 908 1817 995 1817 995 1817 908"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_99" HPOS="1853"  VPOS="922" WIDTH="6"  HEIGHT="65"/>
+                        <String ID="segment_100" CONTENT="qu&#39;il" HPOS="1872" VPOS="908" WIDTH="98" HEIGHT="81" WC="0.9787">
+                            <Shape>
+                                <Polygon POINTS="1872 929 1872 985 1970 989 1970 908"/>
+                            </Shape>
+                            <Glyph ID="char_272" CONTENT="q" HPOS="1872" VPOS="929" WIDTH="0" HEIGHT="56" GC="0.9991">
+                                <Shape>
+                                    <Polygon POINTS="1872 929 1872 985 1872 985 1872 929"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_273" CONTENT="u" HPOS="1915" VPOS="929" WIDTH="0" HEIGHT="58" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1915 929 1915 987 1915 987 1915 929"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_274" CONTENT="&#39;" HPOS="1933" VPOS="924" WIDTH="6" HEIGHT="64" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="1933 927 1933 988 1939 988 1939 924"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_275" CONTENT="i" HPOS="1945" VPOS="921" WIDTH="0" HEIGHT="67" GC="0.9966">
+                                <Shape>
+                                    <Polygon POINTS="1945 921 1945 988 1945 988 1945 921"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_276" CONTENT="l" HPOS="1970" VPOS="908" WIDTH="0" HEIGHT="81" GC="0.8982">
+                                <Shape>
+                                    <Polygon POINTS="1970 908 1970 989 1970 989 1970 908"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                    </TextLine>
+
+                    <TextLine ID="501d6052-cc32-405c-873d-63ce3d050825" HPOS="160.0" VPOS="993.0" WIDTH="1863.0" HEIGHT="102.0" BASELINE="162.0 1053.0 496.0 1061.0 1177.0 1061.0 1723.0 1055.0 2023.0 1040.0" TAGREFS="LINE_TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="162.0 1053.0 162.0 1077.0 428.0 1077.0 480.0 1088.0 482.0 1088.0 483.0 1088.0 510.0 1079.0 563.0 1093.0 565.0 1093.0 566.0 1095.0 725.0 1095.0 725.0 1093.0 916.0 1074.0 948.0 1085.0 950.0 1085.0 951.0 1085.0 1079.0 1077.0 1157.0 1090.0 1158.0 1090.0 1160.0 1090.0 1198.0 1079.0 1238.0 1090.0 1239.0 1090.0 1241.0 1091.0 1351.0 1091.0 1351.0 1090.0 1352.0 1090.0 1397.0 1071.0 1438.0 1082.0 1440.0 1082.0 1442.0 1082.0 1507.0 1071.0 1604.0 1088.0 1606.0 1088.0 1607.0 1088.0 1653.0 1072.0 1841.0 1083.0 1843.0 1083.0 1940.0 1071.0 2021.0 1072.0 2023.0 1040.0 2019.0 996.0 1629.0 993.0 1628.0 993.0 1626.0 993.0 1540.0 1018.0 1254.0 1018.0 1222.0 1010.0 1220.0 1010.0 1219.0 1010.0 1152.0 1018.0 1104.0 994.0 1103.0 994.0 1101.0 994.0 883.0 996.0 881.0 996.0 821.0 1020.0 528.0 1002.0 526.0 1002.0 525.0 1002.0 458.0 1025.0 315.0 1025.0 275.0 1012.0 273.0 1012.0 272.0 1012.0 160.0 1023.0 162.0 1053.0"/>
+                        </Shape>
+                        <String ID="segment_101" CONTENT="ayé" HPOS="209" VPOS="1013" WIDTH="104" HEIGHT="64" WC="0.9987">
+                            <Shape>
+                                <Polygon POINTS="211 1018 209 1077 311 1077 313 1024"/>
+                            </Shape>
+                            <Glyph ID="char_277" CONTENT="a" HPOS="209" VPOS="1018" WIDTH="2" HEIGHT="59" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="211 1018 209 1077 209 1077 211 1018"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_278" CONTENT="y" HPOS="263" VPOS="1013" WIDTH="2" HEIGHT="64" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="265 1013 263 1077 263 1077 265 1013"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_279" CONTENT="e" HPOS="297" VPOS="1020" WIDTH="2" HEIGHT="57" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="299 1020 297 1077 297 1077 299 1020"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_280" CONTENT="́" HPOS="311" VPOS="1024" WIDTH="2" HEIGHT="53" GC="0.9951">
+                                <Shape>
+                                    <Polygon POINTS="313 1024 311 1077 311 1077 313 1024"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_102" HPOS="338"  VPOS="1025" WIDTH="9"  HEIGHT="52"/>
+                        <String ID="segment_103" CONTENT="sa" HPOS="358" VPOS="1025" WIDTH="43" HEIGHT="52" WC="0.9997">
+                            <Shape>
+                                <Polygon POINTS="360 1025 358 1077 399 1077 401 1025"/>
+                            </Shape>
+                            <Glyph ID="char_282" CONTENT="s" HPOS="358" VPOS="1025" WIDTH="2" HEIGHT="52" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="360 1025 358 1077 358 1077 360 1025"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_283" CONTENT="a" HPOS="399" VPOS="1025" WIDTH="2" HEIGHT="52" GC="0.9994">
+                                <Shape>
+                                    <Polygon POINTS="401 1025 399 1077 399 1077 401 1025"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_104" HPOS="440"  VPOS="1025" WIDTH="9"  HEIGHT="56"/>
+                        <String ID="segment_105" CONTENT="liberté" HPOS="460" VPOS="1003" WIDTH="192" HEIGHT="92" WC="0.9855">
+                            <Shape>
+                                <Polygon POINTS="462 1024 460 1084 652 1095 652 1010"/>
+                            </Shape>
+                            <Glyph ID="char_285" CONTENT="l" HPOS="460" VPOS="1024" WIDTH="2" HEIGHT="60" GC="0.9993">
+                                <Shape>
+                                    <Polygon POINTS="462 1024 460 1084 460 1084 462 1024"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_286" CONTENT="i" HPOS="488" VPOS="1014" WIDTH="2" HEIGHT="72" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="490 1014 488 1086 488 1086 490 1014"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_287" CONTENT="b" HPOS="516" VPOS="1005" WIDTH="0" HEIGHT="76" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="516 1005 516 1081 516 1081 516 1005"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_288" CONTENT="e" HPOS="550" VPOS="1003" WIDTH="0" HEIGHT="87" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="550 1003 550 1090 550 1090 550 1003"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_289" CONTENT="r" HPOS="577" VPOS="1005" WIDTH="0" HEIGHT="90" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="577 1005 577 1095 577 1095 577 1005"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_290" CONTENT="t" HPOS="611" VPOS="1007" WIDTH="0" HEIGHT="88" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="611 1007 611 1095 611 1095 611 1007"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_291" CONTENT="e" HPOS="638" VPOS="1009" WIDTH="0" HEIGHT="86" GC="0.8843">
+                                <Shape>
+                                    <Polygon POINTS="638 1009 638 1095 638 1095 638 1009"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_292" CONTENT="́" HPOS="645" VPOS="1009" WIDTH="7" HEIGHT="86" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="645 1009 645 1095 652 1095 652 1010"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_106" HPOS="672"  VPOS="1011" WIDTH="7"  HEIGHT="84"/>
+                        <String ID="segment_107" CONTENT="pour" HPOS="693" VPOS="1012" WIDTH="116" HEIGHT="83" WC="0.9997">
+                            <Shape>
+                                <Polygon POINTS="693 1012 693 1095 809 1085 809 1019"/>
+                            </Shape>
+                            <Glyph ID="char_294" CONTENT="p" HPOS="693" VPOS="1012" WIDTH="0" HEIGHT="83" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="693 1012 693 1095 693 1095 693 1012"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_295" CONTENT="o" HPOS="741" VPOS="1015" WIDTH="0" HEIGHT="76" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="741 1015 741 1091 741 1091 741 1015"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_296" CONTENT="u" HPOS="781" VPOS="1018" WIDTH="0" HEIGHT="69" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="781 1018 781 1087 781 1087 781 1018"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_297" CONTENT="r" HPOS="809" VPOS="1019" WIDTH="0" HEIGHT="66" GC="0.9987">
+                                <Shape>
+                                    <Polygon POINTS="809 1019 809 1085 809 1085 809 1019"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_108" HPOS="843"  VPOS="1009" WIDTH="6"  HEIGHT="72"/>
+                        <String ID="segment_109" CONTENT="luy" HPOS="863" VPOS="995" WIDTH="82" HEIGHT="89" WC="0.9905">
+                            <Shape>
+                                <Polygon POINTS="863 1003 863 1079 945 1084 945 995"/>
+                            </Shape>
+                            <Glyph ID="char_299" CONTENT="l" HPOS="863" VPOS="1003" WIDTH="0" HEIGHT="76" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="863 1003 863 1079 863 1079 863 1003"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_300" CONTENT="u" HPOS="904" VPOS="996" WIDTH="0" HEIGHT="79" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="904 996 904 1075 904 1075 904 996"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_301" CONTENT="y" HPOS="945" VPOS="995" WIDTH="0" HEIGHT="89" GC="0.9716">
+                                <Shape>
+                                    <Polygon POINTS="945 995 945 1084 945 1084 945 995"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_110" HPOS="965"  VPOS="995" WIDTH="7"  HEIGHT="89"/>
+                        <String ID="segment_111" CONTENT="en" HPOS="979" VPOS="995" WIDTH="41" HEIGHT="88" WC="1.0">
+                            <Shape>
+                                <Polygon POINTS="979 995 979 1083 1020 1081 1020 995"/>
+                            </Shape>
+                            <Glyph ID="char_303" CONTENT="e" HPOS="979" VPOS="995" WIDTH="0" HEIGHT="88" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="979 995 979 1083 979 1083 979 995"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_304" CONTENT="n" HPOS="1020" VPOS="995" WIDTH="0" HEIGHT="86" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1020 995 1020 1081 1020 1081 1020 995"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_112" HPOS="1054"  VPOS="994" WIDTH="6"  HEIGHT="85"/>
+                        <String ID="segment_113" CONTENT="donner" HPOS="1067" VPOS="994" WIDTH="191" HEIGHT="97" WC="0.9951">
+                            <Shape>
+                                <Polygon POINTS="1067 994 1067 1078 1258 1091 1257 1018"/>
+                            </Shape>
+                            <Glyph ID="char_306" CONTENT="d" HPOS="1067" VPOS="994" WIDTH="0" HEIGHT="84" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1067 994 1067 1078 1067 1078 1067 994"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_307" CONTENT="o" HPOS="1101" VPOS="994" WIDTH="0" HEIGHT="87" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1101 994 1101 1081 1101 1081 1101 994"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_308" CONTENT="n" HPOS="1142" VPOS="1013" WIDTH="0" HEIGHT="74" GC="0.9997">
+                                <Shape>
+                                    <Polygon POINTS="1142 1013 1142 1087 1142 1087 1142 1013"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_309" CONTENT="n" HPOS="1182" VPOS="1014" WIDTH="1" HEIGHT="69" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1182 1014 1183 1083 1183 1083 1182 1014"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_310" CONTENT="e" HPOS="1223" VPOS="1010" WIDTH="1" HEIGHT="76" GC="0.9806">
+                                <Shape>
+                                    <Polygon POINTS="1223 1010 1224 1086 1224 1086 1223 1010"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_311" CONTENT="r" HPOS="1257" VPOS="1018" WIDTH="1" HEIGHT="73" GC="0.9902">
+                                <Shape>
+                                    <Polygon POINTS="1257 1018 1258 1091 1258 1091 1257 1018"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_114" HPOS="1291"  VPOS="1018" WIDTH="8"  HEIGHT="73"/>
+                        <String ID="segment_115" CONTENT="personnellement" HPOS="1311" VPOS="993" WIDTH="479" HEIGHT="98" WC="0.9537">
+                            <Shape>
+                                <Polygon POINTS="1311 1018 1312 1091 1790 1080 1786 994"/>
+                            </Shape>
+                            <Glyph ID="char_313" CONTENT="p" HPOS="1311" VPOS="1018" WIDTH="1" HEIGHT="73" GC="0.9988">
+                                <Shape>
+                                    <Polygon POINTS="1311 1018 1312 1091 1312 1091 1311 1018"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_314" CONTENT="e" HPOS="1366" VPOS="1018" WIDTH="1" HEIGHT="66" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1366 1018 1367 1084 1367 1084 1366 1018"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_315" CONTENT="r" HPOS="1393" VPOS="1018" WIDTH="1" HEIGHT="54" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="1393 1018 1394 1072 1394 1072 1393 1018"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_316" CONTENT="s" HPOS="1420" VPOS="1018" WIDTH="1" HEIGHT="59" GC="0.9997">
+                                <Shape>
+                                    <Polygon POINTS="1420 1018 1421 1077 1421 1077 1420 1018"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_317" CONTENT="o" HPOS="1447" VPOS="1018" WIDTH="1" HEIGHT="63" GC="0.9988">
+                                <Shape>
+                                    <Polygon POINTS="1447 1018 1448 1081 1448 1081 1447 1018"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_318" CONTENT="n" HPOS="1481" VPOS="1018" WIDTH="1" HEIGHT="57" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1481 1018 1482 1075 1482 1075 1481 1018"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_319" CONTENT="n" HPOS="1522" VPOS="1018" WIDTH="1" HEIGHT="56" GC="0.878">
+                                <Shape>
+                                    <Polygon POINTS="1522 1018 1523 1074 1523 1074 1522 1018"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_320" CONTENT="e" HPOS="1556" VPOS="1013" WIDTH="1" HEIGHT="67" GC="0.9991">
+                                <Shape>
+                                    <Polygon POINTS="1556 1013 1557 1080 1557 1080 1556 1013"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_321" CONTENT="l" HPOS="1577" VPOS="1007" WIDTH="1" HEIGHT="76" GC="0.9897">
+                                <Shape>
+                                    <Polygon POINTS="1577 1007 1578 1083 1578 1083 1577 1007"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_322" CONTENT="l" HPOS="1604" VPOS="999" WIDTH="1" HEIGHT="89" GC="0.9933">
+                                <Shape>
+                                    <Polygon POINTS="1604 999 1605 1088 1605 1088 1604 999"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_323" CONTENT="e" HPOS="1624" VPOS="994" WIDTH="1" HEIGHT="88" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="1624 994 1625 1082 1625 1082 1624 994"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_324" CONTENT="m" HPOS="1665" VPOS="993" WIDTH="1" HEIGHT="80" GC="0.6546">
+                                <Shape>
+                                    <Polygon POINTS="1665 993 1666 1073 1666 1073 1665 993"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_325" CONTENT="e" HPOS="1713" VPOS="994" WIDTH="1" HEIGHT="82" GC="0.9984">
+                                <Shape>
+                                    <Polygon POINTS="1713 994 1714 1076 1714 1076 1713 994"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_326" CONTENT="n" HPOS="1752" VPOS="994" WIDTH="4" HEIGHT="84" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="1752 994 1756 1078 1756 1078 1752 994"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_327" CONTENT="t" HPOS="1786" VPOS="994" WIDTH="4" HEIGHT="86" GC="0.7949">
+                                <Shape>
+                                    <Polygon POINTS="1786 994 1790 1080 1790 1080 1786 994"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_116" HPOS="1820"  VPOS="994" WIDTH="11"  HEIGHT="88"/>
+                        <String ID="segment_117" CONTENT="toutes" HPOS="1840" VPOS="995" WIDTH="161" HEIGHT="88" WC="0.9885">
+                            <Shape>
+                                <Polygon POINTS="1840 995 1844 1083 2001 1072 1997 996"/>
+                            </Shape>
+                            <Glyph ID="char_329" CONTENT="t" HPOS="1840" VPOS="995" WIDTH="4" HEIGHT="88" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1840 995 1844 1083 1844 1083 1840 995"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_330" CONTENT="o" HPOS="1874" VPOS="995" WIDTH="4" HEIGHT="84" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="1874 995 1878 1079 1878 1079 1874 995"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_331" CONTENT="u" HPOS="1915" VPOS="995" WIDTH="4" HEIGHT="79" GC="0.9931">
+                                <Shape>
+                                    <Polygon POINTS="1915 995 1919 1074 1919 1074 1915 995"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_332" CONTENT="t" HPOS="1942" VPOS="995" WIDTH="4" HEIGHT="76" GC="0.9416">
+                                <Shape>
+                                    <Polygon POINTS="1942 995 1946 1071 1946 1071 1942 995"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_333" CONTENT="e" HPOS="1970" VPOS="996" WIDTH="4" HEIGHT="75" GC="0.9962">
+                                <Shape>
+                                    <Polygon POINTS="1970 996 1974 1071 1974 1071 1970 996"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_334" CONTENT="s" HPOS="1990" VPOS="996" WIDTH="11" HEIGHT="76" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1990 996 1994 1072 2001 1072 1997 996"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                    </TextLine>
+
+                    <TextLine ID="ff17f838-4b0b-4ff3-9850-e2784746be49" HPOS="232.0" VPOS="1080.0" WIDTH="334.0" HEIGHT="81.0" BASELINE="233.0 1141.0 566.0 1139.0" TAGREFS="LINE_TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="233.0 1141.0 233.0 1155.0 565.0 1161.0 566.0 1139.0 561.0 1103.0 495.0 1106.0 469.0 1082.0 469.0 1080.0 467.0 1080.0 466.0 1080.0 397.0 1080.0 396.0 1080.0 394.0 1080.0 393.0 1080.0 351.0 1109.0 289.0 1109.0 265.0 1087.0 265.0 1085.0 264.0 1085.0 262.0 1085.0 261.0 1085.0 259.0 1085.0 257.0 1085.0 232.0 1099.0 233.0 1141.0"/>
+                        </Shape>
+                        <String ID="segment_118" CONTENT="Les" HPOS="233" VPOS="1085" WIDTH="73" HEIGHT="71" WC="0.9997">
+                            <Shape>
+                                <Polygon POINTS="233 1141 233 1141 306 1156 306 1109"/>
+                            </Shape>
+                            <Glyph ID="char_335" CONTENT="L" HPOS="233" VPOS="1141" WIDTH="0" HEIGHT="0" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="233 1141 233 1141 233 1141 233 1141"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_336" CONTENT="e" HPOS="261" VPOS="1085" WIDTH="0" HEIGHT="71" GC="0.9997">
+                                <Shape>
+                                    <Polygon POINTS="261 1085 261 1156 261 1156 261 1085"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_337" CONTENT="s" HPOS="306" VPOS="1109" WIDTH="0" HEIGHT="47" GC="0.9995">
+                                <Shape>
+                                    <Polygon POINTS="306 1109 306 1156 306 1156 306 1109"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_119" HPOS="361"  VPOS="1102" WIDTH="0"  HEIGHT="55"/>
+                        <String ID="segment_120" CONTENT="Pieuv" HPOS="373" VPOS="1080" WIDTH="167" HEIGHT="81" WC="0.9877">
+                            <Shape>
+                                <Polygon POINTS="373 1094 373 1158 540 1161 540 1104"/>
+                            </Shape>
+                            <Glyph ID="char_339" CONTENT="P" HPOS="373" VPOS="1094" WIDTH="0" HEIGHT="64" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="373 1094 373 1158 373 1158 373 1094"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_340" CONTENT="i" HPOS="440" VPOS="1080" WIDTH="0" HEIGHT="79" GC="0.9981">
+                                <Shape>
+                                    <Polygon POINTS="440 1080 440 1159 440 1159 440 1080"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_341" CONTENT="e" HPOS="473" VPOS="1085" WIDTH="0" HEIGHT="74" GC="0.9996">
+                                <Shape>
+                                    <Polygon POINTS="473 1085 473 1159 473 1159 473 1085"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_342" CONTENT="u" HPOS="512" VPOS="1105" WIDTH="0" HEIGHT="55" GC="0.9655">
+                                <Shape>
+                                    <Polygon POINTS="512 1105 512 1160 512 1160 512 1105"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_343" CONTENT="v" HPOS="540" VPOS="1104" WIDTH="0" HEIGHT="57" GC="0.9754">
+                                <Shape>
+                                    <Polygon POINTS="540 1104 540 1161 540 1161 540 1104"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                    </TextLine>
+
+                    <TextLine ID="25d219d6-3b31-4984-a285-419739740122" HPOS="283.0" VPOS="1179.0" WIDTH="1069.0" HEIGHT="97.0" BASELINE="284.0 1235.0 1352.0 1231.0" TAGREFS="LINE_TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="284.0 1235.0 284.0 1249.0 480.0 1249.0 512.0 1262.0 514.0 1262.0 515.0 1262.0 595.0 1251.0 627.0 1265.0 628.0 1265.0 630.0 1265.0 631.0 1265.0 676.0 1249.0 730.0 1274.0 732.0 1274.0 733.0 1276.0 816.0 1276.0 816.0 1274.0 818.0 1274.0 857.0 1252.0 932.0 1255.0 934.0 1255.0 935.0 1255.0 955.0 1247.0 1047.0 1273.0 1048.0 1273.0 1050.0 1274.0 1152.0 1274.0 1152.0 1273.0 1233.0 1257.0 1260.0 1266.0 1262.0 1266.0 1263.0 1266.0 1265.0 1266.0 1267.0 1266.0 1286.0 1252.0 1337.0 1262.0 1338.0 1262.0 1340.0 1262.0 1341.0 1262.0 1352.0 1252.0 1352.0 1231.0 1349.0 1200.0 1168.0 1195.0 1138.0 1179.0 1136.0 1179.0 1040.0 1179.0 1039.0 1179.0 1037.0 1179.0 1036.0 1179.0 1017.0 1195.0 974.0 1187.0 972.0 1187.0 907.0 1193.0 892.0 1182.0 891.0 1182.0 889.0 1182.0 888.0 1182.0 886.0 1182.0 864.0 1192.0 830.0 1184.0 829.0 1184.0 827.0 1184.0 789.0 1192.0 662.0 1190.0 660.0 1190.0 658.0 1190.0 657.0 1190.0 641.0 1200.0 608.0 1187.0 606.0 1187.0 604.0 1187.0 560.0 1195.0 523.0 1181.0 522.0 1181.0 520.0 1181.0 518.0 1181.0 517.0 1181.0 517.0 1182.0 504.0 1193.0 450.0 1195.0 394.0 1181.0 393.0 1181.0 391.0 1181.0 283.0 1201.0 284.0 1235.0"/>
+                        </Shape>
+                        <String ID="segment_121" CONTENT="Je" HPOS="284" VPOS="1195" WIDTH="33" HEIGHT="54" WC="0.9992">
+                            <Shape>
+                                <Polygon POINTS="284 1235 284 1235 317 1249 317 1195"/>
+                            </Shape>
+                            <Glyph ID="char_344" CONTENT="J" HPOS="284" VPOS="1235" WIDTH="0" HEIGHT="0" GC="0.9997">
+                                <Shape>
+                                    <Polygon POINTS="284 1235 284 1235 284 1235 284 1235"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_345" CONTENT="e" HPOS="317" VPOS="1195" WIDTH="0" HEIGHT="54" GC="0.9986">
+                                <Shape>
+                                    <Polygon POINTS="317 1195 317 1249 317 1249 317 1195"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_122" HPOS="337"  VPOS="1190" WIDTH="6"  HEIGHT="59"/>
+                        <String ID="segment_123" CONTENT="suis" HPOS="350" VPOS="1185" WIDTH="105" HEIGHT="64" WC="0.9985">
+                            <Shape>
+                                <Polygon POINTS="350 1189 350 1249 455 1249 455 1195"/>
+                            </Shape>
+                            <Glyph ID="char_347" CONTENT="s" HPOS="350" VPOS="1189" WIDTH="0" HEIGHT="60" GC="0.9953">
+                                <Shape>
+                                    <Polygon POINTS="350 1189 350 1249 350 1249 350 1189"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_348" CONTENT="u" HPOS="409" VPOS="1185" WIDTH="0" HEIGHT="64" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="409 1185 409 1249 409 1249 409 1185"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_349" CONTENT="i" HPOS="435" VPOS="1191" WIDTH="0" HEIGHT="58" GC="0.999">
+                                <Shape>
+                                    <Polygon POINTS="435 1191 435 1249 435 1249 435 1191"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_350" CONTENT="s" HPOS="455" VPOS="1195" WIDTH="0" HEIGHT="54" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="455 1195 455 1249 455 1249 455 1195"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_124" HPOS="481"  VPOS="1194" WIDTH="7"  HEIGHT="58"/>
+                        <String ID="segment_125" CONTENT="avec" HPOS="501" VPOS="1187" WIDTH="105" HEIGHT="71" WC="0.9922">
+                            <Shape>
+                                <Polygon POINTS="501 1193 501 1258 606 1256 606 1187"/>
+                            </Shape>
+                            <Glyph ID="char_352" CONTENT="a" HPOS="501" VPOS="1193" WIDTH="0" HEIGHT="65" GC="0.9796">
+                                <Shape>
+                                    <Polygon POINTS="501 1193 501 1258 501 1258 501 1193"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_353" CONTENT="v" HPOS="547" VPOS="1190" WIDTH="0" HEIGHT="68" GC="0.9895">
+                                <Shape>
+                                    <Polygon POINTS="547 1190 547 1258 547 1258 547 1190"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_354" CONTENT="e" HPOS="579" VPOS="1192" WIDTH="0" HEIGHT="61" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="579 1192 579 1253 579 1253 579 1192"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_355" CONTENT="c" HPOS="606" VPOS="1187" WIDTH="0" HEIGHT="69" GC="0.9998">
+                                <Shape>
+                                    <Polygon POINTS="606 1187 606 1256 606 1256 606 1187"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_126" HPOS="632"  VPOS="1196" WIDTH="6"  HEIGHT="69"/>
+                        <String ID="segment_127" CONTENT="un" HPOS="658" VPOS="1190" WIDTH="46" HEIGHT="72" WC="1.0">
+                            <Shape>
+                                <Polygon POINTS="658 1190 658 1255 704 1262 704 1191"/>
+                            </Shape>
+                            <Glyph ID="char_357" CONTENT="u" HPOS="658" VPOS="1190" WIDTH="0" HEIGHT="65" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="658 1190 658 1255 658 1255 658 1190"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_358" CONTENT="n" HPOS="704" VPOS="1191" WIDTH="0" HEIGHT="71" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="704 1191 704 1262 704 1262 704 1191"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_128" HPOS="737"  VPOS="1191" WIDTH="7"  HEIGHT="85"/>
+                        <String ID="segment_129" CONTENT="profond" HPOS="757" VPOS="1183" WIDTH="216" HEIGHT="93" WC="0.9988">
+                            <Shape>
+                                <Polygon POINTS="757 1191 757 1276 973 1252 973 1187"/>
+                            </Shape>
+                            <Glyph ID="char_360" CONTENT="p" HPOS="757" VPOS="1191" WIDTH="0" HEIGHT="85" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="757 1191 757 1276 757 1276 757 1191"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_361" CONTENT="r" HPOS="809" VPOS="1188" WIDTH="0" HEIGHT="88" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="809 1188 809 1276 809 1276 809 1188"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_362" CONTENT="o" HPOS="835" VPOS="1185" WIDTH="0" HEIGHT="79" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="835 1185 835 1264 835 1264 835 1185"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_363" CONTENT="f" HPOS="868" VPOS="1190" WIDTH="0" HEIGHT="62" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="868 1190 868 1252 868 1252 868 1190"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_364" CONTENT="o" HPOS="894" VPOS="1183" WIDTH="0" HEIGHT="70" GC="0.9998">
+                                <Shape>
+                                    <Polygon POINTS="894 1183 894 1253 894 1253 894 1183"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_365" CONTENT="n" HPOS="934" VPOS="1191" WIDTH="0" HEIGHT="64" GC="0.992">
+                                <Shape>
+                                    <Polygon POINTS="934 1191 934 1255 934 1255 934 1191"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_366" CONTENT="d" HPOS="973" VPOS="1187" WIDTH="0" HEIGHT="65" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="973 1187 973 1252 973 1252 973 1187"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_130" HPOS="1013"  VPOS="1193" WIDTH="6"  HEIGHT="72"/>
+                        <String ID="segment_131" CONTENT="Respect" HPOS="1026" VPOS="1179" WIDTH="262" HEIGHT="95" WC="0.9683">
+                            <Shape>
+                                <Polygon POINTS="1026 1188 1026 1267 1288 1252 1288 1198"/>
+                            </Shape>
+                            <Glyph ID="char_368" CONTENT="R" HPOS="1026" VPOS="1188" WIDTH="0" HEIGHT="79" GC="0.994">
+                                <Shape>
+                                    <Polygon POINTS="1026 1188 1026 1267 1026 1267 1026 1188"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_369" CONTENT="e" HPOS="1111" VPOS="1179" WIDTH="0" HEIGHT="95" GC="0.9952">
+                                <Shape>
+                                    <Polygon POINTS="1111 1179 1111 1274 1111 1274 1111 1179"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_370" CONTENT="s" HPOS="1137" VPOS="1179" WIDTH="0" HEIGHT="95" GC="0.7946">
+                                <Shape>
+                                    <Polygon POINTS="1137 1179 1137 1274 1137 1274 1137 1179"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_371" CONTENT="p" HPOS="1170" VPOS="1195" WIDTH="0" HEIGHT="74" GC="0.9977">
+                                <Shape>
+                                    <Polygon POINTS="1170 1195 1170 1269 1170 1269 1170 1195"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_372" CONTENT="e" HPOS="1216" VPOS="1196" WIDTH="0" HEIGHT="64" GC="0.9991">
+                                <Shape>
+                                    <Polygon POINTS="1216 1196 1216 1260 1216 1260 1216 1196"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_373" CONTENT="c" HPOS="1249" VPOS="1197" WIDTH="0" HEIGHT="65" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="1249 1197 1249 1262 1249 1262 1249 1197"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_374" CONTENT="t" HPOS="1288" VPOS="1198" WIDTH="0" HEIGHT="54" GC="0.9975">
+                                <Shape>
+                                    <Polygon POINTS="1288 1198 1288 1252 1288 1252 1288 1198"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                    </TextLine>
+
+                    <TextLine ID="e3e195b2-83c7-457b-a6ed-4f89b76c7a19" HPOS="108.0" VPOS="1305.0" WIDTH="437.0" HEIGHT="113.0" BASELINE="109.0 1386.0 200.0 1376.0 545.0 1370.0" TAGREFS="LINE_TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="109.0 1386.0 109.0 1410.0 146.0 1418.0 148.0 1418.0 149.0 1418.0 151.0 1418.0 151.0 1416.0 160.0 1408.0 192.0 1413.0 194.0 1413.0 195.0 1413.0 214.0 1405.0 233.0 1413.0 235.0 1413.0 237.0 1413.0 238.0 1413.0 240.0 1413.0 240.0 1411.0 241.0 1411.0 248.0 1403.0 305.0 1414.0 307.0 1414.0 356.0 1403.0 386.0 1411.0 388.0 1411.0 389.0 1411.0 391.0 1411.0 393.0 1411.0 393.0 1410.0 409.0 1394.0 455.0 1400.0 456.0 1400.0 544.0 1391.0 545.0 1370.0 539.0 1330.0 525.0 1335.0 499.0 1325.0 498.0 1325.0 496.0 1325.0 495.0 1325.0 472.0 1335.0 434.0 1321.0 432.0 1321.0 431.0 1321.0 429.0 1321.0 380.0 1337.0 346.0 1306.0 346.0 1305.0 345.0 1305.0 343.0 1305.0 342.0 1305.0 261.0 1306.0 235.0 1313.0 233.0 1313.0 232.0 1313.0 232.0 1314.0 191.0 1352.0 108.0 1352.0 109.0 1386.0"/>
+                        </Shape>
+                        <String ID="segment_132" CONTENT="Monsieur" HPOS="192" VPOS="1305" WIDTH="306" HEIGHT="107" WC="0.9464">
+                            <Shape>
+                                <Polygon POINTS="192 1351 198 1412 498 1396 497 1325"/>
+                            </Shape>
+                            <Glyph ID="char_375" CONTENT="M" HPOS="192" VPOS="1351" WIDTH="6" HEIGHT="61" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="192 1351 198 1412 198 1412 192 1351"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_376" CONTENT="o" HPOS="316" VPOS="1305" WIDTH="2" HEIGHT="107" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="316 1305 318 1412 318 1412 316 1305"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_377" CONTENT="n" HPOS="367" VPOS="1325" WIDTH="1" HEIGHT="81" GC="0.9939">
+                                <Shape>
+                                    <Polygon POINTS="367 1325 368 1406 368 1406 367 1325"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_378" CONTENT="s" HPOS="389" VPOS="1332" WIDTH="8" HEIGHT="79" GC="0.9992">
+                                <Shape>
+                                    <Polygon POINTS="389 1334 390 1411 397 1406 396 1332"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_379" CONTENT="i" HPOS="410" VPOS="1325" WIDTH="8" HEIGHT="70" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="410 1327 411 1394 418 1395 417 1325"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_380" CONTENT="e" HPOS="432" VPOS="1321" WIDTH="1" HEIGHT="76" GC="0.9058">
+                                <Shape>
+                                    <Polygon POINTS="432 1321 433 1397 433 1397 432 1321"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_381" CONTENT="u" HPOS="468" VPOS="1333" WIDTH="1" HEIGHT="66" GC="0.9816">
+                                <Shape>
+                                    <Polygon POINTS="468 1333 469 1399 469 1399 468 1333"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_382" CONTENT="r" HPOS="497" VPOS="1325" WIDTH="1" HEIGHT="71" GC="0.6905">
+                                <Shape>
+                                    <Polygon POINTS="497 1325 498 1396 498 1396 497 1325"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                    </TextLine>
+
+                    <TextLine ID="8669dfbf-c442-4849-b14e-fcd3bcf7aaa4" HPOS="1410.0" VPOS="1169.0" WIDTH="22.0" HEIGHT="85.0" BASELINE="1416.0 1231.0 1432.0 1230.0" TAGREFS="LINE_TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="1416.0 1231.0 1418.0 1249.0 1430.0 1254.0 1432.0 1230.0 1426.0 1169.0 1410.0 1169.0 1416.0 1231.0"/>
+                        </Shape>
+                        <String ID="segment_133" CONTENT="/" HPOS="1419" VPOS="1169" WIDTH="5" HEIGHT="83" WC="0.9788">
+                            <Shape>
+                                <Polygon POINTS="1419 1169 1424 1252 1424 1252 1419 1169"/>
+                            </Shape>
+                            <Glyph ID="char_383" CONTENT="/" HPOS="1419" VPOS="1169" WIDTH="5" HEIGHT="83" GC="0.9788">
+                                <Shape>
+                                    <Polygon POINTS="1419 1169 1424 1252 1424 1252 1419 1169"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                    </TextLine>
+
+                    <TextLine ID="dcdcb816-242a-4142-b0cf-267c1a9b6c72" HPOS="1192.0" VPOS="1281.0" WIDTH="807.0" HEIGHT="110.0" BASELINE="1193.0 1360.0 1999.0 1351.0" TAGREFS="LINE_TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="1193.0 1360.0 1193.0 1375.0 1348.0 1375.0 1373.0 1389.0 1375.0 1389.0 1376.0 1389.0 1378.0 1391.0 1446.0 1391.0 1446.0 1389.0 1448.0 1389.0 1450.0 1389.0 1469.0 1372.0 1496.0 1370.0 1513.0 1386.0 1513.0 1387.0 1515.0 1387.0 1516.0 1387.0 1518.0 1387.0 1520.0 1387.0 1555.0 1379.0 1593.0 1387.0 1594.0 1387.0 1642.0 1384.0 1644.0 1384.0 1645.0 1384.0 1669.0 1370.0 1793.0 1370.0 1820.0 1384.0 1822.0 1384.0 1824.0 1384.0 1825.0 1384.0 1852.0 1372.0 1881.0 1381.0 1883.0 1381.0 1884.0 1381.0 1886.0 1381.0 1918.0 1368.0 1959.0 1376.0 1960.0 1376.0 1962.0 1376.0 1999.0 1362.0 1999.0 1351.0 1996.0 1294.0 1870.0 1282.0 1868.0 1282.0 1867.0 1282.0 1836.0 1294.0 1820.0 1281.0 1819.0 1281.0 1817.0 1281.0 1816.0 1281.0 1814.0 1281.0 1785.0 1294.0 1695.0 1282.0 1693.0 1282.0 1691.0 1282.0 1690.0 1282.0 1669.0 1295.0 1650.0 1284.0 1649.0 1284.0 1647.0 1284.0 1645.0 1284.0 1644.0 1284.0 1631.0 1292.0 1547.0 1282.0 1545.0 1282.0 1543.0 1282.0 1512.0 1298.0 1445.0 1298.0 1413.0 1284.0 1411.0 1284.0 1325.0 1284.0 1324.0 1284.0 1192.0 1298.0 1193.0 1360.0"/>
+                        </Shape>
+                        <String ID="segment_134" CONTENT="votre" HPOS="1193" VPOS="1284" WIDTH="147" HEIGHT="91" WC="0.9876">
+                            <Shape>
+                                <Polygon POINTS="1193 1360 1193 1360 1340 1375 1339 1284"/>
+                            </Shape>
+                            <Glyph ID="char_384" CONTENT="v" HPOS="1193" VPOS="1360" WIDTH="0" HEIGHT="0" GC="0.9877">
+                                <Shape>
+                                    <Polygon POINTS="1193 1360 1193 1360 1193 1360 1193 1360"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_385" CONTENT="o" HPOS="1236" VPOS="1293" WIDTH="1" HEIGHT="82" GC="0.9527">
+                                <Shape>
+                                    <Polygon POINTS="1236 1293 1237 1375 1237 1375 1236 1293"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_386" CONTENT="t" HPOS="1273" VPOS="1289" WIDTH="1" HEIGHT="86" GC="0.9993">
+                                <Shape>
+                                    <Polygon POINTS="1273 1289 1274 1375 1274 1375 1273 1289"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_387" CONTENT="r" HPOS="1309" VPOS="1286" WIDTH="1" HEIGHT="89" GC="0.9994">
+                                <Shape>
+                                    <Polygon POINTS="1309 1286 1310 1375 1310 1375 1309 1286"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_388" CONTENT="e" HPOS="1339" VPOS="1284" WIDTH="1" HEIGHT="91" GC="0.9991">
+                                <Shape>
+                                    <Polygon POINTS="1339 1284 1340 1375 1340 1375 1339 1284"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_135" HPOS="1353"  VPOS="1284" WIDTH="9"  HEIGHT="99"/>
+                        <String ID="segment_136" CONTENT="tres" HPOS="1375" VPOS="1284" WIDTH="97" HEIGHT="107" WC="0.9958">
+                            <Shape>
+                                <Polygon POINTS="1375 1284 1376 1389 1472 1372 1471 1298"/>
+                            </Shape>
+                            <Glyph ID="char_390" CONTENT="t" HPOS="1375" VPOS="1284" WIDTH="1" HEIGHT="105" GC="0.9997">
+                                <Shape>
+                                    <Polygon POINTS="1375 1284 1376 1389 1376 1389 1375 1284"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_391" CONTENT="r" HPOS="1405" VPOS="1284" WIDTH="8" HEIGHT="107" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="1405 1284 1406 1391 1413 1391 1412 1284"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_392" CONTENT="e" HPOS="1434" VPOS="1293" WIDTH="1" HEIGHT="98" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1434 1293 1435 1391 1435 1391 1434 1293"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_393" CONTENT="s" HPOS="1471" VPOS="1298" WIDTH="1" HEIGHT="74" GC="0.9835">
+                                <Shape>
+                                    <Polygon POINTS="1471 1298 1472 1372 1472 1372 1471 1298"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_137" HPOS="1500"  VPOS="1298" WIDTH="8"  HEIGHT="84"/>
+                        <String ID="segment_138" CONTENT="humble" HPOS="1522" VPOS="1282" WIDTH="236" HEIGHT="104" WC="0.9352">
+                            <Shape>
+                                <Polygon POINTS="1522 1293 1523 1386 1758 1370 1757 1290"/>
+                            </Shape>
+                            <Glyph ID="char_395" CONTENT="h" HPOS="1522" VPOS="1293" WIDTH="1" HEIGHT="93" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1522 1293 1523 1386 1523 1386 1522 1293"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_396" CONTENT="u" HPOS="1588" VPOS="1287" WIDTH="1" HEIGHT="99" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1588 1287 1589 1386 1589 1386 1588 1287"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_397" CONTENT="m" HPOS="1647" VPOS="1284" WIDTH="1" HEIGHT="98" GC="0.6148">
+                                <Shape>
+                                    <Polygon POINTS="1647 1284 1648 1382 1648 1382 1647 1284"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_398" CONTENT="b" HPOS="1691" VPOS="1282" WIDTH="1" HEIGHT="88" GC="0.9977">
+                                <Shape>
+                                    <Polygon POINTS="1691 1282 1692 1370 1692 1370 1691 1282"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_399" CONTENT="l" HPOS="1728" VPOS="1286" WIDTH="1" HEIGHT="84" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1728 1286 1729 1370 1729 1370 1728 1286"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_400" CONTENT="e" HPOS="1757" VPOS="1290" WIDTH="1" HEIGHT="80" GC="0.9987">
+                                <Shape>
+                                    <Polygon POINTS="1757 1290 1758 1370 1758 1370 1757 1290"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_139" HPOS="1794"  VPOS="1290" WIDTH="1"  HEIGHT="81"/>
+                        <String ID="segment_140" CONTENT="&amp;" HPOS="1808" VPOS="1284" WIDTH="1" HEIGHT="94" WC="0.8888">
+                            <Shape>
+                                <Polygon POINTS="1808 1284 1809 1378 1809 1378 1808 1284"/>
+                            </Shape>
+                            <Glyph ID="char_402" CONTENT="&amp;" HPOS="1808" VPOS="1284" WIDTH="1" HEIGHT="94" GC="0.8888">
+                                <Shape>
+                                    <Polygon POINTS="1808 1284 1809 1378 1809 1378 1808 1284"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_141" HPOS="1852"  VPOS="1285" WIDTH="9"  HEIGHT="90"/>
+                        <String ID="segment_142" CONTENT="tres" HPOS="1867" VPOS="1282" WIDTH="104" HEIGHT="95" WC="0.9988">
+                            <Shape>
+                                <Polygon POINTS="1867 1282 1868 1377 1971 1373 1970 1292"/>
+                            </Shape>
+                            <Glyph ID="char_404" CONTENT="t" HPOS="1867" VPOS="1282" WIDTH="1" HEIGHT="95" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1867 1282 1868 1377 1868 1377 1867 1282"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_405" CONTENT="r" HPOS="1904" VPOS="1285" WIDTH="1" HEIGHT="88" GC="0.9996">
+                                <Shape>
+                                    <Polygon POINTS="1904 1285 1905 1373 1905 1373 1904 1285"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_406" CONTENT="e" HPOS="1933" VPOS="1288" WIDTH="1" HEIGHT="83" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="1933 1288 1934 1371 1934 1371 1933 1288"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_407" CONTENT="s" HPOS="1970" VPOS="1292" WIDTH="1" HEIGHT="81" GC="0.9958">
+                                <Shape>
+                                    <Polygon POINTS="1970 1292 1971 1373 1971 1373 1970 1292"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                    </TextLine>
+
+                    <TextLine ID="ce092823-393f-41bb-b9a5-33270c137555" HPOS="1169.0" VPOS="1367.0" WIDTH="833.0" HEIGHT="103.0" BASELINE="1171.0 1450.0 1233.0 1443.0 2002.0 1430.0" TAGREFS="LINE_TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="1171.0 1450.0 1171.0 1461.0 1286.0 1457.0 1302.0 1467.0 1303.0 1467.0 1305.0 1467.0 1306.0 1467.0 1364.0 1457.0 1380.0 1469.0 1381.0 1469.0 1383.0 1469.0 1384.0 1470.0 1448.0 1470.0 1448.0 1469.0 1497.0 1467.0 1499.0 1467.0 1500.0 1467.0 1500.0 1465.0 1510.0 1457.0 1555.0 1464.0 1556.0 1464.0 1558.0 1464.0 1577.0 1453.0 1590.0 1462.0 1591.0 1462.0 1593.0 1462.0 1594.0 1462.0 1596.0 1462.0 1631.0 1453.0 1725.0 1464.0 1727.0 1464.0 1728.0 1464.0 1763.0 1450.0 1798.0 1462.0 1800.0 1462.0 1801.0 1462.0 1865.0 1448.0 1908.0 1456.0 1910.0 1456.0 1911.0 1456.0 1935.0 1446.0 1960.0 1459.0 1962.0 1459.0 1964.0 1459.0 1965.0 1459.0 2002.0 1450.0 2002.0 1430.0 1997.0 1387.0 1906.0 1387.0 1895.0 1378.0 1895.0 1376.0 1894.0 1376.0 1892.0 1376.0 1890.0 1376.0 1889.0 1376.0 1865.0 1383.0 1806.0 1372.0 1805.0 1372.0 1803.0 1372.0 1773.0 1386.0 1728.0 1372.0 1727.0 1372.0 1725.0 1372.0 1723.0 1372.0 1722.0 1372.0 1704.0 1383.0 1679.0 1367.0 1677.0 1367.0 1676.0 1367.0 1674.0 1367.0 1672.0 1367.0 1582.0 1392.0 1547.0 1368.0 1545.0 1368.0 1543.0 1368.0 1542.0 1368.0 1540.0 1368.0 1472.0 1387.0 1422.0 1386.0 1421.0 1386.0 1419.0 1386.0 1418.0 1386.0 1418.0 1387.0 1410.0 1394.0 1373.0 1372.0 1372.0 1372.0 1370.0 1372.0 1368.0 1372.0 1260.0 1373.0 1259.0 1373.0 1201.0 1400.0 1169.0 1400.0 1171.0 1450.0"/>
+                        </Shape>
+                        <String ID="segment_143" CONTENT="obeissant" HPOS="1219" VPOS="1372" WIDTH="288" HEIGHT="98" WC="0.9986">
+                            <Shape>
+                                <Polygon POINTS="1219 1392 1226 1459 1507 1459 1506 1378"/>
+                            </Shape>
+                            <Glyph ID="char_408" CONTENT="o" HPOS="1219" VPOS="1392" WIDTH="7" HEIGHT="67" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1219 1392 1226 1459 1226 1459 1219 1392"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_409" CONTENT="b" HPOS="1263" VPOS="1373" WIDTH="2" HEIGHT="85" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1263 1373 1265 1458 1265 1458 1263 1373"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_410" CONTENT="e" HPOS="1303" VPOS="1373" WIDTH="2" HEIGHT="94" GC="0.9888">
+                                <Shape>
+                                    <Polygon POINTS="1303 1373 1305 1467 1305 1467 1303 1373"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_411" CONTENT="i" HPOS="1330" VPOS="1372" WIDTH="2" HEIGHT="91" GC="0.9988">
+                                <Shape>
+                                    <Polygon POINTS="1330 1372 1332 1463 1332 1463 1330 1372"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_412" CONTENT="s" HPOS="1357" VPOS="1372" WIDTH="2" HEIGHT="86" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1357 1372 1359 1458 1359 1458 1357 1372"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_413" CONTENT="s" HPOS="1385" VPOS="1379" WIDTH="1" HEIGHT="91" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1385 1379 1386 1470 1386 1470 1385 1379"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_414" CONTENT="a" HPOS="1412" VPOS="1392" WIDTH="1" HEIGHT="78" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1412 1392 1413 1470 1413 1470 1412 1392"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_415" CONTENT="n" HPOS="1472" VPOS="1387" WIDTH="1" HEIGHT="81" GC="0.9997">
+                                <Shape>
+                                    <Polygon POINTS="1472 1387 1473 1468 1473 1468 1472 1387"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_416" CONTENT="t" HPOS="1506" VPOS="1378" WIDTH="1" HEIGHT="81" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1506 1378 1507 1459 1507 1459 1506 1378"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                        <SP ID="segment_144" HPOS="1538"  VPOS="1368" WIDTH="9"  HEIGHT="95"/>
+                        <String ID="segment_145" CONTENT="serviteur" HPOS="1560" VPOS="1370" WIDTH="323" HEIGHT="92" WC="0.9674">
+                            <Shape>
+                                <Polygon POINTS="1560 1377 1561 1462 1883 1451 1882 1378"/>
+                            </Shape>
+                            <Glyph ID="char_418" CONTENT="s" HPOS="1560" VPOS="1377" WIDTH="1" HEIGHT="85" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1560 1377 1561 1462 1561 1462 1560 1377"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_419" CONTENT="e" HPOS="1627" VPOS="1380" WIDTH="1" HEIGHT="74" GC="0.9972">
+                                <Shape>
+                                    <Polygon POINTS="1627 1380 1628 1454 1628 1454 1627 1380"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_420" CONTENT="r" HPOS="1659" VPOS="1370" WIDTH="2" HEIGHT="86" GC="0.9998">
+                                <Shape>
+                                    <Polygon POINTS="1659 1370 1661 1456 1661 1456 1659 1370"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_421" CONTENT="v" HPOS="1701" VPOS="1381" WIDTH="1" HEIGHT="80" GC="1.0">
+                                <Shape>
+                                    <Polygon POINTS="1701 1381 1702 1461 1702 1461 1701 1381"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_422" CONTENT="i" HPOS="1734" VPOS="1374" WIDTH="1" HEIGHT="87" GC="0.9999">
+                                <Shape>
+                                    <Polygon POINTS="1734 1374 1735 1461 1735 1461 1734 1374"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_423" CONTENT="t" HPOS="1768" VPOS="1384" WIDTH="1" HEIGHT="68" GC="0.9995">
+                                <Shape>
+                                    <Polygon POINTS="1768 1384 1769 1452 1769 1452 1768 1384"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_424" CONTENT="e" HPOS="1795" VPOS="1376" WIDTH="1" HEIGHT="85" GC="0.9982">
+                                <Shape>
+                                    <Polygon POINTS="1795 1376 1796 1461 1796 1461 1795 1376"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_425" CONTENT="u" HPOS="1842" VPOS="1379" WIDTH="1" HEIGHT="74" GC="0.9947">
+                                <Shape>
+                                    <Polygon POINTS="1842 1379 1843 1453 1843 1453 1842 1379"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_426" CONTENT="r" HPOS="1882" VPOS="1378" WIDTH="1" HEIGHT="73" GC="0.7175">
+                                <Shape>
+                                    <Polygon POINTS="1882 1378 1883 1451 1883 1451 1882 1378"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                    </TextLine>
+
+                    <TextLine ID="8858d612-8beb-402b-aa30-8dc06db0a46a" HPOS="1464.0" VPOS="1457.0" WIDTH="247.0" HEIGHT="152.0" BASELINE="1465.0 1532.0 1711.0 1529.0" TAGREFS="LINE_TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="1465.0 1532.0 1465.0 1605.0 1709.0 1609.0 1711.0 1529.0 1707.0 1461.0 1488.0 1457.0 1486.0 1457.0 1485.0 1457.0 1464.0 1465.0 1465.0 1532.0"/>
+                        </Shape>
+                        <String ID="segment_146" CONTENT="Juitr" HPOS="1497" VPOS="1457" WIDTH="141" HEIGHT="151" WC="0.8251">
+                            <Shape>
+                                <Polygon POINTS="1497 1457 1499 1606 1638 1608 1636 1460"/>
+                            </Shape>
+                            <Glyph ID="char_427" CONTENT="J" HPOS="1497" VPOS="1457" WIDTH="2" HEIGHT="149" GC="0.9997">
+                                <Shape>
+                                    <Polygon POINTS="1497 1457 1499 1606 1499 1606 1497 1457"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_428" CONTENT="u" HPOS="1540" VPOS="1458" WIDTH="2" HEIGHT="148" GC="0.9202">
+                                <Shape>
+                                    <Polygon POINTS="1540 1458 1542 1606 1542 1606 1540 1458"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_429" CONTENT="i" HPOS="1572" VPOS="1459" WIDTH="13" HEIGHT="148" GC="0.9544">
+                                <Shape>
+                                    <Polygon POINTS="1572 1459 1574 1607 1585 1607 1583 1459"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_430" CONTENT="t" HPOS="1615" VPOS="1459" WIDTH="2" HEIGHT="148" GC="0.5974">
+                                <Shape>
+                                    <Polygon POINTS="1615 1459 1617 1607 1617 1607 1615 1459"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_431" CONTENT="r" HPOS="1636" VPOS="1460" WIDTH="2" HEIGHT="148" GC="0.6537">
+                                <Shape>
+                                    <Polygon POINTS="1636 1460 1638 1608 1638 1608 1636 1460"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                    </TextLine>
+
+                    <TextLine ID="94298573-5712-4c6b-9bb1-774517375827" HPOS="1731.0" VPOS="1528.0" WIDTH="105.0" HEIGHT="114.0" BASELINE="1733.0 1556.0 1836.0 1555.0" TAGREFS="LINE_TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="1733.0 1556.0 1734.0 1642.0 1836.0 1618.0 1836.0 1555.0 1833.0 1532.0 1731.0 1528.0 1733.0 1556.0"/>
+                        </Shape>
+                        <String ID="segment_147" CONTENT="aere" HPOS="1750" VPOS="1529" WIDTH="81" HEIGHT="109" WC="0.6967">
+                            <Shape>
+                                <Polygon POINTS="1750 1529 1751 1638 1831 1619 1830 1532"/>
+                            </Shape>
+                            <Glyph ID="char_432" CONTENT="a" HPOS="1750" VPOS="1529" WIDTH="1" HEIGHT="109" GC="0.9775">
+                                <Shape>
+                                    <Polygon POINTS="1750 1529 1751 1638 1751 1638 1750 1529"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_433" CONTENT="e" HPOS="1774" VPOS="1530" WIDTH="1" HEIGHT="102" GC="0.6844">
+                                <Shape>
+                                    <Polygon POINTS="1774 1530 1775 1632 1775 1632 1774 1530"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_434" CONTENT="r" HPOS="1806" VPOS="1531" WIDTH="1" HEIGHT="94" GC="0.7501">
+                                <Shape>
+                                    <Polygon POINTS="1806 1531 1807 1625 1807 1625 1806 1531"/>
+                                </Shape>
+                            </Glyph>
+                            <Glyph ID="char_435" CONTENT="e" HPOS="1830" VPOS="1532" WIDTH="1" HEIGHT="87" GC="0.3748">
+                                <Shape>
+                                    <Polygon POINTS="1830 1532 1831 1619 1831 1619 1830 1532"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                    </TextLine>
+</TextBlock>
+            </PrintSpace>
+        </Page>
+    </Layout>
+</alto>

@@ -1,0 +1,58 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Midy",
+    "jalons": [
+      0,
+      4
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Antoine",
+    "jalons": [
+      6,
+      13
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "François",
+    "jalons": [
+      14,
+      22
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "s^t",
+    "jalons": [
+      33,
+      36
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Domingue",
+    "jalons": [
+      37,
+      45
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Colonies",
+    "jalons": [
+      53,
+      61
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "E",
+    "jalons": [
+      62,
+      63
+    ]
+  }
+}

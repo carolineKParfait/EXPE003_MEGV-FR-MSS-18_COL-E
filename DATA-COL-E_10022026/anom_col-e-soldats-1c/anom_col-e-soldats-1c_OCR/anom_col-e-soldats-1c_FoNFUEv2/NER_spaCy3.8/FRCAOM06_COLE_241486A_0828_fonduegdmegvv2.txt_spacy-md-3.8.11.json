@@ -1,0 +1,90 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Brach",
+    "jalons": [
+      11,
+      16
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Loüis",
+    "jalons": [
+      55,
+      61
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "S^t",
+    "jalons": [
+      96,
+      99
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Suplie",
+    "jalons": [
+      110,
+      116
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Informé",
+    "jalons": [
+      223,
+      231
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Jean",
+    "jalons": [
+      337,
+      341
+    ]
+  },
+  "entite_6": {
+    "label": "ORG",
+    "text": "Compagnie",
+    "jalons": [
+      385,
+      394
+    ]
+  },
+  "entite_7": {
+    "label": "ORG",
+    "text": "Ch^er",
+    "jalons": [
+      501,
+      506
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Coulons",
+    "jalons": [
+      510,
+      517
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Brach",
+    "jalons": [
+      620,
+      625
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "premiere",
+    "jalons": [
+      627,
+      635
+    ]
+  }
+}

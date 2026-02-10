@@ -1,0 +1,122 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Vaivre",
+    "jalons": [
+      6,
+      12
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Le Chevalier de Fleurieu",
+    "jalons": [
+      34,
+      58
+    ]
+  },
+  "entite_2": {
+    "label": "ORG",
+    "text": "Marine",
+    "jalons": [
+      74,
+      80
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "M Sand",
+    "jalons": [
+      81,
+      87
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Mémoire à Monsieur Le Chevalier",
+    "jalons": [
+      104,
+      135
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "S^r François henry Volant",
+    "jalons": [
+      139,
+      164
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Florieu",
+    "jalons": [
+      188,
+      195
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Certificats",
+    "jalons": [
+      277,
+      288
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "Mémoire",
+    "jalons": [
+      301,
+      308
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "Rang de Sous Lieutenant",
+    "jalons": [
+      396,
+      419
+    ]
+  },
+  "entite_10": {
+    "label": "ORG",
+    "text": "Troupe",
+    "jalons": [
+      428,
+      434
+    ]
+  },
+  "entite_11": {
+    "label": "MISC",
+    "text": "Colonies",
+    "jalons": [
+      454,
+      462
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "Orléans",
+    "jalons": [
+      507,
+      514
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "Décoration Militaire",
+    "jalons": [
+      558,
+      578
+    ]
+  },
+  "entite_14": {
+    "label": "MISC",
+    "text": "Supliant",
+    "jalons": [
+      661,
+      669
+    ]
+  }
+}

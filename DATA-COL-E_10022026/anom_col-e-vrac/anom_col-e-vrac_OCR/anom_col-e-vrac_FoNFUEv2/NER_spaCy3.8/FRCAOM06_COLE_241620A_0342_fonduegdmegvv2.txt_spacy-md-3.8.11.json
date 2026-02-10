@@ -1,0 +1,34 @@
+{
+  "entite_0": {
+    "label": "ORG",
+    "text": "cir",
+    "jalons": [
+      0,
+      3
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Taffart",
+    "jalons": [
+      137,
+      144
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Respeat",
+    "jalons": [
+      208,
+      215
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Versailles",
+    "jalons": [
+      270,
+      280
+    ]
+  }
+}

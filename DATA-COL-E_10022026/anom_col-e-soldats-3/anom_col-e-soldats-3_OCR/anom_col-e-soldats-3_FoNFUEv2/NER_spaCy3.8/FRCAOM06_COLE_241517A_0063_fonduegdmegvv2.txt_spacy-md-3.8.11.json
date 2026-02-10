@@ -1,0 +1,82 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "be Pasquier",
+    "jalons": [
+      0,
+      11
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Martinique",
+    "jalons": [
+      15,
+      25
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Pasquier",
+    "jalons": [
+      30,
+      38
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "Parlement",
+    "jalons": [
+      50,
+      59
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Congé",
+    "jalons": [
+      81,
+      87
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Pasquier",
+    "jalons": [
+      109,
+      117
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "College",
+    "jalons": [
+      150,
+      157
+    ]
+  },
+  "entite_7": {
+    "label": "ORG",
+    "text": "Troupes",
+    "jalons": [
+      187,
+      194
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "Soldat",
+    "jalons": [
+      251,
+      257
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      349,
+      360
+    ]
+  }
+}

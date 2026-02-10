@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>FRCAOM06_COLE_241202A_0498.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="QZ7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="QZ8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="QZ9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="QZ10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="QZ11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="QZ12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="QZ13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="QZ14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="QZ15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="QZ17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="QZ18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="QZ19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="QZ20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="QZ21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="QZ22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="1984"
+          HEIGHT="2528"
+          PHYSICAL_IMG_NR="7"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1984"
+                  HEIGHT="2528">
+        <TextBlock HPOS="254"
+                   VPOS="439"
+                   WIDTH="1558"
+                   HEIGHT="661"
+                   ID="eSc_textblock_c793238b"
+                   TAGREFS="QZ12">
+          <Shape><Polygon POINTS="254 439 254 1100 1812 1100 1812 439"/></Shape>
+          <TextLine ID="eSc_line_dc05afe4"
+                    TAGREFS="LT8"
+                    BASELINE="427 659 741 690 917 699 1161 699" 
+                    HPOS="421"
+                    VPOS="560"
+                    WIDTH="738"
+                    HEIGHT="196">
+            <Shape><Polygon POINTS="425 657 421 699 497 697 596 722 689 705 754 737 843 743 849 743 877 718 921 731 929 731 944 720 988 752 1052 756 1058 756 1104 728 1155 728 1159 697 1155 610 1146 619 1115 594 1104 594 1064 623 988 583 874 577 794 625 630 617 575 560 430 575 425 657"/></Shape>
+            <String CONTENT="Florac (Pierre)"
+                    HPOS="421"
+                    VPOS="560"
+                    WIDTH="738"
+                    HEIGHT="196"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_5b170a66"
+                    TAGREFS="LT8"
+                    BASELINE="304 818 1355 830 1777 828" 
+                    HPOS="303"
+                    VPOS="755"
+                    WIDTH="1474"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="304 818 303 855 538 837 578 855 588 859 590 859 653 860 654 862 744 862 744 860 784 853 844 841 984 851 1041 855 1042 855 1043 855 1055 851 1077 841 1118 839 1140 849 1142 849 1143 849 1145 849 1176 842 1216 849 1296 863 1298 863 1374 848 1376 848 1382 848 1504 856 1506 856 1507 856 1534 846 1542 844 1569 846 1650 855 1652 855 1776 844 1777 828 1774 790 1679 780 1677 780 1639 786 1606 792 1591 785 1552 766 1551 766 1502 766 1500 766 1499 766 1461 782 1457 782 1423 779 1421 779 1420 779 1416 780 1382 799 1303 799 1265 793 1229 776 1199 764 1198 764 1107 762 1105 762 1104 762 1079 773 1052 785 1006 782 1004 782 1003 782 980 792 930 773 928 773 927 773 925 773 865 793 719 793 663 780 661 780 598 790 552 778 550 778 549 778 547 778 531 785 474 766 473 766 472 766 442 771 418 756 417 756 415 756 304 755 304 818"/></Shape>
+            <String CONTENT="Soldat au régiment de Karrer, a Rochefort"
+                    HPOS="303"
+                    VPOS="755"
+                    WIDTH="1474"
+                    HEIGHT="108"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_4946955c"
+                    TAGREFS="LT8"
+                    BASELINE="822 978 1052 977" 
+                    HPOS="818"
+                    VPOS="899"
+                    WIDTH="231"
+                    HEIGHT="131">
+            <Shape><Polygon POINTS="820 977 820 1030 980 1030 980 1028 982 1028 984 1028 984 1025 1007 1006 1009 1002 1049 1000 1049 975 1043 899 885 903 883 903 881 903 881 905 868 918 864 922 818 922 820 977"/></Shape>
+            <String CONTENT="1747"
+                    HPOS="818"
+                    VPOS="899"
+                    WIDTH="231"
+                    HEIGHT="131"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

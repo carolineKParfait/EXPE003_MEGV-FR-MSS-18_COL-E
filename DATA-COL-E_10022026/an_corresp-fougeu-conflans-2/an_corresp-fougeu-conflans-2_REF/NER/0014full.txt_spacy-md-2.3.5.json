@@ -1,0 +1,114 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      2,
+      8
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Madame la Marechale",
+    "jalons": [
+      9,
+      28
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Conflans",
+    "jalons": [
+      32,
+      40
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Vaugirard",
+    "jalons": [
+      62,
+      71
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Pièce",
+    "jalons": [
+      77,
+      82
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Turpin s&#x27;est",
+    "jalons": [
+      109,
+      126
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Madame la Marechale",
+    "jalons": [
+      152,
+      171
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "qu&#x27;ajourd&#x27;hui",
+    "jalons": [
+      251,
+      274
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "Duchisseau",
+    "jalons": [
+      280,
+      290
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Madame la Marechale",
+    "jalons": [
+      317,
+      336
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Jeudy",
+    "jalons": [
+      369,
+      374
+    ]
+  },
+  "entite_11": {
+    "label": "ORG",
+    "text": "Ma^de",
+    "jalons": [
+      487,
+      492
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "Bonneguise",
+    "jalons": [
+      496,
+      506
+    ]
+  },
+  "entite_13": {
+    "label": "PER",
+    "text": "Madame la Marechale",
+    "jalons": [
+      540,
+      559
+    ]
+  }
+}

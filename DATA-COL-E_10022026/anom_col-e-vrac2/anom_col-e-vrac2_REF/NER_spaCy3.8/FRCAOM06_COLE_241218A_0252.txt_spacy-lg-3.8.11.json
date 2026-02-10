@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "france",
+    "jalons": [
+      29,
+      35
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "Geolier",
+    "jalons": [
+      39,
+      46
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Garret",
+    "jalons": [
+      119,
+      125
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      344,
+      355
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Fiedmond",
+    "jalons": [
+      405,
+      413
+    ]
+  }
+}

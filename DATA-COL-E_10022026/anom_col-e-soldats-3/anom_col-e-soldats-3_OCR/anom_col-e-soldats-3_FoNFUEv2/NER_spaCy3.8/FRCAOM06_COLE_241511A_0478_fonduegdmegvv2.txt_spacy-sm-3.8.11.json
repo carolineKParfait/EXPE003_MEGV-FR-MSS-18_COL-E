@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "ACQUIT",
+    "jalons": [
+      26,
+      32
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Juin",
+    "jalons": [
+      130,
+      134
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Sieur",
+    "jalons": [
+      203,
+      208
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Champagne",
+    "jalons": [
+      285,
+      294
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "FAIT",
+    "jalons": [
+      334,
+      338
+    ]
+  }
+}

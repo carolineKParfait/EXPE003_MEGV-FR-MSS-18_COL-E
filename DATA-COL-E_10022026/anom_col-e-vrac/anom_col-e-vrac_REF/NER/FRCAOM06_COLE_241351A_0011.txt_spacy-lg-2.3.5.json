@@ -1,0 +1,138 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "qu&#x27;a",
+    "jalons": [
+      13,
+      22
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "&amp",
+    "jalons": [
+      69,
+      73
+    ]
+  },
+  "entite_2": {
+    "label": "ORG",
+    "text": "&amp",
+    "jalons": [
+      202,
+      206
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "s&#x27;oblige",
+    "jalons": [
+      249,
+      262
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Augustin",
+    "jalons": [
+      277,
+      285
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "S^r Gourgue–",
+    "jalons": [
+      314,
+      326
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "la Colonie",
+    "jalons": [
+      550,
+      560
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Lobligeant",
+    "jalons": [
+      562,
+      572
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "S^r Gourgue",
+    "jalons": [
+      588,
+      599
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Augustin jusqu&#x27;à",
+    "jalons": [
+      647,
+      668
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "S^r",
+    "jalons": [
+      731,
+      734
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "Gourgues",
+    "jalons": [
+      735,
+      743
+    ]
+  },
+  "entite_12": {
+    "label": "PER",
+    "text": "Iposteque Généralle¬",
+    "jalons": [
+      765,
+      785
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "immeubles–",
+    "jalons": [
+      818,
+      828
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "Collatinnés",
+    "jalons": [
+      1016,
+      1027
+    ]
+  },
+  "entite_15": {
+    "label": "MISC",
+    "text": "d&#x27;en",
+    "jalons": [
+      1031,
+      1040
+    ]
+  },
+  "entite_16": {
+    "label": "MISC",
+    "text": "Acte",
+    "jalons": [
+      1050,
+      1054
+    ]
+  }
+}

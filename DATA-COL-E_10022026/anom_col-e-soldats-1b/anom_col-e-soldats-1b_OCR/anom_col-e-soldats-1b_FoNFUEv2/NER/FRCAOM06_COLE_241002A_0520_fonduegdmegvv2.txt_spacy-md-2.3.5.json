@@ -1,0 +1,266 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "33 Ministere",
+    "jalons": [
+      0,
+      12
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Communes",
+    "jalons": [
+      71,
+      79
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Hospices",
+    "jalons": [
+      87,
+      95
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Etablissemens de bienfaisance",
+    "jalons": [
+      97,
+      126
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Etablissemens",
+    "jalons": [
+      128,
+      141
+    ]
+  },
+  "entite_5": {
+    "label": "ORG",
+    "text": "jer Bureau",
+    "jalons": [
+      154,
+      164
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Préfet",
+    "jalons": [
+      193,
+      200
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Daillebout",
+    "jalons": [
+      224,
+      234
+    ]
+  },
+  "entite_8": {
+    "label": "LOC",
+    "text": "aliené",
+    "jalons": [
+      262,
+      269
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "Senlis",
+    "jalons": [
+      292,
+      298
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      317,
+      322
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "Duy",
+    "jalons": [
+      345,
+      348
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "Invacle",
+    "jalons": [
+      377,
+      384
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "MRandoulet 6",
+    "jalons": [
+      388,
+      400
+    ]
+  },
+  "entite_14": {
+    "label": "MISC",
+    "text": "Parsite",
+    "jalons": [
+      414,
+      421
+    ]
+  },
+  "entite_15": {
+    "label": "MISC",
+    "text": "Votre Excellence endate",
+    "jalons": [
+      436,
+      459
+    ]
+  },
+  "entite_16": {
+    "label": "LOC",
+    "text": "Charente- inférieure",
+    "jalons": [
+      502,
+      523
+    ]
+  },
+  "entite_17": {
+    "label": "PER",
+    "text": "Prefet ummmmn",
+    "jalons": [
+      572,
+      585
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "Charente",
+    "jalons": [
+      591,
+      599
+    ]
+  },
+  "entite_19": {
+    "label": "PER",
+    "text": "Daillebout",
+    "jalons": [
+      729,
+      739
+    ]
+  },
+  "entite_20": {
+    "label": "LOC",
+    "text": "Cayenne",
+    "jalons": [
+      770,
+      777
+    ]
+  },
+  "entite_21": {
+    "label": "MISC",
+    "text": "Trouper de Cayenne",
+    "jalons": [
+      786,
+      804
+    ]
+  },
+  "entite_22": {
+    "label": "LOC",
+    "text": "traité",
+    "jalons": [
+      806,
+      813
+    ]
+  },
+  "entite_23": {
+    "label": "LOC",
+    "text": "aliené",
+    "jalons": [
+      820,
+      827
+    ]
+  },
+  "entite_24": {
+    "label": "LOC",
+    "text": "Excelleur",
+    "jalons": [
+      955,
+      964
+    ]
+  },
+  "entite_25": {
+    "label": "LOC",
+    "text": "conséquence",
+    "jalons": [
+      1024,
+      1036
+    ]
+  },
+  "entite_26": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      1103,
+      1114
+    ]
+  },
+  "entite_27": {
+    "label": "PER",
+    "text": "Excellence Letres",
+    "jalons": [
+      1124,
+      1141
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "obéissant",
+    "jalons": [
+      1157,
+      1167
+    ]
+  },
+  "entite_29": {
+    "label": "LOC",
+    "text": "Conseilles",
+    "jalons": [
+      1182,
+      1192
+    ]
+  },
+  "entite_30": {
+    "label": "MISC",
+    "text": "Excellence le Ministre",
+    "jalons": [
+      1212,
+      1234
+    ]
+  },
+  "entite_31": {
+    "label": "MISC",
+    "text": "Colonies",
+    "jalons": [
+      1293,
+      1301
+    ]
+  },
+  "entite_32": {
+    "label": "MISC",
+    "text": "M^e",
+    "jalons": [
+      1303,
+      1306
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "Interrogatoire",
+    "jalons": [
+      23,
+      37
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Carbonns",
+    "jalons": [
+      201,
+      209
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Temoins",
+    "jalons": [
+      314,
+      321
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Biens",
+    "jalons": [
+      403,
+      408
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "L&#39;avertiosant",
+    "jalons": [
+      410,
+      427
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Reproches",
+    "jalons": [
+      521,
+      530
+    ]
+  },
+  "entite_6": {
+    "label": "ORG",
+    "text": "luy",
+    "jalons": [
+      579,
+      582
+    ]
+  },
+  "entite_7": {
+    "label": "ORG",
+    "text": "Conseil",
+    "jalons": [
+      620,
+      627
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "roy",
+    "jalons": [
+      709,
+      712
+    ]
+  }
+}

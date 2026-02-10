@@ -1,0 +1,90 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Interrogé",
+    "jalons": [
+      15,
+      24
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "s&#x27;il",
+    "jalons": [
+      25,
+      34
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Garnison",
+    "jalons": [
+      106,
+      114
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "A",
+    "jalons": [
+      127,
+      128
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Interrogé",
+    "jalons": [
+      172,
+      181
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "A",
+    "jalons": [
+      228,
+      229
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Interrogé",
+    "jalons": [
+      284,
+      293
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "A",
+    "jalons": [
+      408,
+      409
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Repondu",
+    "jalons": [
+      410,
+      417
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Farine",
+    "jalons": [
+      520,
+      526
+    ]
+  },
+  "entite_10": {
+    "label": "ORG",
+    "text": "Autres",
+    "jalons": [
+      537,
+      543
+    ]
+  }
+}

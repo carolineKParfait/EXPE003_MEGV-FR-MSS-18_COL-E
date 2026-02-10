@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "Bleu et",
+    "jalons": [
+      0,
+      7
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "vaus",
+    "jalons": [
+      53,
+      57
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      159,
+      170
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Taffart",
+    "jalons": [
+      215,
+      222
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Libourne",
+    "jalons": [
+      224,
+      232
+    ]
+  }
+}

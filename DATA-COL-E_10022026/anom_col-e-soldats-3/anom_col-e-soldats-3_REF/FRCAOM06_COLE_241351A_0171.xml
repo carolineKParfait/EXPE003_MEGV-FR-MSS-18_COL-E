@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>FRCAOM06_COLE_241351A_0171.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="QZ7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="QZ8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="QZ9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="QZ10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="QZ11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="QZ12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="QZ13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="QZ14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="QZ15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="QZ17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="QZ18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="QZ19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="QZ20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="QZ21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="QZ22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3232"
+          HEIGHT="3752"
+          PHYSICAL_IMG_NR="13"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3232"
+                  HEIGHT="3752">
+        <TextBlock HPOS="802"
+                   VPOS="416"
+                   WIDTH="1606"
+                   HEIGHT="2813"
+                   ID="eSc_textblock_e448a7d9"
+                   TAGREFS="QZ12">
+          <Shape><Polygon POINTS="2408 3229 2408 416 802 416 802 3229"/></Shape>
+          <TextLine ID="eSc_line_9d6294a9"
+                    TAGREFS="LT8"
+                    BASELINE="1011 612 1805 639" 
+                    HPOS="1009"
+                    VPOS="550"
+                    WIDTH="796"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="1180 550 1144 569 1142 571 1088 571 1084 569 1071 558 1069 558 1067 558 1065 558 1011 566 1011 612 1009 646 1063 639 1105 650 1111 652 1113 652 1115 652 1117 652 1119 652 1119 650 1134 637 1163 637 1190 648 1192 648 1194 648 1242 639 1276 654 1280 656 1282 656 1284 656 1286 656 1290 654 1311 644 1415 644 1428 658 1434 662 1434 664 1436 664 1438 664 1440 664 1442 664 1459 658 1484 648 1503 658 1513 667 1515 667 1517 667 1520 667 1522 667 1540 660 1559 654 1584 660 1622 671 1624 671 1626 671 1628 671 1655 662 1676 656 1684 662 1688 667 1691 667 1693 667 1695 667 1803 664 1805 639 1805 575 1684 562 1682 562 1680 562 1678 562 1666 573 1647 587 1632 573 1622 562 1622 560 1620 560 1618 560 1572 560 1570 560 1568 560 1565 560 1551 573 1530 585 1399 583 1380 571 1351 552 1349 552 1347 552 1344 552 1342 552 1340 552 1324 566 1284 550 1282 550 1280 550 1278 550 1276 550 1276 552 1261 566 1215 566 1198 550 1180 550"/></Shape>
+            <String CONTENT="particulier au Môle."
+                    HPOS="1009"
+                    VPOS="550"
+                    WIDTH="796"
+                    HEIGHT="121"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_4fce4b14"
+                    TAGREFS="LT8"
+                    BASELINE="866 859 2374 877" 
+                    HPOS="860"
+                    VPOS="747"
+                    WIDTH="1511"
+                    HEIGHT="209">
+            <Shape><Polygon POINTS="863 856 860 941 1019 944 1104 906 1167 947 1176 950 1223 950 1223 947 1229 947 1229 944 1289 887 1489 887 1551 922 1620 956 1792 956 1792 953 1799 953 1799 950 1845 903 1870 916 1883 916 1908 897 1958 912 2061 897 2077 906 2115 938 2130 938 2171 903 2368 897 2371 875 2368 828 2212 828 2143 778 2130 778 2086 791 2036 756 2024 756 1933 781 1896 762 1883 762 1883 766 1833 806 1739 794 1598 816 1542 794 1473 797 1426 753 1426 750 1367 747 1160 747 1160 750 1095 809 863 809 863 856"/></Shape>
+            <String CONTENT="Je Suis avec un profond Respect"
+                    HPOS="860"
+                    VPOS="747"
+                    WIDTH="1511"
+                    HEIGHT="209"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b38e49a4"
+                    TAGREFS="LT8"
+                    BASELINE="1044 1418 2068 1415" 
+                    HPOS="1038"
+                    VPOS="1263"
+                    WIDTH="1026"
+                    HEIGHT="215">
+            <Shape><Polygon POINTS="1041 1416 1041 1435 1182 1475 1192 1475 1282 1438 1373 1457 1382 1457 1407 1435 1558 1457 1608 1435 1695 1478 1842 1478 1842 1475 2061 1432 2064 1413 2058 1369 1855 1369 1855 1366 1805 1341 1792 1341 1777 1356 1683 1266 1683 1263 1451 1263 1289 1369 1223 1369 1220 1363 1126 1275 1126 1272 1110 1272 1110 1275 1038 1347 1041 1416"/></Shape>
+            <String CONTENT="Monseigneur"
+                    HPOS="1038"
+                    VPOS="1263"
+                    WIDTH="1026"
+                    HEIGHT="215"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_35049b6f"
+                    TAGREFS="LT8"
+                    BASELINE="1341 2751 1720 2755 2243 2788 2418 2791" 
+                    HPOS="1339"
+                    VPOS="2293"
+                    WIDTH="1079"
+                    HEIGHT="555">
+            <Shape><Polygon POINTS="1339 2792 1389 2773 1442 2788 1536 2773 1564 2798 1564 2801 1589 2801 1730 2785 1808 2792 1833 2807 1852 2823 1867 2823 1905 2795 1983 2798 2046 2839 2058 2839 2102 2820 2130 2842 2277 2848 2305 2823 2315 2820 2409 2826 2415 2788 2418 2676 2312 2670 2218 2707 2136 2707 2115 2679 2005 2698 1930 2673 1837 2293 1586 2642 1586 2638 1573 2638 1495 2663 1342 2660 1339 2748"/></Shape>
+            <String CONTENT="Votre très humble et très"
+                    HPOS="1339"
+                    VPOS="2293"
+                    WIDTH="1079"
+                    HEIGHT="555"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_39e1becf"
+                    TAGREFS="LT8"
+                    BASELINE="1568 2872 2168 2897" 
+                    HPOS="1565"
+                    VPOS="2799"
+                    WIDTH="603"
+                    HEIGHT="137">
+            <Shape><Polygon POINTS="1568 2872 1565 2907 1597 2928 1599 2928 1601 2928 1666 2932 1668 2932 1741 2930 1743 2930 1780 2914 1803 2928 1805 2928 1807 2928 1809 2928 1924 2918 1951 2936 1953 2936 1955 2936 1957 2936 2166 2924 2168 2897 2168 2851 2122 2836 2120 2836 2118 2836 1997 2845 1995 2845 1964 2814 1964 2811 1962 2811 1960 2811 1928 2811 1926 2811 1924 2811 1922 2811 1922 2814 1891 2841 1791 2839 1791 2836 1759 2805 1759 2803 1757 2803 1755 2803 1753 2803 1751 2803 1714 2814 1672 2799 1670 2799 1668 2799 1666 2799 1568 2826 1568 2872"/></Shape>
+            <String CONTENT="obéissant Serviteur"
+                    HPOS="1565"
+                    VPOS="2799"
+                    WIDTH="603"
+                    HEIGHT="137"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_22c59f85"
+                    TAGREFS="LT8"
+                    BASELINE="1949 3028 2339 3016" 
+                    HPOS="1945"
+                    VPOS="2930"
+                    WIDTH="394"
+                    HEIGHT="136">
+            <Shape><Polygon POINTS="1949 3028 1949 3066 1995 3064 1997 3064 1999 3064 1999 3062 2018 3045 2070 3053 2072 3053 2158 3041 2195 3059 2197 3059 2199 3059 2206 3059 2276 3047 2337 3053 2339 3016 2333 2974 2258 2974 2249 2968 2245 2964 2245 2961 2243 2961 2241 2961 2147 2953 2145 2953 2143 2953 2128 2959 2114 2966 2103 2957 2072 2930 2070 2930 2068 2930 2066 2930 1945 2945 1949 3028"/></Shape>
+            <String CONTENT="Montarcher"
+                    HPOS="1945"
+                    VPOS="2930"
+                    WIDTH="394"
+                    HEIGHT="136"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

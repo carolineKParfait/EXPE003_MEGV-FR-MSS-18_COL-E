@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Daillebout",
+    "jalons": [
+      30,
+      40
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Préfet",
+    "jalons": [
+      96,
+      102
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      239,
+      250
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Excellence",
+    "jalons": [
+      303,
+      313
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Conseiller d&#x27;Etat",
+    "jalons": [
+      317,
+      339
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "M^e",
+    "jalons": [
+      341,
+      344
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      0,
+      5
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "B^re",
+    "jalons": [
+      13,
+      17
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "ancier",
+    "jalons": [
+      34,
+      40
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "C^en",
+    "jalons": [
+      44,
+      48
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Troupe",
+    "jalons": [
+      102,
+      108
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "france",
+    "jalons": [
+      131,
+      137
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "debarqué",
+    "jalons": [
+      149,
+      158
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Rochefort",
+    "jalons": [
+      161,
+      170
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "desolie",
+    "jalons": [
+      184,
+      191
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Roi",
+    "jalons": [
+      219,
+      222
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "senlis",
+    "jalons": [
+      267,
+      273
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "seulis",
+    "jalons": [
+      401,
+      407
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "Jet",
+    "jalons": [
+      425,
+      428
+    ]
+  },
+  "entite_13": {
+    "label": "PER",
+    "text": "cetre",
+    "jalons": [
+      445,
+      450
+    ]
+  },
+  "entite_14": {
+    "label": "MISC",
+    "text": "Cas",
+    "jalons": [
+      565,
+      568
+    ]
+  },
+  "entite_15": {
+    "label": "PER",
+    "text": "Vaustite",
+    "jalons": [
+      667,
+      675
+    ]
+  },
+  "entite_16": {
+    "label": "PER",
+    "text": "désignée",
+    "jalons": [
+      697,
+      707
+    ]
+  },
+  "entite_17": {
+    "label": "ORG",
+    "text": "C^e",
+    "jalons": [
+      765,
+      768
+    ]
+  },
+  "entite_18": {
+    "label": "PER",
+    "text": "Jai",
+    "jalons": [
+      782,
+      785
+    ]
+  },
+  "entite_19": {
+    "label": "LOC",
+    "text": "pouvore",
+    "jalons": [
+      838,
+      845
+    ]
+  },
+  "entite_20": {
+    "label": "LOC",
+    "text": "nepu",
+    "jalons": [
+      901,
+      905
+    ]
+  },
+  "entite_21": {
+    "label": "LOC",
+    "text": "sonlis",
+    "jalons": [
+      933,
+      939
+    ]
+  },
+  "entite_22": {
+    "label": "PER",
+    "text": "sar",
+    "jalons": [
+      1062,
+      1065
+    ]
+  },
+  "entite_23": {
+    "label": "PER",
+    "text": "fermetori",
+    "jalons": [
+      1073,
+      1082
+    ]
+  },
+  "entite_24": {
+    "label": "LOC",
+    "text": "Commiseration",
+    "jalons": [
+      1108,
+      1121
+    ]
+  },
+  "entite_25": {
+    "label": "LOC",
+    "text": "eir",
+    "jalons": [
+      1162,
+      1165
+    ]
+  },
+  "entite_26": {
+    "label": "PER",
+    "text": "uini",
+    "jalons": [
+      1236,
+      1240
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "M^r",
+    "jalons": [
+      1486,
+      1489
+    ]
+  },
+  "entite_28": {
+    "label": "PER",
+    "text": "cohape",
+    "jalons": [
+      1549,
+      1555
+    ]
+  }
+}

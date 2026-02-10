@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "ORG",
+    "text": "Ormancey",
+    "jalons": [
+      0,
+      8
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "Jean",
+    "jalons": [
+      10,
+      14
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Soldat",
+    "jalons": [
+      16,
+      22
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Guadeloupe",
+    "jalons": [
+      26,
+      36
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Colonies",
+    "jalons": [
+      42,
+      50
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "E",
+    "jalons": [
+      51,
+      52
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Moisset",
+    "jalons": [
+      0,
+      7
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Jean",
+    "jalons": [
+      9,
+      13
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Soldat",
+    "jalons": [
+      15,
+      21
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Colonies",
+    "jalons": [
+      41,
+      49
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "E 314",
+    "jalons": [
+      50,
+      55
+    ]
+  }
+}

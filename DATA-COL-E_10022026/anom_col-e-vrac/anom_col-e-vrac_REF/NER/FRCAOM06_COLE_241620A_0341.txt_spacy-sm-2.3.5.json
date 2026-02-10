@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      0,
+      6
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "S^t Domingue",
+    "jalons": [
+      63,
+      75
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Ré",
+    "jalons": [
+      190,
+      192
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "M. Votre Pere",
+    "jalons": [
+      214,
+      227
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "epoque–",
+    "jalons": [
+      307,
+      314
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "M. Votre fere",
+    "jalons": [
+      318,
+      331
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "l&#x27;age",
+    "jalons": [
+      345,
+      355
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "cette–",
+    "jalons": [
+      541,
+      547
+    ]
+  }
+}

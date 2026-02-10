@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>FRCAOM06_COLE_241477A_0592.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="QZ7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="QZ8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="QZ9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="QZ10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="QZ11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="QZ12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="QZ13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="QZ14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="QZ15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="QZ17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="QZ18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="QZ19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="QZ20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="QZ21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="QZ22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2061"
+          HEIGHT="2692"
+          PHYSICAL_IMG_NR="38"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2061"
+                  HEIGHT="2692">
+        <TextBlock HPOS="181"
+                   VPOS="307"
+                   WIDTH="1769"
+                   HEIGHT="1103"
+                   ID="eSc_textblock_be7bc66a"
+                   TAGREFS="QZ12">
+          <Shape><Polygon POINTS="181 307 181 1410 1950 1410 1950 307"/></Shape>
+          <TextLine ID="eSc_line_c065b467"
+                    TAGREFS="LT8"
+                    BASELINE="237 486 717 495 768 393 867 388" 
+                    HPOS="231"
+                    VPOS="308"
+                    WIDTH="635"
+                    HEIGHT="228">
+            <Shape><Polygon POINTS="235 498 300 533 303 533 305 533 307 533 343 515 370 536 372 536 374 536 377 536 473 518 657 533 660 533 662 533 727 513 729 513 729 511 770 471 772 466 866 464 866 385 857 323 761 349 731 340 729 340 727 340 725 340 675 367 574 372 532 308 493 356 473 338 471 338 469 338 321 338 318 338 316 338 314 338 264 376 260 381 231 381 235 484"/></Shape>
+            <String CONTENT="N° 144.^bis"
+                    HPOS="231"
+                    VPOS="308"
+                    WIDTH="635"
+                    HEIGHT="228"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3602aadf"
+                    TAGREFS="LT8"
+                    BASELINE="825 732 1787 720" 
+                    HPOS="821"
+                    VPOS="572"
+                    WIDTH="963"
+                    HEIGHT="223">
+            <Shape><Polygon POINTS="823 747 884 747 907 762 916 762 983 744 1030 762 1290 762 1462 773 1506 753 1630 795 1746 751 1784 731 1780 623 1686 610 1625 572 1513 572 1486 594 1398 574 1351 619 1295 632 1106 632 1039 585 1030 585 999 596 976 581 889 581 835 634 835 637 821 637 823 731"/></Shape>
+            <String CONTENT="Mérique, François"
+                    HPOS="821"
+                    VPOS="572"
+                    WIDTH="963"
+                    HEIGHT="223"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_ac531633"
+                    TAGREFS="LT8"
+                    BASELINE="1018 886 1681 889" 
+                    HPOS="1014"
+                    VPOS="834"
+                    WIDTH="665"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="1017 883 1014 899 1057 915 1115 910 1151 935 1162 935 1201 901 1259 937 1324 937 1382 908 1414 937 1421 939 1484 939 1519 904 1677 899 1679 888 1674 856 1425 859 1396 836 1347 834 1311 834 1293 854 1268 843 1261 843 1243 852 1228 834 1147 834 1109 856 1017 852 1017 883"/></Shape>
+            <String CONTENT="natif de Gascogne,"
+                    HPOS="1014"
+                    VPOS="834"
+                    WIDTH="665"
+                    HEIGHT="105"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_f7ae82ce"
+                    TAGREFS="LT8"
+                    BASELINE="649 990 756 997 1073 997 1537 990 1847 997" 
+                    HPOS="647"
+                    VPOS="934"
+                    WIDTH="1200"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="1844 975 1842 972 1766 972 1764 970 1737 957 1736 957 1734 957 1682 964 1636 943 1634 943 1633 943 1631 943 1630 943 1601 961 1574 961 1524 934 1522 934 1521 934 1519 934 1518 934 1473 964 1471 966 1471 964 1420 934 1419 934 1417 934 1392 934 1390 934 1389 934 1387 934 1346 963 1338 967 1332 963 1313 951 1311 951 1310 951 1308 951 1307 951 1280 961 1275 963 1272 961 1256 955 1254 955 1253 955 1221 961 1169 970 1031 958 1000 955 999 955 997 955 991 957 951 970 931 955 930 955 928 955 927 955 898 955 831 957 827 954 801 934 800 934 798 934 671 934 670 934 668 934 667 934 647 948 649 990 650 1030 707 1013 729 1028 731 1028 732 1028 734 1028 735 1028 750 1021 780 1028 785 1030 786 1030 788 1030 789 1030 795 1028 842 1015 897 1027 910 1030 912 1030 913 1030 915 1030 919 1027 934 1018 951 1027 966 1034 967 1034 969 1036 1091 1036 1091 1034 1093 1034 1120 1024 1148 1015 1192 1024 1224 1030 1226 1030 1227 1030 1229 1030 1239 1022 1266 1008 1304 1008 1335 1022 1337 1022 1338 1022 1340 1022 1341 1022 1343 1022 1368 1008 1390 1019 1392 1019 1393 1021 1393 1019 1395 1019 1419 1008 1553 1008 1660 1010 1681 1018 1737 1034 1739 1034 1740 1034 1742 1034 1743 1034 1766 1018 1847 1015 1847 997 1845 972 1844 972 1844 975"/></Shape>
+            <String CONTENT="Soldat au régiment de la Martinique"
+                    HPOS="647"
+                    VPOS="934"
+                    WIDTH="1200"
+                    HEIGHT="102"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_082905a5"
+                    TAGREFS="LT8"
+                    BASELINE="824 1109 1597 1102" 
+                    HPOS="822"
+                    VPOS="1046"
+                    WIDTH="775"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="824 1109 824 1130 877 1150 879 1150 880 1150 882 1150 913 1136 1034 1142 1036 1142 1037 1142 1039 1142 1058 1129 1060 1129 1156 1148 1157 1148 1239 1129 1266 1148 1268 1148 1269 1148 1271 1148 1272 1148 1274 1148 1299 1126 1301 1126 1356 1126 1358 1126 1396 1147 1398 1147 1399 1148 1441 1148 1441 1147 1479 1145 1480 1145 1482 1145 1510 1127 1552 1135 1553 1135 1555 1135 1556 1135 1556 1133 1567 1124 1595 1124 1597 1102 1595 1069 1547 1052 1546 1052 1545 1052 1543 1052 1542 1052 1516 1070 1510 1073 1495 1070 1450 1060 1437 1048 1437 1046 1435 1046 1434 1046 1390 1046 1389 1046 1387 1046 1325 1069 1307 1052 1307 1051 1305 1051 1304 1051 1302 1051 1301 1051 1287 1058 1275 1048 1274 1048 1272 1048 1186 1048 1184 1048 1183 1048 1181 1048 1181 1049 1151 1076 1150 1076 1127 1069 1126 1069 1124 1069 1076 1078 1072 1078 1070 1078 1051 1060 1049 1060 1048 1060 1046 1060 1045 1060 1043 1060 1021 1078 985 1069 984 1069 982 1069 981 1069 979 1069 979 1070 970 1079 969 1079 967 1079 930 1072 928 1072 822 1081 824 1109"/></Shape>
+            <String CONTENT="mort au Fort-Royal"
+                    HPOS="822"
+                    VPOS="1046"
+                    WIDTH="775"
+                    HEIGHT="104"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c654b5f5"
+                    TAGREFS="LT8"
+                    BASELINE="1098 1271 1313 1260" 
+                    HPOS="1093"
+                    VPOS="1177"
+                    WIDTH="218"
+                    HEIGHT="162">
+            <Shape><Polygon POINTS="1097 1269 1100 1339 1169 1339 1171 1339 1174 1339 1194 1323 1216 1303 1243 1312 1252 1314 1255 1314 1257 1314 1259 1314 1311 1296 1311 1258 1304 1184 1248 1177 1246 1177 1243 1177 1210 1195 1185 1184 1183 1184 1180 1184 1178 1184 1176 1184 1176 1186 1160 1202 1153 1211 1093 1211 1097 1269"/></Shape>
+            <String CONTENT="1788"
+                    HPOS="1093"
+                    VPOS="1177"
+                    WIDTH="218"
+                    HEIGHT="162"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

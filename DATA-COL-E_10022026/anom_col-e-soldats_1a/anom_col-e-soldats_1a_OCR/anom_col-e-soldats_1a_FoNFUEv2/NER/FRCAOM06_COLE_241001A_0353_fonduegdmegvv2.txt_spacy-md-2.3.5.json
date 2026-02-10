@@ -1,0 +1,338 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "dat",
+    "jalons": [
+      0,
+      3
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "nalité",
+    "jalons": [
+      9,
+      16
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Anotre roc",
+    "jalons": [
+      21,
+      31
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "preté",
+    "jalons": [
+      49,
+      55
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Luy",
+    "jalons": [
+      63,
+      66
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "apel ourguoy",
+    "jalons": [
+      101,
+      113
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "deserté",
+    "jalons": [
+      125,
+      133
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Enquis s&#39;il",
+    "jalons": [
+      134,
+      149
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "obligé",
+    "jalons": [
+      170,
+      177
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Répondu Lignorer",
+    "jalons": [
+      203,
+      220
+    ]
+  },
+  "entite_10": {
+    "label": "MISC",
+    "text": "Contre ce soldat accusé étant obligé",
+    "jalons": [
+      272,
+      311
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "Temoin",
+    "jalons": [
+      327,
+      333
+    ]
+  },
+  "entite_12": {
+    "label": "MISC",
+    "text": "Lecture à luy",
+    "jalons": [
+      405,
+      419
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "Contient vérité &amp",
+    "jalons": [
+      458,
+      480
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "signé",
+    "jalons": [
+      485,
+      491
+    ]
+  },
+  "entite_15": {
+    "label": "MISC",
+    "text": "Nous &amp",
+    "jalons": [
+      497,
+      506
+    ]
+  },
+  "entite_16": {
+    "label": "PER",
+    "text": "Jean Jacques Venant",
+    "jalons": [
+      532,
+      551
+    ]
+  },
+  "entite_17": {
+    "label": "PER",
+    "text": "Casamajor",
+    "jalons": [
+      553,
+      562
+    ]
+  },
+  "entite_18": {
+    "label": "MISC",
+    "text": "Cazac Interogatoire &amp",
+    "jalons": [
+      564,
+      588
+    ]
+  },
+  "entite_19": {
+    "label": "MISC",
+    "text": "L&#39;accuse Avons",
+    "jalons": [
+      603,
+      621
+    ]
+  },
+  "entite_20": {
+    "label": "PER",
+    "text": "hommé",
+    "jalons": [
+      636,
+      642
+    ]
+  },
+  "entite_21": {
+    "label": "LOC",
+    "text": "laulle",
+    "jalons": [
+      649,
+      655
+    ]
+  },
+  "entite_22": {
+    "label": "MISC",
+    "text": "Cinq pieds un ponce et demi",
+    "jalons": [
+      670,
+      697
+    ]
+  },
+  "entite_23": {
+    "label": "MISC",
+    "text": "Et après luy",
+    "jalons": [
+      737,
+      750
+    ]
+  },
+  "entite_24": {
+    "label": "MISC",
+    "text": "verité",
+    "jalons": [
+      788,
+      795
+    ]
+  },
+  "entite_25": {
+    "label": "MISC",
+    "text": "Religion",
+    "jalons": [
+      920,
+      928
+    ]
+  },
+  "entite_26": {
+    "label": "PER",
+    "text": "Répondu",
+    "jalons": [
+      931,
+      939
+    ]
+  },
+  "entite_27": {
+    "label": "PER",
+    "text": "pierre Adert",
+    "jalons": [
+      950,
+      962
+    ]
+  },
+  "entite_28": {
+    "label": "ORG",
+    "text": "Compagnie de Dupuy",
+    "jalons": [
+      976,
+      994
+    ]
+  },
+  "entite_29": {
+    "label": "PER",
+    "text": "Laurent Adert",
+    "jalons": [
+      1024,
+      1037
+    ]
+  },
+  "entite_30": {
+    "label": "LOC",
+    "text": "Biarde",
+    "jalons": [
+      1055,
+      1061
+    ]
+  },
+  "entite_31": {
+    "label": "LOC",
+    "text": "Nimes",
+    "jalons": [
+      1071,
+      1076
+    ]
+  },
+  "entite_32": {
+    "label": "LOC",
+    "text": "Languedoc",
+    "jalons": [
+      1080,
+      1089
+    ]
+  },
+  "entite_33": {
+    "label": "ORG",
+    "text": "Calholique apostolique &amp",
+    "jalons": [
+      1124,
+      1151
+    ]
+  },
+  "entite_34": {
+    "label": "PER",
+    "text": "Romaine Interogé",
+    "jalons": [
+      1153,
+      1170
+    ]
+  },
+  "entite_35": {
+    "label": "LOC",
+    "text": "arété",
+    "jalons": [
+      1281,
+      1288
+    ]
+  },
+  "entite_36": {
+    "label": "PER",
+    "text": "Pourquoy",
+    "jalons": [
+      1308,
+      1316
+    ]
+  },
+  "entite_37": {
+    "label": "MISC",
+    "text": "arreté",
+    "jalons": [
+      1341,
+      1348
+    ]
+  },
+  "entite_38": {
+    "label": "LOC",
+    "text": "Tannerie",
+    "jalons": [
+      1355,
+      1363
+    ]
+  },
+  "entite_39": {
+    "label": "LOC",
+    "text": "Cavalier",
+    "jalons": [
+      1371,
+      1379
+    ]
+  },
+  "entite_40": {
+    "label": "LOC",
+    "text": "Galinois",
+    "jalons": [
+      1449,
+      1457
+    ]
+  },
+  "entite_41": {
+    "label": "LOC",
+    "text": "Cavalier",
+    "jalons": [
+      1466,
+      1474
+    ]
+  }
+}

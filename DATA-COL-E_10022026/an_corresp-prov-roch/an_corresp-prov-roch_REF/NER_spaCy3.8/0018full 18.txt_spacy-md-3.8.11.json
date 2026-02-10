@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Continuation",
+    "jalons": [
+      17,
+      29
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      65,
+      71
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "De",
+    "jalons": [
+      130,
+      132
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "L&#x27;Etablissement",
+    "jalons": [
+      195,
+      215
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "D&#x27;En",
+    "jalons": [
+      250,
+      259
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "obeissances",
+    "jalons": [
+      333,
+      344
+    ]
+  },
+  "entite_6": {
+    "label": "ORG",
+    "text": "DEtre",
+    "jalons": [
+      371,
+      376
+    ]
+  },
+  "entite_7": {
+    "label": "ORG",
+    "text": "Bretton",
+    "jalons": [
+      479,
+      486
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Copie d&#x27;une",
+    "jalons": [
+      0,
+      16
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Procureur",
+    "jalons": [
+      54,
+      63
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Monsieur Fougeu",
+    "jalons": [
+      109,
+      124
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      144,
+      149
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Aoust 1764",
+    "jalons": [
+      156,
+      166
+    ]
+  }
+}

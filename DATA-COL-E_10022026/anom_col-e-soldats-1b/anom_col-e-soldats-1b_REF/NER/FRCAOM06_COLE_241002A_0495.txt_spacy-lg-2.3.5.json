@@ -1,0 +1,74 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Ordonnancer",
+    "jalons": [
+      0,
+      11
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "la Révolution",
+    "jalons": [
+      153,
+      166
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Gouvernement",
+    "jalons": [
+      225,
+      237
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Question",
+    "jalons": [
+      295,
+      303
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Salut et Respect",
+    "jalons": [
+      383,
+      399
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Conseiller de Préfecture",
+    "jalons": [
+      440,
+      464
+    ]
+  },
+  "entite_6": {
+    "label": "ORG",
+    "text": "Prefet",
+    "jalons": [
+      493,
+      499
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Lidoillus",
+    "jalons": [
+      511,
+      520
+    ]
+  },
+  "entite_8": {
+    "label": "LOC",
+    "text": "Dubuy",
+    "jalons": [
+      521,
+      526
+    ]
+  }
+}

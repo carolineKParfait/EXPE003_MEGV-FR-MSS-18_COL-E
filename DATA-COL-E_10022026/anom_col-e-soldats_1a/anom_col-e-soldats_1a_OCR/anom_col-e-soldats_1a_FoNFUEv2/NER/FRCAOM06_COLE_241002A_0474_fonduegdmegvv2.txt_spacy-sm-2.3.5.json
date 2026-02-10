@@ -1,0 +1,58 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "premter Medecin",
+    "jalons": [
+      55,
+      70
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "Officier",
+    "jalons": [
+      80,
+      88
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Maisons",
+    "jalons": [
+      360,
+      367
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "à",
+    "jalons": [
+      380,
+      382
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "la Rochelle",
+    "jalons": [
+      479,
+      490
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "M de la Grandville",
+    "jalons": [
+      531,
+      549
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "à",
+    "jalons": [
+      568,
+      570
+    ]
+  }
+}

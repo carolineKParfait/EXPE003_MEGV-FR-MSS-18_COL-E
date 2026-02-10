@@ -1,0 +1,554 @@
+{
+  "entite_0": {
+    "label": "ORG",
+    "text": "Labour",
+    "jalons": [
+      0,
+      6
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Charrüe",
+    "jalons": [
+      12,
+      19
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      260,
+      268
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Constant",
+    "jalons": [
+      269,
+      277
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Cul",
+    "jalons": [
+      290,
+      293
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "l&#x27;habitation",
+    "jalons": [
+      309,
+      326
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "luy",
+    "jalons": [
+      423,
+      426
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "france",
+    "jalons": [
+      482,
+      488
+    ]
+  },
+  "entite_8": {
+    "label": "LOC",
+    "text": "d&#x27;hommes",
+    "jalons": [
+      783,
+      796
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "labourer",
+    "jalons": [
+      1090,
+      1098
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "M^r",
+    "jalons": [
+      1162,
+      1165
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "Constant",
+    "jalons": [
+      1166,
+      1174
+    ]
+  },
+  "entite_12": {
+    "label": "MISC",
+    "text": "d&#x27;ailleurs",
+    "jalons": [
+      1203,
+      1218
+    ]
+  },
+  "entite_13": {
+    "label": "PER",
+    "text": "labourer",
+    "jalons": [
+      1562,
+      1570
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "d&#x27;hommes",
+    "jalons": [
+      1713,
+      1726
+    ]
+  },
+  "entite_15": {
+    "label": "MISC",
+    "text": "d&#x27;obtenir",
+    "jalons": [
+      2156,
+      2170
+    ]
+  },
+  "entite_16": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      2264,
+      2272
+    ]
+  },
+  "entite_17": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      2661,
+      2667
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "Bordeaux",
+    "jalons": [
+      2880,
+      2888
+    ]
+  },
+  "entite_19": {
+    "label": "LOC",
+    "text": "M^r",
+    "jalons": [
+      2967,
+      2970
+    ]
+  },
+  "entite_20": {
+    "label": "MISC",
+    "text": "M^r",
+    "jalons": [
+      3051,
+      3054
+    ]
+  },
+  "entite_21": {
+    "label": "LOC",
+    "text": "Navires",
+    "jalons": [
+      3110,
+      3117
+    ]
+  },
+  "entite_22": {
+    "label": "LOC",
+    "text": "Gavillan",
+    "jalons": [
+      3141,
+      3149
+    ]
+  },
+  "entite_23": {
+    "label": "PER",
+    "text": "voila",
+    "jalons": [
+      3363,
+      3368
+    ]
+  },
+  "entite_24": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      3491,
+      3499
+    ]
+  },
+  "entite_25": {
+    "label": "MISC",
+    "text": "Revenüs",
+    "jalons": [
+      3567,
+      3574
+    ]
+  },
+  "entite_26": {
+    "label": "LOC",
+    "text": "S^t",
+    "jalons": [
+      3597,
+      3600
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "Envois",
+    "jalons": [
+      3728,
+      3734
+    ]
+  },
+  "entite_28": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      3795,
+      3803
+    ]
+  },
+  "entite_29": {
+    "label": "LOC",
+    "text": "Gouverneur",
+    "jalons": [
+      3836,
+      3846
+    ]
+  },
+  "entite_30": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      3931,
+      3939
+    ]
+  },
+  "entite_31": {
+    "label": "PER",
+    "text": "revües",
+    "jalons": [
+      3986,
+      3992
+    ]
+  },
+  "entite_32": {
+    "label": "PER",
+    "text": "Mesdames",
+    "jalons": [
+      4154,
+      4162
+    ]
+  },
+  "entite_33": {
+    "label": "PER",
+    "text": "revües",
+    "jalons": [
+      4250,
+      4256
+    ]
+  },
+  "entite_34": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      4405,
+      4413
+    ]
+  },
+  "entite_35": {
+    "label": "LOC",
+    "text": "Marechal",
+    "jalons": [
+      4417,
+      4425
+    ]
+  },
+  "entite_36": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      4461,
+      4469
+    ]
+  },
+  "entite_37": {
+    "label": "PER",
+    "text": "d&#x27;Estaing",
+    "jalons": [
+      4479,
+      4493
+    ]
+  },
+  "entite_38": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      4556,
+      4564
+    ]
+  },
+  "entite_39": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      4645,
+      4653
+    ]
+  },
+  "entite_40": {
+    "label": "PER",
+    "text": "vottre",
+    "jalons": [
+      4700,
+      4706
+    ]
+  },
+  "entite_41": {
+    "label": "MISC",
+    "text": "May",
+    "jalons": [
+      4962,
+      4965
+    ]
+  },
+  "entite_42": {
+    "label": "LOC",
+    "text": "Barriques",
+    "jalons": [
+      4998,
+      5007
+    ]
+  },
+  "entite_43": {
+    "label": "LOC",
+    "text": "Jeune",
+    "jalons": [
+      5051,
+      5056
+    ]
+  },
+  "entite_44": {
+    "label": "PER",
+    "text": "Senac",
+    "jalons": [
+      5087,
+      5092
+    ]
+  },
+  "entite_45": {
+    "label": "ORG",
+    "text": "S^rJaune",
+    "jalons": [
+      5131,
+      5139
+    ]
+  },
+  "entite_46": {
+    "label": "LOC",
+    "text": "Negotiant",
+    "jalons": [
+      5146,
+      5155
+    ]
+  },
+  "entite_47": {
+    "label": "LOC",
+    "text": "Bordeaux",
+    "jalons": [
+      5158,
+      5166
+    ]
+  },
+  "entite_48": {
+    "label": "LOC",
+    "text": "Barriques",
+    "jalons": [
+      5183,
+      5192
+    ]
+  },
+  "entite_49": {
+    "label": "LOC",
+    "text": "Barriques",
+    "jalons": [
+      5238,
+      5247
+    ]
+  },
+  "entite_50": {
+    "label": "PER",
+    "text": "Mediocre",
+    "jalons": [
+      5251,
+      5259
+    ]
+  },
+  "entite_51": {
+    "label": "LOC",
+    "text": "Navire",
+    "jalons": [
+      5264,
+      5270
+    ]
+  },
+  "entite_52": {
+    "label": "LOC",
+    "text": "êté",
+    "jalons": [
+      5387,
+      5390
+    ]
+  },
+  "entite_53": {
+    "label": "MISC",
+    "text": "l&#x27;autre",
+    "jalons": [
+      5422,
+      5434
+    ]
+  },
+  "entite_54": {
+    "label": "LOC",
+    "text": "Bordeaux",
+    "jalons": [
+      5502,
+      5510
+    ]
+  },
+  "entite_55": {
+    "label": "LOC",
+    "text": "quoy",
+    "jalons": [
+      5538,
+      5542
+    ]
+  },
+  "entite_56": {
+    "label": "PER",
+    "text": "m&#x27;annoncés",
+    "jalons": [
+      5700,
+      5715
+    ]
+  },
+  "entite_57": {
+    "label": "MISC",
+    "text": "Julie",
+    "jalons": [
+      5795,
+      5800
+    ]
+  },
+  "entite_58": {
+    "label": "LOC",
+    "text": "Barriques",
+    "jalons": [
+      5904,
+      5913
+    ]
+  },
+  "entite_59": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      5957,
+      5965
+    ]
+  },
+  "entite_60": {
+    "label": "LOC",
+    "text": "Peinboeuf",
+    "jalons": [
+      6045,
+      6054
+    ]
+  },
+  "entite_61": {
+    "label": "LOC",
+    "text": "france",
+    "jalons": [
+      6122,
+      6128
+    ]
+  },
+  "entite_62": {
+    "label": "LOC",
+    "text": "Navire",
+    "jalons": [
+      6303,
+      6309
+    ]
+  },
+  "entite_63": {
+    "label": "LOC",
+    "text": "Barriques",
+    "jalons": [
+      6414,
+      6423
+    ]
+  },
+  "entite_64": {
+    "label": "LOC",
+    "text": "Nantes",
+    "jalons": [
+      6770,
+      6776
+    ]
+  },
+  "entite_65": {
+    "label": "LOC",
+    "text": "Bordeaux",
+    "jalons": [
+      6787,
+      6795
+    ]
+  },
+  "entite_66": {
+    "label": "MISC",
+    "text": "Julie",
+    "jalons": [
+      6899,
+      6904
+    ]
+  },
+  "entite_67": {
+    "label": "ORG",
+    "text": "aucun–",
+    "jalons": [
+      7135,
+      7141
+    ]
+  },
+  "entite_68": {
+    "label": "PER",
+    "text": "vottre",
+    "jalons": [
+      7283,
+      7289
+    ]
+  }
+}

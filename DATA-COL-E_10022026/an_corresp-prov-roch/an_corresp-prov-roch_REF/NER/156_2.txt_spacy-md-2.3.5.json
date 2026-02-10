@@ -1,0 +1,474 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "j&#x27;en tireroy",
+    "jalons": [
+      38,
+      55
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "Prix",
+    "jalons": [
+      69,
+      73
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Reception de mes 3 Remizes",
+    "jalons": [
+      102,
+      128
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "U.",
+    "jalons": [
+      166,
+      168
+    ]
+  },
+  "entite_4": {
+    "label": "ORG",
+    "text": "Le Citoyen et vous dois p^sde 156.9.4",
+    "jalons": [
+      195,
+      232
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "d&#x27;en",
+    "jalons": [
+      267,
+      276
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "M. Provenchere",
+    "jalons": [
+      451,
+      465
+    ]
+  },
+  "entite_7": {
+    "label": "ORG",
+    "text": "Bordeaux &amp",
+    "jalons": [
+      468,
+      481
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "aussy Rigoureux",
+    "jalons": [
+      734,
+      749
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "J&#x27;Espere",
+    "jalons": [
+      768,
+      781
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      941,
+      947
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "Respectueux",
+    "jalons": [
+      1055,
+      1066
+    ]
+  },
+  "entite_12": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      1123,
+      1131
+    ]
+  },
+  "entite_13": {
+    "label": "PER",
+    "text": "Serviteur",
+    "jalons": [
+      1171,
+      1180
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "Nantes",
+    "jalons": [
+      1192,
+      1198
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "Janv^er",
+    "jalons": [
+      1205,
+      1212
+    ]
+  },
+  "entite_16": {
+    "label": "LOC",
+    "text": "HF",
+    "jalons": [
+      1219,
+      1221
+    ]
+  },
+  "entite_17": {
+    "label": "PER",
+    "text": "Rosalie Cap^ne",
+    "jalons": [
+      1300,
+      1314
+    ]
+  },
+  "entite_18": {
+    "label": "PER",
+    "text": "Ambroise Corbe",
+    "jalons": [
+      1315,
+      1329
+    ]
+  },
+  "entite_19": {
+    "label": "LOC",
+    "text": "Port",
+    "jalons": [
+      1342,
+      1346
+    ]
+  },
+  "entite_20": {
+    "label": "LOC",
+    "text": "Prince",
+    "jalons": [
+      1350,
+      1356
+    ]
+  },
+  "entite_21": {
+    "label": "PER",
+    "text": "Messieurs",
+    "jalons": [
+      1399,
+      1408
+    ]
+  },
+  "entite_22": {
+    "label": "PER",
+    "text": "Fougeu",
+    "jalons": [
+      1423,
+      1429
+    ]
+  },
+  "entite_23": {
+    "label": "PER",
+    "text": "Monsieur Breton",
+    "jalons": [
+      1466,
+      1481
+    ]
+  },
+  "entite_24": {
+    "label": "ORG",
+    "text": "Srüillard",
+    "jalons": [
+      1646,
+      1655
+    ]
+  },
+  "entite_25": {
+    "label": "MISC",
+    "text": "Boucauds",
+    "jalons": [
+      1708,
+      1716
+    ]
+  },
+  "entite_26": {
+    "label": "LOC",
+    "text": "p^r",
+    "jalons": [
+      1798,
+      1801
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "rabotages",
+    "jalons": [
+      1820,
+      1829
+    ]
+  },
+  "entite_28": {
+    "label": "PER",
+    "text": "id",
+    "jalons": [
+      1845,
+      1847
+    ]
+  },
+  "entite_29": {
+    "label": "MISC",
+    "text": "3.10^s",
+    "jalons": [
+      1851,
+      1857
+    ]
+  },
+  "entite_30": {
+    "label": "PER",
+    "text": "torche d&#x27;ozier",
+    "jalons": [
+      1893,
+      1912
+    ]
+  },
+  "entite_31": {
+    "label": "LOC",
+    "text": "cloux",
+    "jalons": [
+      1966,
+      1971
+    ]
+  },
+  "entite_32": {
+    "label": "LOC",
+    "text": "Bq̃ues",
+    "jalons": [
+      1974,
+      1980
+    ]
+  },
+  "entite_33": {
+    "label": "LOC",
+    "text": "p^r",
+    "jalons": [
+      2028,
+      2031
+    ]
+  },
+  "entite_34": {
+    "label": "MISC",
+    "text": "30^s",
+    "jalons": [
+      2048,
+      2052
+    ]
+  },
+  "entite_35": {
+    "label": "MISC",
+    "text": "Tp^r",
+    "jalons": [
+      2133,
+      2137
+    ]
+  },
+  "entite_36": {
+    "label": "LOC",
+    "text": "Net",
+    "jalons": [
+      2140,
+      2143
+    ]
+  },
+  "entite_37": {
+    "label": "LOC",
+    "text": "25^s",
+    "jalons": [
+      2254,
+      2258
+    ]
+  },
+  "entite_38": {
+    "label": "LOC",
+    "text": "p^r",
+    "jalons": [
+      2267,
+      2270
+    ]
+  },
+  "entite_39": {
+    "label": "LOC",
+    "text": "tre",
+    "jalons": [
+      2302,
+      2305
+    ]
+  },
+  "entite_40": {
+    "label": "LOC",
+    "text": "Suif",
+    "jalons": [
+      2353,
+      2357
+    ]
+  },
+  "entite_41": {
+    "label": "MISC",
+    "text": "Balles toile de Halles",
+    "jalons": [
+      2406,
+      2428
+    ]
+  },
+  "entite_42": {
+    "label": "MISC",
+    "text": "Balles 8",
+    "jalons": [
+      2508,
+      2516
+    ]
+  },
+  "entite_43": {
+    "label": "LOC",
+    "text": "Lt",
+    "jalons": [
+      2557,
+      2559
+    ]
+  },
+  "entite_44": {
+    "label": "MISC",
+    "text": "Balle",
+    "jalons": [
+      2734,
+      2739
+    ]
+  },
+  "entite_45": {
+    "label": "LOC",
+    "text": "33^s",
+    "jalons": [
+      2789,
+      2793
+    ]
+  },
+  "entite_46": {
+    "label": "MISC",
+    "text": "Balle 8^lt",
+    "jalons": [
+      2836,
+      2846
+    ]
+  },
+  "entite_47": {
+    "label": "MISC",
+    "text": "P^r Emballage",
+    "jalons": [
+      2892,
+      2905
+    ]
+  },
+  "entite_48": {
+    "label": "LOC",
+    "text": "Port",
+    "jalons": [
+      2954,
+      2958
+    ]
+  },
+  "entite_49": {
+    "label": "PER",
+    "text": "jusqu&#x27;à Painbœuf",
+    "jalons": [
+      3019,
+      3040
+    ]
+  },
+  "entite_50": {
+    "label": "MISC",
+    "text": "Commission",
+    "jalons": [
+      3076,
+      3086
+    ]
+  },
+  "entite_51": {
+    "label": "LOC",
+    "text": "C&#x27;est",
+    "jalons": [
+      3116,
+      3126
+    ]
+  },
+  "entite_52": {
+    "label": "PER",
+    "text": "Mgr le Maãl de Conflans",
+    "jalons": [
+      3142,
+      3165
+    ]
+  },
+  "entite_53": {
+    "label": "LOC",
+    "text": "C&#x27;est p^r",
+    "jalons": [
+      3198,
+      3212
+    ]
+  },
+  "entite_54": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      3221,
+      3229
+    ]
+  },
+  "entite_55": {
+    "label": "LOC",
+    "text": "Lt",
+    "jalons": [
+      3270,
+      3272
+    ]
+  },
+  "entite_56": {
+    "label": "LOC",
+    "text": "Nantes",
+    "jalons": [
+      3308,
+      3314
+    ]
+  },
+  "entite_57": {
+    "label": "MISC",
+    "text": "Janv^er 1769",
+    "jalons": [
+      3322,
+      3334
+    ]
+  },
+  "entite_58": {
+    "label": "PER",
+    "text": "N^e Charet",
+    "jalons": [
+      3336,
+      3346
+    ]
+  }
+}

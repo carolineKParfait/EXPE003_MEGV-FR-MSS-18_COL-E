@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "ORG",
+    "text": "Brevet",
+    "jalons": [
+      9,
+      15
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "Troupes",
+    "jalons": [
+      163,
+      170
+    ]
+  },
+  "entite_2": {
+    "label": "ORG",
+    "text": "L&#39;Intention",
+    "jalons": [
+      306,
+      321
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "Majeste",
+    "jalons": [
+      328,
+      335
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      435,
+      440
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Versaillet",
+    "jalons": [
+      528,
+      538
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Louis",
+    "jalons": [
+      567,
+      572
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Bouille",
+    "jalons": [
+      585,
+      592
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "lelieu",
+    "jalons": [
+      0,
+      6
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Prefet",
+    "jalons": [
+      100,
+      106
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Monseigneur de votre Excellence",
+    "jalons": [
+      240,
+      271
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "ériler",
+    "jalons": [
+      305,
+      312
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Conseille",
+    "jalons": [
+      317,
+      326
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "M^e",
+    "jalons": [
+      339,
+      342
+    ]
+  }
+}

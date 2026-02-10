@@ -1,0 +1,74 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "medeun",
+    "jalons": [
+      5,
+      11
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Roi",
+    "jalons": [
+      15,
+      18
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Germain",
+    "jalons": [
+      51,
+      58
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Regilment",
+    "jalons": [
+      85,
+      94
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "servirt",
+    "jalons": [
+      285,
+      292
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Roi",
+    "jalons": [
+      296,
+      299
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Themoignage",
+    "jalons": [
+      304,
+      315
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Certificat",
+    "jalons": [
+      358,
+      368
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Bdaradat",
+    "jalons": [
+      385,
+      393
+    ]
+  }
+}

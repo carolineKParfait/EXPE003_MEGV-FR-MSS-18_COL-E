@@ -1,0 +1,234 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "michel Et",
+    "jalons": [
+      0,
+      9
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "our",
+    "jalons": [
+      18,
+      21
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Mera",
+    "jalons": [
+      28,
+      32
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Jun",
+    "jalons": [
+      40,
+      43
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Ry",
+    "jalons": [
+      70,
+      72
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Chere",
+    "jalons": [
+      205,
+      210
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "u",
+    "jalons": [
+      263,
+      264
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Lettre",
+    "jalons": [
+      322,
+      328
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "M^r",
+    "jalons": [
+      378,
+      381
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "Basseponte",
+    "jalons": [
+      395,
+      405
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      506,
+      514
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "Lon",
+    "jalons": [
+      526,
+      529
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "Connoistre",
+    "jalons": [
+      596,
+      606
+    ]
+  },
+  "entite_13": {
+    "label": "ORG",
+    "text": "Cermient",
+    "jalons": [
+      633,
+      641
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "Principallement",
+    "jalons": [
+      665,
+      680
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "properitté",
+    "jalons": [
+      784,
+      795
+    ]
+  },
+  "entite_16": {
+    "label": "LOC",
+    "text": "Jay",
+    "jalons": [
+      829,
+      832
+    ]
+  },
+  "entite_17": {
+    "label": "MISC",
+    "text": "Mademoiselle",
+    "jalons": [
+      873,
+      885
+    ]
+  },
+  "entite_18": {
+    "label": "MISC",
+    "text": "Michel",
+    "jalons": [
+      1070,
+      1076
+    ]
+  },
+  "entite_19": {
+    "label": "LOC",
+    "text": "Basse",
+    "jalons": [
+      1103,
+      1108
+    ]
+  },
+  "entite_20": {
+    "label": "MISC",
+    "text": "michel",
+    "jalons": [
+      1237,
+      1243
+    ]
+  },
+  "entite_21": {
+    "label": "PER",
+    "text": "Lestimons",
+    "jalons": [
+      1250,
+      1259
+    ]
+  },
+  "entite_22": {
+    "label": "PER",
+    "text": "Cœur",
+    "jalons": [
+      1342,
+      1346
+    ]
+  },
+  "entite_23": {
+    "label": "ORG",
+    "text": "Benédictions",
+    "jalons": [
+      1388,
+      1401
+    ]
+  },
+  "entite_24": {
+    "label": "LOC",
+    "text": "Jay",
+    "jalons": [
+      1403,
+      1406
+    ]
+  },
+  "entite_25": {
+    "label": "PER",
+    "text": "Vostre",
+    "jalons": [
+      1463,
+      1469
+    ]
+  },
+  "entite_26": {
+    "label": "PER",
+    "text": "Signé",
+    "jalons": [
+      1646,
+      1652
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "Vigne",
+    "jalons": [
+      1671,
+      1676
+    ]
+  },
+  "entite_28": {
+    "label": "MISC",
+    "text": "Michel",
+    "jalons": [
+      1722,
+      1728
+    ]
+  }
+}

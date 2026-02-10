@@ -1,0 +1,90 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Charles Léon de",
+    "jalons": [
+      0,
+      15
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "gand",
+    "jalons": [
+      100,
+      104
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Baptizé",
+    "jalons": [
+      125,
+      132
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "roy",
+    "jalons": [
+      175,
+      178
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "⟦",
+    "jalons": [
+      194,
+      195
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "⟦",
+    "jalons": [
+      244,
+      245
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Domingue–",
+    "jalons": [
+      320,
+      329
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "versailles",
+    "jalons": [
+      337,
+      347
+    ]
+  },
+  "entite_8": {
+    "label": "LOC",
+    "text": "Perrigny",
+    "jalons": [
+      366,
+      374
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Richelieu",
+    "jalons": [
+      395,
+      404
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      445,
+      450
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "A Monsieur",
+    "jalons": [
+      0,
+      10
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Marechal",
+    "jalons": [
+      43,
+      51
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      123,
+      128
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>FRCAOM06_COLE_241620A_0128.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="QZ7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="QZ8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="QZ9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="QZ10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="QZ11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="QZ12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="QZ13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="QZ14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="QZ15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="QZ17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="QZ18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="QZ19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="QZ20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="QZ21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="QZ22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3168"
+          HEIGHT="3680"
+          PHYSICAL_IMG_NR="17"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3168"
+                  HEIGHT="3680">
+        <TextBlock HPOS="350"
+                   VPOS="614"
+                   WIDTH="505"
+                   HEIGHT="150"
+                   ID="eSc_textblock_dc3c66a7"
+                   TAGREFS="QZ13">
+          <Shape><Polygon POINTS="848 618 855 764 350 760 350 614"/></Shape>
+          <TextLine ID="eSc_line_8141d7c3"
+                    TAGREFS="LT8"
+                    BASELINE="349 686 728 686 850 678" 
+                    HPOS="347"
+                    VPOS="617"
+                    WIDTH="503"
+                    HEIGHT="145">
+            <Shape><Polygon POINTS="347 646 349 686 349 731 519 729 535 744 546 752 546 754 548 754 550 754 552 754 554 754 570 746 589 736 611 748 634 762 636 762 638 762 640 762 779 760 781 760 783 760 785 758 801 746 844 760 850 678 846 627 799 617 797 617 795 617 777 627 750 641 662 641 572 631 570 631 568 631 529 641 513 627 505 621 505 619 503 619 501 619 499 619 355 627 347 646"/></Shape>
+            <String CONTENT="collationnée"
+                    HPOS="347"
+                    VPOS="617"
+                    WIDTH="503"
+                    HEIGHT="145"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="750"
+                   VPOS="207"
+                   WIDTH="1773"
+                   HEIGHT="647"
+                   ID="eSc_textblock_8cc965e8"
+                   TAGREFS="QZ12">
+          <Shape><Polygon POINTS="750 207 867 840 2473 854 2523 207"/></Shape>
+          <TextLine ID="eSc_line_d4c2a9e3"
+                    TAGREFS="LT8"
+                    BASELINE="879 298 2462 241" 
+                    HPOS="875"
+                    VPOS="177"
+                    WIDTH="1587"
+                    HEIGHT="160">
+            <Shape><Polygon POINTS="879 337 961 335 963 335 1051 308 1208 318 1210 318 1276 304 1296 316 1298 316 1300 316 1302 316 1308 316 1419 302 1468 308 1521 314 1523 314 1636 300 1836 304 1838 304 1840 304 1908 284 1953 271 2055 276 2102 278 2104 278 2202 267 2294 259 2304 263 2341 276 2343 276 2345 276 2347 276 2378 259 2384 255 2462 253 2462 241 2454 177 2343 179 2341 179 2335 181 2286 208 2114 208 2082 196 2065 190 2063 190 2061 190 2018 192 2016 192 2014 192 2006 200 1981 216 1910 206 1908 206 1906 206 1904 206 1904 208 1887 222 1789 222 1756 212 1728 202 1726 202 1724 202 1722 202 1687 216 1664 224 1646 218 1621 208 1619 208 1556 208 1554 208 1552 208 1486 226 1452 235 1437 228 1409 214 1407 214 1405 214 1403 214 1400 214 1380 231 1368 241 1323 241 1313 235 1276 218 1274 218 1272 218 1214 220 1212 220 1180 235 1094 228 1092 228 1090 228 1049 247 1041 251 1016 249 922 241 920 241 918 241 875 255 879 298"/></Shape>
+            <String CONTENT="Signée a la minutte Ravet, Esteve, Et"
+                    HPOS="875"
+                    VPOS="177"
+                    WIDTH="1587"
+                    HEIGHT="160"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_434c425a"
+                    TAGREFS="LT8"
+                    BASELINE="818 390 1985 345" 
+                    HPOS="813"
+                    VPOS="288"
+                    WIDTH="1172"
+                    HEIGHT="131">
+            <Shape><Polygon POINTS="818 390 818 410 889 419 891 419 893 419 895 419 895 417 906 408 910 402 1051 398 1077 400 1163 410 1165 410 1167 410 1210 396 1265 410 1268 410 1270 410 1272 410 1298 396 1343 410 1345 410 1347 410 1349 410 1407 390 1450 404 1452 404 1454 404 1720 396 1762 394 1764 394 1767 394 1767 392 1789 370 1791 370 1799 370 1854 376 1857 376 1983 361 1985 345 1983 304 1928 288 1926 288 1924 288 1922 288 1881 306 1871 312 1652 318 1638 312 1623 306 1621 306 1619 306 1558 314 1554 314 1552 314 1523 304 1521 304 1519 304 1517 304 1474 316 1445 325 1435 318 1423 308 1421 308 1419 308 1417 308 1366 310 1364 310 1362 310 1349 320 1331 333 1286 335 1178 337 1112 327 1077 320 1075 320 1073 320 1071 320 1061 327 1055 331 1024 329 981 325 979 325 977 325 975 325 975 327 973 327 971 329 965 339 948 331 940 327 938 327 936 327 934 327 926 331 906 343 885 333 879 329 877 329 875 329 813 333 818 390"/></Shape>
+            <String CONTENT="L. J. Rivery Greffier commis."
+                    HPOS="813"
+                    VPOS="288"
+                    WIDTH="1172"
+                    HEIGHT="131"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d020cedf"
+                    TAGREFS="LT8"
+                    BASELINE="1118 464 1533 457 2079 423 2431 415" 
+                    HPOS="1114"
+                    VPOS="365"
+                    WIDTH="1317"
+                    HEIGHT="144">
+            <Shape><Polygon POINTS="1118 464 1120 509 1190 490 1292 500 1321 502 1323 502 1353 496 1421 484 1499 490 1603 496 1605 496 1762 490 1764 490 1805 474 1822 486 1824 486 1826 486 1828 486 1916 484 1918 484 1961 466 1973 459 1987 464 2008 470 2010 470 2012 470 2014 470 2041 462 2063 453 2084 457 2104 464 2106 464 2108 464 2157 455 2196 447 2214 451 2235 457 2237 457 2239 457 2241 457 2243 457 2255 449 2268 441 2431 439 2431 415 2421 365 2403 382 2325 370 2323 370 2321 370 2319 370 2306 380 2223 374 2221 374 2219 374 2216 374 2194 388 1947 386 1944 386 1942 386 1861 406 1816 398 1814 398 1812 398 1760 412 1488 421 1454 406 1452 406 1450 406 1447 406 1445 406 1445 408 1427 423 1327 417 1325 417 1323 417 1321 417 1308 429 1253 412 1251 412 1249 412 1114 417 1118 464"/></Shape>
+            <String CONTENT="soit communiqué au procureur du"
+                    HPOS="1114"
+                    VPOS="365"
+                    WIDTH="1317"
+                    HEIGHT="144"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_4ff25a9b"
+                    TAGREFS="LT8"
+                    BASELINE="842 560 1347 549 2264 500" 
+                    HPOS="838"
+                    VPOS="453"
+                    WIDTH="1426"
+                    HEIGHT="156">
+            <Shape><Polygon POINTS="842 560 842 592 891 588 908 592 967 609 969 609 971 609 973 609 1034 586 1049 582 1059 586 1096 599 1098 599 1100 599 1102 599 1104 599 1104 596 1116 586 1165 599 1167 599 1169 599 1171 599 1212 586 1241 596 1243 596 1245 596 1378 580 1601 580 1603 580 1605 580 1607 580 1644 558 1654 552 1848 545 1889 547 2045 558 2047 558 2049 558 2086 541 2133 547 2135 547 2137 547 2139 547 2155 535 2161 531 2264 531 2264 500 2259 462 2214 468 2204 464 2184 453 2182 453 2180 453 2178 453 2145 466 2114 476 2096 468 2077 457 2075 457 2073 457 2071 457 2034 470 2012 476 1994 470 1955 459 1953 459 1951 459 1949 459 1906 474 1863 488 1842 476 1822 466 1820 466 1818 466 1781 468 1779 468 1777 468 1764 480 1746 494 1460 507 1376 494 1337 488 1335 488 1333 488 1317 496 1288 509 1261 498 1247 492 1245 492 1243 492 1241 492 1225 498 1182 519 1128 502 1124 502 1122 502 1120 502 1110 504 1057 515 1014 507 996 504 993 504 838 513 842 560"/></Shape>
+            <String CONTENT="Roy lesdits jour etan lu dessus"
+                    HPOS="838"
+                    VPOS="453"
+                    WIDTH="1426"
+                    HEIGHT="156"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0f7d5294"
+                    TAGREFS="LT8"
+                    BASELINE="922 662 1484 627 1902 619" 
+                    HPOS="918"
+                    VPOS="562"
+                    WIDTH="984"
+                    HEIGHT="153">
+            <Shape><Polygon POINTS="922 662 924 713 963 715 965 715 967 715 975 711 1012 693 1041 709 1043 711 1045 711 1047 711 1049 711 1051 711 1053 711 1053 709 1055 709 1077 686 1128 705 1135 707 1137 707 1139 707 1141 707 1147 705 1194 682 1280 676 1351 691 1353 691 1355 691 1431 670 1456 680 1458 680 1460 680 1462 680 1478 672 1503 688 1505 688 1507 688 1509 688 1511 688 1513 688 1537 676 1548 686 1550 686 1552 686 1554 686 1556 686 1558 686 1572 676 1642 682 1650 682 1652 682 1654 682 1656 682 1695 656 1752 654 1803 674 1805 674 1807 674 1902 670 1902 619 1893 562 1832 580 1773 570 1771 570 1769 570 1742 580 1722 568 1720 566 1717 566 1715 566 1713 566 1711 566 1703 570 1656 588 1603 588 1589 574 1587 574 1587 572 1585 572 1582 572 1580 572 1564 574 1482 594 1337 584 1323 584 1321 584 1319 584 1317 584 1317 586 1294 607 1268 607 1243 588 1241 588 1239 588 1237 588 1180 590 1178 590 1175 590 1124 615 1038 617 918 603 922 662"/></Shape>
+            <String CONTENT="Signé à la Minutte Esteve※"
+                    HPOS="918"
+                    VPOS="562"
+                    WIDTH="984"
+                    HEIGHT="153"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_dbf2b512"
+                    TAGREFS="LT8"
+                    BASELINE="1582 760 1922 750" 
+                    HPOS="1578"
+                    VPOS="652"
+                    WIDTH="346"
+                    HEIGHT="223">
+            <Shape><Polygon POINTS="1582 760 1585 864 1679 858 1726 868 1752 875 1754 875 1924 870 1922 750 1918 697 1848 695 1785 652 1783 652 1781 652 1779 652 1777 652 1732 668 1675 656 1672 656 1670 656 1668 656 1668 658 1617 705 1615 707 1578 707 1582 760"/></Shape>
+            <String CONTENT="La Roque"
+                    HPOS="1578"
+                    VPOS="652"
+                    WIDTH="346"
+                    HEIGHT="223"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

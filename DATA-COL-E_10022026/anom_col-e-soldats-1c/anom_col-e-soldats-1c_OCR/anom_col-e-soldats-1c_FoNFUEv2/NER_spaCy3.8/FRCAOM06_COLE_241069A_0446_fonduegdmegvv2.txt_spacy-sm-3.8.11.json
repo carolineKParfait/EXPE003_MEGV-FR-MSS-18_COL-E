@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "Rien adjauter",
+    "jalons": [
+      9,
+      22
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "Minutte",
+    "jalons": [
+      54,
+      61
+    ]
+  },
+  "entite_2": {
+    "label": "ORG",
+    "text": "Compagnie",
+    "jalons": [
+      196,
+      205
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Prisons",
+    "jalons": [
+      227,
+      234
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Faitte",
+    "jalons": [
+      250,
+      256
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Prisons",
+    "jalons": [
+      421,
+      428
+    ]
+  },
+  "entite_6": {
+    "label": "ORG",
+    "text": "Jeons",
+    "jalons": [
+      495,
+      500
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Interrogatoire",
+    "jalons": [
+      566,
+      580
+    ]
+  }
+}

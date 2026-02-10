@@ -1,0 +1,418 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Mars",
+    "jalons": [
+      9,
+      13
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "Suzanne",
+    "jalons": [
+      14,
+      21
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Noël",
+    "jalons": [
+      23,
+      27
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "S^t",
+    "jalons": [
+      73,
+      76
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Domingue",
+    "jalons": [
+      77,
+      85
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "n^é",
+    "jalons": [
+      102,
+      105
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Soldats de la Compagnie de Guichon",
+    "jalons": [
+      151,
+      185
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Conseil de Guerre assemblé Chéz Monsieur",
+    "jalons": [
+      197,
+      237
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Comte de Conflans Chevalier de L&#x27;ordre Royal",
+    "jalons": [
+      241,
+      290
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "S^t",
+    "jalons": [
+      307,
+      310
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Louis Gouverneur",
+    "jalons": [
+      311,
+      327
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "Lieutenant",
+    "jalons": [
+      331,
+      341
+    ]
+  },
+  "entite_12": {
+    "label": "MISC",
+    "text": "Le Roy des Isles Francoises de",
+    "jalons": [
+      355,
+      385
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "Le Vent",
+    "jalons": [
+      407,
+      414
+    ]
+  },
+  "entite_14": {
+    "label": "MISC",
+    "text": "Compozé",
+    "jalons": [
+      416,
+      423
+    ]
+  },
+  "entite_15": {
+    "label": "PER",
+    "text": "Sieur",
+    "jalons": [
+      435,
+      440
+    ]
+  },
+  "entite_16": {
+    "label": "PER",
+    "text": "Jean Baptiste Laporte De Lalanne",
+    "jalons": [
+      468,
+      500
+    ]
+  },
+  "entite_17": {
+    "label": "PER",
+    "text": "Conseiller",
+    "jalons": [
+      502,
+      512
+    ]
+  },
+  "entite_18": {
+    "label": "PER",
+    "text": "Roy",
+    "jalons": [
+      516,
+      519
+    ]
+  },
+  "entite_19": {
+    "label": "MISC",
+    "text": "Conseils",
+    "jalons": [
+      527,
+      535
+    ]
+  },
+  "entite_20": {
+    "label": "PER",
+    "text": "Commissaire Général",
+    "jalons": [
+      537,
+      556
+    ]
+  },
+  "entite_21": {
+    "label": "PER",
+    "text": "D&#x27;Intendant",
+    "jalons": [
+      612,
+      628
+    ]
+  },
+  "entite_22": {
+    "label": "PER",
+    "text": "massip Lieutenant",
+    "jalons": [
+      662,
+      679
+    ]
+  },
+  "entite_23": {
+    "label": "PER",
+    "text": "Roy Commandant",
+    "jalons": [
+      683,
+      697
+    ]
+  },
+  "entite_24": {
+    "label": "PER",
+    "text": "Leogane De La tour chevalier",
+    "jalons": [
+      700,
+      728
+    ]
+  },
+  "entite_25": {
+    "label": "LOC",
+    "text": "L&#x27;ordre Royal",
+    "jalons": [
+      732,
+      750
+    ]
+  },
+  "entite_26": {
+    "label": "MISC",
+    "text": "S^t",
+    "jalons": [
+      767,
+      770
+    ]
+  },
+  "entite_27": {
+    "label": "PER",
+    "text": "Louis",
+    "jalons": [
+      771,
+      776
+    ]
+  },
+  "entite_28": {
+    "label": "MISC",
+    "text": "Capitaine d&#x27;Infenterie olivier",
+    "jalons": [
+      778,
+      813
+    ]
+  },
+  "entite_29": {
+    "label": "PER",
+    "text": "Capitaine D&#x27;Infanterie de Mitton",
+    "jalons": [
+      830,
+      867
+    ]
+  },
+  "entite_30": {
+    "label": "MISC",
+    "text": "Seneville Capitaine D&#x27;Infanterie de Beaupré Cap^ne",
+    "jalons": [
+      871,
+      926
+    ]
+  },
+  "entite_31": {
+    "label": "LOC",
+    "text": "D&#x27;Infanterie",
+    "jalons": [
+      927,
+      944
+    ]
+  },
+  "entite_32": {
+    "label": "MISC",
+    "text": "De Sellierre Capitaine D&#x27;Infanterie",
+    "jalons": [
+      946,
+      986
+    ]
+  },
+  "entite_33": {
+    "label": "PER",
+    "text": "Massip Lieutenant D&#x27;Infanterie",
+    "jalons": [
+      990,
+      1025
+    ]
+  },
+  "entite_34": {
+    "label": "MISC",
+    "text": "La Plainte faitte",
+    "jalons": [
+      1027,
+      1044
+    ]
+  },
+  "entite_35": {
+    "label": "PER",
+    "text": "Monsieur de Conflans",
+    "jalons": [
+      1047,
+      1067
+    ]
+  },
+  "entite_36": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      1072,
+      1080
+    ]
+  },
+  "entite_37": {
+    "label": "LOC",
+    "text": "Guichen",
+    "jalons": [
+      1084,
+      1091
+    ]
+  },
+  "entite_38": {
+    "label": "PER",
+    "text": "Contre Le nommé Noël",
+    "jalons": [
+      1116,
+      1136
+    ]
+  },
+  "entite_39": {
+    "label": "MISC",
+    "text": "Suzanne",
+    "jalons": [
+      1137,
+      1144
+    ]
+  },
+  "entite_40": {
+    "label": "LOC",
+    "text": "D&#x27;avoit",
+    "jalons": [
+      1152,
+      1164
+    ]
+  },
+  "entite_41": {
+    "label": "ORG",
+    "text": "Compagnie au Bas",
+    "jalons": [
+      1208,
+      1224
+    ]
+  },
+  "entite_42": {
+    "label": "LOC",
+    "text": "L&#x27;ordre",
+    "jalons": [
+      1241,
+      1253
+    ]
+  },
+  "entite_43": {
+    "label": "ORG",
+    "text": "Informé",
+    "jalons": [
+      1267,
+      1274
+    ]
+  },
+  "entite_44": {
+    "label": "MISC",
+    "text": "Confrontation",
+    "jalons": [
+      1326,
+      1339
+    ]
+  },
+  "entite_45": {
+    "label": "MISC",
+    "text": "Interrog^re",
+    "jalons": [
+      1344,
+      1355
+    ]
+  },
+  "entite_46": {
+    "label": "PER",
+    "text": "La Sellette",
+    "jalons": [
+      1377,
+      1388
+    ]
+  },
+  "entite_47": {
+    "label": "MISC",
+    "text": "Conclusions du Sieur",
+    "jalons": [
+      1394,
+      1414
+    ]
+  },
+  "entite_48": {
+    "label": "PER",
+    "text": "Gairose Major",
+    "jalons": [
+      1418,
+      1431
+    ]
+  },
+  "entite_49": {
+    "label": "MISC",
+    "text": "Le Conseil de Guerre",
+    "jalons": [
+      1477,
+      1497
+    ]
+  },
+  "entite_50": {
+    "label": "PER",
+    "text": "Trouvé",
+    "jalons": [
+      1500,
+      1506
+    ]
+  },
+  "entite_51": {
+    "label": "MISC",
+    "text": "Convaincu",
+    "jalons": [
+      1538,
+      1547
+    ]
+  }
+}

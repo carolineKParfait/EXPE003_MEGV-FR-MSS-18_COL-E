@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "D&#39;un",
+    "jalons": [
+      327,
+      335
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "dep^t",
+    "jalons": [
+      622,
+      627
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Dev^d",
+    "jalons": [
+      806,
+      811
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Vendémiaire",
+    "jalons": [
+      893,
+      905
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "etq",
+    "jalons": [
+      1024,
+      1027
+    ]
+  }
+}

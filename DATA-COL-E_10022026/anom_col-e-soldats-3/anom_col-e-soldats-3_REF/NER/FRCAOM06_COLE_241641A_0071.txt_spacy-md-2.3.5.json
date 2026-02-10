@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Vautrain",
+    "jalons": [
+      0,
+      8
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "Antoine",
+    "jalons": [
+      10,
+      17
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Soldat",
+    "jalons": [
+      19,
+      25
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Guadeloupe",
+    "jalons": [
+      29,
+      39
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Colonies",
+    "jalons": [
+      47,
+      55
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "E",
+    "jalons": [
+      56,
+      57
+    ]
+  }
+}

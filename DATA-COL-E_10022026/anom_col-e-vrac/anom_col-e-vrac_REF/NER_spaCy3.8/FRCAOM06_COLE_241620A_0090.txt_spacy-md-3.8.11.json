@@ -1,0 +1,90 @@
+{
+  "entite_0": {
+    "label": "ORG",
+    "text": "N",
+    "jalons": [
+      19,
+      20
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Cap",
+    "jalons": [
+      29,
+      32
+    ]
+  },
+  "entite_2": {
+    "label": "ORG",
+    "text": "C",
+    "jalons": [
+      51,
+      52
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Duc",
+    "jalons": [
+      115,
+      118
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Criminelle",
+    "jalons": [
+      161,
+      171
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Tach",
+    "jalons": [
+      225,
+      229
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      277,
+      285
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Duc",
+    "jalons": [
+      289,
+      292
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Juger",
+    "jalons": [
+      297,
+      302
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "Combien",
+    "jalons": [
+      347,
+      354
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "Bongars",
+    "jalons": [
+      624,
+      631
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "collationnée\nSignée",
+    "jalons": [
+      0,
+      19
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Ravet",
+    "jalons": [
+      33,
+      38
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Esteve",
+    "jalons": [
+      40,
+      46
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Roy",
+    "jalons": [
+      113,
+      116
+    ]
+  },
+  "entite_4": {
+    "label": "ORG",
+    "text": "Signé",
+    "jalons": [
+      145,
+      150
+    ]
+  }
+}
