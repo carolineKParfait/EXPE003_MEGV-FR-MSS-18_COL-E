@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "ORG",
+    "text": "Artillerie\n",
+    "jalons": [
+      0,
+      11
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "Mémoire",
+    "jalons": [
+      61,
+      68
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Monnoyes",
+    "jalons": [
+      95,
+      103
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      114,
+      125
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "S^r",
+    "jalons": [
+      184,
+      187
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Martinique",
+    "jalons": [
+      251,
+      261
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      296,
+      307
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Supplié",
+    "jalons": [
+      312,
+      319
+    ]
+  }
+}

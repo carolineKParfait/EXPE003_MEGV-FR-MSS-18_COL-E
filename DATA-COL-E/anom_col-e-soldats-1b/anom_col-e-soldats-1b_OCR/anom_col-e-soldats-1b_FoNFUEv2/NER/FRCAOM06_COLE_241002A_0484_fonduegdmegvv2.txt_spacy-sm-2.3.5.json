@@ -1,0 +1,122 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "à",
+    "jalons": [
+      64,
+      66
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "St D&#39;aillebout",
+    "jalons": [
+      89,
+      107
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "^7",
+    "jalons": [
+      118,
+      120
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "à",
+    "jalons": [
+      146,
+      148
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Egane proo",
+    "jalons": [
+      186,
+      196
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Monseigneur M. Sandemoin",
+    "jalons": [
+      197,
+      221
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "dépêche",
+    "jalons": [
+      247,
+      256
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "procuré",
+    "jalons": [
+      324,
+      332
+    ]
+  },
+  "entite_8": {
+    "label": "LOC",
+    "text": "Sieur",
+    "jalons": [
+      367,
+      372
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "Guiane repassé",
+    "jalons": [
+      426,
+      441
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "M Lesallier",
+    "jalons": [
+      574,
+      585
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "respec Monseigneur Votres humbles",
+    "jalons": [
+      656,
+      689
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "obéissants",
+    "jalons": [
+      698,
+      709
+    ]
+  },
+  "entite_13": {
+    "label": "LOC",
+    "text": "Cte de Villebois",
+    "jalons": [
+      724,
+      740
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "Lescallier M.",
+    "jalons": [
+      741,
+      754
+    ]
+  }
+}

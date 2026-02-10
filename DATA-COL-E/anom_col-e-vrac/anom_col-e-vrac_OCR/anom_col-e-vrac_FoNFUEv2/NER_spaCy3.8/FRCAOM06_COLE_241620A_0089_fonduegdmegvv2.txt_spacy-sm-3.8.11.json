@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "ORG",
+    "text": "Lanciennes Affaires Comingue",
+    "jalons": [
+      0,
+      28
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Tach",
+    "jalons": [
+      38,
+      42
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Etienne",
+    "jalons": [
+      44,
+      51
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Commis",
+    "jalons": [
+      106,
+      112
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Inv^re",
+    "jalons": [
+      216,
+      222
+    ]
+  }
+}

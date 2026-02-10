@@ -1,0 +1,98 @@
+{
+  "entite_0": {
+    "label": "ORG",
+    "text": "Messieurs",
+    "jalons": [
+      28,
+      37
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Roÿal",
+    "jalons": [
+      86,
+      91
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Bourg",
+    "jalons": [
+      98,
+      103
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Nielly",
+    "jalons": [
+      342,
+      348
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Sieur",
+    "jalons": [
+      489,
+      494
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Somme",
+    "jalons": [
+      598,
+      603
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Avisera",
+    "jalons": [
+      758,
+      765
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Succession",
+    "jalons": [
+      851,
+      861
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "souhaigner",
+    "jalons": [
+      880,
+      890
+    ]
+  },
+  "entite_9": {
+    "label": "ORG",
+    "text": "Légataire",
+    "jalons": [
+      1143,
+      1152
+    ]
+  },
+  "entite_10": {
+    "label": "ORG",
+    "text": "Poimeros",
+    "jalons": [
+      1184,
+      1192
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "Executeur",
+    "jalons": [
+      1548,
+      1557
+    ]
+  }
+}

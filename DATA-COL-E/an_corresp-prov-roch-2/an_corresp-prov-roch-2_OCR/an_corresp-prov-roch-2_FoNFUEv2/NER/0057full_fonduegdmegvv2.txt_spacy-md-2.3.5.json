@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "ORG",
+    "text": "M provenchere",
+    "jalons": [
+      9,
+      22
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      244,
+      252
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "M^r provenchere",
+    "jalons": [
+      496,
+      511
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "honoré",
+    "jalons": [
+      668,
+      675
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "FOr Cv M^r Charles De la Rochefoucaulle",
+    "jalons": [
+      709,
+      748
+    ]
+  }
+}

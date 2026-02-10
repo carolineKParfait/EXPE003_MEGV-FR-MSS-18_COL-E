@@ -1,0 +1,90 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Martinique",
+    "jalons": [
+      15,
+      25
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "Parlement",
+    "jalons": [
+      50,
+      59
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      63,
+      68
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "Congé",
+    "jalons": [
+      81,
+      87
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "absolû",
+    "jalons": [
+      88,
+      95
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Pasquier",
+    "jalons": [
+      109,
+      117
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "College",
+    "jalons": [
+      150,
+      157
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Troupes",
+    "jalons": [
+      187,
+      194
+    ]
+  },
+  "entite_8": {
+    "label": "LOC",
+    "text": "Soldat",
+    "jalons": [
+      251,
+      257
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "M.Daubenton",
+    "jalons": [
+      327,
+      338
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "s&#39;il",
+    "jalons": [
+      414,
+      422
+    ]
+  }
+}

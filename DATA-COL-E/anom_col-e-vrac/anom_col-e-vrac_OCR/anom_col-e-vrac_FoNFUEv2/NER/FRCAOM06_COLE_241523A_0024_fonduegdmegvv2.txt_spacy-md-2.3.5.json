@@ -1,0 +1,394 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "E^t",
+    "jalons": [
+      34,
+      37
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Seréchaussée",
+    "jalons": [
+      124,
+      138
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "S^t Louis",
+    "jalons": [
+      142,
+      151
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "S^t",
+    "jalons": [
+      168,
+      171
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "signé",
+    "jalons": [
+      236,
+      242
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "En présente des témoins",
+    "jalons": [
+      247,
+      272
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Sieul",
+    "jalons": [
+      331,
+      336
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Denise Fredureau De Milledoüin",
+    "jalons": [
+      337,
+      368
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Monsieur De Perrigny",
+    "jalons": [
+      404,
+      424
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "S^t",
+    "jalons": [
+      438,
+      441
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Louis",
+    "jalons": [
+      442,
+      447
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "Lieutenant",
+    "jalons": [
+      456,
+      466
+    ]
+  },
+  "entite_12": {
+    "label": "PER",
+    "text": "Leogane",
+    "jalons": [
+      477,
+      484
+    ]
+  },
+  "entite_13": {
+    "label": "LOC",
+    "text": "france",
+    "jalons": [
+      537,
+      543
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "transporté",
+    "jalons": [
+      566,
+      577
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "torlect",
+    "jalons": [
+      662,
+      669
+    ]
+  },
+  "entite_16": {
+    "label": "PER",
+    "text": "procez verbal",
+    "jalons": [
+      740,
+      753
+    ]
+  },
+  "entite_17": {
+    "label": "LOC",
+    "text": "visitte",
+    "jalons": [
+      762,
+      769
+    ]
+  },
+  "entite_18": {
+    "label": "MISC",
+    "text": "Vingt sept",
+    "jalons": [
+      920,
+      930
+    ]
+  },
+  "entite_19": {
+    "label": "MISC",
+    "text": "procédé",
+    "jalons": [
+      1042,
+      1051
+    ]
+  },
+  "entite_20": {
+    "label": "LOC",
+    "text": "Entie",
+    "jalons": [
+      1186,
+      1191
+    ]
+  },
+  "entite_21": {
+    "label": "PER",
+    "text": "M. de errigny",
+    "jalons": [
+      1298,
+      1311
+    ]
+  },
+  "entite_22": {
+    "label": "MISC",
+    "text": "déplaces, le cabine",
+    "jalons": [
+      1324,
+      1344
+    ]
+  },
+  "entite_23": {
+    "label": "MISC",
+    "text": "defoncé",
+    "jalons": [
+      1366,
+      1374
+    ]
+  },
+  "entite_24": {
+    "label": "LOC",
+    "text": "Brisées",
+    "jalons": [
+      1403,
+      1411
+    ]
+  },
+  "entite_25": {
+    "label": "LOC",
+    "text": "La cloison",
+    "jalons": [
+      1423,
+      1433
+    ]
+  },
+  "entite_26": {
+    "label": "ORG",
+    "text": "M^d",
+    "jalons": [
+      1481,
+      1484
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "Perrigny",
+    "jalons": [
+      1488,
+      1496
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "Brisées",
+    "jalons": [
+      1569,
+      1577
+    ]
+  },
+  "entite_29": {
+    "label": "LOC",
+    "text": "Egalement prisées",
+    "jalons": [
+      1581,
+      1599
+    ]
+  },
+  "entite_30": {
+    "label": "MISC",
+    "text": "Lusarded de la maison Enlevés",
+    "jalons": [
+      1626,
+      1656
+    ]
+  },
+  "entite_31": {
+    "label": "LOC",
+    "text": "Savant",
+    "jalons": [
+      1712,
+      1718
+    ]
+  },
+  "entite_32": {
+    "label": "LOC",
+    "text": "Etoit",
+    "jalons": [
+      1742,
+      1747
+    ]
+  },
+  "entite_33": {
+    "label": "MISC",
+    "text": "Salle du côté du p ardin",
+    "jalons": [
+      1792,
+      1818
+    ]
+  },
+  "entite_34": {
+    "label": "MISC",
+    "text": "Brisé",
+    "jalons": [
+      1842,
+      1848
+    ]
+  },
+  "entite_35": {
+    "label": "MISC",
+    "text": "Environ decouverte",
+    "jalons": [
+      1982,
+      2000
+    ]
+  },
+  "entite_36": {
+    "label": "MISC",
+    "text": "Sucrerie",
+    "jalons": [
+      2136,
+      2144
+    ]
+  },
+  "entite_37": {
+    "label": "MISC",
+    "text": "Les fourneaux totalement découverts",
+    "jalons": [
+      2148,
+      2184
+    ]
+  },
+  "entite_38": {
+    "label": "MISC",
+    "text": "La quantité de soixante cing tiariques",
+    "jalons": [
+      2241,
+      2280
+    ]
+  },
+  "entite_39": {
+    "label": "PER",
+    "text": "sucrt Brut",
+    "jalons": [
+      2284,
+      2294
+    ]
+  },
+  "entite_40": {
+    "label": "LOC",
+    "text": "colé",
+    "jalons": [
+      2498,
+      2503
+    ]
+  },
+  "entite_41": {
+    "label": "LOC",
+    "text": "Lierplus",
+    "jalons": [
+      2594,
+      2602
+    ]
+  },
+  "entite_42": {
+    "label": "LOC",
+    "text": "Le Bacg",
+    "jalons": [
+      2692,
+      2699
+    ]
+  },
+  "entite_43": {
+    "label": "PER",
+    "text": "Sipp",
+    "jalons": [
+      2703,
+      2707
+    ]
+  },
+  "entite_44": {
+    "label": "MISC",
+    "text": "Etre présentement pliies ainsy",
+    "jalons": [
+      2804,
+      2835
+    ]
+  },
+  "entite_45": {
+    "label": "MISC",
+    "text": "Basiien",
+    "jalons": [
+      2844,
+      2851
+    ]
+  },
+  "entite_46": {
+    "label": "MISC",
+    "text": "Vente",
+    "jalons": [
+      2887,
+      2892
+    ]
+  },
+  "entite_47": {
+    "label": "LOC",
+    "text": "Bagasses",
+    "jalons": [
+      2950,
+      2958
+    ]
+  },
+  "entite_48": {
+    "label": "LOC",
+    "text": "mertié",
+    "jalons": [
+      2981,
+      2988
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "france",
+    "jalons": [
+      29,
+      35
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Geolier",
+    "jalons": [
+      39,
+      46
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Enfans",
+    "jalons": [
+      100,
+      106
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      344,
+      355
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Vos",
+    "jalons": [
+      357,
+      360
+    ]
+  }
+}

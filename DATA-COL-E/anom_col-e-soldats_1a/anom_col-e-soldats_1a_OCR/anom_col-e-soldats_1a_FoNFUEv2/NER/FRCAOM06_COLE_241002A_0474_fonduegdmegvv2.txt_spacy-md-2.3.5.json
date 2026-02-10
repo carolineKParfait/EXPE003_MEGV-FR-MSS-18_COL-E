@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "premter Medecin",
+    "jalons": [
+      55,
+      70
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Officier",
+    "jalons": [
+      80,
+      88
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "conséquence",
+    "jalons": [
+      286,
+      298
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Maisons",
+    "jalons": [
+      360,
+      367
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "jetté",
+    "jalons": [
+      442,
+      448
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "L&#39;hopital",
+    "jalons": [
+      462,
+      475
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "la Rochelle",
+    "jalons": [
+      479,
+      490
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "M de la Grandville s&#39;est",
+    "jalons": [
+      531,
+      559
+    ]
+  }
+}

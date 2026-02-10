@@ -1,0 +1,194 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Piece",
+    "jalons": [
+      5,
+      10
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "Lettre en Particulier",
+    "jalons": [
+      30,
+      51
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      54,
+      59
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Lettre du 15",
+    "jalons": [
+      118,
+      130
+    ]
+  },
+  "entite_4": {
+    "label": "ORG",
+    "text": "n&#x27;en",
+    "jalons": [
+      320,
+      329
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Roy",
+    "jalons": [
+      627,
+      630
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Cousage",
+    "jalons": [
+      696,
+      703
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "m&#x27;en",
+    "jalons": [
+      759,
+      768
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Pere",
+    "jalons": [
+      834,
+      838
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "⟦",
+    "jalons": [
+      918,
+      919
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "⟦",
+    "jalons": [
+      989,
+      990
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "⟧s",
+    "jalons": [
+      994,
+      996
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "⟦",
+    "jalons": [
+      1054,
+      1055
+    ]
+  },
+  "entite_13": {
+    "label": "PER",
+    "text": "scai",
+    "jalons": [
+      1196,
+      1200
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "peult",
+    "jalons": [
+      1338,
+      1343
+    ]
+  },
+  "entite_15": {
+    "label": "MISC",
+    "text": "n&#x27;y",
+    "jalons": [
+      1344,
+      1352
+    ]
+  },
+  "entite_16": {
+    "label": "MISC",
+    "text": "n&#x27;y",
+    "jalons": [
+      1383,
+      1391
+    ]
+  },
+  "entite_17": {
+    "label": "PER",
+    "text": "etre",
+    "jalons": [
+      1417,
+      1421
+    ]
+  },
+  "entite_18": {
+    "label": "PER",
+    "text": "Pere",
+    "jalons": [
+      1480,
+      1484
+    ]
+  },
+  "entite_19": {
+    "label": "LOC",
+    "text": "L&#x27;avenir",
+    "jalons": [
+      1569,
+      1582
+    ]
+  },
+  "entite_20": {
+    "label": "PER",
+    "text": "Pere",
+    "jalons": [
+      1620,
+      1624
+    ]
+  },
+  "entite_21": {
+    "label": "PER",
+    "text": "M^r fougeu",
+    "jalons": [
+      2024,
+      2034
+    ]
+  },
+  "entite_22": {
+    "label": "LOC",
+    "text": "Port",
+    "jalons": [
+      2155,
+      2159
+    ]
+  },
+  "entite_23": {
+    "label": "MISC",
+    "text": "j&#x27;en",
+    "jalons": [
+      2171,
+      2180
+    ]
+  }
+}

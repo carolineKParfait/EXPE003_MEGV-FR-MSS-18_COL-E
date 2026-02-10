@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      2,
+      10
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Charles",
+    "jalons": [
+      20,
+      27
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Rochefoucault Marechal",
+    "jalons": [
+      34,
+      56
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Roi",
+    "jalons": [
+      79,
+      82
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Carvin",
+    "jalons": [
+      87,
+      93
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Carvin",
+    "jalons": [
+      139,
+      145
+    ]
+  }
+}

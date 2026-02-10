@@ -1,0 +1,122 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "Sentence",
+    "jalons": [
+      4,
+      12
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "Contumace",
+    "jalons": [
+      43,
+      52
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Domaine",
+    "jalons": [
+      192,
+      199
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Effigie",
+    "jalons": [
+      358,
+      365
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "l&#x27;Examen",
+    "jalons": [
+      371,
+      384
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Janson",
+    "jalons": [
+      551,
+      557
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Thomy",
+    "jalons": [
+      591,
+      596
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Pistolet",
+    "jalons": [
+      606,
+      614
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Thomy",
+    "jalons": [
+      657,
+      662
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "allegué",
+    "jalons": [
+      868,
+      875
+    ]
+  },
+  "entite_10": {
+    "label": "ORG",
+    "text": "Circonstance",
+    "jalons": [
+      955,
+      967
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "Thomy",
+    "jalons": [
+      981,
+      986
+    ]
+  },
+  "entite_12": {
+    "label": "PER",
+    "text": "Janson",
+    "jalons": [
+      1040,
+      1046
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "Réné",
+    "jalons": [
+      1053,
+      1057
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "france",
+    "jalons": [
+      1181,
+      1187
+    ]
+  }
+}

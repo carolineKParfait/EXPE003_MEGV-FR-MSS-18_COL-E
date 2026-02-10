@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "De la",
+    "jalons": [
+      0,
+      5
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      111,
+      122
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Obrissans",
+    "jalons": [
+      150,
+      159
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Vaudreuil",
+    "jalons": [
+      182,
+      191
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Gandville",
+    "jalons": [
+      198,
+      207
+    ]
+  }
+}

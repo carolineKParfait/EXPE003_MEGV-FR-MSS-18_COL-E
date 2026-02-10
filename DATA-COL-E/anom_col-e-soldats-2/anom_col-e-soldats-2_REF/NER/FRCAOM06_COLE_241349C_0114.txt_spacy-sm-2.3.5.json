@@ -1,0 +1,458 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Pierre Martinique",
+    "jalons": [
+      11,
+      28
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Collonies",
+    "jalons": [
+      48,
+      57
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Garde",
+    "jalons": [
+      58,
+      63
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "L&#x27;artillerie",
+    "jalons": [
+      75,
+      92
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "A S^t Pierre",
+    "jalons": [
+      93,
+      105
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Servir",
+    "jalons": [
+      111,
+      117
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Médaille",
+    "jalons": [
+      137,
+      145
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Jean Baptiste Joly",
+    "jalons": [
+      146,
+      164
+    ]
+  },
+  "entite_8": {
+    "label": "LOC",
+    "text": "Perpignan",
+    "jalons": [
+      174,
+      183
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Rossillon",
+    "jalons": [
+      187,
+      196
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "Gantés",
+    "jalons": [
+      285,
+      291
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "Commencer",
+    "jalons": [
+      294,
+      303
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "MSq̃ue",
+    "jalons": [
+      339,
+      345
+    ]
+  },
+  "entite_13": {
+    "label": "ORG",
+    "text": "Incorporé",
+    "jalons": [
+      356,
+      365
+    ]
+  },
+  "entite_14": {
+    "label": "MISC",
+    "text": "Les Compagnies franches des Canoniers",
+    "jalons": [
+      386,
+      423
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "Bombardiers",
+    "jalons": [
+      424,
+      435
+    ]
+  },
+  "entite_16": {
+    "label": "ORG",
+    "text": "Marine",
+    "jalons": [
+      451,
+      457
+    ]
+  },
+  "entite_17": {
+    "label": "LOC",
+    "text": "Rochefort",
+    "jalons": [
+      461,
+      470
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "Sergent",
+    "jalons": [
+      501,
+      508
+    ]
+  },
+  "entite_19": {
+    "label": "ORG",
+    "text": "Compagnie de Belletier",
+    "jalons": [
+      557,
+      579
+    ]
+  },
+  "entite_20": {
+    "label": "LOC",
+    "text": "S^t",
+    "jalons": [
+      582,
+      585
+    ]
+  },
+  "entite_21": {
+    "label": "ORG",
+    "text": "Commission",
+    "jalons": [
+      620,
+      630
+    ]
+  },
+  "entite_22": {
+    "label": "LOC",
+    "text": "Connonier",
+    "jalons": [
+      641,
+      650
+    ]
+  },
+  "entite_23": {
+    "label": "MISC",
+    "text": "Jusqu&#x27;es",
+    "jalons": [
+      686,
+      699
+    ]
+  },
+  "entite_24": {
+    "label": "PER",
+    "text": "L&#x27;isle quil",
+    "jalons": [
+      714,
+      730
+    ]
+  },
+  "entite_25": {
+    "label": "LOC",
+    "text": "france",
+    "jalons": [
+      746,
+      752
+    ]
+  },
+  "entite_26": {
+    "label": "ORG",
+    "text": "Compagnie &amp",
+    "jalons": [
+      761,
+      775
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "Rochefort",
+    "jalons": [
+      788,
+      797
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "Consequence",
+    "jalons": [
+      829,
+      840
+    ]
+  },
+  "entite_29": {
+    "label": "LOC",
+    "text": "MSq̃ue",
+    "jalons": [
+      884,
+      890
+    ]
+  },
+  "entite_30": {
+    "label": "MISC",
+    "text": "Garde d&#x27;artillerie",
+    "jalons": [
+      909,
+      932
+    ]
+  },
+  "entite_31": {
+    "label": "MISC",
+    "text": "S^t Pierre",
+    "jalons": [
+      935,
+      945
+    ]
+  },
+  "entite_32": {
+    "label": "LOC",
+    "text": "Continué",
+    "jalons": [
+      955,
+      963
+    ]
+  },
+  "entite_33": {
+    "label": "MISC",
+    "text": "Jusqu&#x27;es",
+    "jalons": [
+      976,
+      989
+    ]
+  },
+  "entite_34": {
+    "label": "MISC",
+    "text": "Jour",
+    "jalons": [
+      995,
+      999
+    ]
+  },
+  "entite_35": {
+    "label": "MISC",
+    "text": "Bataille de Plaisance",
+    "jalons": [
+      1042,
+      1063
+    ]
+  },
+  "entite_36": {
+    "label": "LOC",
+    "text": "Retraitte",
+    "jalons": [
+      1070,
+      1079
+    ]
+  },
+  "entite_37": {
+    "label": "PER",
+    "text": "Tortone",
+    "jalons": [
+      1083,
+      1090
+    ]
+  },
+  "entite_38": {
+    "label": "PER",
+    "text": "Guerres",
+    "jalons": [
+      1173,
+      1180
+    ]
+  },
+  "entite_39": {
+    "label": "LOC",
+    "text": "Suitte",
+    "jalons": [
+      1191,
+      1197
+    ]
+  },
+  "entite_40": {
+    "label": "LOC",
+    "text": "Suby",
+    "jalons": [
+      1217,
+      1221
+    ]
+  },
+  "entite_41": {
+    "label": "PER",
+    "text": "Paroit L&#x27;autre",
+    "jalons": [
+      1255,
+      1274
+    ]
+  },
+  "entite_42": {
+    "label": "MISC",
+    "text": "Jusqu&#x27;es",
+    "jalons": [
+      1328,
+      1341
+    ]
+  },
+  "entite_43": {
+    "label": "MISC",
+    "text": "Jour ce qui le porte",
+    "jalons": [
+      1347,
+      1367
+    ]
+  },
+  "entite_44": {
+    "label": "LOC",
+    "text": "Titres",
+    "jalons": [
+      1408,
+      1414
+    ]
+  },
+  "entite_45": {
+    "label": "MISC",
+    "text": "Dans la Suitte",
+    "jalons": [
+      1462,
+      1476
+    ]
+  },
+  "entite_46": {
+    "label": "LOC",
+    "text": "Roy",
+    "jalons": [
+      1494,
+      1497
+    ]
+  },
+  "entite_47": {
+    "label": "MISC",
+    "text": "Isle du vent",
+    "jalons": [
+      1595,
+      1607
+    ]
+  },
+  "entite_48": {
+    "label": "MISC",
+    "text": "Le S^r joly",
+    "jalons": [
+      1623,
+      1634
+    ]
+  },
+  "entite_49": {
+    "label": "PER",
+    "text": "Joli",
+    "jalons": [
+      1765,
+      1769
+    ]
+  },
+  "entite_50": {
+    "label": "ORG",
+    "text": "Sa Conduite",
+    "jalons": [
+      1791,
+      1802
+    ]
+  },
+  "entite_51": {
+    "label": "ORG",
+    "text": "Services de la grace quil",
+    "jalons": [
+      1810,
+      1835
+    ]
+  },
+  "entite_52": {
+    "label": "LOC",
+    "text": "M^r",
+    "jalons": [
+      1846,
+      1849
+    ]
+  },
+  "entite_53": {
+    "label": "LOC",
+    "text": "Marechal",
+    "jalons": [
+      1853,
+      1861
+    ]
+  },
+  "entite_54": {
+    "label": "LOC",
+    "text": "S^T Pierre",
+    "jalons": [
+      1864,
+      1874
+    ]
+  },
+  "entite_55": {
+    "label": "MISC",
+    "text": "Puget※",
+    "jalons": [
+      1896,
+      1902
+    ]
+  },
+  "entite_56": {
+    "label": "PER",
+    "text": "Maupas",
+    "jalons": [
+      1910,
+      1916
+    ]
+  }
+}

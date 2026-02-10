@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>T-586-14-O-201.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="QZ7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="QZ8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="QZ9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="QZ10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="QZ11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="QZ12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="QZ13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="QZ14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="QZ15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="QZ17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="QZ18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="QZ19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="QZ20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="QZ21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="QZ22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2082"
+          HEIGHT="2738"
+          PHYSICAL_IMG_NR="31"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2082"
+                  HEIGHT="2738">
+        <TextBlock HPOS="367"
+                   VPOS="268"
+                   WIDTH="1585"
+                   HEIGHT="437"
+                   ID="eSc_textblock_2f87ef15"
+                   TAGREFS="QZ12">
+          <Shape><Polygon POINTS="367 268 367 705 1952 705 1952 268"/></Shape>
+          <TextLine ID="eSc_line_e3d9c53a"
+                    TAGREFS="LT8"
+                    BASELINE="407 355 1273 362 1521 355 1908 362" 
+                    HPOS="406"
+                    VPOS="310"
+                    WIDTH="1502"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1896 328 1715 334 1698 327 1680 319 1671 319 1655 319 1640 319 1625 317 1614 317 1537 322 1480 316 1473 316 1459 316 1427 327 1415 331 1404 327 1377 314 1366 314 1351 314 1336 314 1321 314 1305 314 1290 314 1275 314 1273 313 1263 314 1261 314 1238 323 1185 313 1184 313 1168 313 1165 313 1106 320 987 311 986 311 984 311 954 322 931 310 929 310 925 310 910 310 887 310 885 310 884 310 882 310 856 327 852 330 733 330 727 327 710 317 709 317 707 317 706 317 678 327 675 327 407 327 407 355 406 371 476 380 477 380 479 380 502 372 514 368 523 372 535 378 537 378 681 384 683 384 770 377 792 387 794 387 795 387 879 374 881 374 952 389 954 389 955 389 992 380 1010 389 1012 389 1013 389 1100 381 1193 390 1194 390 1196 390 1232 375 1238 372 1260 375 1298 380 1299 380 1301 380 1317 375 1327 372 1333 375 1342 381 1343 381 1345 381 1346 381 1375 375 1392 372 1456 375 1532 380 1534 380 1558 375 1573 374 1588 377 1671 393 1672 395 1770 395 1770 393 1771 393 1817 377 1823 375 1833 377 1870 384 1871 384 1906 377 1908 362 1905 333 1899 330"/></Shape>
+            <String CONTENT="mes amitiés à la chere sœur, et à tous mes parents"
+                    HPOS="406"
+                    VPOS="310"
+                    WIDTH="1502"
+                    HEIGHT="85"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d024469d"
+                    TAGREFS="LT8"
+                    BASELINE="401 442 1588 456 1910 470" 
+                    HPOS="400"
+                    VPOS="397"
+                    WIDTH="1510"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="401 442 400 457 512 470 514 470 588 462 639 457 657 463 703 480 704 480 908 482 910 482 911 482 957 470 972 465 1117 463 1208 476 1282 485 1284 485 1286 485 1310 477 1343 466 1366 474 1368 474 1369 474 1617 471 1658 485 1686 494 1687 494 1689 494 1745 486 1763 485 1774 488 1801 495 1803 495 1805 495 1806 495 1824 488 1841 482 1906 489 1910 470 1910 431 1849 421 1847 421 1786 425 1757 413 1756 413 1754 413 1701 422 1664 412 1663 412 1661 412 1596 425 1541 425 1467 425 1394 422 1362 422 1334 407 1333 407 1331 407 1330 407 1289 421 1284 422 1209 422 1203 421 1129 404 1127 404 969 407 931 416 922 418 850 418 846 415 821 406 820 406 818 406 735 413 713 415 703 413 671 404 669 404 668 404 666 404 646 412 642 413 631 412 578 403 576 403 575 403 544 410 543 410 514 397 512 397 442 397 441 397 439 397 401 407 401 442"/></Shape>
+            <String CONTENT="et amis, et respects aux Dames. je vous embrasse mille"
+                    HPOS="400"
+                    VPOS="397"
+                    WIDTH="1510"
+                    HEIGHT="98"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_01109da3"
+                    TAGREFS="LT8"
+                    BASELINE="394 527 1360 538 1926 558" 
+                    HPOS="392"
+                    VPOS="476"
+                    WIDTH="1534"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="394 527 392 549 450 562 683 567 684 567 837 562 847 561 897 550 1088 552 1132 565 1133 565 1135 565 1191 555 1235 562 1237 562 1359 558 1436 574 1456 579 1458 579 1476 576 1552 562 1637 562 1690 582 1696 584 1698 584 1798 585 1800 585 1801 585 1805 584 1830 573 1923 587 1926 558 1925 518 1859 523 1840 515 1829 511 1827 511 1826 511 1800 514 1750 521 1728 512 1698 498 1696 498 1695 498 1645 503 1643 503 1642 503 1631 509 1616 518 1451 509 1450 509 1415 515 1371 501 1368 501 1366 501 1365 501 1352 501 1316 503 1310 500 1292 491 1290 491 1222 491 1220 491 1219 491 1196 497 1146 511 1057 497 1056 497 1054 497 1018 509 967 509 951 498 949 498 948 498 946 498 945 498 928 506 809 498 808 498 806 498 783 505 722 485 715 482 713 482 394 476 394 527"/></Shape>
+            <String CONTENT="et mille fois et vous aime tendrement, ma chere petitte"
+                    HPOS="392"
+                    VPOS="476"
+                    WIDTH="1534"
+                    HEIGHT="111"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c5729956"
+                    TAGREFS="LT8"
+                    BASELINE="391 611 1386 626 1430 629 1507 628 1567 632 1759 637" 
+                    HPOS="390"
+                    VPOS="552"
+                    WIDTH="1367"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="390 609 390 643 488 627 566 659 671 629 764 643 792 632 933 632 979 638 1004 666 1093 668 1173 638 1251 657 1280 657 1419 645 1481 675 1741 677 1755 663 1757 570 1709 570 1689 590 1648 570 1609 568 1554 568 1527 590 1490 565 1481 565 1410 588 1388 572 1378 572 1340 588 1225 588 1209 568 1168 577 1152 561 1091 561 1063 584 947 584 922 556 878 556 856 581 826 581 796 554 748 554 723 577 632 577 591 552 584 552 488 565 390 561 390 609"/></Shape>
+            <String CONTENT="m. et suis vôtre bon et fidel ami Le G. L."
+                    HPOS="390"
+                    VPOS="552"
+                    WIDTH="1367"
+                    HEIGHT="125"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

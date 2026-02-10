@@ -1,0 +1,74 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Robillard",
+    "jalons": [
+      0,
+      9
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Roi",
+    "jalons": [
+      32,
+      35
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Germain",
+    "jalons": [
+      69,
+      76
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "Regiment",
+    "jalons": [
+      103,
+      111
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Coup",
+    "jalons": [
+      153,
+      157
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "interné",
+    "jalons": [
+      178,
+      186
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Themoignage",
+    "jalons": [
+      340,
+      351
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Cerlificat",
+    "jalons": [
+      364,
+      374
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Baradat",
+    "jalons": [
+      404,
+      411
+    ]
+  }
+}

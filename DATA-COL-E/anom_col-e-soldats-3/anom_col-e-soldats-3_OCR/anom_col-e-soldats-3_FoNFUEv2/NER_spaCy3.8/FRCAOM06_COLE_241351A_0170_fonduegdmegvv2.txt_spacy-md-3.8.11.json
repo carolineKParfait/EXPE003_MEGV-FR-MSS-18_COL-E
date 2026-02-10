@@ -1,0 +1,58 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "^ Domingue",
+    "jalons": [
+      0,
+      10
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Dup^r",
+    "jalons": [
+      43,
+      48
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Prince",
+    "jalons": [
+      63,
+      69
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "Depeche",
+    "jalons": [
+      107,
+      114
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Connoré",
+    "jalons": [
+      136,
+      144
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Roy",
+    "jalons": [
+      213,
+      216
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Garde",
+    "jalons": [
+      235,
+      240
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Augerant",
+    "jalons": [
+      0,
+      8
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      10,
+      17
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Soldat",
+    "jalons": [
+      19,
+      25
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      66,
+      72
+    ]
+  }
+}

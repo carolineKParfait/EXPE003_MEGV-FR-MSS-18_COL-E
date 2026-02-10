@@ -1,0 +1,130 @@
+{
+  "entite_0": {
+    "label": "ORG",
+    "text": "N&#x27;a",
+    "jalons": [
+      38,
+      46
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "paris",
+    "jalons": [
+      79,
+      84
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      222,
+      228
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "M^de",
+    "jalons": [
+      234,
+      238
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "turpin",
+    "jalons": [
+      242,
+      248
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "M^r",
+    "jalons": [
+      260,
+      263
+    ]
+  },
+  "entite_6": {
+    "label": "ORG",
+    "text": "Répondue",
+    "jalons": [
+      303,
+      311
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Convenoit",
+    "jalons": [
+      392,
+      401
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "Lesq",
+    "jalons": [
+      419,
+      423
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "Consentement",
+    "jalons": [
+      497,
+      509
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "Concience",
+    "jalons": [
+      550,
+      559
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "Raports",
+    "jalons": [
+      583,
+      590
+    ]
+  },
+  "entite_12": {
+    "label": "PER",
+    "text": "jusqu&#x27;ici",
+    "jalons": [
+      740,
+      754
+    ]
+  },
+  "entite_13": {
+    "label": "LOC",
+    "text": "Reconnaissantes",
+    "jalons": [
+      823,
+      838
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "Pièce",
+    "jalons": [
+      887,
+      892
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "B",
+    "jalons": [
+      903,
+      904
+    ]
+  }
+}

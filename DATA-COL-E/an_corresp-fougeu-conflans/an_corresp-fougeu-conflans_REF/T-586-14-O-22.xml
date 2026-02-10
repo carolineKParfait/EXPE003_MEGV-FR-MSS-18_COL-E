@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>T-586-14-O-22.jpg</fileName>
+      <fileIdentifier>zip//correspondance_conflans_jpg_alto_20241122_Marion_24-40.zip/T-586-14-O-22.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="QZ7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="QZ8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="QZ9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="QZ10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="QZ11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="QZ12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="QZ13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="QZ14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="QZ15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="QZ17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="QZ18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="QZ19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="QZ20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="QZ21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="QZ22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2817"
+          HEIGHT="2113"
+          PHYSICAL_IMG_NR="20"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2817"
+                  HEIGHT="2113">
+        <TextBlock HPOS="1447.0"
+                   VPOS="920.0"
+                   WIDTH="1297.0"
+                   HEIGHT="838.0"
+                   ID="eSc_textblock_bc3449c4"
+                   TAGREFS="QZ12">
+          <Shape><Polygon POINTS="1447 920 1447 1758 2744 1758 2744 920"/></Shape>
+          <TextLine ID="eSc_line_560c3a51"
+                    TAGREFS="LT8"
+                    BASELINE="1540 998 2632 1037" 
+                    HPOS="1537"
+                    VPOS="945"
+                    WIDTH="1093"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="1537 1042 1648 1047 1689 1014 1832 1017 1867 1037 1906 1023 1974 1023 2008 1040 2115 1030 2188 1068 2628 1068 2630 1035 2630 1012 2538 1010 2524 994 2473 1005 2425 973 2385 971 2304 970 2272 996 2263 989 2193 996 2114 980 1883 984 1828 952 1752 971 1730 949 1627 945 1582 970 1539 970 1539 996"/></Shape>
+            <String CONTENT="A Madame"
+                    HPOS="1537"
+                    VPOS="945"
+                    WIDTH="1093"
+                    HEIGHT="123"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_f2891e4e"
+                    TAGREFS="LT8"
+                    BASELINE="1491 1378 2715 1427" 
+                    HPOS="1488"
+                    VPOS="1324"
+                    WIDTH="1226"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="1490 1376 1488 1408 1522 1401 1550 1412 1560 1412 1617 1399 1634 1413 1693 1405 1710 1413 1823 1410 1855 1424 1914 1412 1990 1417 2010 1431 2103 1433 2128 1420 2233 1435 2260 1426 2323 1443 2404 1435 2482 1445 2496 1435 2554 1436 2573 1452 2660 1442 2681 1457 2686 1457 2711 1454 2714 1426 2714 1380 2628 1368 2600 1385 2517 1384 2503 1371 2362 1369 2332 1355 2272 1371 2203 1371 2181 1350 2087 1354 2070 1364 1983 1362 1959 1361 1934 1339 1897 1350 1851 1336 1677 1348 1606 1327 1492 1324 1490 1376"/></Shape>
+            <String CONTENT="Madame la Comtesse de Conflans en son"
+                    HPOS="1488"
+                    VPOS="1324"
+                    WIDTH="1226"
+                    HEIGHT="133"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_92c62170"
+                    TAGREFS="LT8"
+                    BASELINE="1457 1466 2559 1500" 
+                    HPOS="1455"
+                    VPOS="1419"
+                    WIDTH="1103"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="1456 1465 1455 1486 1654 1493 1747 1535 1807 1537 1918 1501 2033 1544 2138 1546 2159 1537 2173 1546 2181 1546 2207 1531 2232 1549 2327 1551 2374 1516 2466 1531 2484 1521 2556 1521 2558 1498 2556 1475 2327 1468 2318 1457 2233 1463 2219 1449 2191 1457 2147 1438 2084 1436 2040 1456 1990 1436 1946 1452 1911 1442 1828 1450 1742 1426 1627 1445 1583 1428 1456 1419 1456 1465"/></Shape>
+            <String CONTENT="hotel rüe de grenelle f^g S^t germain"
+                    HPOS="1455"
+                    VPOS="1419"
+                    WIDTH="1103"
+                    HEIGHT="132"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_f8779875"
+                    TAGREFS="LT8"
+                    BASELINE="1847 1592 2442 1626" 
+                    HPOS="1842"
+                    VPOS="1544"
+                    WIDTH="599"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="1846 1591 1842 1648 1904 1651 1939 1619 2055 1623 2094 1660 2255 1671 2302 1649 2323 1672 2364 1676 2410 1644 2438 1644 2441 1625 2441 1588 2418 1588 2408 1572 2399 1572 2374 1593 2358 1579 2351 1579 2329 1590 2313 1570 2306 1570 2284 1581 2249 1553 2163 1547 2096 1581 1948 1575 1893 1547 1848 1544 1846 1591"/></Shape>
+            <String CONTENT="À Paris"
+                    HPOS="1842"
+                    VPOS="1544"
+                    WIDTH="599"
+                    HEIGHT="132"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2442.0"
+                   VPOS="1787.0"
+                   WIDTH="317.0"
+                   HEIGHT="283.0"
+                   ID="eSc_textblock_b7976b43"
+                   TAGREFS="QZ20">
+          <Shape><Polygon POINTS="2442 1787 2442 2070 2759 2070 2759 1787"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

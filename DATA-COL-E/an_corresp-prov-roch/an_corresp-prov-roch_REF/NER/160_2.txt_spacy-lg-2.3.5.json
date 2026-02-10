@@ -1,0 +1,354 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      24,
+      32
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Roy",
+    "jalons": [
+      458,
+      461
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "M. Provenchere",
+    "jalons": [
+      648,
+      662
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "entiere Liberté",
+    "jalons": [
+      758,
+      773
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "S^t Domingue",
+    "jalons": [
+      874,
+      886
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "M. le Breton",
+    "jalons": [
+      934,
+      946
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Beaucoup les suittes",
+    "jalons": [
+      991,
+      1011
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Esprits",
+    "jalons": [
+      1062,
+      1069
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Jay",
+    "jalons": [
+      1073,
+      1076
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "Respect",
+    "jalons": [
+      1120,
+      1127
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      1128,
+      1136
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "Nantes",
+    "jalons": [
+      1198,
+      1204
+    ]
+  },
+  "entite_12": {
+    "label": "MISC",
+    "text": "Vente &amp",
+    "jalons": [
+      1236,
+      1246
+    ]
+  },
+  "entite_13": {
+    "label": "ORG",
+    "text": "Net",
+    "jalons": [
+      1248,
+      1251
+    ]
+  },
+  "entite_14": {
+    "label": "ORG",
+    "text": "Bariques &amp",
+    "jalons": [
+      1266,
+      1279
+    ]
+  },
+  "entite_15": {
+    "label": "MISC",
+    "text": "Mr Provenchere du Cul de Sac",
+    "jalons": [
+      1338,
+      1366
+    ]
+  },
+  "entite_16": {
+    "label": "PER",
+    "text": "Messieurs",
+    "jalons": [
+      1382,
+      1391
+    ]
+  },
+  "entite_17": {
+    "label": "PER",
+    "text": "Fougeu",
+    "jalons": [
+      1406,
+      1412
+    ]
+  },
+  "entite_18": {
+    "label": "MISC",
+    "text": "Navire",
+    "jalons": [
+      1420,
+      1426
+    ]
+  },
+  "entite_19": {
+    "label": "PER",
+    "text": "Capne Giraud",
+    "jalons": [
+      1436,
+      1448
+    ]
+  },
+  "entite_20": {
+    "label": "LOC",
+    "text": "Delmar",
+    "jalons": [
+      1617,
+      1623
+    ]
+  },
+  "entite_21": {
+    "label": "LOC",
+    "text": "p%",
+    "jalons": [
+      1708,
+      1710
+    ]
+  },
+  "entite_22": {
+    "label": "LOC",
+    "text": "Net",
+    "jalons": [
+      1794,
+      1797
+    ]
+  },
+  "entite_23": {
+    "label": "MISC",
+    "text": "Froust &amp",
+    "jalons": [
+      1913,
+      1924
+    ]
+  },
+  "entite_24": {
+    "label": "LOC",
+    "text": "ort",
+    "jalons": [
+      1981,
+      1984
+    ]
+  },
+  "entite_25": {
+    "label": "LOC",
+    "text": "tre",
+    "jalons": [
+      2009,
+      2012
+    ]
+  },
+  "entite_26": {
+    "label": "LOC",
+    "text": "tarre",
+    "jalons": [
+      2086,
+      2091
+    ]
+  },
+  "entite_27": {
+    "label": "MISC",
+    "text": "p%",
+    "jalons": [
+      2107,
+      2109
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "p^r",
+    "jalons": [
+      2174,
+      2177
+    ]
+  },
+  "entite_29": {
+    "label": "LOC",
+    "text": "Net",
+    "jalons": [
+      2204,
+      2207
+    ]
+  },
+  "entite_30": {
+    "label": "MISC",
+    "text": "Net",
+    "jalons": [
+      2351,
+      2354
+    ]
+  },
+  "entite_31": {
+    "label": "ORG",
+    "text": "Fret",
+    "jalons": [
+      2376,
+      2380
+    ]
+  },
+  "entite_32": {
+    "label": "LOC",
+    "text": "Dom^e",
+    "jalons": [
+      2588,
+      2593
+    ]
+  },
+  "entite_33": {
+    "label": "LOC",
+    "text": "p^r",
+    "jalons": [
+      2661,
+      2664
+    ]
+  },
+  "entite_34": {
+    "label": "LOC",
+    "text": "Ville",
+    "jalons": [
+      2774,
+      2779
+    ]
+  },
+  "entite_35": {
+    "label": "LOC",
+    "text": "p^r",
+    "jalons": [
+      3022,
+      3025
+    ]
+  },
+  "entite_36": {
+    "label": "LOC",
+    "text": "p^r",
+    "jalons": [
+      3071,
+      3074
+    ]
+  },
+  "entite_37": {
+    "label": "LOC",
+    "text": "Commission",
+    "jalons": [
+      3123,
+      3133
+    ]
+  },
+  "entite_38": {
+    "label": "LOC",
+    "text": "L&quot",
+    "jalons": [
+      3220,
+      3226
+    ]
+  },
+  "entite_39": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      3263,
+      3271
+    ]
+  },
+  "entite_40": {
+    "label": "PER",
+    "text": "Marquis De la Rochefoucault Bayers",
+    "jalons": [
+      3275,
+      3309
+    ]
+  },
+  "entite_41": {
+    "label": "MISC",
+    "text": "Produit cy dessus la somme de six mille",
+    "jalons": [
+      3351,
+      3390
+    ]
+  },
+  "entite_42": {
+    "label": "LOC",
+    "text": "Nantes",
+    "jalons": [
+      3464,
+      3470
+    ]
+  },
+  "entite_43": {
+    "label": "LOC",
+    "text": "Charet",
+    "jalons": [
+      3500,
+      3506
+    ]
+  }
+}

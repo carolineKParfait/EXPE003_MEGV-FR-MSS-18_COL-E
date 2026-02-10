@@ -1,0 +1,90 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Compte",
+    "jalons": [
+      15,
+      21
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Roy",
+    "jalons": [
+      25,
+      28
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Chaleauneuf",
+    "jalons": [
+      63,
+      74
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Beaumarais",
+    "jalons": [
+      81,
+      91
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      138,
+      149
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Legalisées",
+    "jalons": [
+      208,
+      219
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "M.",
+    "jalons": [
+      240,
+      242
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Moularcher",
+    "jalons": [
+      246,
+      256
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "Nous",
+    "jalons": [
+      341,
+      345
+    ]
+  },
+  "entite_9": {
+    "label": "ORG",
+    "text": "Respeci",
+    "jalons": [
+      369,
+      376
+    ]
+  },
+  "entite_10": {
+    "label": "MISC",
+    "text": "Obeissans",
+    "jalons": [
+      415,
+      424
+    ]
+  }
+}

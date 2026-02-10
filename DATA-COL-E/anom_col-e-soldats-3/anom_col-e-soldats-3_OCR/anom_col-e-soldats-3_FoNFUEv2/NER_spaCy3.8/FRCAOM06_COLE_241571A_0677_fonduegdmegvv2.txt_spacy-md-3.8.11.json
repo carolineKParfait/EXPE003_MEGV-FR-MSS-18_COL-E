@@ -1,0 +1,74 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Robillard",
+    "jalons": [
+      0,
+      9
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Roi",
+    "jalons": [
+      32,
+      35
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Cay",
+    "jalons": [
+      39,
+      42
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Certifions",
+    "jalons": [
+      54,
+      64
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Germain",
+    "jalons": [
+      69,
+      76
+    ]
+  },
+  "entite_5": {
+    "label": "ORG",
+    "text": "doitpts",
+    "jalons": [
+      256,
+      263
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Themoignage",
+    "jalons": [
+      340,
+      351
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Cerlificat",
+    "jalons": [
+      364,
+      374
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Baradat",
+    "jalons": [
+      404,
+      411
+    ]
+  }
+}

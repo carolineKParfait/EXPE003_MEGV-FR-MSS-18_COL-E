@@ -1,0 +1,82 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "Monsieur M provenchere ma",
+    "jalons": [
+      0,
+      25
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "m&#39;avez",
+    "jalons": [
+      52,
+      62
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "réconnoissance",
+    "jalons": [
+      203,
+      218
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      244,
+      252
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "assuré",
+    "jalons": [
+      325,
+      332
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Régarderai",
+    "jalons": [
+      444,
+      455
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "M^r provenchere",
+    "jalons": [
+      496,
+      511
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "m&#39;a Chargé",
+    "jalons": [
+      541,
+      556
+    ]
+  },
+  "entite_8": {
+    "label": "ORG",
+    "text": "m&#39;a honoré",
+    "jalons": [
+      660,
+      675
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "FOr Cv M^r Charles De la Rochefoucaulle",
+    "jalons": [
+      709,
+      748
+    ]
+  }
+}

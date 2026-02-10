@@ -1,0 +1,354 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "s^t Domingue",
+    "jalons": [
+      3,
+      15
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "Conseil de guerre",
+    "jalons": [
+      19,
+      36
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "s^t Loüis",
+    "jalons": [
+      60,
+      69
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Monsieur de",
+    "jalons": [
+      76,
+      87
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Brach",
+    "jalons": [
+      88,
+      93
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "s^t Loüis",
+    "jalons": [
+      129,
+      138
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "fort s^t",
+    "jalons": [
+      156,
+      164
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Loüis",
+    "jalons": [
+      165,
+      170
+    ]
+  },
+  "entite_8": {
+    "label": "LOC",
+    "text": "Composé de",
+    "jalons": [
+      187,
+      197
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "s^r",
+    "jalons": [
+      205,
+      208
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "Brach",
+    "jalons": [
+      212,
+      217
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "Coulons",
+    "jalons": [
+      257,
+      264
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "Capitaine",
+    "jalons": [
+      265,
+      274
+    ]
+  },
+  "entite_13": {
+    "label": "LOC",
+    "text": "Cette",
+    "jalons": [
+      335,
+      340
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "Bignon",
+    "jalons": [
+      351,
+      357
+    ]
+  },
+  "entite_15": {
+    "label": "PER",
+    "text": "Lieutenant",
+    "jalons": [
+      372,
+      382
+    ]
+  },
+  "entite_16": {
+    "label": "LOC",
+    "text": "Bailleul",
+    "jalons": [
+      405,
+      413
+    ]
+  },
+  "entite_17": {
+    "label": "LOC",
+    "text": "Godroy",
+    "jalons": [
+      417,
+      423
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "Enseignes",
+    "jalons": [
+      424,
+      433
+    ]
+  },
+  "entite_19": {
+    "label": "LOC",
+    "text": "M",
+    "jalons": [
+      477,
+      478
+    ]
+  },
+  "entite_20": {
+    "label": "LOC",
+    "text": "fort s^t Loüis",
+    "jalons": [
+      498,
+      512
+    ]
+  },
+  "entite_21": {
+    "label": "LOC",
+    "text": "Roy",
+    "jalons": [
+      547,
+      550
+    ]
+  },
+  "entite_22": {
+    "label": "PER",
+    "text": "Jean Baptiste",
+    "jalons": [
+      566,
+      579
+    ]
+  },
+  "entite_23": {
+    "label": "LOC",
+    "text": "s^r",
+    "jalons": [
+      641,
+      644
+    ]
+  },
+  "entite_24": {
+    "label": "LOC",
+    "text": "Brach",
+    "jalons": [
+      648,
+      653
+    ]
+  },
+  "entite_25": {
+    "label": "PER",
+    "text": "Jean françois Monpas",
+    "jalons": [
+      743,
+      763
+    ]
+  },
+  "entite_26": {
+    "label": "PER",
+    "text": "Dumas",
+    "jalons": [
+      768,
+      773
+    ]
+  },
+  "entite_27": {
+    "label": "MISC",
+    "text": "Compagnie de Coulons",
+    "jalons": [
+      792,
+      812
+    ]
+  },
+  "entite_28": {
+    "label": "MISC",
+    "text": "Crime de desertion",
+    "jalons": [
+      823,
+      841
+    ]
+  },
+  "entite_29": {
+    "label": "LOC",
+    "text": "Laquelle",
+    "jalons": [
+      866,
+      874
+    ]
+  },
+  "entite_30": {
+    "label": "LOC",
+    "text": "s^r",
+    "jalons": [
+      902,
+      905
+    ]
+  },
+  "entite_31": {
+    "label": "LOC",
+    "text": "Brach",
+    "jalons": [
+      909,
+      914
+    ]
+  },
+  "entite_32": {
+    "label": "LOC",
+    "text": "Informé",
+    "jalons": [
+      928,
+      935
+    ]
+  },
+  "entite_33": {
+    "label": "LOC",
+    "text": "Information",
+    "jalons": [
+      1020,
+      1031
+    ]
+  },
+  "entite_34": {
+    "label": "ORG",
+    "text": "Interrogatoire faits des",
+    "jalons": [
+      1035,
+      1059
+    ]
+  },
+  "entite_35": {
+    "label": "ORG",
+    "text": "Témoins",
+    "jalons": [
+      1060,
+      1067
+    ]
+  },
+  "entite_36": {
+    "label": "LOC",
+    "text": "Temoins",
+    "jalons": [
+      1089,
+      1096
+    ]
+  },
+  "entite_37": {
+    "label": "ORG",
+    "text": "Deposition",
+    "jalons": [
+      1106,
+      1116
+    ]
+  },
+  "entite_38": {
+    "label": "MISC",
+    "text": "Confrontation",
+    "jalons": [
+      1134,
+      1147
+    ]
+  },
+  "entite_39": {
+    "label": "MISC",
+    "text": "Les Conclusions",
+    "jalons": [
+      1177,
+      1192
+    ]
+  },
+  "entite_40": {
+    "label": "LOC",
+    "text": "s^r",
+    "jalons": [
+      1199,
+      1202
+    ]
+  },
+  "entite_41": {
+    "label": "ORG",
+    "text": "Conseil",
+    "jalons": [
+      1231,
+      1238
+    ]
+  },
+  "entite_42": {
+    "label": "PER",
+    "text": "Jean françois Monpas",
+    "jalons": [
+      1305,
+      1325
+    ]
+  },
+  "entite_43": {
+    "label": "PER",
+    "text": "Dumas",
+    "jalons": [
+      1330,
+      1335
+    ]
+  }
+}

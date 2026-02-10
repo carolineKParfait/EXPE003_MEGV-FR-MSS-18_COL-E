@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Colonie",
+    "jalons": [
+      234,
+      241
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "J&#x27;ai",
+    "jalons": [
+      243,
+      252
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Vôtre",
+    "jalons": [
+      356,
+      361
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      377,
+      385
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Marquis",
+    "jalons": [
+      389,
+      396
+    ]
+  },
+  "entite_5": {
+    "label": "ORG",
+    "text": "Serviteur",
+    "jalons": [
+      413,
+      422
+    ]
+  }
+}

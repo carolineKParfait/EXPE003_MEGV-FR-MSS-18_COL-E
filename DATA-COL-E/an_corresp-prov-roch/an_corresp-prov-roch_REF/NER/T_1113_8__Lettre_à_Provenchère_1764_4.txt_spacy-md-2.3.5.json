@@ -1,0 +1,658 @@
+{
+  "entite_0": {
+    "label": "ORG",
+    "text": "Labour",
+    "jalons": [
+      0,
+      6
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "Charrüe",
+    "jalons": [
+      12,
+      19
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "s&#x27;il",
+    "jalons": [
+      140,
+      149
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "c&#x27;est",
+    "jalons": [
+      229,
+      239
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Monsieur Constant",
+    "jalons": [
+      260,
+      277
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Cul de Sac",
+    "jalons": [
+      290,
+      300
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "S^t Domingue",
+    "jalons": [
+      514,
+      526
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "le Blanc",
+    "jalons": [
+      1149,
+      1157
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "M^r Constant",
+    "jalons": [
+      1162,
+      1174
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "m&#x27;en",
+    "jalons": [
+      1222,
+      1231
+    ]
+  },
+  "entite_10": {
+    "label": "MISC",
+    "text": "J&#x27;ay",
+    "jalons": [
+      1808,
+      1817
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "Monsieur Le Marechal",
+    "jalons": [
+      2264,
+      2284
+    ]
+  },
+  "entite_12": {
+    "label": "MISC",
+    "text": "Monsieur d&#x27;Estaing",
+    "jalons": [
+      2306,
+      2329
+    ]
+  },
+  "entite_13": {
+    "label": "PER",
+    "text": "Monsieur Magan",
+    "jalons": [
+      2335,
+      2349
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      2661,
+      2667
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "Bayers",
+    "jalons": [
+      2671,
+      2677
+    ]
+  },
+  "entite_16": {
+    "label": "MISC",
+    "text": "m&#x27;en",
+    "jalons": [
+      2681,
+      2690
+    ]
+  },
+  "entite_17": {
+    "label": "PER",
+    "text": "Jeune Comtesse",
+    "jalons": [
+      2837,
+      2851
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "Bordeaux",
+    "jalons": [
+      2880,
+      2888
+    ]
+  },
+  "entite_19": {
+    "label": "ORG",
+    "text": "n&#x27;en",
+    "jalons": [
+      2931,
+      2940
+    ]
+  },
+  "entite_20": {
+    "label": "MISC",
+    "text": "vendus.⟧",
+    "jalons": [
+      2958,
+      2966
+    ]
+  },
+  "entite_21": {
+    "label": "MISC",
+    "text": "M^r",
+    "jalons": [
+      2967,
+      2970
+    ]
+  },
+  "entite_22": {
+    "label": "MISC",
+    "text": "M^r",
+    "jalons": [
+      3051,
+      3054
+    ]
+  },
+  "entite_23": {
+    "label": "MISC",
+    "text": "Navires le Grand Carlos",
+    "jalons": [
+      3110,
+      3133
+    ]
+  },
+  "entite_24": {
+    "label": "LOC",
+    "text": "Gavillan",
+    "jalons": [
+      3141,
+      3149
+    ]
+  },
+  "entite_25": {
+    "label": "ORG",
+    "text": "Envoy",
+    "jalons": [
+      3452,
+      3457
+    ]
+  },
+  "entite_26": {
+    "label": "PER",
+    "text": "Monsieur le Marechal",
+    "jalons": [
+      3491,
+      3511
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "Revenüs",
+    "jalons": [
+      3567,
+      3574
+    ]
+  },
+  "entite_28": {
+    "label": "MISC",
+    "text": "S^t Domingue",
+    "jalons": [
+      3597,
+      3609
+    ]
+  },
+  "entite_29": {
+    "label": "PER",
+    "text": "s&#x27;il",
+    "jalons": [
+      3678,
+      3687
+    ]
+  },
+  "entite_30": {
+    "label": "PER",
+    "text": "moy",
+    "jalons": [
+      3790,
+      3793
+    ]
+  },
+  "entite_31": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      3795,
+      3803
+    ]
+  },
+  "entite_32": {
+    "label": "PER",
+    "text": "Gouverneur",
+    "jalons": [
+      3836,
+      3846
+    ]
+  },
+  "entite_33": {
+    "label": "MISC",
+    "text": "S^t Domingue",
+    "jalons": [
+      3850,
+      3862
+    ]
+  },
+  "entite_34": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      3931,
+      3939
+    ]
+  },
+  "entite_35": {
+    "label": "LOC",
+    "text": "Colonie",
+    "jalons": [
+      4098,
+      4105
+    ]
+  },
+  "entite_36": {
+    "label": "LOC",
+    "text": "Mesdames",
+    "jalons": [
+      4154,
+      4162
+    ]
+  },
+  "entite_37": {
+    "label": "LOC",
+    "text": "Marechale de Conflans",
+    "jalons": [
+      4166,
+      4187
+    ]
+  },
+  "entite_38": {
+    "label": "PER",
+    "text": "Marquise de Bayers",
+    "jalons": [
+      4192,
+      4210
+    ]
+  },
+  "entite_39": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      4405,
+      4413
+    ]
+  },
+  "entite_40": {
+    "label": "PER",
+    "text": "Marechal",
+    "jalons": [
+      4417,
+      4425
+    ]
+  },
+  "entite_41": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      4461,
+      4469
+    ]
+  },
+  "entite_42": {
+    "label": "PER",
+    "text": "Magon",
+    "jalons": [
+      4508,
+      4513
+    ]
+  },
+  "entite_43": {
+    "label": "MISC",
+    "text": "d&#x27;en",
+    "jalons": [
+      4537,
+      4546
+    ]
+  },
+  "entite_44": {
+    "label": "PER",
+    "text": "Monsieur Beudet",
+    "jalons": [
+      4556,
+      4571
+    ]
+  },
+  "entite_45": {
+    "label": "PER",
+    "text": "de Monsieur",
+    "jalons": [
+      4642,
+      4653
+    ]
+  },
+  "entite_46": {
+    "label": "PER",
+    "text": "Duc de Choiseüil",
+    "jalons": [
+      4657,
+      4673
+    ]
+  },
+  "entite_47": {
+    "label": "MISC",
+    "text": "s&#x27;en",
+    "jalons": [
+      4873,
+      4882
+    ]
+  },
+  "entite_48": {
+    "label": "MISC",
+    "text": "May 1764",
+    "jalons": [
+      4962,
+      4970
+    ]
+  },
+  "entite_49": {
+    "label": "MISC",
+    "text": "Barriques",
+    "jalons": [
+      4998,
+      5007
+    ]
+  },
+  "entite_50": {
+    "label": "MISC",
+    "text": "Jeune",
+    "jalons": [
+      5051,
+      5056
+    ]
+  },
+  "entite_51": {
+    "label": "LOC",
+    "text": "cap^ne",
+    "jalons": [
+      5080,
+      5086
+    ]
+  },
+  "entite_52": {
+    "label": "PER",
+    "text": "Senac",
+    "jalons": [
+      5087,
+      5092
+    ]
+  },
+  "entite_53": {
+    "label": "LOC",
+    "text": "S^rJaune",
+    "jalons": [
+      5131,
+      5139
+    ]
+  },
+  "entite_54": {
+    "label": "LOC",
+    "text": "Negotiant",
+    "jalons": [
+      5146,
+      5155
+    ]
+  },
+  "entite_55": {
+    "label": "LOC",
+    "text": "Bordeaux",
+    "jalons": [
+      5158,
+      5166
+    ]
+  },
+  "entite_56": {
+    "label": "LOC",
+    "text": "Barriques",
+    "jalons": [
+      5183,
+      5192
+    ]
+  },
+  "entite_57": {
+    "label": "MISC",
+    "text": "Barriques",
+    "jalons": [
+      5238,
+      5247
+    ]
+  },
+  "entite_58": {
+    "label": "LOC",
+    "text": "Mediocre",
+    "jalons": [
+      5251,
+      5259
+    ]
+  },
+  "entite_59": {
+    "label": "MISC",
+    "text": "Navire",
+    "jalons": [
+      5264,
+      5270
+    ]
+  },
+  "entite_60": {
+    "label": "ORG",
+    "text": "l&#x27;un",
+    "jalons": [
+      5407,
+      5416
+    ]
+  },
+  "entite_61": {
+    "label": "LOC",
+    "text": "Bordeaux",
+    "jalons": [
+      5502,
+      5510
+    ]
+  },
+  "entite_62": {
+    "label": "PER",
+    "text": "Julie Cap^ne",
+    "jalons": [
+      5795,
+      5807
+    ]
+  },
+  "entite_63": {
+    "label": "LOC",
+    "text": "sucre Blanc",
+    "jalons": [
+      5846,
+      5857
+    ]
+  },
+  "entite_64": {
+    "label": "LOC",
+    "text": "Barriques",
+    "jalons": [
+      5872,
+      5881
+    ]
+  },
+  "entite_65": {
+    "label": "MISC",
+    "text": "Barriques",
+    "jalons": [
+      5904,
+      5913
+    ]
+  },
+  "entite_66": {
+    "label": "PER",
+    "text": "Monsieur Charuet",
+    "jalons": [
+      5957,
+      5973
+    ]
+  },
+  "entite_67": {
+    "label": "PER",
+    "text": "Peinboeuf",
+    "jalons": [
+      6045,
+      6054
+    ]
+  },
+  "entite_68": {
+    "label": "LOC",
+    "text": "Riviere de Nantes",
+    "jalons": [
+      6068,
+      6085
+    ]
+  },
+  "entite_69": {
+    "label": "LOC",
+    "text": "france",
+    "jalons": [
+      6122,
+      6128
+    ]
+  },
+  "entite_70": {
+    "label": "MISC",
+    "text": "S^t Domingue",
+    "jalons": [
+      6145,
+      6157
+    ]
+  },
+  "entite_71": {
+    "label": "MISC",
+    "text": "Navire",
+    "jalons": [
+      6303,
+      6309
+    ]
+  },
+  "entite_72": {
+    "label": "PER",
+    "text": "Julie cap^ne",
+    "jalons": [
+      6313,
+      6325
+    ]
+  },
+  "entite_73": {
+    "label": "LOC",
+    "text": "la Barre",
+    "jalons": [
+      6326,
+      6334
+    ]
+  },
+  "entite_74": {
+    "label": "MISC",
+    "text": "Barriques",
+    "jalons": [
+      6414,
+      6423
+    ]
+  },
+  "entite_75": {
+    "label": "PER",
+    "text": "jusqu&#x27;a",
+    "jalons": [
+      6641,
+      6653
+    ]
+  },
+  "entite_76": {
+    "label": "LOC",
+    "text": "Nantes",
+    "jalons": [
+      6770,
+      6776
+    ]
+  },
+  "entite_77": {
+    "label": "LOC",
+    "text": "Bordeaux",
+    "jalons": [
+      6787,
+      6795
+    ]
+  },
+  "entite_78": {
+    "label": "MISC",
+    "text": "Julie de la premiere",
+    "jalons": [
+      6899,
+      6919
+    ]
+  },
+  "entite_79": {
+    "label": "MISC",
+    "text": "aucun–",
+    "jalons": [
+      7135,
+      7141
+    ]
+  },
+  "entite_80": {
+    "label": "MISC",
+    "text": "23 May",
+    "jalons": [
+      7300,
+      7306
+    ]
+  },
+  "entite_81": {
+    "label": "MISC",
+    "text": "Barriques",
+    "jalons": [
+      7370,
+      7379
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>FRCAOM06_COLE_241002A_0450.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="QZ7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="QZ8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="QZ9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="QZ10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="QZ11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="QZ12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="QZ13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="QZ14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="QZ15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="QZ17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="QZ18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="QZ19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="QZ20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="QZ21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="QZ22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2720"
+          HEIGHT="2984"
+          PHYSICAL_IMG_NR="22"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2720"
+                  HEIGHT="2984">
+        <TextBlock HPOS="134"
+                   VPOS="111"
+                   WIDTH="1941"
+                   HEIGHT="738"
+                   ID="eSc_textblock_56c78b57"
+                   TAGREFS="QZ12">
+          <Shape><Polygon POINTS="134 111 134 849 2075 849 2075 111"/></Shape>
+          <TextLine ID="eSc_line_5a6580dd"
+                    TAGREFS="LT8"
+                    BASELINE="149 287 351 301" 
+                    HPOS="144"
+                    VPOS="141"
+                    WIDTH="214"
+                    HEIGHT="192">
+            <Shape><Polygon POINTS="146 285 144 323 201 310 221 328 223 330 226 330 228 330 231 330 248 328 313 318 343 333 350 300 358 156 318 141 316 141 313 141 311 141 308 141 281 159 261 144 261 141 258 141 256 141 253 141 251 141 248 141 201 184 186 193 151 191 146 285"/></Shape>
+            <String CONTENT="N°"
+                    HPOS="144"
+                    VPOS="141"
+                    WIDTH="214"
+                    HEIGHT="192"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_ba7f33d6"
+                    TAGREFS="LT8"
+                    BASELINE="824 503 1326 492 1646 475 1771 477" 
+                    HPOS="820"
+                    VPOS="368"
+                    WIDTH="951"
+                    HEIGHT="157">
+            <Shape><Polygon POINTS="824 503 824 525 905 523 907 523 942 508 981 520 988 522 990 522 991 522 993 522 1003 520 1058 505 1092 515 1097 517 1099 517 1101 517 1102 517 1104 517 1106 515 1121 505 1157 512 1167 513 1169 513 1170 513 1172 513 1174 512 1187 503 1202 510 1214 515 1215 515 1217 515 1219 515 1243 508 1268 502 1287 507 1306 512 1308 512 1310 512 1311 512 1313 512 1323 505 1336 497 1355 503 1376 510 1378 510 1379 510 1381 510 1403 502 1418 495 1446 498 1496 507 1497 507 1590 503 1592 503 1593 503 1612 492 1617 489 1627 490 1645 495 1646 495 1648 495 1769 484 1771 477 1766 368 1738 368 1736 368 1734 368 1733 368 1731 369 1704 389 1678 382 1676 382 1675 382 1673 382 1671 382 1632 411 1620 406 1618 406 1617 406 1615 406 1592 416 1559 401 1557 401 1555 401 1554 401 1537 407 1517 389 1502 376 1502 374 1500 374 1499 374 1497 374 1419 381 1418 381 1416 381 1394 399 1384 407 1376 401 1345 379 1343 379 1341 379 1340 379 1267 381 1242 382 1240 382 1238 382 1179 419 1165 426 1157 421 1151 416 1149 416 1147 416 1146 416 1144 416 1127 422 1102 434 1089 426 1063 409 1061 409 1059 409 1058 409 1056 409 1054 409 1020 432 1000 445 820 449 824 503"/></Shape>
+            <String CONTENT="D&#x27;ailleboust"
+                    HPOS="820"
+                    VPOS="368"
+                    WIDTH="951"
+                    HEIGHT="157"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_5f59ab67"
+                    TAGREFS="LT8"
+                    BASELINE="857 674 1316 664 1787 643" 
+                    HPOS="854"
+                    VPOS="568"
+                    WIDTH="933"
+                    HEIGHT="154">
+            <Shape><Polygon POINTS="857 674 859 722 917 721 918 721 920 721 922 719 955 699 1001 714 1005 716 1006 716 1008 716 1010 716 1015 714 1061 694 1074 706 1076 706 1078 706 1079 706 1152 694 1184 704 1185 704 1187 704 1189 704 1190 704 1192 704 1225 689 1257 699 1272 704 1273 704 1275 704 1277 704 1278 704 1288 697 1310 686 1353 686 1363 694 1376 704 1378 704 1379 704 1381 704 1524 701 1525 701 1577 681 1590 676 1608 676 1612 679 1630 694 1630 696 1632 696 1633 696 1635 697 1668 697 1668 696 1670 696 1671 696 1671 694 1696 674 1698 671 1787 668 1787 643 1777 586 1766 596 1754 588 1746 583 1744 583 1743 583 1741 583 1739 583 1738 583 1728 590 1719 595 1695 591 1670 588 1668 588 1666 588 1665 588 1658 593 1628 613 1580 613 1557 598 1510 568 1509 568 1507 568 1505 568 1393 571 1391 571 1389 571 1389 573 1348 610 1343 615 1209 624 1199 618 1152 580 1151 580 1149 580 1147 580 1097 581 1096 581 1094 581 1094 583 1049 626 1043 631 1016 628 1003 626 943 588 942 588 940 588 938 588 915 591 913 591 912 591 854 631 857 674"/></Shape>
+            <String CONTENT="Garde Marine"
+                    HPOS="854"
+                    VPOS="568"
+                    WIDTH="933"
+                    HEIGHT="154"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,34 @@
+{
+  "entite_0": {
+    "label": "ORG",
+    "text": "Anciennes\nAffaires",
+    "jalons": [
+      0,
+      18
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Etienne",
+    "jalons": [
+      55,
+      62
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Carton",
+    "jalons": [
+      75,
+      81
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Inv^re",
+    "jalons": [
+      125,
+      131
+    ]
+  }
+}

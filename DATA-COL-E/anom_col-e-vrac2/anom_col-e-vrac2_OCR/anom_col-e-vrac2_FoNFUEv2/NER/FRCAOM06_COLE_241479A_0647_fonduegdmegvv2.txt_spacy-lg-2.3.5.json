@@ -1,0 +1,82 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Juge Quant",
+    "jalons": [
+      51,
+      61
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "Nottaire",
+    "jalons": [
+      65,
+      73
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Il a avoue qu&#39;il avoit tort",
+    "jalons": [
+      75,
+      106
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "Con^e superieur",
+    "jalons": [
+      124,
+      139
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Arrest",
+    "jalons": [
+      150,
+      156
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "S^r Romain",
+    "jalons": [
+      186,
+      196
+    ]
+  },
+  "entite_6": {
+    "label": "ORG",
+    "text": "Officiers de cette Juridiction",
+    "jalons": [
+      216,
+      246
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "La clause et les motifs",
+    "jalons": [
+      486,
+      509
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "Le Goux Procureur du Roy",
+    "jalons": [
+      582,
+      606
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "Juridiction jusqu&#39;a",
+    "jalons": [
+      652,
+      675
+    ]
+  }
+}

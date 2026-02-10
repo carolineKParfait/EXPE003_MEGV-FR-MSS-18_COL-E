@@ -1,0 +1,82 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Division",
+    "jalons": [
+      18,
+      26
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Versailles",
+    "jalons": [
+      57,
+      67
+    ]
+  },
+  "entite_2": {
+    "label": "ORG",
+    "text": "Ministre",
+    "jalons": [
+      93,
+      101
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "M.",
+    "jalons": [
+      184,
+      186
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Roi",
+    "jalons": [
+      204,
+      207
+    ]
+  },
+  "entite_5": {
+    "label": "ORG",
+    "text": "Troupes",
+    "jalons": [
+      315,
+      322
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Castries",
+    "jalons": [
+      501,
+      509
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Conforme",
+    "jalons": [
+      522,
+      530
+    ]
+  },
+  "entite_8": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      544,
+      549
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "Ed",
+    "jalons": [
+      623,
+      625
+    ]
+  }
+}

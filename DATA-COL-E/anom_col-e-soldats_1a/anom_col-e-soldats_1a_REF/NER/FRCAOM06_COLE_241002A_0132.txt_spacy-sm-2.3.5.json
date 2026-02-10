@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Agré",
+    "jalons": [
+      10,
+      14
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Montpellier",
+    "jalons": [
+      19,
+      30
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Tambour",
+    "jalons": [
+      32,
+      39
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Régiment de Vexin",
+    "jalons": [
+      49,
+      66
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Guadeloupe",
+    "jalons": [
+      72,
+      82
+    ]
+  }
+}

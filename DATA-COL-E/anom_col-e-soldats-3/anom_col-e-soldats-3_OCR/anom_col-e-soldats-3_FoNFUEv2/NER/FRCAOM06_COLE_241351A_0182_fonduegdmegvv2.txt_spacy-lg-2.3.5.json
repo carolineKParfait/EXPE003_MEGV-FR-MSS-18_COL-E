@@ -1,0 +1,338 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Cy Contre Cy",
+    "jalons": [
+      54,
+      66
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "2Mars 17741",
+    "jalons": [
+      76,
+      87
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Brig^n",
+    "jalons": [
+      113,
+      119
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Nancy",
+    "jalons": [
+      123,
+      128
+    ]
+  },
+  "entite_4": {
+    "label": "ORG",
+    "text": "Nouvelle Angleterre",
+    "jalons": [
+      147,
+      166
+    ]
+  },
+  "entite_5": {
+    "label": "ORG",
+    "text": "Compte",
+    "jalons": [
+      175,
+      181
+    ]
+  },
+  "entite_6": {
+    "label": "ORG",
+    "text": "M^r Dejujardy",
+    "jalons": [
+      185,
+      198
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Port au Prince Scavoir 20 Milliers Bois Equaris",
+    "jalons": [
+      211,
+      258
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "Milliers DEssentes",
+    "jalons": [
+      286,
+      304
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "17 Mars 1774",
+    "jalons": [
+      330,
+      342
+    ]
+  },
+  "entite_10": {
+    "label": "MISC",
+    "text": "Brig^n",
+    "jalons": [
+      369,
+      375
+    ]
+  },
+  "entite_11": {
+    "label": "MISC",
+    "text": "Georges",
+    "jalons": [
+      379,
+      386
+    ]
+  },
+  "entite_12": {
+    "label": "MISC",
+    "text": "Compte",
+    "jalons": [
+      435,
+      441
+    ]
+  },
+  "entite_13": {
+    "label": "ORG",
+    "text": "M^r Dejujardy",
+    "jalons": [
+      445,
+      458
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "Port au Prince",
+    "jalons": [
+      469,
+      483
+    ]
+  },
+  "entite_15": {
+    "label": "MISC",
+    "text": "Scavoir 18 Milliers Bois Equaris",
+    "jalons": [
+      485,
+      517
+    ]
+  },
+  "entite_16": {
+    "label": "MISC",
+    "text": "Suist",
+    "jalons": [
+      626,
+      631
+    ]
+  },
+  "entite_17": {
+    "label": "ORG",
+    "text": "Cap^e Sanel Darison Venant",
+    "jalons": [
+      632,
+      658
+    ]
+  },
+  "entite_18": {
+    "label": "MISC",
+    "text": "Compte du sieur de Dejujardy",
+    "jalons": [
+      690,
+      718
+    ]
+  },
+  "entite_19": {
+    "label": "ORG",
+    "text": "Chargé Pour le Port",
+    "jalons": [
+      722,
+      742
+    ]
+  },
+  "entite_20": {
+    "label": "PER",
+    "text": "Prince Scavoir",
+    "jalons": [
+      746,
+      760
+    ]
+  },
+  "entite_21": {
+    "label": "LOC",
+    "text": "Merins",
+    "jalons": [
+      809,
+      815
+    ]
+  },
+  "entite_22": {
+    "label": "PER",
+    "text": "D^e B^els de Biere",
+    "jalons": [
+      834,
+      852
+    ]
+  },
+  "entite_23": {
+    "label": "PER",
+    "text": "May",
+    "jalons": [
+      878,
+      881
+    ]
+  },
+  "entite_24": {
+    "label": "LOC",
+    "text": "Carg^on",
+    "jalons": [
+      902,
+      909
+    ]
+  },
+  "entite_25": {
+    "label": "MISC",
+    "text": "Brig^n",
+    "jalons": [
+      913,
+      919
+    ]
+  },
+  "entite_26": {
+    "label": "ORG",
+    "text": "Nancy Cap^e 720",
+    "jalons": [
+      923,
+      938
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "Solé",
+    "jalons": [
+      947,
+      952
+    ]
+  },
+  "entite_28": {
+    "label": "ORG",
+    "text": "Nouvelle angliterre Charge Pour le Port au Prince pour le Compte",
+    "jalons": [
+      966,
+      1030
+    ]
+  },
+  "entite_29": {
+    "label": "ORG",
+    "text": "M^r Dejujardy Scavoir",
+    "jalons": [
+      1034,
+      1055
+    ]
+  },
+  "entite_30": {
+    "label": "PER",
+    "text": "M. D^o",
+    "jalons": [
+      1103,
+      1109
+    ]
+  },
+  "entite_31": {
+    "label": "LOC",
+    "text": "Planchés",
+    "jalons": [
+      1113,
+      1122
+    ]
+  },
+  "entite_32": {
+    "label": "LOC",
+    "text": "Merreins",
+    "jalons": [
+      1177,
+      1185
+    ]
+  },
+  "entite_33": {
+    "label": "PER",
+    "text": "M. Essentes",
+    "jalons": [
+      1214,
+      1225
+    ]
+  },
+  "entite_34": {
+    "label": "MISC",
+    "text": "Juin 1774",
+    "jalons": [
+      1257,
+      1266
+    ]
+  },
+  "entite_35": {
+    "label": "MISC",
+    "text": "la Carg^on du Bateau",
+    "jalons": [
+      1279,
+      1299
+    ]
+  },
+  "entite_36": {
+    "label": "MISC",
+    "text": "Raven",
+    "jalons": [
+      1303,
+      1308
+    ]
+  },
+  "entite_37": {
+    "label": "PER",
+    "text": "Nicolas Bon any Venant",
+    "jalons": [
+      1315,
+      1337
+    ]
+  },
+  "entite_38": {
+    "label": "ORG",
+    "text": "ang^re Chargé Pour le Cap",
+    "jalons": [
+      1351,
+      1377
+    ]
+  },
+  "entite_39": {
+    "label": "MISC",
+    "text": "Compte du sieur",
+    "jalons": [
+      1386,
+      1401
+    ]
+  },
+  "entite_40": {
+    "label": "PER",
+    "text": "Dejujardy Scavoir",
+    "jalons": [
+      1402,
+      1419
+    ]
+  },
+  "entite_41": {
+    "label": "MISC",
+    "text": "20 M Pieds de Bois equaris",
+    "jalons": [
+      1420,
+      1446
+    ]
+  }
+}

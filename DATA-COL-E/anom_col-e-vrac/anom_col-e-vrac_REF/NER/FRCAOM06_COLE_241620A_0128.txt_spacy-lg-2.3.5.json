@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "ORG",
+    "text": "Ravet",
+    "jalons": [
+      33,
+      38
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Esteve",
+    "jalons": [
+      40,
+      46
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Et\nL.",
+    "jalons": [
+      48,
+      53
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Roy",
+    "jalons": [
+      113,
+      116
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Minutte Esteve※",
+    "jalons": [
+      156,
+      171
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "La Roque",
+    "jalons": [
+      172,
+      180
+    ]
+  }
+}

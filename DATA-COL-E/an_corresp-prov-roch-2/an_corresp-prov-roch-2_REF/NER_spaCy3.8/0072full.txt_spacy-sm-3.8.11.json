@@ -1,0 +1,106 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Détails",
+    "jalons": [
+      36,
+      43
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "Vous",
+    "jalons": [
+      49,
+      53
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Le",
+    "jalons": [
+      63,
+      65
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Cause",
+    "jalons": [
+      90,
+      95
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Colonie",
+    "jalons": [
+      181,
+      188
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Nation",
+    "jalons": [
+      201,
+      207
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Membres",
+    "jalons": [
+      345,
+      352
+    ]
+  },
+  "entite_7": {
+    "label": "ORG",
+    "text": "Coloniale",
+    "jalons": [
+      373,
+      382
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "Le",
+    "jalons": [
+      399,
+      401
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "Brest",
+    "jalons": [
+      443,
+      448
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "Respect",
+    "jalons": [
+      463,
+      470
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      472,
+      480
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "Nantes",
+    "jalons": [
+      547,
+      553
+    ]
+  }
+}

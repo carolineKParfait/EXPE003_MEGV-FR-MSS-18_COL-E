@@ -1,0 +1,106 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "samedy",
+    "jalons": [
+      83,
+      89
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "accusé",
+    "jalons": [
+      146,
+      153
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Interrogé",
+    "jalons": [
+      168,
+      178
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "A",
+    "jalons": [
+      218,
+      219
+    ]
+  },
+  "entite_4": {
+    "label": "ORG",
+    "text": "Party",
+    "jalons": [
+      246,
+      251
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Cap",
+    "jalons": [
+      258,
+      261
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Beserter",
+    "jalons": [
+      297,
+      305
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "amanger",
+    "jalons": [
+      378,
+      385
+    ]
+  },
+  "entite_8": {
+    "label": "ORG",
+    "text": "Compagnie",
+    "jalons": [
+      407,
+      416
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Interrogé",
+    "jalons": [
+      443,
+      453
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "Combien",
+    "jalons": [
+      496,
+      503
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "Midy",
+    "jalons": [
+      556,
+      560
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "Coucher",
+    "jalons": [
+      577,
+      584
+    ]
+  }
+}

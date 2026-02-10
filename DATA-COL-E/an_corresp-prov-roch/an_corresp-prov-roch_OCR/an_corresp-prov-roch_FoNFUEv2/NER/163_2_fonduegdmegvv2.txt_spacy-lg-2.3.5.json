@@ -1,0 +1,474 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Compte de Venie",
+    "jalons": [
+      12,
+      27
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "reçuïs",
+    "jalons": [
+      81,
+      89
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Monsieur Bretton deschapelle",
+    "jalons": [
+      105,
+      133
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Cul de sac",
+    "jalons": [
+      137,
+      147
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Messsieurs les heritiers Fougeu",
+    "jalons": [
+      163,
+      194
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "La Minerve Capine Moreau",
+    "jalons": [
+      207,
+      231
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Savoir 23",
+    "jalons": [
+      311,
+      320
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Bques sucre",
+    "jalons": [
+      322,
+      333
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Kuster",
+    "jalons": [
+      351,
+      357
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Pelloutier",
+    "jalons": [
+      361,
+      371
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Ceste",
+    "jalons": [
+      647,
+      652
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "Proust",
+    "jalons": [
+      665,
+      671
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "C",
+    "jalons": [
+      695,
+      696
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "Bques sucre",
+    "jalons": [
+      813,
+      824
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "Frais",
+    "jalons": [
+      841,
+      846
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "Dom^e",
+    "jalons": [
+      896,
+      901
+    ]
+  },
+  "entite_16": {
+    "label": "LOC",
+    "text": "M^ce",
+    "jalons": [
+      1040,
+      1044
+    ]
+  },
+  "entite_17": {
+    "label": "MISC",
+    "text": "Livraison",
+    "jalons": [
+      1113,
+      1122
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "Magazinage",
+    "jalons": [
+      1175,
+      1185
+    ]
+  },
+  "entite_19": {
+    "label": "LOC",
+    "text": "Connelier",
+    "jalons": [
+      1198,
+      1207
+    ]
+  },
+  "entite_20": {
+    "label": "LOC",
+    "text": "Commission",
+    "jalons": [
+      1292,
+      1302
+    ]
+  },
+  "entite_21": {
+    "label": "MISC",
+    "text": "N2004 6402",
+    "jalons": [
+      1375,
+      1385
+    ]
+  },
+  "entite_22": {
+    "label": "MISC",
+    "text": "3^s7",
+    "jalons": [
+      1387,
+      1391
+    ]
+  },
+  "entite_23": {
+    "label": "PER",
+    "text": "Monsiur Le Marquis de La 38^ 2 L. 16133",
+    "jalons": [
+      1403,
+      1442
+    ]
+  },
+  "entite_24": {
+    "label": "MISC",
+    "text": "decharge Fret",
+    "jalons": [
+      1478,
+      1491
+    ]
+  },
+  "entite_25": {
+    "label": "PER",
+    "text": "Rochefoucauld Bayers",
+    "jalons": [
+      1612,
+      1632
+    ]
+  },
+  "entite_26": {
+    "label": "ORG",
+    "text": "Nets Produit cy",
+    "jalons": [
+      1667,
+      1682
+    ]
+  },
+  "entite_27": {
+    "label": "MISC",
+    "text": "La Sommme de Six",
+    "jalons": [
+      1690,
+      1706
+    ]
+  },
+  "entite_28": {
+    "label": "MISC",
+    "text": "Mars 1769",
+    "jalons": [
+      1789,
+      1798
+    ]
+  },
+  "entite_29": {
+    "label": "PER",
+    "text": "Mrs Kuster",
+    "jalons": [
+      1810,
+      1820
+    ]
+  },
+  "entite_30": {
+    "label": "PER",
+    "text": "Pelloutier",
+    "jalons": [
+      1824,
+      1834
+    ]
+  },
+  "entite_31": {
+    "label": "MISC",
+    "text": "paié",
+    "jalons": [
+      1847,
+      1852
+    ]
+  },
+  "entite_32": {
+    "label": "MISC",
+    "text": "Lettres Sur Paris",
+    "jalons": [
+      1870,
+      1887
+    ]
+  },
+  "entite_33": {
+    "label": "LOC",
+    "text": "p^r",
+    "jalons": [
+      1928,
+      1931
+    ]
+  },
+  "entite_34": {
+    "label": "MISC",
+    "text": "trouveré ma notte",
+    "jalons": [
+      2049,
+      2067
+    ]
+  },
+  "entite_35": {
+    "label": "MISC",
+    "text": "L.",
+    "jalons": [
+      2137,
+      2139
+    ]
+  },
+  "entite_36": {
+    "label": "LOC",
+    "text": "Mars",
+    "jalons": [
+      2182,
+      2186
+    ]
+  },
+  "entite_37": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      2297,
+      2305
+    ]
+  },
+  "entite_38": {
+    "label": "PER",
+    "text": "Vaiss",
+    "jalons": [
+      2334,
+      2339
+    ]
+  },
+  "entite_39": {
+    "label": "LOC",
+    "text": "50 Cannons",
+    "jalons": [
+      2343,
+      2353
+    ]
+  },
+  "entite_40": {
+    "label": "LOC",
+    "text": "Rochefort p^r",
+    "jalons": [
+      2373,
+      2386
+    ]
+  },
+  "entite_41": {
+    "label": "MISC",
+    "text": "S^t Domingue",
+    "jalons": [
+      2526,
+      2538
+    ]
+  },
+  "entite_42": {
+    "label": "MISC",
+    "text": "Cause de grands malheurs dieu",
+    "jalons": [
+      2651,
+      2680
+    ]
+  },
+  "entite_43": {
+    "label": "ORG",
+    "text": "Preserver",
+    "jalons": [
+      2696,
+      2705
+    ]
+  },
+  "entite_44": {
+    "label": "MISC",
+    "text": "Innocent",
+    "jalons": [
+      2763,
+      2771
+    ]
+  },
+  "entite_45": {
+    "label": "MISC",
+    "text": "Contribué",
+    "jalons": [
+      2799,
+      2809
+    ]
+  },
+  "entite_46": {
+    "label": "MISC",
+    "text": "Presantent",
+    "jalons": [
+      2954,
+      2964
+    ]
+  },
+  "entite_47": {
+    "label": "ORG",
+    "text": "Respectueux Monsieur Il Est",
+    "jalons": [
+      3037,
+      3064
+    ]
+  },
+  "entite_48": {
+    "label": "ORG",
+    "text": "examiné",
+    "jalons": [
+      3182,
+      3190
+    ]
+  },
+  "entite_49": {
+    "label": "LOC",
+    "text": "N^re",
+    "jalons": [
+      3323,
+      3327
+    ]
+  },
+  "entite_50": {
+    "label": "LOC",
+    "text": "L&#39;amercione m^t",
+    "jalons": [
+      3328,
+      3347
+    ]
+  },
+  "entite_51": {
+    "label": "MISC",
+    "text": "Votre tres humble &amp",
+    "jalons": [
+      3361,
+      3383
+    ]
+  },
+  "entite_52": {
+    "label": "MISC",
+    "text": "Livraison .....",
+    "jalons": [
+      3409,
+      3424
+    ]
+  },
+  "entite_53": {
+    "label": "MISC",
+    "text": "prosperité Ieem .................",
+    "jalons": [
+      3536,
+      3570
+    ]
+  },
+  "entite_54": {
+    "label": "LOC",
+    "text": "p^r la Jullie Idem",
+    "jalons": [
+      3672,
+      3690
+    ]
+  },
+  "entite_55": {
+    "label": "LOC",
+    "text": "N^e",
+    "jalons": [
+      3814,
+      3817
+    ]
+  },
+  "entite_56": {
+    "label": "LOC",
+    "text": "Nantes",
+    "jalons": [
+      3865,
+      3871
+    ]
+  },
+  "entite_57": {
+    "label": "ORG",
+    "text": "seré",
+    "jalons": [
+      3914,
+      3919
+    ]
+  },
+  "entite_58": {
+    "label": "ORG",
+    "text": "D",
+    "jalons": [
+      4030,
+      4031
+    ]
+  }
+}

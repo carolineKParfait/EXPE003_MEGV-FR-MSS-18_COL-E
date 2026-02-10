@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Ozot",
+    "jalons": [
+      0,
+      4
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Antoine-Joseph",
+    "jalons": [
+      6,
+      20
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Guadeloupe",
+    "jalons": [
+      42,
+      52
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Colonies",
+    "jalons": [
+      58,
+      66
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "E",
+    "jalons": [
+      67,
+      68
+    ]
+  }
+}

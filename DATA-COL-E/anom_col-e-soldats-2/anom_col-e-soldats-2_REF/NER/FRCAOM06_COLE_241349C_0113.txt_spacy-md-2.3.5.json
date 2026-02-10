@@ -1,0 +1,402 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "S^t",
+    "jalons": [
+      7,
+      10
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Pierre Martinique",
+    "jalons": [
+      11,
+      28
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Collonies",
+    "jalons": [
+      48,
+      57
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "S^t",
+    "jalons": [
+      96,
+      99
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Pierre",
+    "jalons": [
+      100,
+      106
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "⟦M. Votre⟧",
+    "jalons": [
+      107,
+      117
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "M. Vilain",
+    "jalons": [
+      118,
+      127
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Mémoire",
+    "jalons": [
+      128,
+      135
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "Demande de la Médaille-",
+    "jalons": [
+      154,
+      177
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "J B^te",
+    "jalons": [
+      178,
+      184
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Joly",
+    "jalons": [
+      185,
+      189
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "Rosillon",
+    "jalons": [
+      212,
+      220
+    ]
+  },
+  "entite_12": {
+    "label": "MISC",
+    "text": "Le Susdit",
+    "jalons": [
+      229,
+      238
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "Bataille de plaisance",
+    "jalons": [
+      299,
+      320
+    ]
+  },
+  "entite_14": {
+    "label": "ORG",
+    "text": "Retraite",
+    "jalons": [
+      327,
+      335
+    ]
+  },
+  "entite_15": {
+    "label": "MISC",
+    "text": "Guerre",
+    "jalons": [
+      408,
+      414
+    ]
+  },
+  "entite_16": {
+    "label": "MISC",
+    "text": "Ganles",
+    "jalons": [
+      431,
+      437
+    ]
+  },
+  "entite_17": {
+    "label": "MISC",
+    "text": "Commencer de",
+    "jalons": [
+      440,
+      452
+    ]
+  },
+  "entite_18": {
+    "label": "PER",
+    "text": "A la Martinique",
+    "jalons": [
+      456,
+      471
+    ]
+  },
+  "entite_19": {
+    "label": "LOC",
+    "text": "Martinique",
+    "jalons": [
+      521,
+      531
+    ]
+  },
+  "entite_20": {
+    "label": "LOC",
+    "text": "Comapgnies",
+    "jalons": [
+      650,
+      660
+    ]
+  },
+  "entite_21": {
+    "label": "ORG",
+    "text": "Cannoniers L&#x27;isle",
+    "jalons": [
+      674,
+      696
+    ]
+  },
+  "entite_22": {
+    "label": "LOC",
+    "text": "L&#x27;autre",
+    "jalons": [
+      716,
+      728
+    ]
+  },
+  "entite_23": {
+    "label": "LOC",
+    "text": "Bombardiers",
+    "jalons": [
+      734,
+      745
+    ]
+  },
+  "entite_24": {
+    "label": "ORG",
+    "text": "Marine",
+    "jalons": [
+      761,
+      767
+    ]
+  },
+  "entite_25": {
+    "label": "LOC",
+    "text": "Continué",
+    "jalons": [
+      797,
+      805
+    ]
+  },
+  "entite_26": {
+    "label": "LOC",
+    "text": "Rochefort",
+    "jalons": [
+      806,
+      815
+    ]
+  },
+  "entite_27": {
+    "label": "MISC",
+    "text": "Sergent",
+    "jalons": [
+      884,
+      891
+    ]
+  },
+  "entite_28": {
+    "label": "PER",
+    "text": "La Medaille",
+    "jalons": [
+      914,
+      925
+    ]
+  },
+  "entite_29": {
+    "label": "LOC",
+    "text": "Detaille",
+    "jalons": [
+      960,
+      968
+    ]
+  },
+  "entite_30": {
+    "label": "ORG",
+    "text": "Compagnie de pelletier",
+    "jalons": [
+      1011,
+      1033
+    ]
+  },
+  "entite_31": {
+    "label": "ORG",
+    "text": "S^t",
+    "jalons": [
+      1036,
+      1039
+    ]
+  },
+  "entite_32": {
+    "label": "PER",
+    "text": "Pierre",
+    "jalons": [
+      1040,
+      1046
+    ]
+  },
+  "entite_33": {
+    "label": "ORG",
+    "text": "Commission",
+    "jalons": [
+      1105,
+      1115
+    ]
+  },
+  "entite_34": {
+    "label": "MISC",
+    "text": "La suitte des bienfaits\nde metre Cannonicer",
+    "jalons": [
+      1121,
+      1164
+    ]
+  },
+  "entite_35": {
+    "label": "MISC",
+    "text": "d&#x27;un",
+    "jalons": [
+      1202,
+      1211
+    ]
+  },
+  "entite_36": {
+    "label": "PER",
+    "text": "lisle quil",
+    "jalons": [
+      1266,
+      1276
+    ]
+  },
+  "entite_37": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      1292,
+      1298
+    ]
+  },
+  "entite_38": {
+    "label": "ORG",
+    "text": "Compagnie",
+    "jalons": [
+      1307,
+      1316
+    ]
+  },
+  "entite_39": {
+    "label": "ORG",
+    "text": "Licencié",
+    "jalons": [
+      1320,
+      1328
+    ]
+  },
+  "entite_40": {
+    "label": "LOC",
+    "text": "Rochefort",
+    "jalons": [
+      1331,
+      1340
+    ]
+  },
+  "entite_41": {
+    "label": "PER",
+    "text": "JB Jolÿ",
+    "jalons": [
+      1360,
+      1367
+    ]
+  },
+  "entite_42": {
+    "label": "MISC",
+    "text": "Conséquence des ordres du Nous commandant en Chef L&#x27;artillerie",
+    "jalons": [
+      1386,
+      1453
+    ]
+  },
+  "entite_43": {
+    "label": "LOC",
+    "text": "Martinique",
+    "jalons": [
+      1483,
+      1493
+    ]
+  },
+  "entite_44": {
+    "label": "LOC",
+    "text": "Garde Dartillerie",
+    "jalons": [
+      1563,
+      1580
+    ]
+  },
+  "entite_45": {
+    "label": "PER",
+    "text": "Suceptible",
+    "jalons": [
+      1604,
+      1614
+    ]
+  },
+  "entite_46": {
+    "label": "MISC",
+    "text": "Pierre",
+    "jalons": [
+      1633,
+      1639
+    ]
+  },
+  "entite_47": {
+    "label": "ORG",
+    "text": "Continué Son Service",
+    "jalons": [
+      1648,
+      1668
+    ]
+  },
+  "entite_48": {
+    "label": "LOC",
+    "text": "L&#x27;ancienneté",
+    "jalons": [
+      1688,
+      1705
+    ]
+  },
+  "entite_49": {
+    "label": "MISC",
+    "text": "Médaille",
+    "jalons": [
+      1728,
+      1736
+    ]
+  }
+}

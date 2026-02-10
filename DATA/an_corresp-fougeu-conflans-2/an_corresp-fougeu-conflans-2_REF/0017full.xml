@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>0017full.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="QZ7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="QZ8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="QZ9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="QZ10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="QZ11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="QZ12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="QZ13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="QZ14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="QZ15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="QZ17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="QZ18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="QZ19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="QZ20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="QZ21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="QZ22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2626"
+          HEIGHT="1970"
+          PHYSICAL_IMG_NR="14"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2626"
+                  HEIGHT="1970">
+        <TextBlock HPOS="1070"
+                   VPOS="359"
+                   WIDTH="1170"
+                   HEIGHT="918"
+                   ID="eSc_textblock_4f0ace88"
+                   TAGREFS="QZ12">
+          <Shape><Polygon POINTS="1070 374 1080 1277 2215 1277 2240 359"/></Shape>
+          <TextLine ID="eSc_line_5d3a41a8"
+                    TAGREFS="LT8"
+                    BASELINE="1128 513 1964 526" 
+                    HPOS="1124"
+                    VPOS="431"
+                    WIDTH="838"
+                    HEIGHT="138">
+            <Shape><Polygon POINTS="1124 540 1184 559 1317 563 1376 531 1479 531 1512 563 1520 563 1532 553 1550 568 1597 569 1635 541 1717 541 1753 556 1960 538 1962 485 1929 484 1906 459 1898 459 1865 484 1831 459 1822 459 1804 476 1781 476 1698 439 1650 438 1568 479 1374 477 1315 433 1185 431 1146 472 1126 472 1126 512"/></Shape>
+            <String CONTENT="A Madame"
+                    HPOS="1124"
+                    VPOS="431"
+                    WIDTH="838"
+                    HEIGHT="138"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_8a4cf77a"
+                    TAGREFS="LT8"
+                    BASELINE="1134 703 2115 725" 
+                    HPOS="1131"
+                    VPOS="633"
+                    WIDTH="982"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="1131 738 1202 742 1207 742 1225 727 1259 727 1359 746 1425 733 1433 743 1486 748 1558 733 1581 751 1729 745 1757 755 1786 745 1819 756 1880 742 1921 750 2111 743 2113 658 2082 651 2031 661 1997 651 1952 681 1839 684 1826 671 1786 676 1752 653 1745 653 1714 666 1701 651 1694 651 1655 669 1629 661 1607 678 1517 678 1456 671 1427 636 1269 633 1251 650 1216 650 1205 636 1197 636 1161 663 1133 659 1133 702"/></Shape>
+            <String CONTENT="Madame La Marechale"
+                    HPOS="1131"
+                    VPOS="633"
+                    WIDTH="982"
+                    HEIGHT="123"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_551e1786"
+                    TAGREFS="LT8"
+                    BASELINE="1157 807 1736 813 2102 803" 
+                    HPOS="1154"
+                    VPOS="742"
+                    WIDTH="946"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="1156 806 1154 820 1187 835 1261 835 1318 820 1404 835 1446 835 1461 820 1484 833 1548 824 1625 833 1638 820 1671 832 1706 824 1730 832 1744 820 1778 833 1878 820 1901 832 1949 820 1980 829 2098 819 2100 802 2097 742 1985 742 1970 753 1955 742 1947 742 1918 773 1891 773 1857 742 1849 742 1798 773 1762 773 1734 748 1726 748 1698 773 1593 773 1563 742 1459 745 1438 760 1422 746 1368 742 1351 753 1323 745 1303 765 1285 753 1280 753 1225 758 1212 773 1156 773 1156 806"/></Shape>
+            <String CONTENT="De Conflans en son hotel"
+                    HPOS="1154"
+                    VPOS="742"
+                    WIDTH="946"
+                    HEIGHT="93"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_188bf22f"
+                    TAGREFS="LT8"
+                    BASELINE="1193 886 1329 881 2091 878" 
+                    HPOS="1192"
+                    VPOS="839"
+                    WIDTH="899"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="1193 886 1193 897 1217 894 1236 898 1252 901 1253 901 1281 897 1322 891 1337 897 1349 901 1350 901 1351 901 1352 901 1372 896 1374 896 1381 901 1382 901 1383 901 1384 902 1463 902 1463 901 1493 895 1514 890 1590 890 1595 894 1600 897 1601 897 1602 897 1603 897 1604 897 1611 894 1616 890 1621 894 1626 897 1627 897 1628 897 1699 900 1701 900 1702 900 1720 893 1725 890 1743 891 1777 895 1778 895 1779 895 1787 891 1791 889 1795 891 1807 899 1808 899 1809 899 1810 899 1846 893 1855 899 1856 899 1857 899 1858 899 1905 893 1958 899 1959 899 1960 899 1983 889 2091 887 2091 878 2088 839 2002 858 1888 858 1867 843 1863 840 1861 840 1860 840 1766 840 1765 840 1764 840 1763 840 1755 847 1745 853 1687 850 1686 850 1685 850 1663 858 1624 849 1614 848 1613 848 1578 849 1563 841 1562 841 1495 841 1494 841 1493 841 1471 853 1459 860 1364 860 1357 855 1342 849 1340 849 1339 849 1338 849 1322 853 1273 844 1271 844 1270 844 1223 859 1221 860 1192 860 1193 886"/></Shape>
+            <String CONTENT="rue de Vaugirard près le"
+                    HPOS="1192"
+                    VPOS="839"
+                    WIDTH="899"
+                    HEIGHT="63"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_95a20bbe"
+                    TAGREFS="LT8"
+                    BASELINE="1198 965 1264 958 1720 959" 
+                    HPOS="1198"
+                    VPOS="902"
+                    WIDTH="522"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="1198 965 1198 982 1222 969 1245 975 1246 975 1247 975 1248 975 1250 975 1257 968 1275 968 1289 978 1290 978 1291 978 1292 978 1356 970 1384 979 1397 983 1398 983 1400 985 1500 985 1500 983 1501 983 1502 983 1510 977 1519 970 1551 968 1592 975 1593 975 1668 968 1718 974 1720 959 1719 932 1674 932 1674 931 1648 911 1647 911 1646 911 1645 911 1644 911 1608 931 1606 932 1555 932 1555 931 1523 920 1522 920 1521 920 1520 920 1519 920 1505 931 1505 932 1458 932 1458 931 1402 902 1401 902 1285 902 1283 902 1282 902 1281 902 1275 908 1261 902 1259 902 1258 902 1257 902 1198 929 1198 965"/></Shape>
+            <String CONTENT="théatre francois"
+                    HPOS="1198"
+                    VPOS="902"
+                    WIDTH="522"
+                    HEIGHT="83"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_7b28986f"
+                    TAGREFS="LT8"
+                    BASELINE="1303 1059 1739 1073" 
+                    HPOS="1300"
+                    VPOS="986"
+                    WIDTH="437"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="1302 1058 1300 1096 1312 1103 1318 1103 1343 1086 1394 1116 1499 1119 1528 1099 1568 1108 1586 1098 1597 1108 1617 1090 1647 1099 1735 1091 1737 996 1704 996 1691 1011 1676 996 1635 994 1609 1012 1560 1003 1533 1017 1509 1001 1504 1001 1430 1016 1392 986 1384 986 1349 1014 1302 1014 1302 1058"/></Shape>
+            <String CONTENT="a paris"
+                    HPOS="1300"
+                    VPOS="986"
+                    WIDTH="437"
+                    HEIGHT="133"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1341"
+                   VPOS="1585"
+                   WIDTH="343"
+                   HEIGHT="329"
+                   ID="eSc_textblock_ede66193"
+                   TAGREFS="QZ20">
+          <Shape><Polygon POINTS="1341 1585 1341 1914 1677 1914 1684 1596"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="1194"
+                   VPOS="359"
+                   WIDTH="410"
+                   HEIGHT="242"
+                   ID="eSc_textblock_5dadd7b2"
+                   TAGREFS="QZ20">
+          <Shape><Polygon POINTS="1288 601 1194 542 1565 359 1604 433"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

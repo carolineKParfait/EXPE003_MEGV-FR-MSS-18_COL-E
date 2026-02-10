@@ -1,0 +1,74 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Sieur",
+    "jalons": [
+      172,
+      177
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Trésorier",
+    "jalons": [
+      194,
+      203
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Guerres",
+    "jalons": [
+      243,
+      250
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Champagne",
+    "jalons": [
+      254,
+      263
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "FAIT",
+    "jalons": [
+      300,
+      304
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Rocroy-",
+    "jalons": [
+      307,
+      314
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Soldats",
+    "jalons": [
+      377,
+      384
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "ACQUIT",
+    "jalons": [
+      481,
+      487
+    ]
+  },
+  "entite_8": {
+    "label": "LOC",
+    "text": "PALVOISIN",
+    "jalons": [
+      489,
+      498
+    ]
+  }
+}

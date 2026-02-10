@@ -1,0 +1,58 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Lemius",
+    "jalons": [
+      0,
+      6
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Arnold",
+    "jalons": [
+      8,
+      14
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Soldat des régiment",
+    "jalons": [
+      23,
+      42
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Salis",
+    "jalons": [
+      46,
+      51
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Quercy",
+    "jalons": [
+      58,
+      64
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Capitaine de milice",
+    "jalons": [
+      72,
+      91
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Saint-Domingue",
+    "jalons": [
+      94,
+      108
+    ]
+  }
+}

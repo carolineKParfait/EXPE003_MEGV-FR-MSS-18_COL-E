@@ -1,0 +1,122 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "M D&#x27;ailleboust",
+    "jalons": [
+      5,
+      24
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      49,
+      60
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "M",
+    "jalons": [
+      63,
+      64
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "C^te",
+    "jalons": [
+      68,
+      72
+    ]
+  },
+  "entite_4": {
+    "label": "ORG",
+    "text": "Cherisey",
+    "jalons": [
+      76,
+      84
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Versailles",
+    "jalons": [
+      87,
+      97
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "x^bre",
+    "jalons": [
+      105,
+      110
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "S. D&#x27;ailleboust",
+    "jalons": [
+      152,
+      172
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      174,
+      182
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "Garde de la Marine",
+    "jalons": [
+      274,
+      292
+    ]
+  },
+  "entite_10": {
+    "label": "MISC",
+    "text": "Supprimer",
+    "jalons": [
+      312,
+      321
+    ]
+  },
+  "entite_11": {
+    "label": "ORG",
+    "text": "Services",
+    "jalons": [
+      373,
+      381
+    ]
+  },
+  "entite_12": {
+    "label": "PER",
+    "text": "Lieutenant",
+    "jalons": [
+      394,
+      404
+    ]
+  },
+  "entite_13": {
+    "label": "PER",
+    "text": "Vaisseau peri",
+    "jalons": [
+      408,
+      421
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "※",
+    "jalons": [
+      561,
+      562
+    ]
+  }
+}

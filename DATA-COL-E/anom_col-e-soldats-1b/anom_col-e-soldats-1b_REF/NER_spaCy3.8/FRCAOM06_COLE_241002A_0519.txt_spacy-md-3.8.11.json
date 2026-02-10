@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Sb\n",
+    "jalons": [
+      0,
+      3
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "D&#x27;Etat",
+    "jalons": [
+      120,
+      131
+    ]
+  },
+  "entite_2": {
+    "label": "ORG",
+    "text": "Bureau",
+    "jalons": [
+      188,
+      194
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "Comite",
+    "jalons": [
+      205,
+      211
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Cayenne",
+    "jalons": [
+      323,
+      330
+    ]
+  },
+  "entite_5": {
+    "label": "ORG",
+    "text": "^vous",
+    "jalons": [
+      360,
+      365
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Rochefort",
+    "jalons": [
+      445,
+      454
+    ]
+  },
+  "entite_7": {
+    "label": "ORG",
+    "text": "auj",
+    "jalons": [
+      476,
+      479
+    ]
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "J&#x27;espere",
+    "jalons": [
+      0,
+      13
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "L&quot",
+    "jalons": [
+      111,
+      117
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      264,
+      272
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Rochefort",
+    "jalons": [
+      346,
+      355
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "S^t",
+    "jalons": [
+      500,
+      503
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "qu&#x27;il",
+    "jalons": [
+      581,
+      591
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "jay",
+    "jalons": [
+      958,
+      961
+    ]
+  },
+  "entite_7": {
+    "label": "ORG",
+    "text": "N^re",
+    "jalons": [
+      1295,
+      1299
+    ]
+  },
+  "entite_8": {
+    "label": "ORG",
+    "text": "m^t",
+    "jalons": [
+      1318,
+      1321
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Charet",
+    "jalons": [
+      1572,
+      1578
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "Nantes",
+    "jalons": [
+      1692,
+      1698
+    ]
+  },
+  "entite_11": {
+    "label": "MISC",
+    "text": "Jullie",
+    "jalons": [
+      1728,
+      1734
+    ]
+  },
+  "entite_12": {
+    "label": "MISC",
+    "text": "J&#x27;espere",
+    "jalons": [
+      1781,
+      1794
+    ]
+  },
+  "entite_13": {
+    "label": "LOC",
+    "text": "seré",
+    "jalons": [
+      1804,
+      1808
+    ]
+  },
+  "entite_14": {
+    "label": "MISC",
+    "text": "Net",
+    "jalons": [
+      2038,
+      2041
+    ]
+  },
+  "entite_15": {
+    "label": "ORG",
+    "text": "AF",
+    "jalons": [
+      2063,
+      2065
+    ]
+  },
+  "entite_16": {
+    "label": "PER",
+    "text": "Messieurs",
+    "jalons": [
+      2173,
+      2182
+    ]
+  },
+  "entite_17": {
+    "label": "ORG",
+    "text": "N^re",
+    "jalons": [
+      2216,
+      2220
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "Minerve",
+    "jalons": [
+      2224,
+      2231
+    ]
+  },
+  "entite_19": {
+    "label": "PER",
+    "text": "pez^t",
+    "jalons": [
+      2307,
+      2312
+    ]
+  },
+  "entite_20": {
+    "label": "MISC",
+    "text": "Savoir",
+    "jalons": [
+      2324,
+      2330
+    ]
+  },
+  "entite_21": {
+    "label": "LOC",
+    "text": "Bq̃ues",
+    "jalons": [
+      2344,
+      2350
+    ]
+  },
+  "entite_22": {
+    "label": "PER",
+    "text": "venduës",
+    "jalons": [
+      2363,
+      2370
+    ]
+  },
+  "entite_23": {
+    "label": "PER",
+    "text": "Kuster",
+    "jalons": [
+      2373,
+      2379
+    ]
+  },
+  "entite_24": {
+    "label": "PER",
+    "text": "Pelloutier",
+    "jalons": [
+      2383,
+      2393
+    ]
+  },
+  "entite_25": {
+    "label": "MISC",
+    "text": "ort",
+    "jalons": [
+      2525,
+      2528
+    ]
+  },
+  "entite_26": {
+    "label": "MISC",
+    "text": "idem",
+    "jalons": [
+      2683,
+      2687
+    ]
+  },
+  "entite_27": {
+    "label": "PER",
+    "text": "venduës",
+    "jalons": [
+      2700,
+      2707
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "Frouet",
+    "jalons": [
+      2710,
+      2716
+    ]
+  },
+  "entite_29": {
+    "label": "MISC",
+    "text": "ort",
+    "jalons": [
+      2749,
+      2752
+    ]
+  },
+  "entite_30": {
+    "label": "LOC",
+    "text": "Bq̃ues",
+    "jalons": [
+      2866,
+      2872
+    ]
+  },
+  "entite_31": {
+    "label": "MISC",
+    "text": "L&quot",
+    "jalons": [
+      2894,
+      2900
+    ]
+  },
+  "entite_32": {
+    "label": "MISC",
+    "text": "Lt",
+    "jalons": [
+      2983,
+      2985
+    ]
+  },
+  "entite_33": {
+    "label": "LOC",
+    "text": "gabarrage",
+    "jalons": [
+      3008,
+      3017
+    ]
+  },
+  "entite_34": {
+    "label": "LOC",
+    "text": "M^e",
+    "jalons": [
+      3026,
+      3029
+    ]
+  },
+  "entite_35": {
+    "label": "LOC",
+    "text": "Prevôté",
+    "jalons": [
+      3084,
+      3091
+    ]
+  },
+  "entite_36": {
+    "label": "MISC",
+    "text": "net",
+    "jalons": [
+      3177,
+      3180
+    ]
+  },
+  "entite_37": {
+    "label": "MISC",
+    "text": "id",
+    "jalons": [
+      3271,
+      3273
+    ]
+  },
+  "entite_38": {
+    "label": "MISC",
+    "text": "sucre",
+    "jalons": [
+      3275,
+      3280
+    ]
+  },
+  "entite_39": {
+    "label": "MISC",
+    "text": "id",
+    "jalons": [
+      3287,
+      3289
+    ]
+  },
+  "entite_40": {
+    "label": "ORG",
+    "text": "id",
+    "jalons": [
+      3307,
+      3309
+    ]
+  },
+  "entite_41": {
+    "label": "MISC",
+    "text": "Escompte",
+    "jalons": [
+      3569,
+      3577
+    ]
+  },
+  "entite_42": {
+    "label": "ORG",
+    "text": "Commission",
+    "jalons": [
+      3635,
+      3645
+    ]
+  },
+  "entite_43": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      3735,
+      3743
+    ]
+  },
+  "entite_44": {
+    "label": "MISC",
+    "text": "Net",
+    "jalons": [
+      3817,
+      3820
+    ]
+  },
+  "entite_45": {
+    "label": "LOC",
+    "text": "Nantes",
+    "jalons": [
+      3923,
+      3929
+    ]
+  },
+  "entite_46": {
+    "label": "PER",
+    "text": "Charet",
+    "jalons": [
+      3951,
+      3957
+    ]
+  },
+  "entite_47": {
+    "label": "PER",
+    "text": "Kuster",
+    "jalons": [
+      3974,
+      3980
+    ]
+  },
+  "entite_48": {
+    "label": "PER",
+    "text": "Pelloutier",
+    "jalons": [
+      3984,
+      3994
+    ]
+  },
+  "entite_49": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      4066,
+      4071
+    ]
+  }
+}

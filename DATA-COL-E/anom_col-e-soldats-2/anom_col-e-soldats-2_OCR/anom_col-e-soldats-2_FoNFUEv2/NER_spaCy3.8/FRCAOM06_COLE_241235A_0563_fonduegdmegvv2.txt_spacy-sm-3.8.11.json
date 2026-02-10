@@ -1,0 +1,58 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "passée",
+    "jalons": [
+      54,
+      61
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "trouvée",
+    "jalons": [
+      110,
+      118
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Caisse",
+    "jalons": [
+      156,
+      162
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Signé",
+    "jalons": [
+      271,
+      277
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Detilly",
+    "jalons": [
+      304,
+      311
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Copie",
+    "jalons": [
+      351,
+      356
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "L&#39;original",
+    "jalons": [
+      368,
+      382
+    ]
+  }
+}

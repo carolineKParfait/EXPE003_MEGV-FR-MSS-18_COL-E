@@ -1,0 +1,442 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "M^r",
+    "jalons": [
+      31,
+      34
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Janvier",
+    "jalons": [
+      59,
+      66
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Années",
+    "jalons": [
+      197,
+      203
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "jusqu&#x27;a",
+    "jalons": [
+      277,
+      289
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Julie",
+    "jalons": [
+      321,
+      326
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Julie",
+    "jalons": [
+      371,
+      376
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "M^r",
+    "jalons": [
+      466,
+      469
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "jusqu&#x27;a",
+    "jalons": [
+      509,
+      521
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Pere",
+    "jalons": [
+      632,
+      636
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "s&#x27;il",
+    "jalons": [
+      879,
+      888
+    ]
+  },
+  "entite_10": {
+    "label": "ORG",
+    "text": "Annuels",
+    "jalons": [
+      927,
+      934
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "Varreux",
+    "jalons": [
+      1051,
+      1058
+    ]
+  },
+  "entite_12": {
+    "label": "ORG",
+    "text": "longtems",
+    "jalons": [
+      1226,
+      1234
+    ]
+  },
+  "entite_13": {
+    "label": "LOC",
+    "text": "france",
+    "jalons": [
+      1349,
+      1355
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "Julie",
+    "jalons": [
+      1465,
+      1470
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "france",
+    "jalons": [
+      1516,
+      1522
+    ]
+  },
+  "entite_16": {
+    "label": "LOC",
+    "text": "Domingue",
+    "jalons": [
+      1579,
+      1587
+    ]
+  },
+  "entite_17": {
+    "label": "LOC",
+    "text": "Varreux",
+    "jalons": [
+      1618,
+      1625
+    ]
+  },
+  "entite_18": {
+    "label": "MISC",
+    "text": "Sources",
+    "jalons": [
+      1778,
+      1785
+    ]
+  },
+  "entite_19": {
+    "label": "PER",
+    "text": "Année",
+    "jalons": [
+      1881,
+      1886
+    ]
+  },
+  "entite_20": {
+    "label": "MISC",
+    "text": "J&#x27;espere",
+    "jalons": [
+      1940,
+      1953
+    ]
+  },
+  "entite_21": {
+    "label": "PER",
+    "text": "songés",
+    "jalons": [
+      1971,
+      1977
+    ]
+  },
+  "entite_22": {
+    "label": "LOC",
+    "text": "l&#x27;un",
+    "jalons": [
+      2097,
+      2106
+    ]
+  },
+  "entite_23": {
+    "label": "LOC",
+    "text": "vottre",
+    "jalons": [
+      2414,
+      2420
+    ]
+  },
+  "entite_24": {
+    "label": "LOC",
+    "text": "⟦",
+    "jalons": [
+      2430,
+      2431
+    ]
+  },
+  "entite_25": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      2574,
+      2582
+    ]
+  },
+  "entite_26": {
+    "label": "PER",
+    "text": "Marechal",
+    "jalons": [
+      2586,
+      2594
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "regie",
+    "jalons": [
+      2691,
+      2696
+    ]
+  },
+  "entite_28": {
+    "label": "MISC",
+    "text": "Articles",
+    "jalons": [
+      2866,
+      2874
+    ]
+  },
+  "entite_29": {
+    "label": "PER",
+    "text": "mecontenter",
+    "jalons": [
+      3224,
+      3235
+    ]
+  },
+  "entite_30": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      3319,
+      3327
+    ]
+  },
+  "entite_31": {
+    "label": "MISC",
+    "text": "Articles",
+    "jalons": [
+      3386,
+      3394
+    ]
+  },
+  "entite_32": {
+    "label": "LOC",
+    "text": "P^e",
+    "jalons": [
+      3437,
+      3440
+    ]
+  },
+  "entite_33": {
+    "label": "MISC",
+    "text": "M^r",
+    "jalons": [
+      3709,
+      3712
+    ]
+  },
+  "entite_34": {
+    "label": "MISC",
+    "text": "Raisons",
+    "jalons": [
+      3732,
+      3739
+    ]
+  },
+  "entite_35": {
+    "label": "MISC",
+    "text": "M^r",
+    "jalons": [
+      3807,
+      3810
+    ]
+  },
+  "entite_36": {
+    "label": "LOC",
+    "text": "M^r",
+    "jalons": [
+      3865,
+      3868
+    ]
+  },
+  "entite_37": {
+    "label": "LOC",
+    "text": "regie",
+    "jalons": [
+      4025,
+      4030
+    ]
+  },
+  "entite_38": {
+    "label": "LOC",
+    "text": "chacqu&#x27;un",
+    "jalons": [
+      4143,
+      4157
+    ]
+  },
+  "entite_39": {
+    "label": "LOC",
+    "text": "chacqu&#x27;un",
+    "jalons": [
+      4257,
+      4271
+    ]
+  },
+  "entite_40": {
+    "label": "MISC",
+    "text": "Negres",
+    "jalons": [
+      4468,
+      4474
+    ]
+  },
+  "entite_41": {
+    "label": "PER",
+    "text": "achepté",
+    "jalons": [
+      4489,
+      4496
+    ]
+  },
+  "entite_42": {
+    "label": "LOC",
+    "text": "chacqu&#x27;un",
+    "jalons": [
+      4668,
+      4682
+    ]
+  },
+  "entite_43": {
+    "label": "PER",
+    "text": "achepté",
+    "jalons": [
+      4704,
+      4711
+    ]
+  },
+  "entite_44": {
+    "label": "LOC",
+    "text": "Varreux",
+    "jalons": [
+      4914,
+      4921
+    ]
+  },
+  "entite_45": {
+    "label": "MISC",
+    "text": "Negres",
+    "jalons": [
+      4955,
+      4961
+    ]
+  },
+  "entite_46": {
+    "label": "PER",
+    "text": "Machoquet",
+    "jalons": [
+      5074,
+      5083
+    ]
+  },
+  "entite_47": {
+    "label": "LOC",
+    "text": "Negres",
+    "jalons": [
+      5152,
+      5158
+    ]
+  },
+  "entite_48": {
+    "label": "MISC",
+    "text": "Infirmités",
+    "jalons": [
+      5255,
+      5265
+    ]
+  },
+  "entite_49": {
+    "label": "LOC",
+    "text": "Negrillons",
+    "jalons": [
+      5271,
+      5281
+    ]
+  },
+  "entite_50": {
+    "label": "LOC",
+    "text": "Negrettes",
+    "jalons": [
+      5285,
+      5294
+    ]
+  },
+  "entite_51": {
+    "label": "LOC",
+    "text": "Jardins",
+    "jalons": [
+      5315,
+      5322
+    ]
+  },
+  "entite_52": {
+    "label": "LOC",
+    "text": "Varreux",
+    "jalons": [
+      5439,
+      5446
+    ]
+  },
+  "entite_53": {
+    "label": "LOC",
+    "text": "chacqu&#x27;un",
+    "jalons": [
+      5535,
+      5549
+    ]
+  },
+  "entite_54": {
+    "label": "PER",
+    "text": "Année",
+    "jalons": [
+      5673,
+      5678
+    ]
+  }
+}

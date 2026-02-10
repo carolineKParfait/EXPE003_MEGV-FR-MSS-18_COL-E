@@ -1,0 +1,442 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      47,
+      58
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Monseigneur Le Marquis de Castries Ministre",
+    "jalons": [
+      61,
+      104
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Secretaire d&#39;Etat",
+    "jalons": [
+      108,
+      129
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "Departement de la Marine M. Cl",
+    "jalons": [
+      133,
+      163
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Vaison",
+    "jalons": [
+      189,
+      195
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Et les administrateurs de l&#39;hopital Général du lieu",
+    "jalons": [
+      197,
+      254
+    ]
+  },
+  "entite_6": {
+    "label": "ORG",
+    "text": "Puymeras",
+    "jalons": [
+      258,
+      266
+    ]
+  },
+  "entite_7": {
+    "label": "ORG",
+    "text": "Venaissin–",
+    "jalons": [
+      278,
+      288
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "Votre Grandeur",
+    "jalons": [
+      342,
+      356
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "pierre Jullien",
+    "jalons": [
+      366,
+      380
+    ]
+  },
+  "entite_10": {
+    "label": "MISC",
+    "text": "assassiné",
+    "jalons": [
+      412,
+      422
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "Gremade",
+    "jalons": [
+      429,
+      436
+    ]
+  },
+  "entite_12": {
+    "label": "MISC",
+    "text": "disposé",
+    "jalons": [
+      452,
+      460
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "Testament",
+    "jalons": [
+      527,
+      536
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "Deposé",
+    "jalons": [
+      563,
+      570
+    ]
+  },
+  "entite_15": {
+    "label": "MISC",
+    "text": "Le Vacher no^re",
+    "jalons": [
+      580,
+      595
+    ]
+  },
+  "entite_16": {
+    "label": "LOC",
+    "text": "Saintpierre",
+    "jalons": [
+      599,
+      610
+    ]
+  },
+  "entite_17": {
+    "label": "LOC",
+    "text": "Isle",
+    "jalons": [
+      649,
+      653
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "la Grenade",
+    "jalons": [
+      703,
+      713
+    ]
+  },
+  "entite_19": {
+    "label": "MISC",
+    "text": "Enregistre au Greffe de S^t",
+    "jalons": [
+      751,
+      778
+    ]
+  },
+  "entite_20": {
+    "label": "LOC",
+    "text": "Greffe de la Grenade",
+    "jalons": [
+      872,
+      892
+    ]
+  },
+  "entite_21": {
+    "label": "ORG",
+    "text": "Jour même",
+    "jalons": [
+      997,
+      1007
+    ]
+  },
+  "entite_22": {
+    "label": "MISC",
+    "text": "S^t",
+    "jalons": [
+      1082,
+      1085
+    ]
+  },
+  "entite_23": {
+    "label": "PER",
+    "text": "Jean Pievre Jullien",
+    "jalons": [
+      1149,
+      1168
+    ]
+  },
+  "entite_24": {
+    "label": "MISC",
+    "text": "Consequence",
+    "jalons": [
+      1277,
+      1288
+    ]
+  },
+  "entite_25": {
+    "label": "MISC",
+    "text": "pû",
+    "jalons": [
+      1348,
+      1351
+    ]
+  },
+  "entite_26": {
+    "label": "LOC",
+    "text": "Successsion",
+    "jalons": [
+      1397,
+      1408
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "Grandeur",
+    "jalons": [
+      1517,
+      1525
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "Daigne leur– Procurer",
+    "jalons": [
+      1529,
+      1550
+    ]
+  },
+  "entite_29": {
+    "label": "PER",
+    "text": "M. Reymond",
+    "jalons": [
+      1569,
+      1579
+    ]
+  },
+  "entite_30": {
+    "label": "ORG",
+    "text": "Parlement resident",
+    "jalons": [
+      1590,
+      1608
+    ]
+  },
+  "entite_31": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      1612,
+      1617
+    ]
+  },
+  "entite_32": {
+    "label": "MISC",
+    "text": "S^t",
+    "jalons": [
+      1626,
+      1629
+    ]
+  },
+  "entite_33": {
+    "label": "PER",
+    "text": "Germain",
+    "jalons": [
+      1630,
+      1637
+    ]
+  },
+  "entite_34": {
+    "label": "LOC",
+    "text": "Correspondanx des supliants",
+    "jalons": [
+      1665,
+      1692
+    ]
+  },
+  "entite_35": {
+    "label": "PER",
+    "text": "MM. Les Gouverneur",
+    "jalons": [
+      1709,
+      1727
+    ]
+  },
+  "entite_36": {
+    "label": "PER",
+    "text": "Commendant Taut",
+    "jalons": [
+      1731,
+      1746
+    ]
+  },
+  "entite_37": {
+    "label": "LOC",
+    "text": "la Grenade",
+    "jalons": [
+      1767,
+      1777
+    ]
+  },
+  "entite_38": {
+    "label": "MISC",
+    "text": "S^t",
+    "jalons": [
+      1794,
+      1797
+    ]
+  },
+  "entite_39": {
+    "label": "MISC",
+    "text": "Protéger",
+    "jalons": [
+      1825,
+      1834
+    ]
+  },
+  "entite_40": {
+    "label": "LOC",
+    "text": "E",
+    "jalons": [
+      1915,
+      1916
+    ]
+  },
+  "entite_41": {
+    "label": "MISC",
+    "text": "Succession du S^r Jullien",
+    "jalons": [
+      1936,
+      1961
+    ]
+  },
+  "entite_42": {
+    "label": "LOC",
+    "text": "france",
+    "jalons": [
+      1981,
+      1987
+    ]
+  },
+  "entite_43": {
+    "label": "LOC",
+    "text": "provenie",
+    "jalons": [
+      2014,
+      2022
+    ]
+  },
+  "entite_44": {
+    "label": "MISC",
+    "text": "Contree",
+    "jalons": [
+      2070,
+      2077
+    ]
+  },
+  "entite_45": {
+    "label": "MISC",
+    "text": "Si Grand Beroin",
+    "jalons": [
+      2082,
+      2097
+    ]
+  },
+  "entite_46": {
+    "label": "PER",
+    "text": "Grace",
+    "jalons": [
+      2115,
+      2120
+    ]
+  },
+  "entite_47": {
+    "label": "MISC",
+    "text": "ovent Esperer",
+    "jalons": [
+      2139,
+      2152
+    ]
+  },
+  "entite_48": {
+    "label": "ORG",
+    "text": "Equité",
+    "jalons": [
+      2162,
+      2169
+    ]
+  },
+  "entite_49": {
+    "label": "MISC",
+    "text": "Bienfaisance",
+    "jalons": [
+      2183,
+      2195
+    ]
+  },
+  "entite_50": {
+    "label": "MISC",
+    "text": "Ciel leurs Vœux &amp;priéres",
+    "jalons": [
+      2211,
+      2240
+    ]
+  },
+  "entite_51": {
+    "label": "MISC",
+    "text": "Sauté",
+    "jalons": [
+      2249,
+      2255
+    ]
+  },
+  "entite_52": {
+    "label": "MISC",
+    "text": "Prosperité",
+    "jalons": [
+      2259,
+      2270
+    ]
+  },
+  "entite_53": {
+    "label": "LOC",
+    "text": "Votre Grandeur",
+    "jalons": [
+      2274,
+      2288
+    ]
+  },
+  "entite_54": {
+    "label": "PER",
+    "text": "Rymon anias",
+    "jalons": [
+      2290,
+      2301
+    ]
+  }
+}

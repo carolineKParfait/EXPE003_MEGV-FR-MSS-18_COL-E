@@ -1,0 +1,82 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      3,
+      14
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "M^r",
+    "jalons": [
+      39,
+      42
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Sediéres",
+    "jalons": [
+      54,
+      63
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      95,
+      100
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "pû",
+    "jalons": [
+      117,
+      120
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "eû",
+    "jalons": [
+      179,
+      182
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      812,
+      823
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "enfaus",
+    "jalons": [
+      835,
+      841
+    ]
+  },
+  "entite_8": {
+    "label": "ORG",
+    "text": "Compagnie",
+    "jalons": [
+      935,
+      944
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "Rochefort",
+    "jalons": [
+      959,
+      968
+    ]
+  }
+}

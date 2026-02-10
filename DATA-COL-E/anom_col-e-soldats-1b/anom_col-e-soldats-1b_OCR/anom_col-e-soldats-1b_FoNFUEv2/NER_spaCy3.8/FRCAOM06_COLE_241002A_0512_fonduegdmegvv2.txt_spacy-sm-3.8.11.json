@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Comte de",
+    "jalons": [
+      3,
+      11
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Daillebout",
+    "jalons": [
+      65,
+      75
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Senlis",
+    "jalons": [
+      245,
+      251
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "s&#39;il",
+    "jalons": [
+      269,
+      277
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Daillebout",
+    "jalons": [
+      345,
+      355
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Etablissemens",
+    "jalons": [
+      368,
+      381
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Gouvernement",
+    "jalons": [
+      389,
+      401
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Reision",
+    "jalons": [
+      460,
+      467
+    ]
+  }
+}

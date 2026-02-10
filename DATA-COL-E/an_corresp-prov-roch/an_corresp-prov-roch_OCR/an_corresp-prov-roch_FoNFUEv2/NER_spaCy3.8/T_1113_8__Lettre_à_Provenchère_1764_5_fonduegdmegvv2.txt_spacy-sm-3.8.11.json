@@ -1,0 +1,442 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "cetle",
+    "jalons": [
+      0,
+      5
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "M^rs",
+    "jalons": [
+      31,
+      35
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Banvier",
+    "jalons": [
+      58,
+      65
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Julie",
+    "jalons": [
+      326,
+      331
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Bubie",
+    "jalons": [
+      381,
+      386
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "apprés",
+    "jalons": [
+      397,
+      404
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Année",
+    "jalons": [
+      544,
+      550
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Pere",
+    "jalons": [
+      644,
+      648
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "chargée",
+    "jalons": [
+      660,
+      668
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "s&#39;il",
+    "jalons": [
+      888,
+      896
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Année",
+    "jalons": [
+      1003,
+      1009
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "Varneux",
+    "jalons": [
+      1062,
+      1069
+    ]
+  },
+  "entite_12": {
+    "label": "MISC",
+    "text": "baissé",
+    "jalons": [
+      1205,
+      1212
+    ]
+  },
+  "entite_13": {
+    "label": "ORG",
+    "text": "longtems",
+    "jalons": [
+      1237,
+      1245
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "france",
+    "jalons": [
+      1362,
+      1368
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "quoy",
+    "jalons": [
+      1382,
+      1386
+    ]
+  },
+  "entite_16": {
+    "label": "MISC",
+    "text": "liquidé",
+    "jalons": [
+      1514,
+      1522
+    ]
+  },
+  "entite_17": {
+    "label": "LOC",
+    "text": "france",
+    "jalons": [
+      1526,
+      1532
+    ]
+  },
+  "entite_18": {
+    "label": "ORG",
+    "text": "Domingue",
+    "jalons": [
+      1590,
+      1598
+    ]
+  },
+  "entite_19": {
+    "label": "LOC",
+    "text": "Varneux",
+    "jalons": [
+      1628,
+      1635
+    ]
+  },
+  "entite_20": {
+    "label": "PER",
+    "text": "l&#39;année",
+    "jalons": [
+      1663,
+      1675
+    ]
+  },
+  "entite_21": {
+    "label": "PER",
+    "text": "année",
+    "jalons": [
+      1754,
+      1760
+    ]
+  },
+  "entite_22": {
+    "label": "MISC",
+    "text": "motié",
+    "jalons": [
+      1865,
+      1871
+    ]
+  },
+  "entite_23": {
+    "label": "LOC",
+    "text": "Année",
+    "jalons": [
+      1890,
+      1896
+    ]
+  },
+  "entite_24": {
+    "label": "MISC",
+    "text": "motié",
+    "jalons": [
+      1910,
+      1916
+    ]
+  },
+  "entite_25": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      2580,
+      2588
+    ]
+  },
+  "entite_26": {
+    "label": "PER",
+    "text": "l&#39;année",
+    "jalons": [
+      2738,
+      2750
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "Antiles",
+    "jalons": [
+      2872,
+      2879
+    ]
+  },
+  "entite_28": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      3321,
+      3329
+    ]
+  },
+  "entite_29": {
+    "label": "PER",
+    "text": "Macechal",
+    "jalons": [
+      3333,
+      3341
+    ]
+  },
+  "entite_30": {
+    "label": "ORG",
+    "text": "Artieles",
+    "jalons": [
+      3379,
+      3387
+    ]
+  },
+  "entite_31": {
+    "label": "LOC",
+    "text": "payé",
+    "jalons": [
+      3618,
+      3623
+    ]
+  },
+  "entite_32": {
+    "label": "PER",
+    "text": "payé",
+    "jalons": [
+      3685,
+      3690
+    ]
+  },
+  "entite_33": {
+    "label": "PER",
+    "text": "Raisons",
+    "jalons": [
+      3719,
+      3726
+    ]
+  },
+  "entite_34": {
+    "label": "LOC",
+    "text": "Gayes",
+    "jalons": [
+      3901,
+      3906
+    ]
+  },
+  "entite_35": {
+    "label": "PER",
+    "text": "deus",
+    "jalons": [
+      3941,
+      3945
+    ]
+  },
+  "entite_36": {
+    "label": "PER",
+    "text": "Maniere",
+    "jalons": [
+      4320,
+      4327
+    ]
+  },
+  "entite_37": {
+    "label": "LOC",
+    "text": "passée",
+    "jalons": [
+      4404,
+      4411
+    ]
+  },
+  "entite_38": {
+    "label": "ORG",
+    "text": "nou",
+    "jalons": [
+      4433,
+      4436
+    ]
+  },
+  "entite_39": {
+    "label": "LOC",
+    "text": "j&#39;ay",
+    "jalons": [
+      4727,
+      4735
+    ]
+  },
+  "entite_40": {
+    "label": "LOC",
+    "text": "Varneux",
+    "jalons": [
+      4907,
+      4914
+    ]
+  },
+  "entite_41": {
+    "label": "LOC",
+    "text": "Massons",
+    "jalons": [
+      5046,
+      5053
+    ]
+  },
+  "entite_42": {
+    "label": "LOC",
+    "text": "Machoquets",
+    "jalons": [
+      5067,
+      5077
+    ]
+  },
+  "entite_43": {
+    "label": "LOC",
+    "text": "Bardins",
+    "jalons": [
+      5153,
+      5160
+    ]
+  },
+  "entite_44": {
+    "label": "MISC",
+    "text": "Busir",
+    "jalons": [
+      5244,
+      5249
+    ]
+  },
+  "entite_45": {
+    "label": "LOC",
+    "text": "Bardins",
+    "jalons": [
+      5306,
+      5313
+    ]
+  },
+  "entite_46": {
+    "label": "LOC",
+    "text": "Varneux",
+    "jalons": [
+      5430,
+      5437
+    ]
+  },
+  "entite_47": {
+    "label": "LOC",
+    "text": "Anticles",
+    "jalons": [
+      5541,
+      5549
+    ]
+  },
+  "entite_48": {
+    "label": "ORG",
+    "text": "bouté",
+    "jalons": [
+      5619,
+      5625
+    ]
+  },
+  "entite_49": {
+    "label": "MISC",
+    "text": "Année",
+    "jalons": [
+      5662,
+      5668
+    ]
+  },
+  "entite_50": {
+    "label": "LOC",
+    "text": "Année",
+    "jalons": [
+      5755,
+      5761
+    ]
+  },
+  "entite_51": {
+    "label": "MISC",
+    "text": "Classe",
+    "jalons": [
+      5806,
+      5812
+    ]
+  },
+  "entite_52": {
+    "label": "LOC",
+    "text": "Morts",
+    "jalons": [
+      5842,
+      5847
+    ]
+  },
+  "entite_53": {
+    "label": "LOC",
+    "text": "l&#39;annér",
+    "jalons": [
+      6005,
+      6017
+    ]
+  },
+  "entite_54": {
+    "label": "MISC",
+    "text": "voyé",
+    "jalons": [
+      6043,
+      6048
+    ]
+  }
+}

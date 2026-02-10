@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Pere",
+    "jalons": [
+      125,
+      129
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "quimper",
+    "jalons": [
+      221,
+      228
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      657,
+      668
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Vôtre",
+    "jalons": [
+      670,
+      675
+    ]
+  },
+  "entite_4": {
+    "label": "ORG",
+    "text": "Prevost",
+    "jalons": [
+      717,
+      724
+    ]
+  }
+}

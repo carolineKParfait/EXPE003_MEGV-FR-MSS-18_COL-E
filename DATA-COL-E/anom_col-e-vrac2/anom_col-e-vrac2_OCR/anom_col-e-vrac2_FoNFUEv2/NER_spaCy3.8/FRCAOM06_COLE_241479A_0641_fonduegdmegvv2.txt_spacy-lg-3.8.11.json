@@ -1,0 +1,90 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Roy",
+    "jalons": [
+      28,
+      31
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Martinique",
+    "jalons": [
+      38,
+      48
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "S^r",
+    "jalons": [
+      69,
+      72
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Curateur",
+    "jalons": [
+      93,
+      101
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Mariage",
+    "jalons": [
+      195,
+      202
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Mariage",
+    "jalons": [
+      316,
+      323
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "consenty",
+    "jalons": [
+      335,
+      343
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "esté",
+    "jalons": [
+      367,
+      372
+    ]
+  },
+  "entite_8": {
+    "label": "ORG",
+    "text": "Communautés",
+    "jalons": [
+      412,
+      424
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "S^r",
+    "jalons": [
+      658,
+      661
+    ]
+  },
+  "entite_10": {
+    "label": "MISC",
+    "text": "X^r",
+    "jalons": [
+      682,
+      685
+    ]
+  }
+}

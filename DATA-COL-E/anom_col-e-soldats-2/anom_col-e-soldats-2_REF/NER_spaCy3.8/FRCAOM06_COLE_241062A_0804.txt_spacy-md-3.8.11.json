@@ -1,0 +1,58 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Brussel",
+    "jalons": [
+      0,
+      7
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Pierre-Louis",
+    "jalons": [
+      9,
+      21
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Pointe",
+    "jalons": [
+      31,
+      37
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "Soldat",
+    "jalons": [
+      55,
+      61
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Cap-français",
+    "jalons": [
+      77,
+      89
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Saint-Domingue",
+    "jalons": [
+      93,
+      107
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Anne",
+    "jalons": [
+      117,
+      121
+    ]
+  }
+}

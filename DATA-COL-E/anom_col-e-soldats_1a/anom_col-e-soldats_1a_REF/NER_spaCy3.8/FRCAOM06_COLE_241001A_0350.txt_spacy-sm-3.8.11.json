@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Personnel",
+    "jalons": [
+      0,
+      9
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Adert",
+    "jalons": [
+      11,
+      16
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Pierre",
+    "jalons": [
+      19,
+      25
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "Régiment",
+    "jalons": [
+      47,
+      55
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Saint-Domingue",
+    "jalons": [
+      65,
+      79
+    ]
+  }
+}

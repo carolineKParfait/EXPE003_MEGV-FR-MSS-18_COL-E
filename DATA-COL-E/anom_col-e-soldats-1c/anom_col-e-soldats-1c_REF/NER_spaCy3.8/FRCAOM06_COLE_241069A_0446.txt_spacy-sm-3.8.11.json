@@ -1,0 +1,82 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Minutte",
+    "jalons": [
+      48,
+      55
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Réponses",
+    "jalons": [
+      97,
+      105
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Personnelles",
+    "jalons": [
+      106,
+      118
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "Compagnie",
+    "jalons": [
+      169,
+      178
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Prisons",
+    "jalons": [
+      200,
+      207
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Cap",
+    "jalons": [
+      309,
+      312
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Uniême",
+    "jalons": [
+      323,
+      329
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Prisons",
+    "jalons": [
+      395,
+      402
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Pieds",
+    "jalons": [
+      439,
+      444
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "Interrogatoire",
+    "jalons": [
+      542,
+      556
+    ]
+  }
+}

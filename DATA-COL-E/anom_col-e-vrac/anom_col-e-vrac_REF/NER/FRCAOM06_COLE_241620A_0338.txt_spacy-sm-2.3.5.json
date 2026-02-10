@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      0,
+      11
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Renvoi",
+    "jalons": [
+      12,
+      18
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "M^r VC",
+    "jalons": [
+      30,
+      36
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Jay",
+    "jalons": [
+      37,
+      40
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Sartine",
+    "jalons": [
+      357,
+      364
+    ]
+  }
+}

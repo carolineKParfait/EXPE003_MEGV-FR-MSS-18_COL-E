@@ -1,0 +1,122 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "habitans",
+    "jalons": [
+      86,
+      94
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "ecris",
+    "jalons": [
+      187,
+      192
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Madame la Marechale",
+    "jalons": [
+      519,
+      538
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "m&#39;a",
+    "jalons": [
+      540,
+      547
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "donné",
+    "jalons": [
+      596,
+      602
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "S^r Domingue",
+    "jalons": [
+      770,
+      782
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "à Paris",
+    "jalons": [
+      816,
+      824
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Procedés",
+    "jalons": [
+      904,
+      913
+    ]
+  },
+  "entite_8": {
+    "label": "ORG",
+    "text": "amitié",
+    "jalons": [
+      919,
+      926
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "Agrées",
+    "jalons": [
+      1211,
+      1218
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Madame la Marechale",
+    "jalons": [
+      1232,
+      1251
+    ]
+  },
+  "entite_11": {
+    "label": "MISC",
+    "text": "obeiss^. Ser",
+    "jalons": [
+      1462,
+      1474
+    ]
+  },
+  "entite_12": {
+    "label": "MISC",
+    "text": "V. de Montulle",
+    "jalons": [
+      1479,
+      1493
+    ]
+  },
+  "entite_13": {
+    "label": "PER",
+    "text": "Mars",
+    "jalons": [
+      1500,
+      1504
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "A Leogane",
+    "jalons": [
+      1511,
+      1520
+    ]
+  }
+}

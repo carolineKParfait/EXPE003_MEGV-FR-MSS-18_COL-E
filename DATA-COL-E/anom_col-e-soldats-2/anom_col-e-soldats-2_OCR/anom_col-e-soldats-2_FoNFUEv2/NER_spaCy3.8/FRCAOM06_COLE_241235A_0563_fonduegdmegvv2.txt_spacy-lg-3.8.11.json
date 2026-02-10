@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "trouvée",
+    "jalons": [
+      110,
+      118
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "Caisse",
+    "jalons": [
+      156,
+      162
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Revre",
+    "jalons": [
+      203,
+      208
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Signé",
+    "jalons": [
+      271,
+      277
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Registre",
+    "jalons": [
+      285,
+      293
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Detilly",
+    "jalons": [
+      304,
+      311
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Copie",
+    "jalons": [
+      351,
+      356
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "L&#39;original",
+    "jalons": [
+      368,
+      382
+    ]
+  }
+}

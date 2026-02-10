@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Florac",
+    "jalons": [
+      0,
+      6
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      32,
+      43
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Sons",
+    "jalons": [
+      52,
+      56
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Colonelle",
+    "jalons": [
+      130,
+      139
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Congé",
+    "jalons": [
+      205,
+      210
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      390,
+      401
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Cÿ",
+    "jalons": [
+      417,
+      419
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Volontaire",
+    "jalons": [
+      555,
+      565
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Pierre-Charles",
+    "jalons": [
+      10,
+      24
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Soldat",
+    "jalons": [
+      26,
+      32
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Cap",
+    "jalons": [
+      45,
+      48
+    ]
+  }
+}

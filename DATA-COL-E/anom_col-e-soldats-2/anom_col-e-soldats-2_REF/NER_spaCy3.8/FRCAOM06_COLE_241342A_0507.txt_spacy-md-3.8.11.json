@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Hiot",
+    "jalons": [
+      0,
+      4
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "François",
+    "jalons": [
+      6,
+      14
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Duchâteau",
+    "jalons": [
+      21,
+      30
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Champagne",
+    "jalons": [
+      41,
+      50
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "d&#x27;artillerie",
+    "jalons": [
+      59,
+      76
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Saint-Domingue",
+    "jalons": [
+      79,
+      93
+    ]
+  }
+}

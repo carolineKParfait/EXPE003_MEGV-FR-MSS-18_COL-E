@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "ur",
+    "jalons": [
+      0,
+      2
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Nomme",
+    "jalons": [
+      41,
+      46
+    ]
+  },
+  "entite_2": {
+    "label": "ORG",
+    "text": "Secours",
+    "jalons": [
+      385,
+      392
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "fusilles",
+    "jalons": [
+      673,
+      681
+    ]
+  },
+  "entite_4": {
+    "label": "ORG",
+    "text": "fidelité",
+    "jalons": [
+      767,
+      776
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Roi",
+    "jalons": [
+      1106,
+      1109
+    ]
+  }
+}

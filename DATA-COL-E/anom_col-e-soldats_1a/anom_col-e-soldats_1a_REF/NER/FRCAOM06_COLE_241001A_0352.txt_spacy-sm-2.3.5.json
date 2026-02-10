@@ -1,0 +1,306 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "pierre Adert",
+    "jalons": [
+      9,
+      21
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Prison",
+    "jalons": [
+      36,
+      42
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Répondu",
+    "jalons": [
+      45,
+      52
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "c&#x27;est",
+    "jalons": [
+      68,
+      78
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Luy",
+    "jalons": [
+      165,
+      168
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Répondu",
+    "jalons": [
+      224,
+      231
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Témoin",
+    "jalons": [
+      301,
+      307
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Lecture",
+    "jalons": [
+      335,
+      342
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Répondu",
+    "jalons": [
+      380,
+      387
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "Nous et notre",
+    "jalons": [
+      463,
+      476
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "Greffier",
+    "jalons": [
+      477,
+      485
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "Monfay",
+    "jalons": [
+      494,
+      500
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "Casamajor",
+    "jalons": [
+      502,
+      511
+    ]
+  },
+  "entite_13": {
+    "label": "LOC",
+    "text": "Cazac",
+    "jalons": [
+      513,
+      518
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "Avons",
+    "jalons": [
+      549,
+      554
+    ]
+  },
+  "entite_15": {
+    "label": "PER",
+    "text": "Jean Jaques Venant",
+    "jalons": [
+      575,
+      593
+    ]
+  },
+  "entite_16": {
+    "label": "ORG",
+    "text": "La Compagnie de Dupuy",
+    "jalons": [
+      605,
+      626
+    ]
+  },
+  "entite_17": {
+    "label": "LOC",
+    "text": "Cap de Religion Catholique apostolique &amp",
+    "jalons": [
+      642,
+      685
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "La Vérité",
+    "jalons": [
+      739,
+      748
+    ]
+  },
+  "entite_19": {
+    "label": "PER",
+    "text": "Pierre Adert",
+    "jalons": [
+      794,
+      806
+    ]
+  },
+  "entite_20": {
+    "label": "PER",
+    "text": "Nous Luy",
+    "jalons": [
+      812,
+      820
+    ]
+  },
+  "entite_21": {
+    "label": "LOC",
+    "text": "Lecture",
+    "jalons": [
+      832,
+      839
+    ]
+  },
+  "entite_22": {
+    "label": "MISC",
+    "text": "qu&#x27;il COnnait",
+    "jalons": [
+      850,
+      868
+    ]
+  },
+  "entite_23": {
+    "label": "MISC",
+    "text": "Nommé Pierre",
+    "jalons": [
+      872,
+      884
+    ]
+  },
+  "entite_24": {
+    "label": "PER",
+    "text": "Adert",
+    "jalons": [
+      885,
+      890
+    ]
+  },
+  "entite_25": {
+    "label": "ORG",
+    "text": "Compagnie",
+    "jalons": [
+      923,
+      932
+    ]
+  },
+  "entite_26": {
+    "label": "MISC",
+    "text": "qu&#x27;il",
+    "jalons": [
+      967,
+      977
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "de France",
+    "jalons": [
+      989,
+      998
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "Service",
+    "jalons": [
+      1044,
+      1051
+    ]
+  },
+  "entite_29": {
+    "label": "ORG",
+    "text": "qu&#x27;il",
+    "jalons": [
+      1072,
+      1082
+    ]
+  },
+  "entite_30": {
+    "label": "ORG",
+    "text": "COmpagnie",
+    "jalons": [
+      1102,
+      1111
+    ]
+  },
+  "entite_31": {
+    "label": "LOC",
+    "text": "Trouvé",
+    "jalons": [
+      1181,
+      1187
+    ]
+  },
+  "entite_32": {
+    "label": "LOC",
+    "text": "L&#x27;appel",
+    "jalons": [
+      1190,
+      1202
+    ]
+  },
+  "entite_33": {
+    "label": "LOC",
+    "text": "Luy",
+    "jalons": [
+      1254,
+      1257
+    ]
+  },
+  "entite_34": {
+    "label": "LOC",
+    "text": "Pourquoy",
+    "jalons": [
+      1287,
+      1295
+    ]
+  },
+  "entite_35": {
+    "label": "PER",
+    "text": "Pierre Adert",
+    "jalons": [
+      1303,
+      1315
+    ]
+  },
+  "entite_36": {
+    "label": "PER",
+    "text": "qu&#x27;il Croit",
+    "jalons": [
+      1347,
+      1363
+    ]
+  },
+  "entite_37": {
+    "label": "LOC",
+    "text": "c&#x27;est",
+    "jalons": [
+      1368,
+      1378
+    ]
+  }
+}

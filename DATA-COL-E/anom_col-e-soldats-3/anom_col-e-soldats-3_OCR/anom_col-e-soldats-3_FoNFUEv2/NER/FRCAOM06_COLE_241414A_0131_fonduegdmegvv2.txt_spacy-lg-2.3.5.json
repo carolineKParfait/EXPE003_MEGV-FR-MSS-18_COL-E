@@ -1,0 +1,34 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Thevauseur",
+    "jalons": [
+      2,
+      12
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Jean-Jacques natif de Normandie",
+    "jalons": [
+      14,
+      45
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Régiment de la Guadeloupe",
+    "jalons": [
+      57,
+      83
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Basse-Terre",
+    "jalons": [
+      96,
+      107
+    ]
+  }
+}

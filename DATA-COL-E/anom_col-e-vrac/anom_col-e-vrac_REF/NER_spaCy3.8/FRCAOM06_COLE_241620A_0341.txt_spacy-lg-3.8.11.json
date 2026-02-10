@@ -1,0 +1,58 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Madame\n",
+    "jalons": [
+      0,
+      7
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Taffart",
+    "jalons": [
+      32,
+      39
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "S^t",
+    "jalons": [
+      63,
+      66
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Domingue",
+    "jalons": [
+      67,
+      75
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "etablie",
+    "jalons": [
+      171,
+      178
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "lisle",
+    "jalons": [
+      181,
+      186
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "epoque–",
+    "jalons": [
+      307,
+      314
+    ]
+  }
+}

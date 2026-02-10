@@ -1,0 +1,58 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "bonneguise",
+    "jalons": [
+      53,
+      63
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Consentement",
+    "jalons": [
+      75,
+      87
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Poteniers",
+    "jalons": [
+      136,
+      145
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Consentement",
+    "jalons": [
+      235,
+      247
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      378,
+      384
+    ]
+  },
+  "entite_5": {
+    "label": "ORG",
+    "text": "Marechale",
+    "jalons": [
+      388,
+      397
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Mes",
+    "jalons": [
+      582,
+      585
+    ]
+  }
+}

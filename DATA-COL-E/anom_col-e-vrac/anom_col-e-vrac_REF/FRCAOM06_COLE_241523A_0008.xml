@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>FRCAOM06_COLE_241523A_0008.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="QZ7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="QZ8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="QZ9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="QZ10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="QZ11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="QZ12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="QZ13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="QZ14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="QZ15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="QZ17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="QZ18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="QZ19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="QZ20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="QZ21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="QZ22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2464"
+          HEIGHT="3224"
+          PHYSICAL_IMG_NR="41"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2464"
+                  HEIGHT="3224">
+        <TextBlock HPOS="165"
+                   VPOS="49"
+                   WIDTH="2193"
+                   HEIGHT="1181"
+                   ID="eSc_textblock_c1df7807"
+                   TAGREFS="QZ12">
+          <Shape><Polygon POINTS="165 49 165 1230 2358 1230 2358 49"/></Shape>
+          <TextLine ID="eSc_line_139ad381"
+                    TAGREFS="LT8"
+                    BASELINE="745 222 1039 218" 
+                    HPOS="743"
+                    VPOS="155"
+                    WIDTH="296"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="745 222 745 238 1037 245 1039 218 1035 179 992 170 990 170 989 170 955 179 951 179 919 155 917 155 915 155 888 155 887 155 845 157 844 157 842 157 818 175 806 168 804 168 802 168 801 168 799 168 786 179 783 180 743 180 745 222"/></Shape>
+            <String CONTENT="Colonies"
+                    HPOS="743"
+                    VPOS="155"
+                    WIDTH="296"
+                    HEIGHT="90"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_5a5667f1"
+                    TAGREFS="LT8"
+                    BASELINE="279 467 1250 523 2288 519" 
+                    HPOS="274"
+                    VPOS="408"
+                    WIDTH="2012"
+                    HEIGHT="183">
+            <Shape><Polygon POINTS="274 499 411 502 427 518 596 507 725 558 795 558 824 534 867 561 1141 569 1297 537 1397 550 1424 531 1558 558 1668 537 1808 558 1867 540 2023 591 2130 548 2219 572 2283 550 2286 518 2265 507 2197 507 2149 480 2093 494 2001 464 1945 499 1880 499 1816 467 1598 491 1531 443 1437 486 1354 486 1206 435 1144 464 1023 416 935 413 642 408 569 443 515 421 424 462 290 456 276 464 274 499"/></Shape>
+            <String CONTENT="M. De Perrigny, Cy devant lieutenant de Roi à Léogane"
+                    HPOS="274"
+                    VPOS="408"
+                    WIDTH="2012"
+                    HEIGHT="183"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_84244cb9"
+                    TAGREFS="LT8"
+                    BASELINE="317 612 811 608" 
+                    HPOS="315"
+                    VPOS="530"
+                    WIDTH="496"
+                    HEIGHT="168">
+            <Shape><Polygon POINTS="317 612 317 643 365 643 379 648 404 662 406 662 408 662 410 662 412 662 422 653 439 641 453 648 455 648 456 648 553 637 609 675 643 698 645 698 646 698 648 698 811 696 811 608 808 569 627 569 612 555 591 537 591 535 589 535 587 535 585 535 544 540 528 530 526 530 525 530 523 530 315 533 317 612"/></Shape>
+            <String CONTENT="Isle S^t Domingue"
+                    HPOS="315"
+                    VPOS="530"
+                    WIDTH="496"
+                    HEIGHT="168"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0a209a17"
+                    TAGREFS="LT8"
+                    BASELINE="1555 621 2007 616" 
+                    HPOS="1553"
+                    VPOS="555"
+                    WIDTH="454"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="1555 621 1555 662 1639 662 1641 662 1686 639 1714 648 1716 648 1718 648 1720 648 1759 637 1777 650 1779 650 1781 650 1783 650 1784 650 1786 650 1808 635 1854 635 2003 659 2007 616 2005 585 1960 562 1958 562 1956 562 1955 562 1903 580 1878 557 1878 555 1876 555 1874 555 1854 555 1852 555 1851 555 1793 587 1716 587 1677 558 1675 558 1673 558 1628 558 1627 558 1625 558 1553 587 1555 621"/></Shape>
+            <String CONTENT="1500^lt Brut."
+                    HPOS="1553"
+                    VPOS="555"
+                    WIDTH="454"
+                    HEIGHT="107"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_a0fbb222"
+                    TAGREFS="LT8"
+                    BASELINE="749 853 1426 888" 
+                    HPOS="744"
+                    VPOS="816"
+                    WIDTH="680"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="744 894 763 883 798 910 865 897 908 916 1061 905 1112 926 1262 905 1354 934 1421 913 1424 886 1405 870 1354 843 1260 857 1222 827 1123 824 1061 851 1013 816 972 848 878 843 822 816 765 838 746 851 744 894"/></Shape>
+            <String CONTENT="Brevet du 1^er fevrier 1783."
+                    HPOS="744"
+                    VPOS="816"
+                    WIDTH="680"
+                    HEIGHT="118"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_586d8fe9"
+                    TAGREFS="LT8"
+                    BASELINE="774 958 1576 970" 
+                    HPOS="772"
+                    VPOS="908"
+                    WIDTH="804"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="774 958 772 990 795 999 797 999 799 999 801 999 802 999 813 990 826 981 876 981 904 994 939 1008 940 1008 942 1008 944 1008 946 1008 964 995 983 983 1116 983 1204 990 1223 1003 1241 1015 1243 1015 1245 1015 1426 1017 1428 1017 1430 1017 1431 1017 1431 1015 1438 1010 1451 997 1467 1006 1469 1006 1471 1006 1473 1006 1508 997 1532 1013 1541 1019 1542 1019 1544 1019 1546 1019 1575 1013 1576 970 1575 940 1474 940 1469 936 1424 917 1422 917 1421 917 1419 917 1376 933 1369 936 1363 933 1338 915 1336 915 1335 915 1213 913 1211 913 1209 913 1207 913 1188 927 1180 933 1057 933 1037 924 1003 909 1001 909 964 909 962 909 960 909 958 909 946 920 935 929 894 920 892 920 854 927 844 918 831 908 829 908 827 908 826 908 774 915 774 958"/></Shape>
+            <String CONTENT="adressé à lui même led. jour à paris."
+                    HPOS="772"
+                    VPOS="908"
+                    WIDTH="804"
+                    HEIGHT="111"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1349"
+                   VPOS="1592"
+                   WIDTH="428"
+                   HEIGHT="406"
+                   ID="eSc_textblock_d83b26e0"
+                   TAGREFS="QZ20">
+          <Shape><Polygon POINTS="1349 1592 1349 1998 1777 1998 1777 1592"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

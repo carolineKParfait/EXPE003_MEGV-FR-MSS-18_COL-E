@@ -1,0 +1,58 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "Lettre",
+    "jalons": [
+      70,
+      76
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "Domingue",
+    "jalons": [
+      129,
+      137
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Lyon",
+    "jalons": [
+      163,
+      167
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Colonie",
+    "jalons": [
+      186,
+      193
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "demandé",
+    "jalons": [
+      234,
+      242
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Dup^on",
+    "jalons": [
+      264,
+      270
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "N^",
+    "jalons": [
+      329,
+      331
+    ]
+  }
+}

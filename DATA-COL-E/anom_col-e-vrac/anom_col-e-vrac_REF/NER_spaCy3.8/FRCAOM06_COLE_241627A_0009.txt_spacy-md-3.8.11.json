@@ -1,0 +1,74 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "S^t Domingue",
+    "jalons": [
+      0,
+      12
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "N",
+    "jalons": [
+      101,
+      102
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      109,
+      120
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "R",
+    "jalons": [
+      127,
+      128
+    ]
+  },
+  "entite_4": {
+    "label": "ORG",
+    "text": "Brevet",
+    "jalons": [
+      153,
+      159
+    ]
+  },
+  "entite_5": {
+    "label": "ORG",
+    "text": "Dépêche",
+    "jalons": [
+      285,
+      292
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Envoyer",
+    "jalons": [
+      323,
+      330
+    ]
+  },
+  "entite_7": {
+    "label": "ORG",
+    "text": "Procédure",
+    "jalons": [
+      343,
+      352
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Thomy",
+    "jalons": [
+      402,
+      407
+    ]
+  }
+}

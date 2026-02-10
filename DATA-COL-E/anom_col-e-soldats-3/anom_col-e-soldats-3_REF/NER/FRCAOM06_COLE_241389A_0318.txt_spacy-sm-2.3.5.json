@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Roch",
+    "jalons": [
+      3,
+      7
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      9,
+      16
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Cherbourg",
+    "jalons": [
+      28,
+      37
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Chasseur",
+    "jalons": [
+      57,
+      65
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Guadeloupe",
+    "jalons": [
+      86,
+      96
+    ]
+  }
+}

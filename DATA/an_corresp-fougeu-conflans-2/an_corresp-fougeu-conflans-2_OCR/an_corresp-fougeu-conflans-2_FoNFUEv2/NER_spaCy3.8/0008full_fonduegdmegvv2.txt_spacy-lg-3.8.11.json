@@ -1,0 +1,90 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "Procureurs",
+    "jalons": [
+      52,
+      62
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "viendt",
+    "jalons": [
+      99,
+      105
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "ecris",
+    "jalons": [
+      187,
+      192
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "mneme",
+    "jalons": [
+      213,
+      218
+    ]
+  },
+  "entite_4": {
+    "label": "ORG",
+    "text": "Marechale",
+    "jalons": [
+      529,
+      538
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "S^r",
+    "jalons": [
+      770,
+      773
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      819,
+      824
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      1232,
+      1238
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "lesquele",
+    "jalons": [
+      1393,
+      1401
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "Mars",
+    "jalons": [
+      1500,
+      1504
+    ]
+  },
+  "entite_10": {
+    "label": "MISC",
+    "text": "Leogane",
+    "jalons": [
+      1513,
+      1520
+    ]
+  }
+}

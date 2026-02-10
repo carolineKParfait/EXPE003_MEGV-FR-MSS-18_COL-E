@@ -1,0 +1,322 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Breveted Roi",
+    "jalons": [
+      0,
+      12
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "S^t Domingue",
+    "jalons": [
+      24,
+      36
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "S. Tailteeres",
+    "jalons": [
+      45,
+      58
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "Perisont",
+    "jalons": [
+      85,
+      93
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Bujourd&#39;hui",
+    "jalons": [
+      95,
+      110
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Roi",
+    "jalons": [
+      161,
+      164
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "S. Taillevis de Perigny",
+    "jalons": [
+      210,
+      233
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Roi",
+    "jalons": [
+      249,
+      252
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Leoyane",
+    "jalons": [
+      255,
+      262
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "S oingue",
+    "jalons": [
+      277,
+      285
+    ]
+  },
+  "entite_10": {
+    "label": "MISC",
+    "text": "Si sarisfaction qu&#39;Elle",
+    "jalons": [
+      305,
+      332
+    ]
+  },
+  "entite_11": {
+    "label": "MISC",
+    "text": "Zele",
+    "jalons": [
+      338,
+      342
+    ]
+  },
+  "entite_12": {
+    "label": "MISC",
+    "text": "Elle l&#39;a retent",
+    "jalons": [
+      409,
+      428
+    ]
+  },
+  "entite_13": {
+    "label": "LOC",
+    "text": "ordonné",
+    "jalons": [
+      432,
+      440
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "ordonné Lietmai du Roi",
+    "jalons": [
+      453,
+      476
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "Isles sous le Vent de L&#39;armique",
+    "jalons": [
+      491,
+      526
+    ]
+  },
+  "entite_16": {
+    "label": "PER",
+    "text": "Mande",
+    "jalons": [
+      587,
+      592
+    ]
+  },
+  "entite_17": {
+    "label": "PER",
+    "text": "Commandant Génerals desditres Iiles sous le Vent",
+    "jalons": [
+      608,
+      657
+    ]
+  },
+  "entite_18": {
+    "label": "MISC",
+    "text": "Jonir led",
+    "jalons": [
+      727,
+      736
+    ]
+  },
+  "entite_19": {
+    "label": "PER",
+    "text": "Taillevis de Perigny",
+    "jalons": [
+      741,
+      761
+    ]
+  },
+  "entite_20": {
+    "label": "MISC",
+    "text": "Volonté",
+    "jalons": [
+      821,
+      829
+    ]
+  },
+  "entite_21": {
+    "label": "MISC",
+    "text": "majorté",
+    "jalons": [
+      833,
+      841
+    ]
+  },
+  "entite_22": {
+    "label": "MISC",
+    "text": "commandé",
+    "jalons": [
+      850,
+      859
+    ]
+  },
+  "entite_23": {
+    "label": "MISC",
+    "text": "contresigné",
+    "jalons": [
+      939,
+      951
+    ]
+  },
+  "entite_24": {
+    "label": "MISC",
+    "text": "Conseiller Secrttaiie d&#39;Etat",
+    "jalons": [
+      964,
+      996
+    ]
+  },
+  "entite_25": {
+    "label": "LOC",
+    "text": "Commandemens",
+    "jalons": [
+      1007,
+      1019
+    ]
+  },
+  "entite_26": {
+    "label": "ORG",
+    "text": "Ordre de passe de la Lieuteslance",
+    "jalons": [
+      1034,
+      1067
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "Roi du Cap",
+    "jalons": [
+      1071,
+      1081
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "Léogane",
+    "jalons": [
+      1092,
+      1100
+    ]
+  },
+  "entite_29": {
+    "label": "LOC",
+    "text": "St Domingue De",
+    "jalons": [
+      1115,
+      1129
+    ]
+  },
+  "entite_30": {
+    "label": "PER",
+    "text": "le Roy",
+    "jalons": [
+      1134,
+      1140
+    ]
+  },
+  "entite_31": {
+    "label": "MISC",
+    "text": "S. de Euille",
+    "jalons": [
+      1150,
+      1162
+    ]
+  },
+  "entite_32": {
+    "label": "PER",
+    "text": "Troix f.",
+    "jalons": [
+      1171,
+      1179
+    ]
+  },
+  "entite_33": {
+    "label": "MISC",
+    "text": "Majesté",
+    "jalons": [
+      1182,
+      1190
+    ]
+  },
+  "entite_34": {
+    "label": "LOC",
+    "text": "S. Jean Captiste Gasiel",
+    "jalons": [
+      1207,
+      1230
+    ]
+  },
+  "entite_35": {
+    "label": "LOC",
+    "text": "Treille",
+    "jalons": [
+      1242,
+      1249
+    ]
+  },
+  "entite_36": {
+    "label": "MISC",
+    "text": "S^t Croix Lieutenant du Roi au Cap",
+    "jalons": [
+      1253,
+      1287
+    ]
+  },
+  "entite_37": {
+    "label": "MISC",
+    "text": "S^t",
+    "jalons": [
+      1302,
+      1305
+    ]
+  },
+  "entite_38": {
+    "label": "LOC",
+    "text": "Dominque",
+    "jalons": [
+      1306,
+      1314
+    ]
+  },
+  "entite_39": {
+    "label": "LOC",
+    "text": "Lgin Regane",
+    "jalons": [
+      1352,
+      1363
+    ]
+  }
+}

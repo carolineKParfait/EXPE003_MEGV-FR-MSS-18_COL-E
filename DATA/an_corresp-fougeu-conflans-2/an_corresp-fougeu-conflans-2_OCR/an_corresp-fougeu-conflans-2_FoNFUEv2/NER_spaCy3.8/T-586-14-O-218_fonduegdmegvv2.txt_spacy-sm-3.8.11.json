@@ -1,0 +1,58 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "Druis",
+    "jalons": [
+      18,
+      23
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Landerneau",
+    "jalons": [
+      170,
+      180
+    ]
+  },
+  "entite_2": {
+    "label": "ORG",
+    "text": "icy",
+    "jalons": [
+      333,
+      336
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "M.",
+    "jalons": [
+      512,
+      514
+    ]
+  },
+  "entite_4": {
+    "label": "ORG",
+    "text": "Ch^r",
+    "jalons": [
+      747,
+      751
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Vienne",
+    "jalons": [
+      755,
+      761
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Adien",
+    "jalons": [
+      763,
+      768
+    ]
+  }
+}

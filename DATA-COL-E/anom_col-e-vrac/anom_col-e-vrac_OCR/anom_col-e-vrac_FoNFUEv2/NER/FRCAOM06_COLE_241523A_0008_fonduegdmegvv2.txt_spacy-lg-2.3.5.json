@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Colonies Perrigny",
+    "jalons": [
+      0,
+      17
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Ly",
+    "jalons": [
+      19,
+      21
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Lieutenaus de Roi a Leogane",
+    "jalons": [
+      29,
+      56
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "S^te Domingua Bevet",
+    "jalons": [
+      60,
+      79
+    ]
+  },
+  "entite_4": {
+    "label": "ORG",
+    "text": "Brut",
+    "jalons": [
+      110,
+      114
+    ]
+  },
+  "entite_5": {
+    "label": "ORG",
+    "text": "adressé",
+    "jalons": [
+      116,
+      124
+    ]
+  }
+}

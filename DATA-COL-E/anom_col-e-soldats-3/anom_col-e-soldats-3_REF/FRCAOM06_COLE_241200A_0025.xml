@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>FRCAOM06_COLE_241200A_0025.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="QZ7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="QZ8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="QZ9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="QZ10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="QZ11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="QZ12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="QZ13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="QZ14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="QZ15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="QZ17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="QZ18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="QZ19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="QZ20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="QZ21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="QZ22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="1921"
+          HEIGHT="2429"
+          PHYSICAL_IMG_NR="4"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1921"
+                  HEIGHT="2429">
+        <TextBlock HPOS="205"
+                   VPOS="471"
+                   WIDTH="1490"
+                   HEIGHT="681"
+                   ID="eSc_textblock_5aebb989"
+                   TAGREFS="QZ12">
+          <Shape><Polygon POINTS="205 471 205 1152 1695 1152 1695 471"/></Shape>
+          <TextLine ID="eSc_line_e5a70936"
+                    TAGREFS="LT8"
+                    BASELINE="382 616 836 635 1293 634" 
+                    HPOS="378"
+                    VPOS="534"
+                    WIDTH="913"
+                    HEIGHT="152">
+            <Shape><Polygon POINTS="380 615 378 655 402 669 591 674 631 661 684 676 779 651 860 651 908 672 914 672 949 655 997 674 1006 674 1036 655 1076 655 1194 686 1246 659 1289 659 1291 548 1216 548 1163 591 1103 605 1064 587 1056 587 1038 603 989 605 854 582 821 599 775 599 757 582 746 582 736 593 722 580 712 580 680 599 633 599 558 534 380 536 380 615"/></Shape>
+            <String CONTENT="Fievé (le nommé)"
+                    HPOS="378"
+                    VPOS="534"
+                    WIDTH="913"
+                    HEIGHT="152"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3f1bc4eb"
+                    TAGREFS="LT8"
+                    BASELINE="275 788 580 796 1660 792" 
+                    HPOS="275"
+                    VPOS="742"
+                    WIDTH="1385"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="275 809 333 809 341 811 391 823 392 823 456 812 471 809 481 812 502 817 503 817 504 817 506 817 519 812 523 811 531 812 564 819 565 819 566 819 581 812 589 809 599 813 615 820 616 820 618 820 684 813 716 811 723 813 733 819 734 819 814 823 815 824 1046 824 1046 823 1071 817 1098 811 1124 816 1125 816 1162 809 1186 817 1197 821 1198 821 1200 821 1201 821 1209 819 1235 808 1397 808 1448 820 1455 821 1456 823 1528 823 1528 821 1533 821 1579 811 1657 821 1660 792 1655 747 1629 755 1586 748 1584 748 1514 759 1482 748 1476 747 1475 747 1474 747 1472 747 1466 748 1440 755 1403 750 1386 747 1385 747 1383 747 1378 750 1359 761 1287 761 1271 751 1266 747 1264 747 1263 747 1262 747 1260 747 1259 747 1254 751 1237 761 1208 761 1192 751 1177 744 1175 744 1174 744 1173 744 1171 744 1160 752 1147 761 1100 752 1074 748 1073 748 1071 748 1052 752 1023 761 997 754 988 751 986 751 985 751 958 754 935 757 928 754 904 746 903 746 901 746 900 746 876 755 861 762 830 762 814 755 770 742 769 742 623 742 622 742 620 742 587 758 581 761 569 758 492 742 360 742 359 742 357 742 322 761 321 762 275 762 275 788 275 809"/></Shape>
+            <String CONTENT="Soldat de la troupe du port de Lorient:"
+                    HPOS="275"
+                    VPOS="742"
+                    WIDTH="1385"
+                    HEIGHT="82"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3ff9eedf"
+                    TAGREFS="LT8"
+                    BASELINE="521 894 895 905 1182 894" 
+                    HPOS="519"
+                    VPOS="852"
+                    WIDTH="663"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="521 894 519 912 591 921 592 921 593 921 612 912 616 910 672 910 673 912 716 929 718 929 719 929 720 929 762 918 773 928 773 929 774 929 776 929 909 931 911 931 963 918 1093 921 1094 921 1181 910 1182 894 1179 855 1090 855 1089 855 1088 855 1086 855 1059 877 990 870 989 870 947 877 927 874 909 856 909 855 908 855 907 855 841 854 839 854 838 854 836 854 800 875 743 864 742 864 741 864 712 875 683 866 681 866 680 866 679 866 677 866 665 877 626 877 602 856 600 856 599 856 521 852 521 894"/></Shape>
+            <String CONTENT="son remplacement"
+                    HPOS="519"
+                    VPOS="852"
+                    WIDTH="663"
+                    HEIGHT="79"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3d1abe35"
+                    TAGREFS="LT8"
+                    BASELINE="726 1071 1140 1085" 
+                    HPOS="722"
+                    VPOS="1010"
+                    WIDTH="417"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="722 1093 781 1121 783 1121 896 1123 898 1123 900 1123 957 1101 961 1101 965 1103 1046 1129 1048 1129 1050 1129 1137 1109 1139 1084 1139 1032 1024 1012 1022 1012 1020 1012 971 1030 957 1034 925 1030 815 1010 813 1010 811 1010 809 1010 781 1028 777 1028 724 1028 724 1070"/></Shape>
+            <String CONTENT="⟦..⟧ 1778"
+                    HPOS="722"
+                    VPOS="1010"
+                    WIDTH="417"
+                    HEIGHT="119"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1465"
+                   VPOS="2098"
+                   WIDTH="291"
+                   HEIGHT="151"
+                   ID="eSc_textblock_fe783e93"
+                   TAGREFS="QZ15">
+          <Shape><Polygon POINTS="1465 2098 1465 2249 1756 2249 1756 2098"/></Shape>
+          <TextLine ID="eSc_line_5e371d83"
+                    TAGREFS="LT8"
+                    BASELINE="1527 2188 1717 2202" 
+                    HPOS="1522"
+                    VPOS="2147"
+                    WIDTH="194"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1522 2218 1528 2226 1530 2226 1530 2228 1532 2228 1534 2228 1578 2232 1580 2232 1582 2232 1619 2216 1623 2216 1712 2222 1716 2200 1716 2147 1528 2149 1526 2186"/></Shape>
+            <String CONTENT="E^184"
+                    HPOS="1522"
+                    VPOS="2147"
+                    WIDTH="194"
+                    HEIGHT="85"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

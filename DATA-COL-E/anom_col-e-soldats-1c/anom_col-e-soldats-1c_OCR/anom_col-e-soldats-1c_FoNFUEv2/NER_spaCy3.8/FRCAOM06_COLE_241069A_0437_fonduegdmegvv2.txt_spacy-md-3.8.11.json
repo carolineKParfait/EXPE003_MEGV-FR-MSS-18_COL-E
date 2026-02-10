@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Carbonnel",
+    "jalons": [
+      0,
+      9
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Simeon",
+    "jalons": [
+      26,
+      32
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      49,
+      57
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Vaisseau",
+    "jalons": [
+      226,
+      234
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Capitaine",
+    "jalons": [
+      238,
+      247
+    ]
+  },
+  "entite_5": {
+    "label": "ORG",
+    "text": "Compagnie",
+    "jalons": [
+      399,
+      408
+    ]
+  },
+  "entite_6": {
+    "label": "ORG",
+    "text": "Justice",
+    "jalons": [
+      654,
+      661
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Fait",
+    "jalons": [
+      703,
+      707
+    ]
+  }
+}

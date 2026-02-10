@@ -1,0 +1,34 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "paris",
+    "jalons": [
+      115,
+      120
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Robion",
+    "jalons": [
+      182,
+      188
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Souverain",
+    "jalons": [
+      211,
+      220
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Marc",
+    "jalons": [
+      239,
+      243
+    ]
+  }
+}

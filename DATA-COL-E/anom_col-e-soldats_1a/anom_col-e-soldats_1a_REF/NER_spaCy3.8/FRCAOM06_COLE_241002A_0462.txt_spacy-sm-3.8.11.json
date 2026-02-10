@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Daillebout",
+    "jalons": [
+      11,
+      21
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Lieutenant",
+    "jalons": [
+      50,
+      60
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Nationnales",
+    "jalons": [
+      88,
+      99
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Cayenne",
+    "jalons": [
+      103,
+      110
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Colonies",
+    "jalons": [
+      149,
+      157
+    ]
+  }
+}
