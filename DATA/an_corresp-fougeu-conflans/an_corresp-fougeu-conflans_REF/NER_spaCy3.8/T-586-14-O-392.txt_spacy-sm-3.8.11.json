@@ -1,0 +1,58 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      2,
+      7
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Pièce",
+    "jalons": [
+      30,
+      35
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "versailles",
+    "jalons": [
+      95,
+      105
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "s&#x27;il",
+    "jalons": [
+      179,
+      188
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "paris",
+    "jalons": [
+      455,
+      460
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "j&#x27;embrasse",
+    "jalons": [
+      944,
+      959
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Conflans",
+    "jalons": [
+      1162,
+      1170
+    ]
+  }
+}

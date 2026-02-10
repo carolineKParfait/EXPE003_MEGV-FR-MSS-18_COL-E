@@ -1,0 +1,106 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      2,
+      7
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "Piece",
+    "jalons": [
+      30,
+      35
+    ]
+  },
+  "entite_2": {
+    "label": "ORG",
+    "text": "O.",
+    "jalons": [
+      43,
+      45
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Ma chere petite Mere",
+    "jalons": [
+      63,
+      83
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      212,
+      217
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "du Careme",
+    "jalons": [
+      357,
+      366
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Roi",
+    "jalons": [
+      382,
+      385
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Calomnies",
+    "jalons": [
+      411,
+      420
+    ]
+  },
+  "entite_8": {
+    "label": "LOC",
+    "text": "c&#x27;est",
+    "jalons": [
+      702,
+      712
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Roi",
+    "jalons": [
+      1055,
+      1058
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "Cabale",
+    "jalons": [
+      1102,
+      1108
+    ]
+  },
+  "entite_11": {
+    "label": "MISC",
+    "text": "n&#x27;en",
+    "jalons": [
+      1467,
+      1476
+    ]
+  },
+  "entite_12": {
+    "label": "PER",
+    "text": "Zombi",
+    "jalons": [
+      1685,
+      1690
+    ]
+  }
+}

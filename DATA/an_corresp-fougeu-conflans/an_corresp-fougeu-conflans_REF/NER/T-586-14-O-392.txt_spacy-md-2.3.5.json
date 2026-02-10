@@ -1,0 +1,90 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      2,
+      7
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Pièce",
+    "jalons": [
+      30,
+      35
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Cottée O.",
+    "jalons": [
+      36,
+      45
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Ma chere femme",
+    "jalons": [
+      73,
+      87
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "M^r D&#x27;armentieres",
+    "jalons": [
+      133,
+      155
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "s&#x27;il",
+    "jalons": [
+      179,
+      188
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "j&#x27;ai",
+    "jalons": [
+      340,
+      349
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "rüe grenelle",
+    "jalons": [
+      380,
+      392
+    ]
+  },
+  "entite_8": {
+    "label": "LOC",
+    "text": "croix Rouge",
+    "jalons": [
+      406,
+      417
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "j&#x27;ay",
+    "jalons": [
+      602,
+      611
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "Conflans",
+    "jalons": [
+      1162,
+      1170
+    ]
+  }
+}
