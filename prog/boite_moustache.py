@@ -38,49 +38,35 @@ for path_corpus in glob.glob(path_data):
         distance=lire_fichier(path)
         print("Distance : ", distance)
 
-    #     nommage_version = nommage(version)## Commenter pour ARCHEOLOGIE DE SPACY
-    #
-    #     # liste_distance=[]
-    #     for key, res_dist in distance.items():
-    #         # print("Key : ",key)
-    #         if key == "cosinus" or key == "jaccard":
-    #             for res in res_dist:
-    #                 liste_name_metric.append(key)
-    #                 liste_config.append(nommage_version+" -- "+vers_ren)#+"--"+paire)
-    #                 liste_auteur.append(autor)
-    #                 liste_dist.append(res)
-    #                 liste_version_ren.append(vers_ren)
-    # # #_______________ARCHEOLOGIE DE SPACY _____________________________________________________
-    #                 liste_archeo_version_ren.append(archeo_ren)
-    # # #_______________ARCHEOLOGIE DE SPACY _____________________________________________________
-    #
-    # tableau["Auteur"]=liste_auteur
-    # tableau["Configuration"]=liste_config
-    # tableau[f"Distance"]=liste_dist
-    # tableau["Metric"]=liste_name_metric
-    # tableau["REN"]=liste_version_ren ## Commenter pour OCR
-    # # #_______________ARCHEOLOGIE DE SPACY _____________________________________________________
-    # # tableau["ArcheoREN"]=liste_archeo_version_ren
-    # # #_______________ARCHEOLOGIE DE SPACY _____________________________________________________
-    # data_tab = pd.DataFrame(tableau)
-    # # data_tab=data_tab.sort_values(by = ['Configuration',"Metric","ArcheoREN"])
-    # display(data_tab)
+        nommage_version = nommage(version)
+        print("Nommage version : ", nommage_version)
 
-#     # _____________NER graph global Multi Modèles___________________________
-#     x=len(set(tableau["Configuration"]))
-#     valeur=['spacy-md-3.7.5','spacy-sm-3.7.5']
-#     data_tab1=data_tab.query("REN not in @valeur" )
-#     display(data_tab1)
-#     # 1/0
-#
-# # #______ Partie à indenter pour NER Multi Modèles et ARCHEOLOGIE DE SPACY
-#     x=len(set(tableau["REN"]))
-#     sns.set_theme(style="darkgrid")
-#     sns.set(font_scale=1.5)
-#     ## _____________NER graph 1 Modèle___________________________
-#     # p=sns.relplot(data=data_tab1, x="Configuration", y="Distance", hue="Metric", style="Metric", palette="autumn",s=800, height=8.7, aspect=11.7/8.27)
-#     # sns.move_legend(p, "lower center", bbox_to_anchor=(.5, 1), ncol=2, title=None, frameon=False,)
-#     ## _____________NER graph 1 Modèle___________________________
+        # liste_distance=[]
+        for key, res_dist in distance.items():
+            print("Key : ",key)
+            if key == "cosinus" or key == "jaccard":
+                for res in res_dist:
+                    liste_name_metric.append(key)
+                    liste_config.append(nommage_version+" -- "+vers_ren)#+"--"+paire)
+                    liste_auteur.append(autor)
+                    liste_dist.append(res)
+                    liste_version_ren.append(vers_ren)
+
+
+    tableau["Auteur"]=liste_auteur
+    tableau["Configuration"]=liste_config
+    tableau[f"Distance"]=liste_dist
+    tableau["Metric"]=liste_name_metric
+    tableau["REN"]=liste_version_ren ## Commenter pour OCR
+    data_tab = pd.DataFrame(tableau)
+    # data_tab=data_tab.sort_values(by = ['Configuration',"Metric","ArcheoREN"])
+    print(data_tab)
+
+
+    ## _____________NER graph 1 Modèle___________________________
+    p=sns.relplot(data=data_tab, x="Configuration", y="Distance", hue="Metric", style="Metric", palette="autumn",s=800, height=8.7, aspect=11.7/8.27)
+    sns.move_legend(p, "lower center", bbox_to_anchor=(.5, 1), ncol=2, title=None, frameon=False,)
+    ## _____________NER graph 1 Modèle___________________________
 #
 #    # _____________NER graph global Multi Modèles___________________________
 #     p=sns.relplot(data=data_tab1, x="Configuration", y="Distance", hue="Metric", style="REN", palette="autumn",s=550,  height=8.7, aspect=11.7/8.27)
@@ -97,7 +83,7 @@ for path_corpus in glob.glob(path_data):
 #
 #
 # # # ####___________________PAR_AUTEUR________________________________________
-# #     plt.savefig(f"../Boite-a_moustache/PAR_AUTEUR/OCR/{corpus}/{autor}_{corpus}_{calc}.png",dpi=300, bbox_inches="tight")##Texte
+    plt.savefig(f"../Boite-a_moustache/OCR/{corpus}/{autor}_{corpus}_{calc}.png",dpi=300, bbox_inches="tight")##Texte
 #     plt.savefig(f"../Boite-a_moustache/PAR_AUTEUR/{corpus}/{autor}_{corpus}_{r}-{calc}.png",dpi=300, bbox_inches="tight")##NER
 #     plt.close()
 # # # ####___________________PAR_AUTEUR________________________________________
