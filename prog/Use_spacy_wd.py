@@ -169,7 +169,7 @@ if __name__ == "__main__":
                 nom_txt = path.name  # nom du fichier
 
                 # dossier NER
-                path_ner = dossiers / "NER_spaCy3.8"
+                path_ner = dossiers / "NER-spaCy2.3.5"#ameliorer en automatisant avec __version__
                 path_ner.mkdir(parents=True, exist_ok=True)
                 abs_path_ner = str(path_ner.resolve())  # absolu pour \\?\
                 print("path_ner :", abs_path_ner)
