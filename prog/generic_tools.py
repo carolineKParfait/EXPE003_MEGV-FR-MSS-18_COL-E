@@ -10,26 +10,18 @@ from jiwer import cer
 from scipy.stats import entropy
 import scipy
 from difflib import SequenceMatcher
+from pathlib import Path
 
 warnings.simplefilter("ignore")
-re_URL = re.compile("^\s*URL.*$", re.MULTILINE)
-re_TAG = re.compile("(<[phl]>)", re.IGNORECASE)
-re_WS = re.compile("\s+")
+re_URL = re.compile(r"^\s*URL.*$", re.MULTILINE)
+re_TAG = re.compile(r"(<[phl]>)", re.IGNORECASE)
+re_WS = re.compile(r"\s+")
 re_CTRL = re.compile("[\x00-\x1F]+")
 re_HI = re.compile("[\x80-\xFF]+")
 
-# def lire_fichier (chemin, is_json = False):
-#     f = open(chemin , encoding="utf-8")
-#     if is_json==False:
-#       chaine = f.read()
-#     else:
-#       chaine = json.load(f)
-#     f.close ()
-#     return chaine
-
 def lire_fichier(chemin, is_json=False):
     """
-    Lecture robuste de fichiers texte / JSON (Windows + UTF-8)
+    Lecture de fichiers texte / JSON (Windows + UTF-8)
     """
     try:
         with open(chemin, encoding="utf-8", errors="ignore") as f:
@@ -62,8 +54,6 @@ def stocker( chemin, contenu, is_json=False, verbose =False):
     else:
       w.write(json.dumps(contenu , indent = 2, ensure_ascii=False))
     w.close()
-    
-
 
 def get_distances(texte1, texte2, liste_name =["jaccard", "braycurtis","dice", "cosinus"] ):
     dico = {}
@@ -215,7 +205,7 @@ def normalize(text, ascii=False, unlabelled=False):
 	if unlabelled:
 		text = re_TAG.sub("\n<p> ", text) # start each segment on new line, normalise tags
 	else:
-		text = re_TAG.sub("\n\g<1> ", text)  # only break lines before segment markers
+		text = re_TAG.sub(r"\n\g<1> ", text)  # only break lines before segment markers
 
 	text = re_WS.sub(" ", text)           # normalise whitespace (including line breaks) to single spaces
 	if ascii:
@@ -281,3 +271,75 @@ def evaluate(diff):
 		"tp":tp, "fp":fp, "fn":fn, 
 		"tag_tp":tag_tp, "tag_fp":tag_fp, "tag_fn":tag_fn}
 	return out
+
+def lire_dico(fichier_json):
+    liste_en = []
+    for key, value in fichier_json.items():
+        for k, v in value.items():
+            if k == "text":
+                liste_en.append(v)
+    return liste_en
+
+def infodata(path, typedata = ""):
+    p = Path(path)
+    # print("Chemin du dossier OCR : ", p)
+    sous_corpus = p.parts[2]
+    # print("Sous-corpus : ", sous_corpus)
+    nom_fichier = p.parts[-1].split("_")[0]
+    print("Nom du fichier :", nom_fichier)
+    vers_ren = p.parts[-1]
+    vers_ren = Path(vers_ren.split("_")[-1]).stem
+    # print("Version de NER : ", vers_ren)
+
+    version = None
+    if typedata == "OCR":
+        version = p.parts[-1]
+        version = Path(version.split("_")[-2]).stem
+        # print("Version : ", version)
+        version = nommage(version)
+        # print("Nommage version : ", version)
+
+    else :
+        version = "REF"
+        # print("Version REF : ",version)
+    return sous_corpus, version, vers_ren
+
+def jsonsetlist(path, sous_cpus):
+    p = Path(path)
+    liste_ner = []
+    data = lire_fichier(p, True)
+    print(data)
+    liste_data = lire_dico(data)
+    print(liste_data)
+    set_data = set(liste_data)
+    print(set_data)
+    for data in set_data:
+        liste_ner.append(data + "_" + sous_cpus)
+    # print(liste_ner)
+    return liste_ner
+
+def dico_output(dico_sortie, liste2ner, version2txt, version2ren ):
+    if version2ren in dico_sortie:
+        if version2txt in dico_sortie[version2ren]:
+            dico_tmp = dico_sortie[version2ren][version2txt]
+            dico_tmp += liste2ner
+            dico_sortie[version2ren][version2txt] = dico_tmp
+        else:
+            dico_sortie[version2ren][version2txt] = liste2ner
+    else:
+        dico_sortie[version2ren ] = {}
+        if version2txt in dico_sortie[version2ren]:
+            dico_tmp=dico_sortie[version2ren][version2txt]
+            dico_tmp+=liste2ner
+            dico_sortie[version2ren][version2txt]= dico_tmp
+        else:
+            dico_sortie[version2ren][version2txt] = liste2ner
+
+    return dico_sortie
+
+def nommage(version):
+
+    if version == "fonduegdmegvv2":
+        version = re.sub("fonduegdmegvv2", "FoNDUE-GD-MEGV_v2", version)
+
+    return version

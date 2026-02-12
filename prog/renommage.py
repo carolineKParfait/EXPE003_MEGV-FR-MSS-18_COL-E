@@ -1,18 +1,4 @@
 import re
-import json
-def lire_fichier (chemin):
-    with open(chemin) as json_data:
-        texte =json.load(json_data)
-    return texte
-
-
-
-def nommage(version):
-
-    if version == "fonduegdmegvv2":
-        version = re.sub("fonduegdmegvv2", "FoNDUE-GD-MEGV_v2", version)
-
-    return version
 
 def nommage_upset(key):
     if key == "Kraken-base.txt" or key == "kraken" or key == "Kraken":
