@@ -7,23 +7,40 @@ import matplotlib.pyplot as plt
 from renommage import *
 from pathlib import Path
 
-def boxplot(xx,yy):
+def boxplot(data_tab, x_col ,y_col):
+    # Initialize the figure with a logarithmic x axis
+    f, ax = plt.subplots(figsize=(15, 15))
+    ax.set_xscale("linear")
     # Plot the orbital period with horizontal boxes
-    sns.boxplot(x=xx, y=yy, data=data_tab,
+    sns.boxplot(x=x_col, y=y_col, data=data_tab,
                 whis=[0, 1], width=.6,
                 palette="coolwarm")
-
     # Add in points to show each observation
-    sns.stripplot(x=f"Distance {cle}", y="Auteur", data=data_tab,
+    sns.stripplot(x=x_col, y=y_col, data=data_tab,
                   size=4, palette='dark:.3',
                   linewidth=0)
+    # Tweak the visual presentation
+    plt.tick_params(axis='both', labelsize=25)
+    ax.xaxis.grid(True)
 
-# calcul=["sim2-3","word", "sim2-3-GOLD","sim2-3-ACCMAJ"]
-calcul=["sim2-3"]
-calc=calcul[-1]
+    # 👉 Ajout des légendes
+    ax.set_xlabel(x_col, fontsize=25)
+    ax.set_ylabel(y_col, fontsize=25)
+    plt.xlim([0, x])
+
+def chemin_stockage(sim_path) :
+    sim_path.mkdir(parents=True, exist_ok=True)
+    return sim_path
+
+type_calcul=["sim2-3"]
+calc=type_calcul[-1]
 liste_cle=["cosinus","jaccard"]
 size=[1]
-path_data =f"../DATA/*"##
+
+corpora_data = ["DATA", "DATA-COL-E"]
+corpus_data = corpora_data[1]
+path_data =f"../{corpus_data}/anom_col-e-vrac2"
+
 for cle in liste_cle:
     # ##____Pour les Textes_____________________
     # tableau = {}
@@ -68,7 +85,7 @@ for cle in liste_cle:
             version=version.split("_")[-2]
             print("Version : ",version)
             vers_ren = p.parts[-1]
-            vers_ren = vers_ren.split("_")[-1]
+            vers_ren = Path(vers_ren.split("_")[-1]).stem
             print("Version de NER : ",vers_ren)
             ##____Pour la NER_____________________
 
@@ -84,47 +101,37 @@ for cle in liste_cle:
                 if key == cle:
                     for res in res_dist:
                         liste_name_metric.append(key)
+                        # print("Liste des noms de métric : ", liste_name_metric)
                         # liste_config.append(nommage_version+" -- "+"REF")#Pour Textes
                         liste_config.append(nommage_version+" -- "+vers_ren)#Pour NER
                         liste_auteur.append(autor)
                         liste_dist.append(res)
                         liste_version_ren.append(vers_ren)#Pour NER
-
-        sim_path = p.parent.parent.parent / "Boite_moustache" / nommage_version
-        sim_path.mkdir(parents=True, exist_ok=True)
-        print(sim_path)
 #
-        tableau["Auteur"]=liste_auteur
+        tableau["Corpus"]=liste_auteur
         tableau["Configuration"]=liste_config
         tableau[f"Distance {cle}"]=liste_dist
         tableau["Metric"]=liste_name_metric
         tableau["REN"]=liste_version_ren ##Pour NER
-        data_tab = pd.DataFrame(tableau)
-        print(data_tab)
+        df_sim = pd.DataFrame(tableau)
+        # print(data_tab)
 #
         for x in size:
             sns.set_theme(style="ticks")
-
-            # Initialize the figure with a logarithmic x axis
-
-            f, ax = plt.subplots(figsize=(15, 15))
-            ax.set_xscale("linear")
-            # boxplot(tableau[f"Distance {cle}"],tableau["Auteur"])##Pour Texte
-            boxplot(tableau[f"Distance {cle}"], tableau["Configuration"])##Pour NER
+            # boxplot(df_sim,f"Distance {cle}","Corpus")##Pour Texte
+            boxplot(df_sim, f"Distance {cle}", "Configuration")##Pour NER
 
 
-            # Tweak the visual presentation
-            plt.tick_params(axis='both', labelsize=25)
-            ax.xaxis.grid(True)
-            ax.set(ylabel="")
-            plt.xlim([0, x])
-            # plt.show()
+        bm_path_txt = p.parent.parent.parent.parent.parent / "Boite_moustache" / nommage_version
+        bm_path_ner = p.parent.parent.parent / "Boite_moustache" / nommage_version
+        bm_path = chemin_stockage(bm_path_ner)
+        # plt.show()
 
-##____Pour les Textes_____________________
-    # plt.savefig(f"../DATA-COL-E/{calc}_global_{cle}.png", dpi=300, bbox_inches="tight")  ##Texte
-##____Pour les Textes_____________________
-
-# ##____Pour la NER_____________________
-            plt.savefig(f"{sim_path}/{calc}_{autor}_{version}_{cle}.png",dpi=300, bbox_inches="tight")##NER
-# ##____Pour la NER_____________________
-plt.close()
+# ##____Pour les Textes_____________________
+#     plt.savefig(f"{bm_path}/{calc}_global_{cle}.png", dpi=300, bbox_inches="tight")  ##Texte
+# ##____Pour les Textes_____________________
+#
+# # ##____Pour la NER_____________________
+        plt.savefig(f"{bm_path}/{calc}_{autor}_{version}_{cle}.png",dpi=300, bbox_inches="tight")##NER
+# # ##____Pour la NER_____________________
+# plt.close()
