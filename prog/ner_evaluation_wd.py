@@ -1,6 +1,6 @@
 # Ce script fait l'évaluation de l'HTR (entre textes de REF et OCR) et de la NER il faut lire les commentaire pour adapter le programme au besoin
 # Ce script a été lancé sous windows avec succès/il devrait fonctionner pour distributions linux mais à tester
-# en ligne de commande sous windows avant, puis sélectionner le projet sous le disque X. Pour contrer la limitation des caractères dans les noms de chamin subst X: "C:\Users\Administrator\Documents\AVH2027_carolinekoudoroparfait"
+# en ligne de commande sous windows avant, puis sélectionner le projet sous le disque X. Pour contrer la limitation des caractères dans les noms de chemin subst X: "C:\Users\Administrator\Documents\AVH2027_carolinekoudoroparfait"
 
 from generic_tools import *
 import re
@@ -101,7 +101,7 @@ def traiter_corpus(reference_files,ocr_files, is_json=False):
                 new_scores_text["clean_eval"] = clean_eval_scores_txt
                 for k, v in distance_txt.items():
                     new_scores_text[k] = v
-                json_path = (sim_path / f"sim2-3_{name_ocr_file}_{model_name_ocr}.json").resolve() ## pour Textes # absolu
+                json_path = (sim_path / f"sim2-3_{name_ocr_file}_{model_name_ocr}.json").resolve() ## pour Textes
                 # json_path = (sim_path / f"sim2-3_{name_ocr_file}_{model_name_ocr}_{configNER_ocr}.json").resolve() ## pour NER # absolu
                 if json_path.is_file():  # Vérifie que c'est un vrai fichier
                     print("Already DONE : ", json_path)
@@ -124,7 +124,7 @@ if len(sys.argv) < 2:
 # Crée un dossier temporaire si nécessaire
 os.makedirs("tmp", exist_ok=True)
 
-# Chemin vers le dossier des auteurs
+# Chemin vers le dossier des sous-corpus
 path_auteurs = Path(sys.argv[1])
 print("Chemin auteurs :", path_auteurs)
 

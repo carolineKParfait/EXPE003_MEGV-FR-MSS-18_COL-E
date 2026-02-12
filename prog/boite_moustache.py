@@ -1,3 +1,6 @@
+# Ce script permet la création des graphiques de l'évaluation de l'HTR (entre textes de REF et OCR) et de la NER il faut lire les commentaire pour adapter le programme au besoin
+# Ce script a été lancé sous windows et Fedora (Linux) avec succès
+# en ligne de commande sous windows avant, puis sélectionner le projet sous le disque X. Pour contrer la limitation des caractères dans les noms de chemin subst X: "C:\Users\Administrator\Documents\AVH2027_carolinekoudoroparfait"
 import glob
 import pandas as pd
 import seaborn as sns
