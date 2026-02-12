@@ -2,13 +2,14 @@
 # Ce script a été lancé sous windows et Fedora (Linux) avec succès
 # en ligne de commande sous windows avant, puis sélectionner le projet sous le disque X. Pour contrer la limitation des caractères dans les noms de chemin subst X: "C:\Users\Administrator\Documents\AVH2027_carolinekoudoroparfait"
 import glob
+from pathlib import Path
 import pandas as pd
 import seaborn as sns
 import matplotlib
 matplotlib.use("TkAgg")  # ou "Qt5Agg" si tu as PyQt5 installé
 import matplotlib.pyplot as plt
 from renommage import *
-from pathlib import Path
+
 
 def boxplot(data_tab, x_col ,y_col):
     # Initialize the figure with a logarithmic x axis
@@ -29,7 +30,7 @@ def boxplot(data_tab, x_col ,y_col):
     # 👉 Ajout des légendes
     ax.set_xlabel(x_col, fontsize=25)
     ax.set_ylabel(y_col, fontsize=25)
-    plt.xlim([0, x])
+    plt.xlim([0, x_col])
 
 def chemin_stockage(sim_path) :
     sim_path.mkdir(parents=True, exist_ok=True)
@@ -50,7 +51,7 @@ for cle in liste_cle:
     # liste_version_spacy = []
     # liste_config = []
     # liste_dist = []
-    # liste_auteur = []
+    # liste_sous_corpus = []
     # liste_name_metric = []
     # liste_version_ren = []
     # ##____Pour les Textes_____________________
@@ -61,7 +62,7 @@ for cle in liste_cle:
         liste_version_spacy=[]
         liste_config=[]
         liste_dist=[]
-        liste_auteur=[]
+        liste_sous_corpus=[]
         liste_name_metric=[]
         liste_version_ren=[]
         ##____Pour la NER_____________________
@@ -72,16 +73,16 @@ for cle in liste_cle:
             print("Path :", p)
             corpus = p.parts[1]
             print("Corpus :", corpus)
-            autor = p.parts[2]
-            print("Auteur : ",autor)
+            sous_corpus = p.parts[2]
+            print("Sous-corpus : ", sous_corpus)
             nom_fichier = p.parts[-1].split("_")[1]
             print("Nom du fichier :", nom_fichier)
 
-            # ##____Pour les Textes_____________________
-            # version = p.parts[-1]
-            # version = Path(version.split("_")[-1]).stem
-            # print("Version : ", version)
-            # ##____Pour les Textes_____________________
+#             # ##____Pour les Textes_____________________
+#             # version = p.parts[-1]
+#             # version = Path(version.split("_")[-1]).stem
+#             # print("Version : ", version)
+#             # ##____Pour les Textes_____________________
 
             ##____Pour la NER_____________________
             version = p.parts[-1]
@@ -91,12 +92,12 @@ for cle in liste_cle:
             vers_ren = Path(vers_ren.split("_")[-1]).stem
             print("Version de NER : ",vers_ren)
             ##____Pour la NER_____________________
-
+            nommage_version = nommage(version)
+            print("Nommage version : ", nommage_version)
             distance=lire_fichier(path)
             print("Distance : ", distance)
 
-            nommage_version = nommage(version)
-            print("Nommage version : ", nommage_version)
+
 
             # liste_distance=[]
             for key, res_dist in distance.items():
@@ -107,11 +108,11 @@ for cle in liste_cle:
                         # print("Liste des noms de métric : ", liste_name_metric)
                         # liste_config.append(nommage_version+" -- "+"REF")#Pour Textes
                         liste_config.append(nommage_version+" -- "+vers_ren)#Pour NER
-                        liste_auteur.append(autor)
+                        liste_sous_corpus.append(sous_corpus)
                         liste_dist.append(res)
                         liste_version_ren.append(vers_ren)#Pour NER
 #
-        tableau["Corpus"]=liste_auteur
+        tableau["Corpus"]=liste_sous_corpus
         tableau["Configuration"]=liste_config
         tableau[f"Distance {cle}"]=liste_dist
         tableau["Metric"]=liste_name_metric
@@ -135,6 +136,6 @@ for cle in liste_cle:
 # ##____Pour les Textes_____________________
 #
 # # ##____Pour la NER_____________________
-        plt.savefig(f"{bm_path}/{calc}_{autor}_{version}_{cle}.png",dpi=300, bbox_inches="tight")##NER
+        plt.savefig(f"{bm_path}/{calc}_{sous_corpus}_{version}_{cle}.png",dpi=300, bbox_inches="tight")##NER
 # # ##____Pour la NER_____________________
 # plt.close()

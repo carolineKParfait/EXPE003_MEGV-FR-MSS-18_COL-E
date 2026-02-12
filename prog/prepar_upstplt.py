@@ -1,116 +1,115 @@
 import glob
-import json
-
-def lire_json (chemin):
-    with open(chemin) as mon_fichier:
-        data = json.load(mon_fichier)
-    return data
-def model_ocr(chemin):
-    ocr_mod = chemin.split("/")[4]#REN Normale
-    # ocr_mod = chemin.split("/")[6]##5 Correction 6 archéo
-    ocr_mod = ocr_mod.split("_")[-1]
-    # liste_moteur.append(ocr_mod)
-    # moteur = set(liste_moteur)
-    return ocr_mod
-
-def model_REN(chemin):
-    REN_version = chemin.split("_")[-1]
-    REN_version = REN_version.split("-liste")[0]
-    return REN_version
+from pathlib import Path
+from generic_tools import *
+from renommage import *
 
 
-def stocker(chemin, contenu):
-    w = open(chemin, "w")
-    w.write(json.dumps(contenu, indent=2))
-    w.close()
-    # print(chemin)
-    return chemin
-liste_GT = ["REF-GOLD", "REF-ACCMAJ", "Kraken-GOLD", "Kraken-ACCMAJ", "Tesseract-GOLD", "Tesseract-ACCMAJ"]
-GT = liste_GT[5]
-path_corpora = f"../CORPUS_COMPAR_TAL-ENS2_MISLABEL/"
-# path_corpora = f"../CORRECTION_DISTANCES/small-*"
-# path_corpora = f"../small-*"
+def lire_dico(fichier_json):
+    liste_en = []
+    for key, value in fichier_json.items():
+        for k, v in value.items():
+            if k == "text":
+                liste_en.append(v)
+    return liste_en
 
+path_corpora = f"../DATA/"
 
 for gen_path in glob.glob(path_corpora):
     dico_REN = {}
-    print("_____________",gen_path)
+    print("Chemin du dossier Données : ",gen_path)
     path_output = gen_path.split("/")[1]## 1 REN normale
-    print("----------------------------------->>>",path_output)
-    paths_ocr= f"{gen_path}*/*VERSIONS/*/NER/*liste.json"
-    paths_ref = f"%s*/*{GT}/NER/*liste.json"%gen_path
+    print("Nom du dossier Données : ",path_output)
 
-    for path_ocr in glob.glob(paths_ocr):
-        print(path_ocr)
-        auteur = path_ocr.split("/")[2] #4 archéo, 2 ou 3 pour autres
-        print(auteur)
-        version_REN_ocr=model_REN(path_ocr)
-        # dico_REN[version_REN_ocr]={}
-        moteur_ocr=model_ocr(path_ocr)
+    for path_ocr in glob.glob(f"{gen_path}/*/*OCR/*/*NER*/*.json"):
+        p = Path(path_ocr)
+        print("Chemin du dossier OCR : ", p)
+        sous_corpus = p.parts[2]
+        print("Sous-corpus : ", sous_corpus)
+        nom_fichier = p.parts[-1].split("_")[0]
+        print("Nom du fichier :", nom_fichier)
+        version = p.parts[-1]
+        version=Path(version.split("_")[-2]).stem
+        print("Version : ",version)
+        vers_ren = p.parts[-1]
+        vers_ren = Path(vers_ren.split("_")[-1]).stem
+        print("Version de NER : ",vers_ren)
+
+        renommage_version = nommage(version)
+        print("Nommage version : ", renommage_version)
+
+
         liste_ner_ocr = []
-        print(moteur_ocr)
-        data_ocr=lire_json(path_ocr)
-        # print(data_ocr)
-        # data_ocr=set(data_ocr)
-        for data in data_ocr:
-            liste_ner_ocr.append(data+"_"+auteur)
+        data_ocr = lire_fichier(path_ocr)
+        print(data_ocr)
+        liste_data_ocr = lire_dico(data_ocr)
+        print(liste_data_ocr)
+        set_data_ocr = set(liste_data_ocr)
+        print(set_data_ocr)
+        for data in set_data_ocr:
+            liste_ner_ocr.append(data+"_"+sous_corpus)
+        print(liste_ner_ocr)
 
-        if version_REN_ocr  in dico_REN:
-            if moteur_ocr in dico_REN[version_REN_ocr]:
-                dico_tmp = dico_REN[version_REN_ocr][ moteur_ocr]
+        # dico_REN[vers_ren] = {}
+        if vers_ren  in dico_REN:
+            if renommage_version in dico_REN[vers_ren]:
+                dico_tmp = dico_REN[vers_ren][ renommage_version]
                 dico_tmp += liste_ner_ocr
-                dico_REN[version_REN_ocr][ moteur_ocr] = dico_tmp
+                dico_REN[vers_ren][ renommage_version] = dico_tmp
             else:
-                dico_REN[version_REN_ocr][ moteur_ocr] = liste_ner_ocr
+                dico_REN[vers_ren][ renommage_version] = liste_ner_ocr
         else:
-            dico_REN[version_REN_ocr ] = {}
-            if moteur_ocr in dico_REN[version_REN_ocr]:
-                dico_tmp=dico_REN[version_REN_ocr][moteur_ocr]
+            dico_REN[vers_ren ] = {}
+            if renommage_version in dico_REN[vers_ren]:
+                dico_tmp=dico_REN[vers_ren][renommage_version]
                 dico_tmp+=liste_ner_ocr
-                dico_REN[version_REN_ocr][moteur_ocr]= dico_tmp
+                dico_REN[vers_ren][renommage_version]= dico_tmp
             else:
-                dico_REN[version_REN_ocr][moteur_ocr] = liste_ner_ocr
+                dico_REN[vers_ren][renommage_version] = liste_ner_ocr
 
-    # print(dico_REN)
-    for path_ref in glob.glob(paths_ref):
-        # print(path_ref)
-        auteur = path_ref.split("/")[2] #4 archéo
-        # print("****AUTEUR***:",auteur)
-        version_REN_ref = model_REN(path_ref)
-        # version_REN_ref = "Ref."
-        liste_ner_ref = []
-        data_ref=lire_json(path_ref)
-        for data in data_ref:
-            liste_ner_ref.append(data+"_"+auteur)
+        # print(dico_REN)
 
-        if version_REN_ref  in dico_REN:
-            if GT in dico_REN[version_REN_ref]:
-                dico_tmp = dico_REN[version_REN_ref][ GT]
-                dico_tmp += liste_ner_ref
-                dico_REN[version_REN_ref][GT] = dico_tmp
-            else:
-                dico_REN[version_REN_ref][GT] = liste_ner_ref
-        else:
-            dico_REN[version_REN_ref] = {}
-            if GT in dico_REN[version_REN_ocr]:
-                dico_tmp=dico_REN[version_REN_ref][GT]
-                dico_tmp+=liste_ner_ref
-                dico_REN[version_REN_ref][GT]= dico_tmp
-            else:
-                dico_REN[version_REN_ref][GT] = liste_ner_ref
-    # print(dico_REN["Ref"])
-    for kle, value in dico_REN.items():
-        if kle != GT :
-            # print(kle)
-            value[GT] = {}
-            value[GT] = dico_REN[version_REN_ref][GT]
-    # print(dico_REN)
+
+    # for path_ref in glob.glob(f"{gen_path}/*/*REF/*NER*/*.json"):
+    #     print("Chemin du dossier REF : ", path_ref)
+    #     auteur = path_ref.split("/")[2] #4 archéo
+    #     # print("****AUTEUR***:",auteur)
+    #     version_REN_ref = model_REN(path_ref)
+    #     # version_REN_ref = "Ref."
+    #     liste_ner_ref = []
+    #     data_ref=lire_json(path_ref)
+    #     for data in data_ref:
+    #         liste_ner_ref.append(data+"_"+auteur)
     #
-    for kle, value in dico_REN.items():
-
-        stocker(f"../Upsetplot_intersection/GLOBAL/{path_output}/{path_output}_{GT}_{kle}.json" ,value)
+    #     if version_REN_ref  in dico_REN:
+    #         if GT in dico_REN[version_REN_ref]:
+    #             dico_tmp = dico_REN[version_REN_ref][ GT]
+    #             dico_tmp += liste_ner_ref
+    #             dico_REN[version_REN_ref][GT] = dico_tmp
+    #         else:
+    #             dico_REN[version_REN_ref][GT] = liste_ner_ref
+    #     else:
+    #         dico_REN[version_REN_ref] = {}
+    #         if GT in dico_REN[version_REN_ocr]:
+    #             dico_tmp=dico_REN[version_REN_ref][GT]
+    #             dico_tmp+=liste_ner_ref
+    #             dico_REN[version_REN_ref][GT]= dico_tmp
+    #         else:
+    #             dico_REN[version_REN_ref][GT] = liste_ner_ref
+    # # print(dico_REN["Ref"])
+    # for kle, value in dico_REN.items():
+    #     if kle != GT :
+    #         # print(kle)
+    #         value[GT] = {}
+    #         value[GT] = dico_REN[version_REN_ref][GT]
+    # # print(dico_REN)
+    # #
+    # for kle, value in dico_REN.items():
+    #
+    #     stocker(f"../Upsetplot_intersection/GLOBAL/{path_output}/{path_output}_{GT}_{kle}.json" ,value)
     #     # stocker(f"../Upsetplot_intersection/GLOBAL/{path_output}/{path_output}_{kle}.json", value)
     #     # stocker(f"../CORRECTION_DISTANCES/Upsetplot_intersection/GLOBAL/{path_output}/{path_output}_{kle}.json", value)
+
+
     # liste_res_nb = {}
     # for key, dico_resultat in dico_REN.items():
     #     kk=key.split("-")[-1]
