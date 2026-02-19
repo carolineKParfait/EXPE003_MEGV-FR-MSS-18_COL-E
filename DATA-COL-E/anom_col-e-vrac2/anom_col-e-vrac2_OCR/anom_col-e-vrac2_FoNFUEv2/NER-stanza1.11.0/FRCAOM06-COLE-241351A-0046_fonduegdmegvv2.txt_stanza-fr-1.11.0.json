@@ -1,0 +1,130 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "M. Reymond",
+    "jalons": [
+      0,
+      10
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Parlem^t Rue des fosses Montmartre",
+    "jalons": [
+      21,
+      55
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      59,
+      64
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Le 252 Vouse",
+    "jalons": [
+      65,
+      77
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Cy",
+    "jalons": [
+      88,
+      90
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Copie d&#39;une Lettre",
+    "jalons": [
+      105,
+      127
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Eté Ecrite",
+    "jalons": [
+      140,
+      151
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Les administroteurs de la Martinique",
+    "jalons": [
+      156,
+      192
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "Sujet de la Réclamation",
+    "jalons": [
+      196,
+      220
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "Puymeras",
+    "jalons": [
+      241,
+      249
+    ]
+  },
+  "entite_10": {
+    "label": "MISC",
+    "text": "D&#39",
+    "jalons": [
+      251,
+      256
+    ]
+  },
+  "entite_11": {
+    "label": "MISC",
+    "text": "Renseignem^t",
+    "jalons": [
+      268,
+      280
+    ]
+  },
+  "entite_12": {
+    "label": "MISC",
+    "text": "Nouvelle lettre de Recommandation",
+    "jalons": [
+      318,
+      351
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "Infructueuse",
+    "jalons": [
+      400,
+      412
+    ]
+  },
+  "entite_14": {
+    "label": "ORG",
+    "text": "Ministere Britannique",
+    "jalons": [
+      520,
+      541
+    ]
+  },
+  "entite_15": {
+    "label": "PER",
+    "text": "Reclament",
+    "jalons": [
+      578,
+      587
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Gorry",
+    "jalons": [
+      0,
+      5
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Jean)\nSoldat",
+    "jalons": [
+      7,
+      19
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Guyane",
+    "jalons": [
+      23,
+      29
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Colonies\nE 209",
+    "jalons": [
+      37,
+      51
+    ]
+  }
+}

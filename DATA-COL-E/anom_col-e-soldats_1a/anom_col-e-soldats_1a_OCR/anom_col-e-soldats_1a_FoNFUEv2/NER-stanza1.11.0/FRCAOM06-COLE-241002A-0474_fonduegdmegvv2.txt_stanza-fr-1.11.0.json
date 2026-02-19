@@ -1,0 +1,58 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "premter Medecin",
+    "jalons": [
+      55,
+      70
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Officier",
+    "jalons": [
+      80,
+      88
+    ]
+  },
+  "entite_2": {
+    "label": "ORG",
+    "text": "Maisons destinées",
+    "jalons": [
+      360,
+      378
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "D&#39",
+    "jalons": [
+      430,
+      435
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "L&#39",
+    "jalons": [
+      462,
+      467
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "la Rochelle",
+    "jalons": [
+      479,
+      490
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Grandville",
+    "jalons": [
+      539,
+      549
+    ]
+  }
+}

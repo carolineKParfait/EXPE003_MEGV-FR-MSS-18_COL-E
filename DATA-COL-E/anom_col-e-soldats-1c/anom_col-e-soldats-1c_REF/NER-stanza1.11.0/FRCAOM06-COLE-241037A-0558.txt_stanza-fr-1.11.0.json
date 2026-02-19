@@ -1,0 +1,58 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Bigory",
+    "jalons": [
+      0,
+      6
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "jean Bigory",
+    "jalons": [
+      104,
+      115
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Martinique",
+    "jalons": [
+      129,
+      139
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Reforme",
+    "jalons": [
+      164,
+      171
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Disenterie",
+    "jalons": [
+      181,
+      191
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "S^t Martin de Ré",
+    "jalons": [
+      465,
+      481
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Picamilly",
+    "jalons": [
+      499,
+      508
+    ]
+  }
+}

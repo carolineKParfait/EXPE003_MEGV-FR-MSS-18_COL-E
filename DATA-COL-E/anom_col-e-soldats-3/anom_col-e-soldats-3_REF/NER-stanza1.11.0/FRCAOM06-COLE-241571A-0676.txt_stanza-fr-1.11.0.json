@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Cap",
+    "jalons": [
+      23,
+      26
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Germain marie Robillard",
+    "jalons": [
+      52,
+      75
+    ]
+  },
+  "entite_2": {
+    "label": "ORG",
+    "text": "Regiment du Cap Comp^e",
+    "jalons": [
+      86,
+      108
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Roi:",
+    "jalons": [
+      293,
+      297
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Certificat au Cap",
+    "jalons": [
+      353,
+      370
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Baradat",
+    "jalons": [
+      385,
+      392
+    ]
+  }
+}

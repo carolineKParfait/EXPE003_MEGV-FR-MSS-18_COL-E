@@ -1,0 +1,34 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Lemius (Arnold",
+    "jalons": [
+      0,
+      14
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Soldat des régiment de Salis",
+    "jalons": [
+      23,
+      51
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Quercy",
+    "jalons": [
+      58,
+      64
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Saint-Domingue",
+    "jalons": [
+      94,
+      108
+    ]
+  }
+}

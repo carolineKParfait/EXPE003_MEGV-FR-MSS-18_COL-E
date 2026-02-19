@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "L C\nMonseigneur\nM. Le R. du fer",
+    "jalons": [
+      4,
+      35
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Egard",
+    "jalons": [
+      186,
+      191
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Collonni Caiénne",
+    "jalons": [
+      317,
+      333
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Martinique",
+    "jalons": [
+      337,
+      347
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Rochefort",
+    "jalons": [
+      661,
+      670
+    ]
+  }
+}

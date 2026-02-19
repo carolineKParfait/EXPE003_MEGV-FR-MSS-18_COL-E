@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Robillard",
+    "jalons": [
+      0,
+      9
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Roi",
+    "jalons": [
+      32,
+      35
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Cap soussigné",
+    "jalons": [
+      39,
+      52
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Germain Marie\nRobillard",
+    "jalons": [
+      68,
+      91
+    ]
+  },
+  "entite_4": {
+    "label": "ORG",
+    "text": "Regiment de Cap\nCompagnie",
+    "jalons": [
+      102,
+      127
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Coup de sabre",
+    "jalons": [
+      151,
+      164
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Certificat au Cap",
+    "jalons": [
+      371,
+      388
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Baradat",
+    "jalons": [
+      403,
+      410
+    ]
+  }
+}

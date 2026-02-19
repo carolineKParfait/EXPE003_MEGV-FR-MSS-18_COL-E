@@ -1,0 +1,98 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Vautrain antoine\nCOLONIES\nFRANÇOISES",
+    "jalons": [
+      0,
+      36
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "Compagnie\nde Valliere\nEXTRAIT du Registre mortuaire\nde l&#x27;Hôpital-Militaire de la Basse-\nTerre Guadeloupe",
+    "jalons": [
+      38,
+      147
+    ]
+  },
+  "entite_2": {
+    "label": "ORG",
+    "text": "Regiment Darmagnac\nNOUS",
+    "jalons": [
+      149,
+      172
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Aumônier de l&#x27",
+    "jalons": [
+      174,
+      192
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Basse-Terre Guadeloupe",
+    "jalons": [
+      217,
+      239
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Cuve⎯\nJurisdiction",
+    "jalons": [
+      292,
+      310
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Cimetiere dudit Hôpital",
+    "jalons": [
+      463,
+      486
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Sacrements",
+    "jalons": [
+      521,
+      531
+    ]
+  },
+  "entite_8": {
+    "label": "LOC",
+    "text": "Basse-Terre Guadeloupe",
+    "jalons": [
+      544,
+      566
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Nous Sous-Commissaire\nde la Marine",
+    "jalons": [
+      623,
+      657
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Commissaire des Guerres",
+    "jalons": [
+      699,
+      722
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "Mercier",
+    "jalons": [
+      724,
+      731
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Madame\nMadame la Comtesse de Conflans",
+    "jalons": [
+      2,
+      39
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Port de Brest",
+    "jalons": [
+      43,
+      56
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Basse Bretagne",
+    "jalons": [
+      60,
+      74
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Brest",
+    "jalons": [
+      77,
+      82
+    ]
+  }
+}

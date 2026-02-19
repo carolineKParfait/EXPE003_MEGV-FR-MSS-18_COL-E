@@ -1,0 +1,378 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Cy Contre",
+    "jalons": [
+      0,
+      9
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "Facture de la Cargaison du Brig^n La Betscy Cap^e",
+    "jalons": [
+      28,
+      77
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Conyere Venant",
+    "jalons": [
+      94,
+      108
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Virginie Chargé Pour Leoganne",
+    "jalons": [
+      115,
+      144
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "M^r Dejujardy\nScavoir\n5200",
+    "jalons": [
+      163,
+      189
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Facture de la Cargaison du Navire la Sally Cap^e Bristol",
+    "jalons": [
+      191,
+      247
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Brown Venant",
+    "jalons": [
+      265,
+      277
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Virginie Chargé Pour le Port au Prince",
+    "jalons": [
+      284,
+      322
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "M^r Dejujardy",
+    "jalons": [
+      341,
+      354
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Scavoir",
+    "jalons": [
+      356,
+      363
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "Carg^on de la Go^te la Piggy Cap^e Thomas\nSimon Venant de la Nouvelle angleterre",
+    "jalons": [
+      400,
+      480
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "Port au⎯\nPrince",
+    "jalons": [
+      496,
+      511
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "M^r Dejujardy\nScavoir",
+    "jalons": [
+      530,
+      551
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "Carg^on",
+    "jalons": [
+      572,
+      579
+    ]
+  },
+  "entite_14": {
+    "label": "MISC",
+    "text": "Brig^n",
+    "jalons": [
+      583,
+      589
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "Nancy Cap^e Brown Ven^t",
+    "jalons": [
+      593,
+      616
+    ]
+  },
+  "entite_16": {
+    "label": "MISC",
+    "text": "Nouvelle ang^re Chargé Pour le Port au Prince",
+    "jalons": [
+      640,
+      685
+    ]
+  },
+  "entite_17": {
+    "label": "PER",
+    "text": "M^r Dejujardy\nScavoir",
+    "jalons": [
+      704,
+      725
+    ]
+  },
+  "entite_18": {
+    "label": "MISC",
+    "text": "Carg^on",
+    "jalons": [
+      745,
+      752
+    ]
+  },
+  "entite_19": {
+    "label": "MISC",
+    "text": "Brig^n Lunion Cap^e Samuel Villiams Ven^t",
+    "jalons": [
+      756,
+      797
+    ]
+  },
+  "entite_20": {
+    "label": "LOC",
+    "text": "Nouvelle angleterre",
+    "jalons": [
+      821,
+      840
+    ]
+  },
+  "entite_21": {
+    "label": "LOC",
+    "text": "Cap",
+    "jalons": [
+      856,
+      859
+    ]
+  },
+  "entite_22": {
+    "label": "PER",
+    "text": "M^r\nDejujardy\nScavoir",
+    "jalons": [
+      878,
+      899
+    ]
+  },
+  "entite_23": {
+    "label": "MISC",
+    "text": "Carg^on",
+    "jalons": [
+      920,
+      927
+    ]
+  },
+  "entite_24": {
+    "label": "MISC",
+    "text": "G^te le Williams Cap^e Thomas hill",
+    "jalons": [
+      934,
+      968
+    ]
+  },
+  "entite_25": {
+    "label": "LOC",
+    "text": "Virginie",
+    "jalons": [
+      1001,
+      1009
+    ]
+  },
+  "entite_26": {
+    "label": "LOC",
+    "text": "Port au Prince",
+    "jalons": [
+      1025,
+      1039
+    ]
+  },
+  "entite_27": {
+    "label": "PER",
+    "text": "M^r\nDejujardy\nScavoir",
+    "jalons": [
+      1058,
+      1079
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "Milliers de Pied de Bois de Pispin",
+    "jalons": [
+      1110,
+      1144
+    ]
+  },
+  "entite_29": {
+    "label": "LOC",
+    "text": "Mercreins a Sucre",
+    "jalons": [
+      1178,
+      1195
+    ]
+  },
+  "entite_30": {
+    "label": "MISC",
+    "text": "Idem D&#x27",
+    "jalons": [
+      1220,
+      1231
+    ]
+  },
+  "entite_31": {
+    "label": "LOC",
+    "text": "140000 Pieds de Bois Equaris",
+    "jalons": [
+      1263,
+      1291
+    ]
+  },
+  "entite_32": {
+    "label": "LOC",
+    "text": "Essentes de Cypre",
+    "jalons": [
+      1324,
+      1341
+    ]
+  },
+  "entite_33": {
+    "label": "LOC",
+    "text": "Pieds Bois Equaris de pispin Rouge",
+    "jalons": [
+      1381,
+      1415
+    ]
+  },
+  "entite_34": {
+    "label": "LOC",
+    "text": "Planches",
+    "jalons": [
+      1449,
+      1457
+    ]
+  },
+  "entite_35": {
+    "label": "LOC",
+    "text": "Mille D&#x27",
+    "jalons": [
+      1485,
+      1497
+    ]
+  },
+  "entite_36": {
+    "label": "LOC",
+    "text": "Pieds Bois Equaris",
+    "jalons": [
+      1537,
+      1555
+    ]
+  },
+  "entite_37": {
+    "label": "LOC",
+    "text": "Essentes",
+    "jalons": [
+      1589,
+      1597
+    ]
+  },
+  "entite_38": {
+    "label": "LOC",
+    "text": "Merrins",
+    "jalons": [
+      1629,
+      1636
+    ]
+  },
+  "entite_39": {
+    "label": "LOC",
+    "text": "Morue",
+    "jalons": [
+      1675,
+      1680
+    ]
+  },
+  "entite_40": {
+    "label": "LOC",
+    "text": "Pieds de Planches",
+    "jalons": [
+      1719,
+      1736
+    ]
+  },
+  "entite_41": {
+    "label": "LOC",
+    "text": "Essentes",
+    "jalons": [
+      1774,
+      1782
+    ]
+  },
+  "entite_42": {
+    "label": "LOC",
+    "text": "Merrins",
+    "jalons": [
+      1820,
+      1827
+    ]
+  },
+  "entite_43": {
+    "label": "LOC",
+    "text": "Boucaud",
+    "jalons": [
+      1830,
+      1837
+    ]
+  },
+  "entite_44": {
+    "label": "LOC",
+    "text": "20 Mille Pieds de Planchesa",
+    "jalons": [
+      1863,
+      1890
+    ]
+  },
+  "entite_45": {
+    "label": "LOC",
+    "text": "20 Mille Pieds de Bois quaris",
+    "jalons": [
+      1915,
+      1944
+    ]
+  },
+  "entite_46": {
+    "label": "LOC",
+    "text": "Mille Essentes",
+    "jalons": [
+      1977,
+      1991
+    ]
+  }
+}

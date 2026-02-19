@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "ORG",
+    "text": "TRENI",
+    "jalons": [
+      3,
+      8
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "M. Jean Madame la Marechale",
+    "jalons": [
+      49,
+      76
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "M^rs",
+    "jalons": [
+      157,
+      161
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Monfrere",
+    "jalons": [
+      236,
+      244
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Madame la Marrechale",
+    "jalons": [
+      295,
+      315
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Couvent",
+    "jalons": [
+      357,
+      364
+    ]
+  }
+}

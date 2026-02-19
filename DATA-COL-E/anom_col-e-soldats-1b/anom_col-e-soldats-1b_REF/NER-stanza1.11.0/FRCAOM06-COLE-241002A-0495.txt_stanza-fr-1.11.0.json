@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "Révolution",
+    "jalons": [
+      156,
+      166
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "Gouvernement",
+    "jalons": [
+      225,
+      237
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Question",
+    "jalons": [
+      295,
+      303
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Veuillez\nCitoyen Ministre",
+    "jalons": [
+      305,
+      330
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Salut et Respect",
+    "jalons": [
+      383,
+      399
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Le Conseiller de",
+    "jalons": [
+      437,
+      453
+    ]
+  },
+  "entite_6": {
+    "label": "ORG",
+    "text": "Préfecture\nde la préfecture\nDélégué du Prefet",
+    "jalons": [
+      454,
+      499
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Lidoillus\nDubuy",
+    "jalons": [
+      511,
+      526
+    ]
+  }
+}

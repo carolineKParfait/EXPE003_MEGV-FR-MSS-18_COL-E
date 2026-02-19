@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "premier Medecin",
+    "jalons": [
+      55,
+      70
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Officier",
+    "jalons": [
+      80,
+      88
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Maisons",
+    "jalons": [
+      357,
+      364
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "la Rochelle",
+    "jalons": [
+      472,
+      483
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "M de la Grandville",
+    "jalons": [
+      526,
+      544
+    ]
+  }
+}

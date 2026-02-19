@@ -1,0 +1,82 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      2,
+      7
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Rüe du gindre",
+    "jalons": [
+      27,
+      40
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "S^t Sulpice",
+    "jalons": [
+      48,
+      59
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "M^r D&#x27",
+    "jalons": [
+      173,
+      183
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Cour",
+    "jalons": [
+      478,
+      482
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Roi",
+    "jalons": [
+      588,
+      591
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "M^e La Comtesse de Rochechouart",
+    "jalons": [
+      611,
+      642
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "M^r le Comte de la feuillade",
+    "jalons": [
+      662,
+      690
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "M^r Laxalde",
+    "jalons": [
+      1566,
+      1577
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Conflans",
+    "jalons": [
+      1914,
+      1922
+    ]
+  }
+}

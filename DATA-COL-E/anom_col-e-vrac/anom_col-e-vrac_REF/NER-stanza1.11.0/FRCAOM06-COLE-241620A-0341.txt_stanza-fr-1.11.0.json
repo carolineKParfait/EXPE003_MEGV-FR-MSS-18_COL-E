@@ -1,0 +1,58 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      0,
+      6
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "M. Taffart",
+    "jalons": [
+      29,
+      39
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "S^t Domingue",
+    "jalons": [
+      63,
+      75
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "M. Votre frere",
+    "jalons": [
+      93,
+      107
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Ré",
+    "jalons": [
+      190,
+      192
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "M. Votre Pere",
+    "jalons": [
+      214,
+      227
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "M. Votre fere",
+    "jalons": [
+      318,
+      331
+    ]
+  }
+}

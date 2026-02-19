@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "M. Monseigneur",
+    "jalons": [
+      0,
+      14
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "M. de Villeneure",
+    "jalons": [
+      16,
+      32
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Sediéres",
+    "jalons": [
+      54,
+      63
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      95,
+      100
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Saint Domingue",
+    "jalons": [
+      234,
+      248
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "J&#39;ai",
+    "jalons": [
+      802,
+      810
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      812,
+      823
+    ]
+  },
+  "entite_7": {
+    "label": "ORG",
+    "text": "Compagnie des gardes de Rochefort",
+    "jalons": [
+      935,
+      968
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "entite_0": {
+    "label": "ORG",
+    "text": "caisse des Invalides",
+    "jalons": [
+      151,
+      171
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "Bureau des fonds",
+    "jalons": [
+      223,
+      239
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Invalides",
+    "jalons": [
+      264,
+      273
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "C^n Bonpeur",
+    "jalons": [
+      360,
+      371
+    ]
+  }
+}

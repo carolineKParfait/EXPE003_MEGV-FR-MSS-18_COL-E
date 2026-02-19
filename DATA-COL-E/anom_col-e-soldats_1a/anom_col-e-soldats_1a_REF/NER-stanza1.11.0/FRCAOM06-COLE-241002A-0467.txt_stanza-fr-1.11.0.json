@@ -1,0 +1,122 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "J&#x27;ai",
+    "jalons": [
+      62,
+      71
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "MM",
+    "jalons": [
+      253,
+      255
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Bataillon",
+    "jalons": [
+      276,
+      285
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "J&#x27",
+    "jalons": [
+      373,
+      379
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "MM.",
+    "jalons": [
+      539,
+      542
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "M^r D&#x27",
+    "jalons": [
+      589,
+      599
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "le Recouvrement",
+    "jalons": [
+      694,
+      709
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "J&#x27",
+    "jalons": [
+      711,
+      717
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "Bordereau",
+    "jalons": [
+      908,
+      917
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "Corps",
+    "jalons": [
+      945,
+      950
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      999,
+      1010
+    ]
+  },
+  "entite_11": {
+    "label": "MISC",
+    "text": "C&#x27",
+    "jalons": [
+      1167,
+      1173
+    ]
+  },
+  "entite_12": {
+    "label": "PER",
+    "text": "Monseingeur",
+    "jalons": [
+      1269,
+      1280
+    ]
+  },
+  "entite_13": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      1468,
+      1479
+    ]
+  },
+  "entite_14": {
+    "label": "MISC",
+    "text": "Obléissant serviteur",
+    "jalons": [
+      1507,
+      1527
+    ]
+  }
+}

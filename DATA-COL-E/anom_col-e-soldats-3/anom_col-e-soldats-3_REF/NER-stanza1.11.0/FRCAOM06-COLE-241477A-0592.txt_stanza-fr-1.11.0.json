@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "^bis\nMérique",
+    "jalons": [
+      7,
+      19
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "François\nnatif de Gascogne",
+    "jalons": [
+      21,
+      47
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Soldat",
+    "jalons": [
+      49,
+      55
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Martinique",
+    "jalons": [
+      74,
+      84
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Fort-Royal",
+    "jalons": [
+      93,
+      103
+    ]
+  }
+}

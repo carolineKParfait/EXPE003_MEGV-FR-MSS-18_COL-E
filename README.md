@@ -15,7 +15,7 @@ Dans ce dépôt tu trouveras les programmes (prog) et les résultats pour :
 - Calcul de distances avec diverses métriques de similarité/distances dans les dossiers SIM :
     + [x] spaCy 2.3.5 ;
     + [X] spaCy 3.8.11 ;
-    + [ ] Stanza 1.2.1 ;
+    + [X] Stanza 1.2.1 ;
     + [ ] Stanza ;
     + [ ] Bert ;
 - Graphiques pour les résultats des SIM ;

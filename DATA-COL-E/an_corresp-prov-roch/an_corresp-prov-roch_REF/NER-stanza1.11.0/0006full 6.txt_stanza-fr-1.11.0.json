@@ -1,0 +1,58 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "M. le comte de magallon",
+    "jalons": [
+      0,
+      23
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Procureur du Roy",
+    "jalons": [
+      490,
+      506
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "S^t marc",
+    "jalons": [
+      509,
+      517
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "M. de la mardelle",
+    "jalons": [
+      818,
+      835
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "S^t domingue",
+    "jalons": [
+      939,
+      951
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Roy",
+    "jalons": [
+      988,
+      991
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "le\nTravail",
+    "jalons": [
+      1065,
+      1075
+    ]
+  }
+}

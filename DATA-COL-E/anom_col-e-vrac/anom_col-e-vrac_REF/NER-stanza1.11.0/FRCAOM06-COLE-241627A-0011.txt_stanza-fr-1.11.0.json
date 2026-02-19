@@ -1,0 +1,114 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "Sentence",
+    "jalons": [
+      4,
+      12
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Contumace",
+    "jalons": [
+      43,
+      52
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Mathieu Janson",
+    "jalons": [
+      54,
+      68
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Domaine de la –\nCompagnie Royale de S^t Domingue",
+    "jalons": [
+      192,
+      240
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Effigie",
+    "jalons": [
+      358,
+      365
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Janson",
+    "jalons": [
+      551,
+      557
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Coup de Pistolet",
+    "jalons": [
+      572,
+      588
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Thomy",
+    "jalons": [
+      591,
+      596
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "Pistolet",
+    "jalons": [
+      606,
+      614
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Plomb",
+    "jalons": [
+      648,
+      653
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Thomy",
+    "jalons": [
+      657,
+      662
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "Thomy",
+    "jalons": [
+      981,
+      986
+    ]
+  },
+  "entite_12": {
+    "label": "PER",
+    "text": "Janson",
+    "jalons": [
+      1040,
+      1046
+    ]
+  },
+  "entite_13": {
+    "label": "PER",
+    "text": "Réné Guyen",
+    "jalons": [
+      1053,
+      1063
+    ]
+  }
+}

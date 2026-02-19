@@ -1,0 +1,538 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Julie",
+    "jalons": [
+      10,
+      15
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Jeanne",
+    "jalons": [
+      41,
+      47
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Rose marion",
+    "jalons": [
+      126,
+      137
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Rose maçon",
+    "jalons": [
+      156,
+      166
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Saintes",
+    "jalons": [
+      238,
+      245
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "marie Jeanne",
+    "jalons": [
+      304,
+      316
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "marie Saïntes",
+    "jalons": [
+      363,
+      376
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Simon",
+    "jalons": [
+      796,
+      801
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Jacquet",
+    "jalons": [
+      882,
+      889
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Scipion",
+    "jalons": [
+      1058,
+      1065
+    ]
+  },
+  "entite_10": {
+    "label": "MISC",
+    "text": "Jeunesse",
+    "jalons": [
+      1117,
+      1125
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "Paul",
+    "jalons": [
+      1202,
+      1206
+    ]
+  },
+  "entite_12": {
+    "label": "PER",
+    "text": "guillaume",
+    "jalons": [
+      1232,
+      1241
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "Beti",
+    "jalons": [
+      1619,
+      1623
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "Commandeurs\nambroise",
+    "jalons": [
+      2093,
+      2113
+    ]
+  },
+  "entite_15": {
+    "label": "PER",
+    "text": "Jean la forcade",
+    "jalons": [
+      2125,
+      2140
+    ]
+  },
+  "entite_16": {
+    "label": "LOC",
+    "text": "Sucriers\nandré",
+    "jalons": [
+      2149,
+      2163
+    ]
+  },
+  "entite_17": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      2202,
+      2209
+    ]
+  },
+  "entite_18": {
+    "label": "PER",
+    "text": "Joseph",
+    "jalons": [
+      2310,
+      2316
+    ]
+  },
+  "entite_19": {
+    "label": "PER",
+    "text": "Coffi",
+    "jalons": [
+      2349,
+      2354
+    ]
+  },
+  "entite_20": {
+    "label": "PER",
+    "text": "Bernard",
+    "jalons": [
+      2384,
+      2391
+    ]
+  },
+  "entite_21": {
+    "label": "PER",
+    "text": "Jannot",
+    "jalons": [
+      2487,
+      2493
+    ]
+  },
+  "entite_22": {
+    "label": "LOC",
+    "text": "Sanadon",
+    "jalons": [
+      2616,
+      2623
+    ]
+  },
+  "entite_23": {
+    "label": "LOC",
+    "text": "40\nJasmin",
+    "jalons": [
+      2633,
+      2642
+    ]
+  },
+  "entite_24": {
+    "label": "LOC",
+    "text": "la Jeunesse",
+    "jalons": [
+      2680,
+      2691
+    ]
+  },
+  "entite_25": {
+    "label": "PER",
+    "text": "Joseph congo",
+    "jalons": [
+      2840,
+      2852
+    ]
+  },
+  "entite_26": {
+    "label": "PER",
+    "text": "Jolicoeur",
+    "jalons": [
+      2861,
+      2870
+    ]
+  },
+  "entite_27": {
+    "label": "PER",
+    "text": "Jean",
+    "jalons": [
+      2911,
+      2915
+    ]
+  },
+  "entite_28": {
+    "label": "PER",
+    "text": "Jean pierre",
+    "jalons": [
+      3019,
+      3030
+    ]
+  },
+  "entite_29": {
+    "label": "PER",
+    "text": "Jean francois",
+    "jalons": [
+      3040,
+      3053
+    ]
+  },
+  "entite_30": {
+    "label": "LOC",
+    "text": "Vareux",
+    "jalons": [
+      3151,
+      3157
+    ]
+  },
+  "entite_31": {
+    "label": "PER",
+    "text": "Jean baptiste",
+    "jalons": [
+      3262,
+      3275
+    ]
+  },
+  "entite_32": {
+    "label": "PER",
+    "text": "Paul",
+    "jalons": [
+      3289,
+      3293
+    ]
+  },
+  "entite_33": {
+    "label": "LOC",
+    "text": "Jupiter",
+    "jalons": [
+      3420,
+      3427
+    ]
+  },
+  "entite_34": {
+    "label": "PER",
+    "text": "Robert",
+    "jalons": [
+      3447,
+      3453
+    ]
+  },
+  "entite_35": {
+    "label": "PER",
+    "text": "Scipion",
+    "jalons": [
+      3473,
+      3480
+    ]
+  },
+  "entite_36": {
+    "label": "PER",
+    "text": "Jacqueline",
+    "jalons": [
+      3509,
+      3519
+    ]
+  },
+  "entite_37": {
+    "label": "PER",
+    "text": "Toinette",
+    "jalons": [
+      3649,
+      3657
+    ]
+  },
+  "entite_38": {
+    "label": "MISC",
+    "text": "Susane",
+    "jalons": [
+      3856,
+      3862
+    ]
+  },
+  "entite_39": {
+    "label": "PER",
+    "text": "Sophie",
+    "jalons": [
+      3986,
+      3992
+    ]
+  },
+  "entite_40": {
+    "label": "PER",
+    "text": "Jeanne",
+    "jalons": [
+      4126,
+      4132
+    ]
+  },
+  "entite_41": {
+    "label": "PER",
+    "text": "Jeanne",
+    "jalons": [
+      4274,
+      4280
+    ]
+  },
+  "entite_42": {
+    "label": "PER",
+    "text": "Jean baptiste",
+    "jalons": [
+      4850,
+      4863
+    ]
+  },
+  "entite_43": {
+    "label": "PER",
+    "text": "Jean jospeh",
+    "jalons": [
+      4878,
+      4889
+    ]
+  },
+  "entite_44": {
+    "label": "PER",
+    "text": "Jean denis",
+    "jalons": [
+      4936,
+      4946
+    ]
+  },
+  "entite_45": {
+    "label": "PER",
+    "text": "Jean francois",
+    "jalons": [
+      5017,
+      5030
+    ]
+  },
+  "entite_46": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      5047,
+      5054
+    ]
+  },
+  "entite_47": {
+    "label": "PER",
+    "text": "Jean christophe",
+    "jalons": [
+      5201,
+      5216
+    ]
+  },
+  "entite_48": {
+    "label": "PER",
+    "text": "Jean pierre",
+    "jalons": [
+      5230,
+      5241
+    ]
+  },
+  "entite_49": {
+    "label": "PER",
+    "text": "Jean charles",
+    "jalons": [
+      5261,
+      5273
+    ]
+  },
+  "entite_50": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      5323,
+      5330
+    ]
+  },
+  "entite_51": {
+    "label": "PER",
+    "text": "Baptiste",
+    "jalons": [
+      5354,
+      5362
+    ]
+  },
+  "entite_52": {
+    "label": "PER",
+    "text": "philippe",
+    "jalons": [
+      5385,
+      5393
+    ]
+  },
+  "entite_53": {
+    "label": "PER",
+    "text": "Louisa",
+    "jalons": [
+      5439,
+      5445
+    ]
+  },
+  "entite_54": {
+    "label": "PER",
+    "text": "marie Joseph",
+    "jalons": [
+      5522,
+      5534
+    ]
+  },
+  "entite_55": {
+    "label": "PER",
+    "text": "Jeanne nicolette",
+    "jalons": [
+      5921,
+      5937
+    ]
+  },
+  "entite_56": {
+    "label": "PER",
+    "text": "Joseph quinba",
+    "jalons": [
+      6048,
+      6061
+    ]
+  },
+  "entite_57": {
+    "label": "PER",
+    "text": "Jamet quinba",
+    "jalons": [
+      6075,
+      6087
+    ]
+  },
+  "entite_58": {
+    "label": "PER",
+    "text": "Jacques quiamba",
+    "jalons": [
+      6102,
+      6117
+    ]
+  },
+  "entite_59": {
+    "label": "PER",
+    "text": "Jean bambara",
+    "jalons": [
+      6267,
+      6279
+    ]
+  },
+  "entite_60": {
+    "label": "PER",
+    "text": "Julien",
+    "jalons": [
+      6344,
+      6350
+    ]
+  },
+  "entite_61": {
+    "label": "PER",
+    "text": "Babet",
+    "jalons": [
+      6543,
+      6548
+    ]
+  },
+  "entite_62": {
+    "label": "LOC",
+    "text": "Jannette",
+    "jalons": [
+      6625,
+      6633
+    ]
+  },
+  "entite_63": {
+    "label": "PER",
+    "text": "Julie",
+    "jalons": [
+      6675,
+      6680
+    ]
+  },
+  "entite_64": {
+    "label": "PER",
+    "text": "Jeanne",
+    "jalons": [
+      6782,
+      6788
+    ]
+  },
+  "entite_65": {
+    "label": "MISC",
+    "text": "Janneton",
+    "jalons": [
+      7053,
+      7061
+    ]
+  },
+  "entite_66": {
+    "label": "PER",
+    "text": "Jeanne",
+    "jalons": [
+      7136,
+      7142
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "Laroch",
+    "jalons": [
+      30,
+      36
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "RDI",
+    "jalons": [
+      60,
+      63
+    ]
+  },
+  "entite_2": {
+    "label": "ORG",
+    "text": "Conseil de guerre",
+    "jalons": [
+      75,
+      92
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Guadeloupe",
+    "jalons": [
+      125,
+      135
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "M. de Repentiguy",
+    "jalons": [
+      149,
+      165
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Brigadier des armées du Roy",
+    "jalons": [
+      167,
+      195
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Régt",
+    "jalons": [
+      208,
+      213
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Guadeloupe",
+    "jalons": [
+      220,
+      230
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Loeut de RRoy",
+    "jalons": [
+      257,
+      270
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "S^t Charle",
+    "jalons": [
+      279,
+      289
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "la Roch",
+    "jalons": [
+      366,
+      373
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "Roch Chasteur de la Comp^e",
+    "jalons": [
+      382,
+      408
+    ]
+  },
+  "entite_12": {
+    "label": "PER",
+    "text": "Julien la Roch",
+    "jalons": [
+      429,
+      443
+    ]
+  },
+  "entite_13": {
+    "label": "PER",
+    "text": "marie Guerelle",
+    "jalons": [
+      457,
+      471
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "Cherbourg",
+    "jalons": [
+      482,
+      491
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "Normandie",
+    "jalons": [
+      495,
+      504
+    ]
+  },
+  "entite_16": {
+    "label": "LOC",
+    "text": "Vingt",
+    "jalons": [
+      525,
+      530
+    ]
+  },
+  "entite_17": {
+    "label": "LOC",
+    "text": "Lignes",
+    "jalons": [
+      578,
+      584
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "Cheveux",
+    "jalons": [
+      586,
+      593
+    ]
+  },
+  "entite_19": {
+    "label": "MISC",
+    "text": "Jis rous",
+    "jalons": [
+      617,
+      625
+    ]
+  },
+  "entite_20": {
+    "label": "MISC",
+    "text": "Rois May",
+    "jalons": [
+      717,
+      725
+    ]
+  },
+  "entite_21": {
+    "label": "ORG",
+    "text": "Compagnie des Chasseurs de Tarrogon 80",
+    "jalons": [
+      732,
+      770
+    ]
+  },
+  "entite_22": {
+    "label": "LOC",
+    "text": "Régiment d&#39;Armagnac",
+    "jalons": [
+      774,
+      798
+    ]
+  },
+  "entite_23": {
+    "label": "PER",
+    "text": "S Jean de lesponne Cop^e aid Major",
+    "jalons": [
+      927,
+      961
+    ]
+  },
+  "entite_24": {
+    "label": "MISC",
+    "text": "Guade loup Ledit Conseil de guerre",
+    "jalons": [
+      977,
+      1011
+    ]
+  },
+  "entite_25": {
+    "label": "LOC",
+    "text": "Roch",
+    "jalons": [
+      1107,
+      1111
+    ]
+  },
+  "entite_26": {
+    "label": "LOC",
+    "text": "Roch",
+    "jalons": [
+      1120,
+      1124
+    ]
+  },
+  "entite_27": {
+    "label": "MISC",
+    "text": "Chaues",
+    "jalons": [
+      1227,
+      1233
+    ]
+  },
+  "entite_28": {
+    "label": "MISC",
+    "text": "Galéees",
+    "jalons": [
+      1238,
+      1246
+    ]
+  },
+  "entite_29": {
+    "label": "LOC",
+    "text": "Guadeloupe",
+    "jalons": [
+      1308,
+      1318
+    ]
+  },
+  "entite_30": {
+    "label": "PER",
+    "text": "Maye Badisser Baerdes Chevanns",
+    "jalons": [
+      1338,
+      1368
+    ]
+  },
+  "entite_31": {
+    "label": "LOC",
+    "text": "Repurtigny",
+    "jalons": [
+      1374,
+      1384
+    ]
+  },
+  "entite_32": {
+    "label": "LOC",
+    "text": "DEugny",
+    "jalons": [
+      1402,
+      1408
+    ]
+  },
+  "entite_33": {
+    "label": "MISC",
+    "text": "Garde montanté",
+    "jalons": [
+      1448,
+      1463
+    ]
+  }
+}

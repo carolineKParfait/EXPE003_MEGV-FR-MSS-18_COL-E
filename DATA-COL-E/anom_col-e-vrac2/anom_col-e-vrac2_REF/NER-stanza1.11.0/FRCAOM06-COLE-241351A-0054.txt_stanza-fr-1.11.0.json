@@ -1,0 +1,394 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "M. le Duc\nde Montpezast",
+    "jalons": [
+      11,
+      34
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "A Monseigneur le Marquis de Castries\nMinistre",
+    "jalons": [
+      50,
+      95
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Secretaire d&#x27;Etat au Departement de la\nMarine",
+    "jalons": [
+      99,
+      149
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Vaison",
+    "jalons": [
+      205,
+      211
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Puymeras",
+    "jalons": [
+      273,
+      281
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "comtat Venaissin",
+    "jalons": [
+      285,
+      301
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Representer",
+    "jalons": [
+      325,
+      336
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Votre Grandeur",
+    "jalons": [
+      355,
+      369
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Jean pierre Jullien natif de Puymeras",
+    "jalons": [
+      374,
+      411
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "Grenade",
+    "jalons": [
+      437,
+      444
+    ]
+  },
+  "entite_10": {
+    "label": "MISC",
+    "text": "Testament olographe",
+    "jalons": [
+      534,
+      553
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "m^e le Vacher",
+    "jalons": [
+      582,
+      595
+    ]
+  },
+  "entite_12": {
+    "label": "PER",
+    "text": "Saint pierre de la Martinique",
+    "jalons": [
+      604,
+      633
+    ]
+  },
+  "entite_13": {
+    "label": "LOC",
+    "text": "Succession",
+    "jalons": [
+      686,
+      696
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "Grenade",
+    "jalons": [
+      711,
+      718
+    ]
+  },
+  "entite_15": {
+    "label": "MISC",
+    "text": "Testament",
+    "jalons": [
+      724,
+      733
+    ]
+  },
+  "entite_16": {
+    "label": "PER",
+    "text": "S^t pierre",
+    "jalons": [
+      777,
+      787
+    ]
+  },
+  "entite_17": {
+    "label": "LOC",
+    "text": "Greffe de la Grenade",
+    "jalons": [
+      875,
+      895
+    ]
+  },
+  "entite_18": {
+    "label": "PER",
+    "text": "S^t pierre de la Martinique",
+    "jalons": [
+      1086,
+      1113
+    ]
+  },
+  "entite_19": {
+    "label": "MISC",
+    "text": "Sejour",
+    "jalons": [
+      1141,
+      1147
+    ]
+  },
+  "entite_20": {
+    "label": "PER",
+    "text": "Jean pierre Jullien",
+    "jalons": [
+      1151,
+      1170
+    ]
+  },
+  "entite_21": {
+    "label": "MISC",
+    "text": "Supliants",
+    "jalons": [
+      1201,
+      1210
+    ]
+  },
+  "entite_22": {
+    "label": "MISC",
+    "text": "Testament",
+    "jalons": [
+      1241,
+      1250
+    ]
+  },
+  "entite_23": {
+    "label": "MISC",
+    "text": "Consequence",
+    "jalons": [
+      1282,
+      1293
+    ]
+  },
+  "entite_24": {
+    "label": "MISC",
+    "text": "Succession",
+    "jalons": [
+      1402,
+      1412
+    ]
+  },
+  "entite_25": {
+    "label": "MISC",
+    "text": "Nouveaux",
+    "jalons": [
+      1506,
+      1514
+    ]
+  },
+  "entite_26": {
+    "label": "MISC",
+    "text": "Votre Grandeur",
+    "jalons": [
+      1519,
+      1533
+    ]
+  },
+  "entite_27": {
+    "label": "MISC",
+    "text": "Daigne leur–\nProcurer",
+    "jalons": [
+      1537,
+      1558
+    ]
+  },
+  "entite_28": {
+    "label": "PER",
+    "text": "M. Reymond",
+    "jalons": [
+      1578,
+      1588
+    ]
+  },
+  "entite_29": {
+    "label": "ORG",
+    "text": "Parlement resident",
+    "jalons": [
+      1599,
+      1617
+    ]
+  },
+  "entite_30": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      1620,
+      1625
+    ]
+  },
+  "entite_31": {
+    "label": "PER",
+    "text": "S^t Germain",
+    "jalons": [
+      1634,
+      1645
+    ]
+  },
+  "entite_32": {
+    "label": "ORG",
+    "text": "Correspondant des Supliants",
+    "jalons": [
+      1674,
+      1701
+    ]
+  },
+  "entite_33": {
+    "label": "PER",
+    "text": "M.M. des Gouverneur",
+    "jalons": [
+      1717,
+      1736
+    ]
+  },
+  "entite_34": {
+    "label": "LOC",
+    "text": "Grenade",
+    "jalons": [
+      1779,
+      1786
+    ]
+  },
+  "entite_35": {
+    "label": "PER",
+    "text": "S^t Pierre de la martinique de Protéger",
+    "jalons": [
+      1803,
+      1842
+    ]
+  },
+  "entite_36": {
+    "label": "MISC",
+    "text": "Succession dud",
+    "jalons": [
+      1942,
+      1956
+    ]
+  },
+  "entite_37": {
+    "label": "PER",
+    "text": "S^r Jullien",
+    "jalons": [
+      1958,
+      1969
+    ]
+  },
+  "entite_38": {
+    "label": "MISC",
+    "text": "Dont les–\nPauvres",
+    "jalons": [
+      2036,
+      2053
+    ]
+  },
+  "entite_39": {
+    "label": "LOC",
+    "text": "Contrée",
+    "jalons": [
+      2081,
+      2088
+    ]
+  },
+  "entite_40": {
+    "label": "LOC",
+    "text": "Grand Besoin",
+    "jalons": [
+      2096,
+      2108
+    ]
+  },
+  "entite_41": {
+    "label": "MISC",
+    "text": "Grace Que les Supliants osent Esperer",
+    "jalons": [
+      2127,
+      2164
+    ]
+  },
+  "entite_42": {
+    "label": "MISC",
+    "text": "Votre\nEquité",
+    "jalons": [
+      2168,
+      2180
+    ]
+  },
+  "entite_43": {
+    "label": "MISC",
+    "text": "Votre Bienfaisance",
+    "jalons": [
+      2188,
+      2206
+    ]
+  },
+  "entite_44": {
+    "label": "MISC",
+    "text": "Ciel leurs Vœux",
+    "jalons": [
+      2222,
+      2237
+    ]
+  },
+  "entite_45": {
+    "label": "MISC",
+    "text": "la Santé et Prosperité",
+    "jalons": [
+      2257,
+      2279
+    ]
+  },
+  "entite_46": {
+    "label": "PER",
+    "text": "Votre\nGrandeur",
+    "jalons": [
+      2283,
+      2297
+    ]
+  },
+  "entite_47": {
+    "label": "PER",
+    "text": "Reymond",
+    "jalons": [
+      2299,
+      2306
+    ]
+  },
+  "entite_48": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      2321,
+      2326
+    ]
+  }
+}

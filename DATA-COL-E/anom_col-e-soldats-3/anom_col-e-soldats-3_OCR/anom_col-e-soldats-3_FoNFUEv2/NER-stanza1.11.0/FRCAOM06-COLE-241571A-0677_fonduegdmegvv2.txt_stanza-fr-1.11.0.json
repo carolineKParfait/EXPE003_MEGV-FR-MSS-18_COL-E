@@ -1,0 +1,58 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Robillard",
+    "jalons": [
+      0,
+      9
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Roi au Cay",
+    "jalons": [
+      32,
+      42
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Germain Marie Robillard",
+    "jalons": [
+      69,
+      92
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "Regiment du Cap Compagnie",
+    "jalons": [
+      103,
+      128
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Themoignage",
+    "jalons": [
+      340,
+      351
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Cerlificat au Cap",
+    "jalons": [
+      364,
+      381
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Baradat",
+    "jalons": [
+      404,
+      411
+    ]
+  }
+}
