@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Pièce",
+    "jalons": [
+      44,
+      49
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "O.",
+    "jalons": [
+      57,
+      59
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Bezault",
+    "jalons": [
+      60,
+      67
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Lettres",
+    "jalons": [
+      555,
+      562
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Bretagne",
+    "jalons": [
+      741,
+      749
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Conflans",
+    "jalons": [
+      1374,
+      1382
+    ]
+  }
+}

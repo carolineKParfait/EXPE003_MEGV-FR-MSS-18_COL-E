@@ -1,0 +1,58 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Colonies",
+    "jalons": [
+      0,
+      8
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Perrigny",
+    "jalons": [
+      15,
+      23
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Roi",
+    "jalons": [
+      49,
+      52
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Léogane\nIsle",
+    "jalons": [
+      55,
+      67
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Domingue",
+    "jalons": [
+      72,
+      80
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Brut",
+    "jalons": [
+      89,
+      93
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Brevet",
+    "jalons": [
+      95,
+      101
+    ]
+  }
+}

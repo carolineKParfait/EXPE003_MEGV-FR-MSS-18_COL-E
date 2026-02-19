@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Martinique",
+    "jalons": [
+      6,
+      16
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Vaidre",
+    "jalons": [
+      23,
+      29
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Médaille",
+    "jalons": [
+      199,
+      207
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Garde",
+    "jalons": [
+      275,
+      280
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Pierre",
+    "jalons": [
+      305,
+      311
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Monseigneur\nVôtre",
+    "jalons": [
+      333,
+      350
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Senneville",
+    "jalons": [
+      392,
+      402
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Roy^al",
+    "jalons": [
+      407,
+      413
+    ]
+  }
+}

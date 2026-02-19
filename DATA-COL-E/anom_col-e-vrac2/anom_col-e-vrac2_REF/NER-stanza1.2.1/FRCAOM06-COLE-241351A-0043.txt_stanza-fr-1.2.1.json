@@ -1,0 +1,90 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Rue Princesse",
+    "jalons": [
+      25,
+      38
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      41,
+      46
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "MR",
+    "jalons": [
+      122,
+      124
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Martinique",
+    "jalons": [
+      208,
+      218
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Puymeras",
+    "jalons": [
+      295,
+      303
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Pierre",
+    "jalons": [
+      315,
+      321
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Grenade",
+    "jalons": [
+      341,
+      348
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Antriès",
+    "jalons": [
+      367,
+      374
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      403,
+      411
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Billet",
+    "jalons": [
+      435,
+      441
+    ]
+  },
+  "entite_10": {
+    "label": "MISC",
+    "text": "Billets",
+    "jalons": [
+      447,
+      454
+    ]
+  }
+}

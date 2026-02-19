@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Robillard",
+    "jalons": [
+      0,
+      9
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Germain",
+    "jalons": [
+      11,
+      18
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Marie",
+    "jalons": [
+      20,
+      25
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Soldat au Regiment du Cap",
+    "jalons": [
+      27,
+      52
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Colonies\nE",
+    "jalons": [
+      58,
+      68
+    ]
+  }
+}

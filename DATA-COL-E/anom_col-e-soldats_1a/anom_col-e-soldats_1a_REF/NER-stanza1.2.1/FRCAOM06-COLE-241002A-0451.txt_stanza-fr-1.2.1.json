@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      49,
+      60
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Cherisey",
+    "jalons": [
+      76,
+      84
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Versailles",
+    "jalons": [
+      87,
+      97
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Garde de la Marine",
+    "jalons": [
+      274,
+      292
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Supprimer",
+    "jalons": [
+      312,
+      321
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Services",
+    "jalons": [
+      373,
+      381
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Lieutenant de Vaisseau",
+    "jalons": [
+      394,
+      416
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Bayonnoise",
+    "jalons": [
+      441,
+      451
+    ]
+  }
+}

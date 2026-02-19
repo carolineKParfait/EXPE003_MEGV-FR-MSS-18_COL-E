@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Sieur Fleury",
+    "jalons": [
+      46,
+      58
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Mondit Sieur",
+    "jalons": [
+      117,
+      129
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Sieur",
+    "jalons": [
+      231,
+      236
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      270,
+      278
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Chés Fleury",
+    "jalons": [
+      560,
+      571
+    ]
+  }
+}

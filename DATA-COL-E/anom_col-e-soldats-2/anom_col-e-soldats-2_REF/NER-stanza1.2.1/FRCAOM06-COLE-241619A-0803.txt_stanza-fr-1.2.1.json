@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Suzanne",
+    "jalons": [
+      0,
+      7
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "Noël",
+    "jalons": [
+      9,
+      13
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Soldat",
+    "jalons": [
+      15,
+      21
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "St-Domingue",
+    "jalons": [
+      24,
+      35
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Colonies",
+    "jalons": [
+      41,
+      49
+    ]
+  }
+}

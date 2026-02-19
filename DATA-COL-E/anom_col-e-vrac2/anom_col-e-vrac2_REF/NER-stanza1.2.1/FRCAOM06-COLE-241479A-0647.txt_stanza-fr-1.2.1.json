@@ -1,0 +1,90 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Mars",
+    "jalons": [
+      4,
+      8
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Juge",
+    "jalons": [
+      68,
+      72
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Nottaire",
+    "jalons": [
+      84,
+      92
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Il",
+    "jalons": [
+      94,
+      96
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Romain",
+    "jalons": [
+      200,
+      206
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Officiers",
+    "jalons": [
+      226,
+      235
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Ordonnances",
+    "jalons": [
+      394,
+      405
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Jugement",
+    "jalons": [
+      551,
+      559
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Romain",
+    "jalons": [
+      579,
+      585
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Goust",
+    "jalons": [
+      604,
+      609
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Roy",
+    "jalons": [
+      623,
+      626
+    ]
+  }
+}

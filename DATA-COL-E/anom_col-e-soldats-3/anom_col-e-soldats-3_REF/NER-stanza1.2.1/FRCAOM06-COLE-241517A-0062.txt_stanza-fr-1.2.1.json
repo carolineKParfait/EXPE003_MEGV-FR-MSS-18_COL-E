@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Pasquier",
+    "jalons": [
+      0,
+      8
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Adrien",
+    "jalons": [
+      10,
+      16
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Iles du Vent",
+    "jalons": [
+      29,
+      41
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      67,
+      72
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Colonies\nE",
+    "jalons": [
+      78,
+      88
+    ]
+  }
+}

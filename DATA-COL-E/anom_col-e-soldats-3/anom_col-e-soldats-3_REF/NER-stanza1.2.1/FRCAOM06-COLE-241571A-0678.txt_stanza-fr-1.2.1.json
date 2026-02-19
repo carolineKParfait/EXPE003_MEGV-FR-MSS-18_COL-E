@@ -1,0 +1,82 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Carton",
+    "jalons": [
+      27,
+      33
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Robin",
+    "jalons": [
+      57,
+      62
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "S^t Domingue",
+    "jalons": [
+      64,
+      76
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Lettre de Recommandation",
+    "jalons": [
+      125,
+      149
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "S^t",
+    "jalons": [
+      180,
+      183
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "S. Robin",
+    "jalons": [
+      206,
+      214
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Lyon",
+    "jalons": [
+      218,
+      222
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Colonie",
+    "jalons": [
+      241,
+      248
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Dup^ta",
+    "jalons": [
+      316,
+      322
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Izangremet",
+    "jalons": [
+      335,
+      345
+    ]
+  }
+}

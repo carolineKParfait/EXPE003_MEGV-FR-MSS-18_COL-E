@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "Lettre de Recommandation",
+    "jalons": [
+      70,
+      94
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "S^t Domingue",
+    "jalons": [
+      125,
+      137
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "S. Robin",
+    "jalons": [
+      151,
+      159
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Lyon",
+    "jalons": [
+      163,
+      167
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Colonie",
+    "jalons": [
+      186,
+      193
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Carton",
+    "jalons": [
+      308,
+      314
+    ]
+  }
+}

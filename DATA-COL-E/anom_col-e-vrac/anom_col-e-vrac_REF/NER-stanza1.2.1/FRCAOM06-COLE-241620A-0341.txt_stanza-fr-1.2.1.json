@@ -1,0 +1,34 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      0,
+      6
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Domingue",
+    "jalons": [
+      67,
+      75
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Ré",
+    "jalons": [
+      190,
+      192
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Votre",
+    "jalons": [
+      321,
+      326
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "C. Daillebout",
+    "jalons": [
+      74,
+      87
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Senlis",
+    "jalons": [
+      255,
+      261
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Gouvernement",
+    "jalons": [
+      389,
+      401
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Senlis",
+    "jalons": [
+      804,
+      810
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Si",
+    "jalons": [
+      833,
+      835
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Ministre",
+    "jalons": [
+      839,
+      847
+    ]
+  }
+}

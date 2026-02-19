@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Mariage",
+    "jalons": [
+      70,
+      77
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Veille",
+    "jalons": [
+      131,
+      137
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Con^l",
+    "jalons": [
+      155,
+      160
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Janvier",
+    "jalons": [
+      201,
+      208
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Curateur",
+    "jalons": [
+      555,
+      563
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Arrest",
+    "jalons": [
+      578,
+      584
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Juge",
+    "jalons": [
+      680,
+      684
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Dor",
+    "jalons": [
+      862,
+      865
+    ]
+  }
+}

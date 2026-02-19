@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Daillebout",
+    "jalons": [
+      30,
+      40
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Préfet",
+    "jalons": [
+      96,
+      102
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      239,
+      250
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Excellence",
+    "jalons": [
+      303,
+      313
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Monpeurs",
+    "jalons": [
+      345,
+      353
+    ]
+  }
+}

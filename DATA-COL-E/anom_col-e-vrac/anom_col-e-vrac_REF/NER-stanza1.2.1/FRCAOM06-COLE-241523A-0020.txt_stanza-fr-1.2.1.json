@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Villeneuve",
+    "jalons": [
+      34,
+      44
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Saint Domingue",
+    "jalons": [
+      241,
+      255
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Eud",
+    "jalons": [
+      543,
+      546
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Compagnie",
+    "jalons": [
+      947,
+      956
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Rochefort",
+    "jalons": [
+      971,
+      980
+    ]
+  }
+}

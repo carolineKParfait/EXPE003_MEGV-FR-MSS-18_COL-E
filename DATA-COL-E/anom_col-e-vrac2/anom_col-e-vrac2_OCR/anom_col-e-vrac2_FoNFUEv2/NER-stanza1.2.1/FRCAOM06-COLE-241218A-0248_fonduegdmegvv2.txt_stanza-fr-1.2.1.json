@@ -1,0 +1,106 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Esclave",
+    "jalons": [
+      23,
+      30
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Roi",
+    "jalons": [
+      153,
+      156
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Esclave",
+    "jalons": [
+      204,
+      211
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Chef de Bande",
+    "jalons": [
+      246,
+      259
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Maron",
+    "jalons": [
+      261,
+      266
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Geolier",
+    "jalons": [
+      285,
+      292
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Esclaves",
+    "jalons": [
+      344,
+      352
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Prison",
+    "jalons": [
+      361,
+      367
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "Administrateurs",
+    "jalons": [
+      373,
+      388
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      429,
+      440
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "Colonie",
+    "jalons": [
+      516,
+      523
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "Garet",
+    "jalons": [
+      672,
+      677
+    ]
+  },
+  "entite_12": {
+    "label": "MISC",
+    "text": "Esclaves",
+    "jalons": [
+      891,
+      899
+    ]
+  }
+}

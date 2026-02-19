@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      2,
+      8
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      11,
+      17
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Comtesse de Conflans",
+    "jalons": [
+      21,
+      41
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Rüe",
+    "jalons": [
+      55,
+      58
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      92,
+      97
+    ]
+  }
+}

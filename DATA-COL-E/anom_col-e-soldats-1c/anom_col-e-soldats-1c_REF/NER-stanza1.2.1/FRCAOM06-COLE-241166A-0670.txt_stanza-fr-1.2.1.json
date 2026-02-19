@@ -1,0 +1,82 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Cette",
+    "jalons": [
+      223,
+      228
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Ammann",
+    "jalons": [
+      430,
+      436
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Zele",
+    "jalons": [
+      552,
+      556
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Compter",
+    "jalons": [
+      635,
+      642
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Royal",
+    "jalons": [
+      831,
+      836
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Duparc",
+    "jalons": [
+      861,
+      867
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Monsieur",
+    "jalons": [
+      891,
+      899
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Compagnie",
+    "jalons": [
+      942,
+      951
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Enecker",
+    "jalons": [
+      1102,
+      1109
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "De Karrer",
+    "jalons": [
+      1121,
+      1130
+    ]
+  }
+}

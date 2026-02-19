@@ -1,0 +1,74 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Ordonnancer",
+    "jalons": [
+      0,
+      11
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Gouvernement",
+    "jalons": [
+      225,
+      237
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Question",
+    "jalons": [
+      295,
+      303
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Veuillez\nCitoyen Ministre",
+    "jalons": [
+      305,
+      330
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Salut",
+    "jalons": [
+      383,
+      388
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Respect",
+    "jalons": [
+      392,
+      399
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Conseiller de Préfecture",
+    "jalons": [
+      440,
+      464
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Délégué du Prefet",
+    "jalons": [
+      482,
+      499
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Lidoillus\nDubuy",
+    "jalons": [
+      511,
+      526
+    ]
+  }
+}

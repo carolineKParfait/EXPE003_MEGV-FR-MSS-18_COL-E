@@ -1,0 +1,378 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "M.",
+    "jalons": [
+      11,
+      13
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Duc\nde Montpezast",
+    "jalons": [
+      17,
+      34
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      52,
+      63
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Marquis de Castries\nMinistre",
+    "jalons": [
+      67,
+      95
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Secretaire",
+    "jalons": [
+      99,
+      109
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Departement de la\nMarine",
+    "jalons": [
+      125,
+      149
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Vaison",
+    "jalons": [
+      205,
+      211
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Puymeras",
+    "jalons": [
+      273,
+      281
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Representer",
+    "jalons": [
+      325,
+      336
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Votre Grandeur",
+    "jalons": [
+      355,
+      369
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Jean",
+    "jalons": [
+      374,
+      378
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "Jullien",
+    "jalons": [
+      386,
+      393
+    ]
+  },
+  "entite_12": {
+    "label": "PER",
+    "text": "Puymeras",
+    "jalons": [
+      403,
+      411
+    ]
+  },
+  "entite_13": {
+    "label": "LOC",
+    "text": "Grenade",
+    "jalons": [
+      437,
+      444
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "Martinique",
+    "jalons": [
+      623,
+      633
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "Grenade",
+    "jalons": [
+      711,
+      718
+    ]
+  },
+  "entite_16": {
+    "label": "MISC",
+    "text": "Testament",
+    "jalons": [
+      724,
+      733
+    ]
+  },
+  "entite_17": {
+    "label": "LOC",
+    "text": "Martinique",
+    "jalons": [
+      1103,
+      1113
+    ]
+  },
+  "entite_18": {
+    "label": "PER",
+    "text": "Sejour",
+    "jalons": [
+      1141,
+      1147
+    ]
+  },
+  "entite_19": {
+    "label": "PER",
+    "text": "Jean",
+    "jalons": [
+      1151,
+      1155
+    ]
+  },
+  "entite_20": {
+    "label": "PER",
+    "text": "Jullien",
+    "jalons": [
+      1163,
+      1170
+    ]
+  },
+  "entite_21": {
+    "label": "MISC",
+    "text": "Supliants",
+    "jalons": [
+      1201,
+      1210
+    ]
+  },
+  "entite_22": {
+    "label": "MISC",
+    "text": "Testament",
+    "jalons": [
+      1241,
+      1250
+    ]
+  },
+  "entite_23": {
+    "label": "MISC",
+    "text": "Succession",
+    "jalons": [
+      1402,
+      1412
+    ]
+  },
+  "entite_24": {
+    "label": "LOC",
+    "text": "Nouveaux",
+    "jalons": [
+      1506,
+      1514
+    ]
+  },
+  "entite_25": {
+    "label": "LOC",
+    "text": "Votre Grandeur",
+    "jalons": [
+      1519,
+      1533
+    ]
+  },
+  "entite_26": {
+    "label": "PER",
+    "text": "Daigne",
+    "jalons": [
+      1537,
+      1543
+    ]
+  },
+  "entite_27": {
+    "label": "PER",
+    "text": "Procurer",
+    "jalons": [
+      1550,
+      1558
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "M. Reymond",
+    "jalons": [
+      1578,
+      1588
+    ]
+  },
+  "entite_29": {
+    "label": "LOC",
+    "text": "Parlement resident",
+    "jalons": [
+      1599,
+      1617
+    ]
+  },
+  "entite_30": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      1620,
+      1625
+    ]
+  },
+  "entite_31": {
+    "label": "MISC",
+    "text": "Supliants",
+    "jalons": [
+      1692,
+      1701
+    ]
+  },
+  "entite_32": {
+    "label": "PER",
+    "text": "Succession dud",
+    "jalons": [
+      1942,
+      1956
+    ]
+  },
+  "entite_33": {
+    "label": "LOC",
+    "text": "Jullien",
+    "jalons": [
+      1962,
+      1969
+    ]
+  },
+  "entite_34": {
+    "label": "LOC",
+    "text": "Pauvres",
+    "jalons": [
+      2046,
+      2053
+    ]
+  },
+  "entite_35": {
+    "label": "LOC",
+    "text": "Contrée",
+    "jalons": [
+      2081,
+      2088
+    ]
+  },
+  "entite_36": {
+    "label": "PER",
+    "text": "Grand Besoin",
+    "jalons": [
+      2096,
+      2108
+    ]
+  },
+  "entite_37": {
+    "label": "LOC",
+    "text": "Grace",
+    "jalons": [
+      2127,
+      2132
+    ]
+  },
+  "entite_38": {
+    "label": "LOC",
+    "text": "Supliants",
+    "jalons": [
+      2141,
+      2150
+    ]
+  },
+  "entite_39": {
+    "label": "LOC",
+    "text": "Esperer de Votre",
+    "jalons": [
+      2157,
+      2173
+    ]
+  },
+  "entite_40": {
+    "label": "LOC",
+    "text": "Votre Bienfaisance",
+    "jalons": [
+      2188,
+      2206
+    ]
+  },
+  "entite_41": {
+    "label": "PER",
+    "text": "Ciel",
+    "jalons": [
+      2222,
+      2226
+    ]
+  },
+  "entite_42": {
+    "label": "PER",
+    "text": "Santé",
+    "jalons": [
+      2260,
+      2265
+    ]
+  },
+  "entite_43": {
+    "label": "PER",
+    "text": "Prosperité",
+    "jalons": [
+      2269,
+      2279
+    ]
+  },
+  "entite_44": {
+    "label": "PER",
+    "text": "Votre\nGrandeur",
+    "jalons": [
+      2283,
+      2297
+    ]
+  },
+  "entite_45": {
+    "label": "PER",
+    "text": "Reymond",
+    "jalons": [
+      2299,
+      2306
+    ]
+  },
+  "entite_46": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      2321,
+      2326
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "S^t Domingue",
+    "jalons": [
+      0,
+      12
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Janson",
+    "jalons": [
+      35,
+      41
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Pieces\nPort au Prince",
+    "jalons": [
+      57,
+      78
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Brevet\nde Rehabilitation\nV^e la Décision du Conseil",
+    "jalons": [
+      153,
+      204
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Janson",
+    "jalons": [
+      373,
+      379
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Thomy",
+    "jalons": [
+      402,
+      407
+    ]
+  }
+}

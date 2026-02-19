@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Ecrite",
+    "jalons": [
+      24,
+      30
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      33,
+      41
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      109,
+      117
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      144,
+      149
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Aoust",
+    "jalons": [
+      156,
+      161
+    ]
+  }
+}

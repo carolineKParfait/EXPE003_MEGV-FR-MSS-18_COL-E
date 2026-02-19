@@ -1,0 +1,82 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Mercredy",
+    "jalons": [
+      42,
+      50
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Sieur Fleury",
+    "jalons": [
+      64,
+      76
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Riviere",
+    "jalons": [
+      93,
+      100
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Monsieur de Pardieu",
+    "jalons": [
+      139,
+      158
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Sieur\nFleury",
+    "jalons": [
+      187,
+      199
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Retrouver\nvôtre Capitaine",
+    "jalons": [
+      294,
+      319
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      403,
+      411
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Pardieu",
+    "jalons": [
+      415,
+      422
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      447,
+      455
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Pardieu",
+    "jalons": [
+      459,
+      466
+    ]
+  }
+}

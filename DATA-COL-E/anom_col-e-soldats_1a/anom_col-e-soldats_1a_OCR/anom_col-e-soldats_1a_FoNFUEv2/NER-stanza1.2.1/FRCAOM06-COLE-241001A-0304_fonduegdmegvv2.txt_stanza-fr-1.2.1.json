@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "ORG",
+    "text": "COLONIES FRANÇOISES",
+    "jalons": [
+      0,
+      20
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "Police des Troupes",
+    "jalons": [
+      41,
+      59
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Sois EXTRAIT du Registre mortuaire de l&#39;Hôpital-Militaire de Marigataute",
+    "jalons": [
+      61,
+      138
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Costard NOUS",
+    "jalons": [
+      179,
+      191
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Marigalante",
+    "jalons": [
+      233,
+      244
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Jean",
+    "jalons": [
+      259,
+      263
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Jurisdiction",
+    "jalons": [
+      286,
+      298
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Sacremens",
+    "jalons": [
+      543,
+      552
+    ]
+  }
+}
