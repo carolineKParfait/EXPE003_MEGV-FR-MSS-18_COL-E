@@ -6,9 +6,9 @@ from pathlib import Path
 import pandas as pd
 import seaborn as sns
 import matplotlib
-matplotlib.use("TkAgg")  # ou "Qt5Agg" si tu as PyQt5 installé
+matplotlib.use("TkAgg")  # ou "Qt5Agg" PyQt5 est installé
 import matplotlib.pyplot as plt
-from renommage import *
+from generic_tools import *
 
 
 def boxplot(data_tab, x_col ,y_col):
@@ -27,10 +27,10 @@ def boxplot(data_tab, x_col ,y_col):
     plt.tick_params(axis='both', labelsize=25)
     ax.xaxis.grid(True)
 
-    # 👉 Ajout des légendes
+    # Ajout des légendes
     ax.set_xlabel(x_col, fontsize=25)
     ax.set_ylabel(y_col, fontsize=25)
-    plt.xlim([0, x_col])
+    plt.xlim(0,1)
 
 def chemin_stockage(sim_path) :
     sim_path.mkdir(parents=True, exist_ok=True)
@@ -42,8 +42,8 @@ liste_cle=["cosinus","jaccard"]
 size=[1]
 
 corpora_data = ["DATA", "DATA-COL-E"]
-corpus_data = corpora_data[1]
-path_data =f"../{corpus_data}/anom_col-e-vrac2"
+corpus_data = corpora_data[-1]
+path_data =f"../{corpus_data}"
 
 for cle in liste_cle:
     # ##____Pour les Textes_____________________
@@ -55,7 +55,7 @@ for cle in liste_cle:
     # liste_name_metric = []
     # liste_version_ren = []
     # ##____Pour les Textes_____________________
-    for path_corpus in glob.glob(path_data):
+    for path_corpus in glob.glob(f"{path_data}/*"):
         print("path_corpus",path_corpus)
         ##____Pour la NER_____________________
         tableau={}
@@ -94,7 +94,7 @@ for cle in liste_cle:
             ##____Pour la NER_____________________
             nommage_version = nommage(version)
             print("Nommage version : ", nommage_version)
-            distance=lire_fichier(path)
+            distance=lire_fichier(path, True)
             print("Distance : ", distance)
 
 
@@ -102,7 +102,7 @@ for cle in liste_cle:
             # liste_distance=[]
             for key, res_dist in distance.items():
                 print("Key : ",key)
-                if key == cle:
+                if key == cle :
                     for res in res_dist:
                         liste_name_metric.append(key)
                         # print("Liste des noms de métric : ", liste_name_metric)
@@ -111,7 +111,7 @@ for cle in liste_cle:
                         liste_sous_corpus.append(sous_corpus)
                         liste_dist.append(res)
                         liste_version_ren.append(vers_ren)#Pour NER
-#
+    #
         tableau["Corpus"]=liste_sous_corpus
         tableau["Configuration"]=liste_config
         tableau[f"Distance {cle}"]=liste_dist
@@ -119,7 +119,8 @@ for cle in liste_cle:
         tableau["REN"]=liste_version_ren ##Pour NER
         df_sim = pd.DataFrame(tableau)
         # print(data_tab)
-#
+        # df_filtre = df_sim[df_sim["Configuration"].str.contains("stanza|lg", case=False, na=False)]## Filter les version de modèles de REN
+
         for x in size:
             sns.set_theme(style="ticks")
             # boxplot(df_sim,f"Distance {cle}","Corpus")##Pour Texte
@@ -127,15 +128,16 @@ for cle in liste_cle:
 
 
         bm_path_txt = p.parent.parent.parent.parent.parent / "Boite_moustache" / nommage_version
-        bm_path_ner = p.parent.parent.parent / "Boite_moustache" / nommage_version
+        bm_path_ner = p.parent.parent.parent / "Boite_moustache_2" / nommage_version
         bm_path = chemin_stockage(bm_path_ner)
+        print("Chemin de sortie : ",f"{bm_path}/{calc}_{sous_corpus}_{version}_{cle}.png")
         # plt.show()
 
-# ##____Pour les Textes_____________________
-#     plt.savefig(f"{bm_path}/{calc}_global_{cle}.png", dpi=300, bbox_inches="tight")  ##Texte
-# ##____Pour les Textes_____________________
-#
-# # ##____Pour la NER_____________________
+    # ##____Pour les Textes_____________________
+    #     plt.savefig(f"{bm_path}/{calc}_global_{cle}.png", dpi=300, bbox_inches="tight")  ##Texte
+    # ##____Pour les Textes_____________________
+    #
+    # # ##____Pour la NER_____________________
         plt.savefig(f"{bm_path}/{calc}_{sous_corpus}_{version}_{cle}.png",dpi=300, bbox_inches="tight")##NER
-# # ##____Pour la NER_____________________
-# plt.close()
+    # ##____Pour la NER_____________________
+    # plt.close()

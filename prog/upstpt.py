@@ -15,22 +15,26 @@ def chemin_stockage(path) :
     return path
 
 # ##___________________GLOBAL_________________________________
-# path_corpora = "../DATA-COL-E/Upsetplot_intersection/GLOBAL"
+path_corpora = "../Upsetplot_intersection/GLOBAL"
 # ##___________________GLOBAL_________________________________
 ##___________________PAR SOUS-CORPUS_________________________
-path_corpora = "../DATA-COL-E/Upsetplot_intersection/Sous_Corpus"
+# path_corpora = "../Upsetplot_intersection/Sous_Corpus"
 ##___________________PAR SOUS-CORPUS_________________________________
 
 liste_GT = ["REF"]
 GT = liste_GT[0]
 OCR =  "FoNDUE-GD-MEGV_v2"
-size = [2000,3000]
+# size = [1000,2000]##Sous_Corpus
+size = [5000, 10000,20000]##GLOBAL
 liste_moteur = []
 
 for path in glob.glob(f"{path_corpora}/*.json"):
 
     print(path)
     p = Path(path)
+    print("Chemin d'entrée : ", p)
+    model_ner = p.stem.split("_")[-1]
+    print("Modèle de REN : ",model_ner)
 
     dico_ups = lire_fichier(path, True)
     print(dico_ups)
