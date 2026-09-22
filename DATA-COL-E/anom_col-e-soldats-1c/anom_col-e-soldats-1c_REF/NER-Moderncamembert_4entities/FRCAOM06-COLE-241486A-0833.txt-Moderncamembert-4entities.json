@@ -1,0 +1,82 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Louis",
+    "jalons": [
+      39,
+      44
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Jean françois Monpas du Dumas",
+    "jalons": [
+      345,
+      374
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Blonde",
+    "jalons": [
+      491,
+      497
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Bouche",
+    "jalons": [
+      534,
+      540
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Beaune",
+    "jalons": [
+      755,
+      761
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Lancette",
+    "jalons": [
+      770,
+      778
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Beaune \n Bourgeois",
+    "jalons": [
+      842,
+      858
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Dum",
+    "jalons": [
+      1072,
+      1075
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "##as",
+    "jalons": [
+      1075,
+      1077
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "Coulons",
+    "jalons": [
+      1128,
+      1135
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Jean franc ̧ ois Monpas dit Dumas",
+    "jalons": [
+      80,
+      111
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Coulons",
+    "jalons": [
+      138,
+      145
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Jean franc ̧ ois Mon",
+    "jalons": [
+      274,
+      292
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "##pas",
+    "jalons": [
+      292,
+      295
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "dit Dumas soit Cond",
+    "jalons": [
+      296,
+      315
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "##ne",
+    "jalons": [
+      317,
+      319
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Lou ̈ is Ce",
+    "jalons": [
+      588,
+      597
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "; ane ́ e mil sept cent trente un,",
+    "jalons": [
+      635,
+      666
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "Massip. d &# 39 ; Iceluy.",
+    "jalons": [
+      677,
+      698
+    ]
+  }
+}

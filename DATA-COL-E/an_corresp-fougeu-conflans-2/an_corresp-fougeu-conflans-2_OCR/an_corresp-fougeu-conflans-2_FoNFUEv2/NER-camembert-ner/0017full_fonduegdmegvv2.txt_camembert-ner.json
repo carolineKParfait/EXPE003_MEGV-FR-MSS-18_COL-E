@@ -1,0 +1,26 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Cadame La Marichale",
+    "jalons": [
+      6,
+      25
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "rue de vaugirard",
+    "jalons": [
+      48,
+      64
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Paris 3",
+    "jalons": [
+      90,
+      97
+    ]
+  }
+}

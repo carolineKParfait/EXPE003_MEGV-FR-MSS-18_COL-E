@@ -1,0 +1,74 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Domingue de Montarcher S",
+    "jalons": [
+      2,
+      26
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": ".",
+    "jalons": [
+      26,
+      27
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "de Jogard",
+    "jalons": [
+      28,
+      37
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "323",
+    "jalons": [
+      38,
+      41
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Port au Prince",
+    "jalons": [
+      55,
+      69
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Dep",
+    "jalons": [
+      107,
+      110
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "##ech",
+    "jalons": [
+      110,
+      113
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "##e",
+    "jalons": [
+      113,
+      114
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "##jardy",
+    "jalons": [
+      191,
+      196
+    ]
+  }
+}

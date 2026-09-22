@@ -1,0 +1,290 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "M. Le duc de Montpesnt",
+    "jalons": [
+      9,
+      31
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Monseigneur Le Marquis de Castries",
+    "jalons": [
+      61,
+      95
+    ]
+  },
+  "entite_2": {
+    "label": "ORG",
+    "text": "Ministre et Secretaire d&#39;Etat au Departement de la Marine",
+    "jalons": [
+      96,
+      157
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "M. Cl. 21 8tre L&#39;eveque de V",
+    "jalons": [
+      158,
+      190
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "aison",
+    "jalons": [
+      190,
+      195
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Puymeras",
+    "jalons": [
+      258,
+      266
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "comtier Venaissin",
+    "jalons": [
+      270,
+      287
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Votre Grandeur",
+    "jalons": [
+      342,
+      356
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Jean pierre Jullien",
+    "jalons": [
+      361,
+      380
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "Gremade",
+    "jalons": [
+      429,
+      436
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Le Vacher",
+    "jalons": [
+      580,
+      589
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "Saintpierre de la martinique",
+    "jalons": [
+      599,
+      627
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "Isle",
+    "jalons": [
+      649,
+      653
+    ]
+  },
+  "entite_13": {
+    "label": "LOC",
+    "text": "de la Grenade",
+    "jalons": [
+      700,
+      713
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "En",
+    "jalons": [
+      751,
+      753
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "Greffe",
+    "jalons": [
+      765,
+      771
+    ]
+  },
+  "entite_16": {
+    "label": "LOC",
+    "text": "S^t pierre de la martiique",
+    "jalons": [
+      775,
+      801
+    ]
+  },
+  "entite_17": {
+    "label": "LOC",
+    "text": "Greffe de la Grenade",
+    "jalons": [
+      872,
+      892
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "S^t pierre de la martinique",
+    "jalons": [
+      1082,
+      1109
+    ]
+  },
+  "entite_19": {
+    "label": "PER",
+    "text": "Jean Pievre Jullien",
+    "jalons": [
+      1149,
+      1168
+    ]
+  },
+  "entite_20": {
+    "label": "MISC",
+    "text": "Consequence",
+    "jalons": [
+      1277,
+      1288
+    ]
+  },
+  "entite_21": {
+    "label": "MISC",
+    "text": "Successsion",
+    "jalons": [
+      1397,
+      1408
+    ]
+  },
+  "entite_22": {
+    "label": "PER",
+    "text": "votre Grandeur",
+    "jalons": [
+      1511,
+      1525
+    ]
+  },
+  "entite_23": {
+    "label": "MISC",
+    "text": "Daigne",
+    "jalons": [
+      1529,
+      1535
+    ]
+  },
+  "entite_24": {
+    "label": "LOC",
+    "text": "Procurer",
+    "jalons": [
+      1542,
+      1550
+    ]
+  },
+  "entite_25": {
+    "label": "PER",
+    "text": ". Reymond",
+    "jalons": [
+      1570,
+      1579
+    ]
+  },
+  "entite_26": {
+    "label": "ORG",
+    "text": "Parlement",
+    "jalons": [
+      1590,
+      1599
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      1612,
+      1617
+    ]
+  },
+  "entite_28": {
+    "label": "PER",
+    "text": "S^t Germain l&#39;auxerrois",
+    "jalons": [
+      1626,
+      1653
+    ]
+  },
+  "entite_29": {
+    "label": "PER",
+    "text": "Corres",
+    "jalons": [
+      1665,
+      1671
+    ]
+  },
+  "entite_30": {
+    "label": "PER",
+    "text": "an",
+    "jalons": [
+      1675,
+      1677
+    ]
+  },
+  "entite_31": {
+    "label": "PER",
+    "text": "Les Gouverneur Et Commendant Taut",
+    "jalons": [
+      1713,
+      1746
+    ]
+  },
+  "entite_32": {
+    "label": "LOC",
+    "text": "Iille de la Grenade",
+    "jalons": [
+      1758,
+      1777
+    ]
+  },
+  "entite_33": {
+    "label": "LOC",
+    "text": "S^t pierre de la martinique",
+    "jalons": [
+      1794,
+      1821
+    ]
+  },
+  "entite_34": {
+    "label": "LOC",
+    "text": "Protéger",
+    "jalons": [
+      1825,
+      1834
+    ]
+  },
+  "entite_35": {
+    "label": "MISC",
+    "text": "Suc",
+    "jalons": [
+      1936,
+      1939
+    ]
+  }
+}

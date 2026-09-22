@@ -1,0 +1,90 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "S ^ r Taillevis de Perigny",
+    "jalons": [
+      37,
+      61
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "Roy",
+    "jalons": [
+      123,
+      126
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Leo",
+    "jalons": [
+      129,
+      132
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "##gane",
+    "jalons": [
+      132,
+      136
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Roy",
+    "jalons": [
+      364,
+      367
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Leogane",
+    "jalons": [
+      370,
+      377
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "S",
+    "jalons": [
+      551,
+      552
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "^",
+    "jalons": [
+      552,
+      553
+    ]
+  },
+  "entite_8": {
+    "label": "LOC",
+    "text": "t Domin",
+    "jalons": [
+      553,
+      560
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "##gue",
+    "jalons": [
+      560,
+      563
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "S ^ t Domingue",
+    "jalons": [
+      905,
+      917
+    ]
+  }
+}

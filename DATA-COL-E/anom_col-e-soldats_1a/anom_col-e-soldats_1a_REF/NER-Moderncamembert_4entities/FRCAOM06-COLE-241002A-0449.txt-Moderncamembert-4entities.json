@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "D",
+    "jalons": [
+      0,
+      1
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "&# x27 ;",
+    "jalons": [
+      1,
+      7
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Ailleboust",
+    "jalons": [
+      7,
+      17
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Charles - Philippe",
+    "jalons": [
+      33,
+      49
+    ]
+  },
+  "entite_4": {
+    "label": "ORG",
+    "text": "Troupes",
+    "jalons": [
+      66,
+      73
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Cayenne",
+    "jalons": [
+      88,
+      95
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Rochefort",
+    "jalons": [
+      101,
+      110
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      142,
+      148
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Sieur Bernard",
+    "jalons": [
+      30,
+      43
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Poitreau Dauphine",
+    "jalons": [
+      53,
+      70
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Sainte Jalle",
+    "jalons": [
+      111,
+      123
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Bernard",
+    "jalons": [
+      145,
+      152
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Carpentras",
+    "jalons": [
+      195,
+      205
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Con",
+    "jalons": [
+      209,
+      212
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "pt",
+    "jalons": [
+      212,
+      214
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "at",
+    "jalons": [
+      214,
+      216
+    ]
+  },
+  "entite_8": {
+    "label": "LOC",
+    "text": "Venoissin",
+    "jalons": [
+      220,
+      229
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      356,
+      362
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "marie Bernard",
+    "jalons": [
+      428,
+      441
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "Monseigneur l&#x27;Evêque",
+    "jalons": [
+      481,
+      506
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "de la Ville de Carpentras",
+    "jalons": [
+      507,
+      532
+    ]
+  },
+  "entite_13": {
+    "label": "LOC",
+    "text": "Paroisse de la ville de Carpentras",
+    "jalons": [
+      584,
+      618
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "Somme",
+    "jalons": [
+      759,
+      764
+    ]
+  },
+  "entite_15": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      865,
+      869
+    ]
+  },
+  "entite_16": {
+    "label": "PER",
+    "text": "mondit Seigneur",
+    "jalons": [
+      920,
+      935
+    ]
+  },
+  "entite_17": {
+    "label": "LOC",
+    "text": "Carpentras",
+    "jalons": [
+      995,
+      1005
+    ]
+  },
+  "entite_18": {
+    "label": "PER",
+    "text": "Le Curé",
+    "jalons": [
+      1067,
+      1074
+    ]
+  },
+  "entite_19": {
+    "label": "LOC",
+    "text": "Carpentras",
+    "jalons": [
+      1112,
+      1122
+    ]
+  },
+  "entite_20": {
+    "label": "PER",
+    "text": "^r Dumiey chaif",
+    "jalons": [
+      1143,
+      1158
+    ]
+  },
+  "entite_21": {
+    "label": "PER",
+    "text": "Caisse",
+    "jalons": [
+      1162,
+      1168
+    ]
+  },
+  "entite_22": {
+    "label": "PER",
+    "text": "Seigneur",
+    "jalons": [
+      1179,
+      1187
+    ]
+  },
+  "entite_23": {
+    "label": "LOC",
+    "text": "Carpentras",
+    "jalons": [
+      1199,
+      1209
+    ]
+  },
+  "entite_24": {
+    "label": "PER",
+    "text": "^r Deÿdier Metre",
+    "jalons": [
+      1339,
+      1355
+    ]
+  },
+  "entite_25": {
+    "label": "LOC",
+    "text": "Carpentras",
+    "jalons": [
+      1369,
+      1379
+    ]
+  },
+  "entite_26": {
+    "label": "LOC",
+    "text": "de France",
+    "jalons": [
+      1400,
+      1409
+    ]
+  },
+  "entite_27": {
+    "label": "PER",
+    "text": "dame de Santté",
+    "jalons": [
+      1587,
+      1601
+    ]
+  }
+}

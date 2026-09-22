@@ -1,0 +1,34 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Augerant",
+    "jalons": [
+      0,
+      8
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      10,
+      17
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Ile - de - France",
+    "jalons": [
+      59,
+      72
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "1767",
+    "jalons": [
+      74,
+      78
+    ]
+  }
+}

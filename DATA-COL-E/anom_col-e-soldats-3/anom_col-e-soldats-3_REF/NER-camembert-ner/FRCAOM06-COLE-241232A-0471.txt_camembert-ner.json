@@ -1,0 +1,34 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Gommelet",
+    "jalons": [
+      0,
+      8
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Pierre",
+    "jalons": [
+      10,
+      16
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Rennes",
+    "jalons": [
+      28,
+      34
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Martinique",
+    "jalons": [
+      61,
+      71
+    ]
+  }
+}

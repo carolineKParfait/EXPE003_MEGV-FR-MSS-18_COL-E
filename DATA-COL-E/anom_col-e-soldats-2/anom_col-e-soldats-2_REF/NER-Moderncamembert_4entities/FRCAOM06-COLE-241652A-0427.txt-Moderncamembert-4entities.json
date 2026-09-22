@@ -1,0 +1,34 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "##ant",
+    "jalons": [
+      3,
+      6
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "François",
+    "jalons": [
+      8,
+      16
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Henri",
+    "jalons": [
+      17,
+      22
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "S ^ t Domingue",
+    "jalons": [
+      33,
+      45
+    ]
+  }
+}

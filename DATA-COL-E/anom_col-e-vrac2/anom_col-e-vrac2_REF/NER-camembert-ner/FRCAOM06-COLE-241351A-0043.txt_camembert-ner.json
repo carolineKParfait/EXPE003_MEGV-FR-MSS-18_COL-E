@@ -1,0 +1,98 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "^r le M^is de Montpesal Rue Princesse",
+    "jalons": [
+      1,
+      38
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Paris V",
+    "jalons": [
+      41,
+      48
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "^es",
+    "jalons": [
+      48,
+      51
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "⎀MR Le duc",
+    "jalons": [
+      121,
+      131
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Martinique",
+    "jalons": [
+      208,
+      218
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Puymeras",
+    "jalons": [
+      295,
+      303
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "S^r Pierre Julien",
+    "jalons": [
+      311,
+      328
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Grenade",
+    "jalons": [
+      341,
+      348
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "M. Le marquis de Antriès",
+    "jalons": [
+      350,
+      374
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Monsieur le Duc V^r",
+    "jalons": [
+      403,
+      422
+    ]
+  },
+  "entite_10": {
+    "label": "MISC",
+    "text": "Billet",
+    "jalons": [
+      435,
+      441
+    ]
+  },
+  "entite_11": {
+    "label": "MISC",
+    "text": "Billets",
+    "jalons": [
+      447,
+      454
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "t Pierre",
+    "jalons": [
+      69,
+      77
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "martinique",
+    "jalons": [
+      78,
+      88
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Jacquin",
+    "jalons": [
+      152,
+      159
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "##ff",
+    "jalons": [
+      163,
+      165
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Pierre",
+    "jalons": [
+      232,
+      238
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Martinique",
+    "jalons": [
+      239,
+      249
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Martinique",
+    "jalons": [
+      556,
+      566
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Juin mil huit cent vingt un \n Astorg \n Scéllé",
+    "jalons": [
+      575,
+      616
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": ". Juin 1821.",
+    "jalons": [
+      628,
+      640
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "1821.",
+    "jalons": [
+      801,
+      806
+    ]
+  },
+  "entite_10": {
+    "label": "MISC",
+    "text": "Paris",
+    "jalons": [
+      924,
+      929
+    ]
+  },
+  "entite_11": {
+    "label": "MISC",
+    "text": "Octobre 1821. \n",
+    "jalons": [
+      935,
+      949
+    ]
+  },
+  "entite_12": {
+    "label": "MISC",
+    "text": "Vauxillies \n",
+    "jalons": [
+      1086,
+      1097
+    ]
+  }
+}

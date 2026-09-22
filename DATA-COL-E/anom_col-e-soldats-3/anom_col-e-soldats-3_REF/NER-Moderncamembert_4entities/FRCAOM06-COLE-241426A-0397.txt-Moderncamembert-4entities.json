@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "##ius",
+    "jalons": [
+      3,
+      6
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Arnold",
+    "jalons": [
+      8,
+      14
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Solda",
+    "jalons": [
+      23,
+      28
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Salis",
+    "jalons": [
+      46,
+      51
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Quercy",
+    "jalons": [
+      58,
+      64
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Saint - Domingue",
+    "jalons": [
+      94,
+      108
+    ]
+  }
+}

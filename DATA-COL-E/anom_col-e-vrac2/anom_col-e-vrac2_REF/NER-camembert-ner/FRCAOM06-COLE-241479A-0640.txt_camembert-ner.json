@@ -1,0 +1,138 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Michel",
+    "jalons": [
+      0,
+      6
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Delamure L",
+    "jalons": [
+      15,
+      25
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Martinique",
+    "jalons": [
+      50,
+      60
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "de Champigny",
+    "jalons": [
+      67,
+      79
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Dorgeville",
+    "jalons": [
+      83,
+      93
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "D^ne francoise Michel",
+    "jalons": [
+      177,
+      198
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "S^r DelaMure– Capitaine de Milice",
+    "jalons": [
+      208,
+      241
+    ]
+  },
+  "entite_7": {
+    "label": "ORG",
+    "text": "Conseil",
+    "jalons": [
+      274,
+      281
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "Superieur",
+    "jalons": [
+      282,
+      291
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "S^rs Romain Juge",
+    "jalons": [
+      325,
+      341
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Goust",
+    "jalons": [
+      348,
+      353
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "Procureur du Roy de la– Juridiction de S^t Pierre",
+    "jalons": [
+      354,
+      403
+    ]
+  },
+  "entite_12": {
+    "label": "PER",
+    "text": "sa Majesté",
+    "jalons": [
+      493,
+      503
+    ]
+  },
+  "entite_13": {
+    "label": "PER",
+    "text": "D^lle francoise Michel",
+    "jalons": [
+      514,
+      536
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "Emancipée",
+    "jalons": [
+      556,
+      565
+    ]
+  },
+  "entite_15": {
+    "label": "PER",
+    "text": "Paul Michel",
+    "jalons": [
+      576,
+      587
+    ]
+  },
+  "entite_16": {
+    "label": "PER",
+    "text": "Jullienne Gobert",
+    "jalons": [
+      603,
+      619
+    ]
+  }
+}

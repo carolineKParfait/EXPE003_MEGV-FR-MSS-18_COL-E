@@ -1,0 +1,98 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Entraine",
+    "jalons": [
+      63,
+      71
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Lamme",
+    "jalons": [
+      261,
+      266
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Secours",
+    "jalons": [
+      341,
+      348
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Lambeaux",
+    "jalons": [
+      389,
+      397
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Camarade",
+    "jalons": [
+      594,
+      602
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "M. Dulac sou Capitaine",
+    "jalons": [
+      880,
+      902
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Cap français Isle et Cote S^t Domingue",
+    "jalons": [
+      945,
+      984
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Millin de Grandmaison Le chJulai",
+    "jalons": [
+      1021,
+      1053
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "Annee",
+    "jalons": [
+      1132,
+      1137
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Duchateau",
+    "jalons": [
+      1245,
+      1254
+    ]
+  },
+  "entite_10": {
+    "label": "ORG",
+    "text": "Commissaire des Guerres",
+    "jalons": [
+      1329,
+      1352
+    ]
+  },
+  "entite_11": {
+    "label": "MISC",
+    "text": "Procès-verbal",
+    "jalons": [
+      1379,
+      1393
+    ]
+  }
+}

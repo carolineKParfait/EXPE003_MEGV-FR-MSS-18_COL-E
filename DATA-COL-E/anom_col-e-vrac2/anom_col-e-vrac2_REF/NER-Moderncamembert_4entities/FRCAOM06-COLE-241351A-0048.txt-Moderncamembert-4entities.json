@@ -1,0 +1,34 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "de Malherbe",
+    "jalons": [
+      133,
+      144
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "^",
+    "jalons": [
+      370,
+      371
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Montmartre",
+    "jalons": [
+      458,
+      468
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Reymond \n",
+    "jalons": [
+      475,
+      483
+    ]
+  }
+}

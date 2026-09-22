@@ -1,0 +1,74 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Dailleboust",
+    "jalons": [
+      4,
+      15
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Le",
+    "jalons": [
+      57,
+      59
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "^ te",
+    "jalons": [
+      61,
+      64
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Cherisey",
+    "jalons": [
+      68,
+      76
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Versailles",
+    "jalons": [
+      82,
+      92
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Lervine",
+    "jalons": [
+      113,
+      120
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "&# 39",
+    "jalons": [
+      148,
+      152
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "##au",
+    "jalons": [
+      404,
+      406
+    ]
+  },
+  "entite_8": {
+    "label": "LOC",
+    "text": "Baronnoise",
+    "jalons": [
+      432,
+      442
+    ]
+  }
+}

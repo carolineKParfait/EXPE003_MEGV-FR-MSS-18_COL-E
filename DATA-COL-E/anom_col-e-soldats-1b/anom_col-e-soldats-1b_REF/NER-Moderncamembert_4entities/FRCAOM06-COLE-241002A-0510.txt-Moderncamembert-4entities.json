@@ -1,0 +1,82 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Senlis",
+    "jalons": [
+      38,
+      44
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "Marine",
+    "jalons": [
+      68,
+      74
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Daillebout",
+    "jalons": [
+      98,
+      108
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "1 ^ er Vendémiaire an 9",
+    "jalons": [
+      348,
+      369
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "##bout",
+    "jalons": [
+      413,
+      417
+    ]
+  },
+  "entite_5": {
+    "label": "ORG",
+    "text": "de",
+    "jalons": [
+      562,
+      564
+    ]
+  },
+  "entite_6": {
+    "label": "ORG",
+    "text": "Marine",
+    "jalons": [
+      568,
+      574
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Messidor an 10 ( 29 Juin 1802 )",
+    "jalons": [
+      582,
+      611
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "Brumaire \n",
+    "jalons": [
+      617,
+      626
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "Loi du 22 Aout 1790",
+    "jalons": [
+      1096,
+      1115
+    ]
+  }
+}

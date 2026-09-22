@@ -1,0 +1,34 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "D",
+    "jalons": [
+      4,
+      5
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "ministre De la Marine et des Colonies",
+    "jalons": [
+      11,
+      48
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Garis",
+    "jalons": [
+      49,
+      54
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "^tre",
+    "jalons": [
+      56,
+      60
+    ]
+  }
+}

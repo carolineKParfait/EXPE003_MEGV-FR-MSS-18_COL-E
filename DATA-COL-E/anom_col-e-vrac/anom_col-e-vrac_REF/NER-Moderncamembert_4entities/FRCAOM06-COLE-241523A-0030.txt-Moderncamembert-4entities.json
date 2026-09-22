@@ -1,0 +1,90 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "de Boncourt",
+    "jalons": [
+      12,
+      23
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Monseigneur de Sartine",
+    "jalons": [
+      38,
+      60
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "##y",
+    "jalons": [
+      160,
+      161
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Domingue",
+    "jalons": [
+      311,
+      319
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Duc de Praslin",
+    "jalons": [
+      401,
+      415
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "##rigny",
+    "jalons": [
+      532,
+      537
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "de Boynes",
+    "jalons": [
+      607,
+      616
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "-",
+    "jalons": [
+      1048,
+      1049
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "^",
+    "jalons": [
+      1063,
+      1064
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "^",
+    "jalons": [
+      1329,
+      1330
+    ]
+  },
+  "entite_10": {
+    "label": "MISC",
+    "text": "1771.",
+    "jalons": [
+      1334,
+      1339
+    ]
+  }
+}

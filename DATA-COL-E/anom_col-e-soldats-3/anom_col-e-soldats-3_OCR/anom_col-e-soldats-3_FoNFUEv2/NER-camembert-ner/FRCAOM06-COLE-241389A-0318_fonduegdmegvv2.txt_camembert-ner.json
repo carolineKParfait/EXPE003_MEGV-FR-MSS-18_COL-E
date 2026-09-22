@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Roch",
+    "jalons": [
+      3,
+      7
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      9,
+      16
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Chemboung d&#39;Armagnac",
+    "jalons": [
+      27,
+      51
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Guadeloupe",
+    "jalons": [
+      83,
+      93
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Déserteur",
+    "jalons": [
+      94,
+      104
+    ]
+  }
+}

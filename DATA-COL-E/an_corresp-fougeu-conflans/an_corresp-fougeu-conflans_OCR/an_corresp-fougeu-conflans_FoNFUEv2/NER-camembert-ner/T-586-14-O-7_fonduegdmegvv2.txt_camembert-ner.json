@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      2,
+      8
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Madame du Comtesse de Conflans",
+    "jalons": [
+      13,
+      43
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "rue de grenelle faubourg",
+    "jalons": [
+      57,
+      81
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "S",
+    "jalons": [
+      82,
+      83
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "^",
+    "jalons": [
+      83,
+      84
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "t germain Prris",
+    "jalons": [
+      84,
+      99
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "##illard",
+    "jalons": [
+      3,
+      9
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Cap",
+    "jalons": [
+      39,
+      42
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Germain Marie \n Robillard",
+    "jalons": [
+      68,
+      91
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Cap",
+    "jalons": [
+      114,
+      117
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Cap",
+    "jalons": [
+      385,
+      388
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Baradat \n",
+    "jalons": [
+      403,
+      411
+    ]
+  }
+}

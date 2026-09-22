@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Brest",
+    "jalons": [
+      2,
+      7
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Piece",
+    "jalons": [
+      28,
+      33
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "^",
+    "jalons": [
+      198,
+      199
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "r de Mainemara",
+    "jalons": [
+      199,
+      213
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Cresnay",
+    "jalons": [
+      571,
+      578
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "r Le Duc",
+    "jalons": [
+      1275,
+      1283
+    ]
+  }
+}

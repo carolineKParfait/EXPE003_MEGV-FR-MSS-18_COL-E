@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Reymond",
+    "jalons": [
+      3,
+      10
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Rue des fossés Montmartre",
+    "jalons": [
+      31,
+      56
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      59,
+      64
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "X ^ bre 1785",
+    "jalons": [
+      78,
+      88
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Puymeras",
+    "jalons": [
+      258,
+      266
+    ]
+  }
+}

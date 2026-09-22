@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "monsieur le marques",
+    "jalons": [
+      14,
+      33
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Carron",
+    "jalons": [
+      105,
+      111
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Lee",
+    "jalons": [
+      192,
+      195
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Cap",
+    "jalons": [
+      222,
+      225
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Cabinet",
+    "jalons": [
+      817,
+      824
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "monsieur le marquis",
+    "jalons": [
+      843,
+      862
+    ]
+  }
+}

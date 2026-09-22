@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Brest",
+    "jalons": [
+      2,
+      7
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "##ce",
+    "jalons": [
+      38,
+      40
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "M",
+    "jalons": [
+      71,
+      72
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Versailles",
+    "jalons": [
+      401,
+      411
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Bordeaux",
+    "jalons": [
+      827,
+      835
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Duché",
+    "jalons": [
+      1402,
+      1407
+    ]
+  }
+}

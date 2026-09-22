@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "MeVIIE MOITORT",
+    "jalons": [
+      0,
+      14
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Salvigny",
+    "jalons": [
+      68,
+      76
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Frédérich Soldat",
+    "jalons": [
+      78,
+      96
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Guadeloupe",
+    "jalons": [
+      100,
+      110
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Colonies",
+    "jalons": [
+      116,
+      124
+    ]
+  }
+}

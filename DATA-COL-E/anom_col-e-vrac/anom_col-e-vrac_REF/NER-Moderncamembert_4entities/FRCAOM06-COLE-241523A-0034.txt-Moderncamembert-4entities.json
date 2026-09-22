@@ -1,0 +1,58 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Domingue",
+    "jalons": [
+      20,
+      28
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Taillevis de Perigny",
+    "jalons": [
+      35,
+      55
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Leogane",
+    "jalons": [
+      86,
+      93
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "##s",
+    "jalons": [
+      255,
+      256
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Rochefort",
+    "jalons": [
+      259,
+      268
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Leogane",
+    "jalons": [
+      419,
+      426
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Léogane",
+    "jalons": [
+      511,
+      518
+    ]
+  }
+}

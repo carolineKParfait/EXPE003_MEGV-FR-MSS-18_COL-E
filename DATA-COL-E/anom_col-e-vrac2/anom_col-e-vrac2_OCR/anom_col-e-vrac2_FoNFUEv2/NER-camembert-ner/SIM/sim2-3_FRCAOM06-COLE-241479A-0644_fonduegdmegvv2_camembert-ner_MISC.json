@@ -1,0 +1,39 @@
+{
+  "voc_eval_res": {
+    "precision": 33.3333,
+    "recall": 100.0,
+    "f-score": 50.0
+  },
+  "KL_res": {
+    "KL divergence": 0.5694876818894951,
+    "Euclidean Dist.": 0.6546536707079772,
+    "WER": 2.5,
+    "CER": 1.6875,
+    "Cosine Dist.": 0.19821627426272692
+  },
+  "occ_eval_res": {
+    "precision": 28.5714,
+    "recall": 100.0,
+    "f-score": 44.4444
+  },
+  "clean_eval": {
+    "f-score": 59.56284153005464,
+    "precision": 62.28571428571429,
+    "recall": 57.06806282722513,
+    "tp": 109,
+    "fp": 66,
+    "fn": 82
+  },
+  "jaccard": [
+    0.5
+  ],
+  "braycurtis": [
+    0.5
+  ],
+  "dice": [
+    0.3333333333333333
+  ],
+  "cosinus": [
+    0.33500732634986163
+  ]
+}

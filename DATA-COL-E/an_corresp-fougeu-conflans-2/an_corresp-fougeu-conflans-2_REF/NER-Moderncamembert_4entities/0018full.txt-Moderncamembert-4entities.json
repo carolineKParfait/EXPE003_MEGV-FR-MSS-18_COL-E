@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "La Marechalle",
+    "jalons": [
+      29,
+      42
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "##moiselle de Maisonceul",
+    "jalons": [
+      281,
+      303
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Le Marquis et Madame la marquise de Bonneguise",
+    "jalons": [
+      320,
+      366
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": ".",
+    "jalons": [
+      366,
+      367
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "La Marechalle",
+    "jalons": [
+      386,
+      399
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Mare",
+    "jalons": [
+      538,
+      542
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Mont",
+    "jalons": [
+      622,
+      626
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "##ullé",
+    "jalons": [
+      626,
+      630
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Comte de Corbiere",
+    "jalons": [
+      3,
+      20
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "S ^ r Daillebout",
+    "jalons": [
+      61,
+      75
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Senlis",
+    "jalons": [
+      245,
+      251
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "##illebout",
+    "jalons": [
+      347,
+      355
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Etablissem",
+    "jalons": [
+      368,
+      378
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Pas",
+    "jalons": [
+      0,
+      3
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Adrien",
+    "jalons": [
+      10,
+      16
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Iles du Vent",
+    "jalons": [
+      29,
+      41
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      67,
+      72
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "E",
+    "jalons": [
+      87,
+      88
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "##1",
+    "jalons": [
+      91,
+      92
+    ]
+  }
+}

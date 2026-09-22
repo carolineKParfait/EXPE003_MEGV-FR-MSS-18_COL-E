@@ -1,0 +1,90 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Louis Brussel dit La Pointe",
+    "jalons": [
+      118,
+      145
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Barthelemy et",
+    "jalons": [
+      154,
+      167
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Marie Jeanne La Lande Natif",
+    "jalons": [
+      171,
+      198
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": ".",
+    "jalons": [
+      235,
+      236
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "##p. cheveux",
+    "jalons": [
+      238,
+      248
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Bruns",
+    "jalons": [
+      261,
+      266
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Roux le",
+    "jalons": [
+      276,
+      283
+    ]
+  },
+  "entite_7": {
+    "label": "ORG",
+    "text": "Compagnie du Ch ^ r Dallard",
+    "jalons": [
+      312,
+      337
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "a",
+    "jalons": [
+      338,
+      339
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "Cap",
+    "jalons": [
+      382,
+      385
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "Cap",
+    "jalons": [
+      506,
+      509
+    ]
+  }
+}

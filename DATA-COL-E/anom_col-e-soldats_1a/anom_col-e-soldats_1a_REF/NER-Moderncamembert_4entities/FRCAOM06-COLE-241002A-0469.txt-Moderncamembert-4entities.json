@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Prevost de mesquen mon",
+    "jalons": [
+      141,
+      163
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "de Pressigny",
+    "jalons": [
+      182,
+      194
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "quimper",
+    "jalons": [
+      221,
+      228
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Bourbon",
+    "jalons": [
+      284,
+      291
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Prevost",
+    "jalons": [
+      717,
+      724
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "la",
+    "jalons": [
+      728,
+      730
+    ]
+  }
+}

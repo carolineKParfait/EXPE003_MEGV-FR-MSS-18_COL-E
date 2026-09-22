@@ -1,0 +1,74 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Domingue \n",
+    "jalons": [
+      4,
+      13
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Montarche",
+    "jalons": [
+      16,
+      25
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "##r",
+    "jalons": [
+      25,
+      26
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Jujardy",
+    "jalons": [
+      36,
+      43
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Prince",
+    "jalons": [
+      78,
+      84
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Dépêche",
+    "jalons": [
+      135,
+      142
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Jujard",
+    "jalons": [
+      225,
+      231
+    ]
+  },
+  "entite_7": {
+    "label": "ORG",
+    "text": "Ordre",
+    "jalons": [
+      240,
+      245
+    ]
+  },
+  "entite_8": {
+    "label": "ORG",
+    "text": "du Roy",
+    "jalons": [
+      246,
+      252
+    ]
+  }
+}

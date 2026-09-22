@@ -1,0 +1,58 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "La Roch",
+    "jalons": [
+      0,
+      7
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      9,
+      16
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Cherbourg",
+    "jalons": [
+      28,
+      37
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Armagnac",
+    "jalons": [
+      46,
+      54
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Chasseur",
+    "jalons": [
+      57,
+      65
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Guadeloupe",
+    "jalons": [
+      86,
+      96
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Déserteur",
+    "jalons": [
+      97,
+      106
+    ]
+  }
+}

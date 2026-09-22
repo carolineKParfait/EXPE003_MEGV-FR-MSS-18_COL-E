@@ -1,0 +1,34 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Aet",
+    "jalons": [
+      3,
+      6
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "ais",
+    "jalons": [
+      11,
+      14
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Champagne",
+    "jalons": [
+      34,
+      43
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Saint-Domingue",
+    "jalons": [
+      71,
+      85
+    ]
+  }
+}

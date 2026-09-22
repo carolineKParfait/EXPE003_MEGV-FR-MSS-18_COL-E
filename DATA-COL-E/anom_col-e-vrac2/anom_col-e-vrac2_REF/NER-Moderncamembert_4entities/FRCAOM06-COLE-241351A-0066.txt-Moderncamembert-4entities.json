@@ -1,0 +1,106 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "^",
+    "jalons": [
+      68,
+      69
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": ".",
+    "jalons": [
+      77,
+      78
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "\n",
+    "jalons": [
+      242,
+      242
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Jean",
+    "jalons": [
+      325,
+      329
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Pierre Jullien neg ^",
+    "jalons": [
+      330,
+      349
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "##v",
+    "jalons": [
+      632,
+      633
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "1751",
+    "jalons": [
+      638,
+      642
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Emerigon no ^ re",
+    "jalons": [
+      701,
+      715
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "##ur Julien",
+    "jalons": [
+      864,
+      873
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "##n",
+    "jalons": [
+      1324,
+      1325
+    ]
+  },
+  "entite_10": {
+    "label": "MISC",
+    "text": "no",
+    "jalons": [
+      1326,
+      1328
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "##ur Julien",
+    "jalons": [
+      1414,
+      1423
+    ]
+  },
+  "entite_12": {
+    "label": "MISC",
+    "text": "Vacher",
+    "jalons": [
+      1466,
+      1472
+    ]
+  }
+}

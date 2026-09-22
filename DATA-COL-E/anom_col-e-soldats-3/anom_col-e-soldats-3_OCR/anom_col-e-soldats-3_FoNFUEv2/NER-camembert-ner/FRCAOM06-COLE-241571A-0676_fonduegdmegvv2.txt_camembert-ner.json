@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Roi",
+    "jalons": [
+      15,
+      18
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Cap",
+    "jalons": [
+      22,
+      25
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Cer",
+    "jalons": [
+      36,
+      39
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Germain Marie Robillard",
+    "jalons": [
+      51,
+      74
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Regilment du Cap",
+    "jalons": [
+      85,
+      101
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Roi",
+    "jalons": [
+      296,
+      299
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Certificat",
+    "jalons": [
+      358,
+      368
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Cap",
+    "jalons": [
+      372,
+      375
+    ]
+  }
+}

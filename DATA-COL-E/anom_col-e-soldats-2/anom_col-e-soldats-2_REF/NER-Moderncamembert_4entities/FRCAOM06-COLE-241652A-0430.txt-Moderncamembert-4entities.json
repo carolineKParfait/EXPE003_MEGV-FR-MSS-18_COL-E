@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "de Vaivre",
+    "jalons": [
+      3,
+      12
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Le Chevalier de Fleurieu",
+    "jalons": [
+      34,
+      58
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "François henry Volant",
+    "jalons": [
+      143,
+      164
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Florieu",
+    "jalons": [
+      188,
+      195
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Orléans",
+    "jalons": [
+      507,
+      514
+    ]
+  }
+}

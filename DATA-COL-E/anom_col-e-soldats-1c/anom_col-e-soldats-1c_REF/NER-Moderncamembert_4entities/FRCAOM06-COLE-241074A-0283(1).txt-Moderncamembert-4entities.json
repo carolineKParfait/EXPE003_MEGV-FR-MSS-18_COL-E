@@ -1,0 +1,74 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "P",
+    "jalons": [
+      11,
+      12
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Charles",
+    "jalons": [
+      16,
+      23
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Cap",
+    "jalons": [
+      105,
+      108
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Charles Chabaroche",
+    "jalons": [
+      138,
+      156
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Cap",
+    "jalons": [
+      175,
+      178
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "^ e",
+    "jalons": [
+      183,
+      185
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Bonnetat",
+    "jalons": [
+      189,
+      197
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      704,
+      710
+    ]
+  },
+  "entite_8": {
+    "label": "LOC",
+    "text": "Cap Baradot",
+    "jalons": [
+      833,
+      844
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Carbonnel (si meois",
+    "jalons": [
+      0,
+      19
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Saint-Marcel",
+    "jalons": [
+      25,
+      37
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Compignie franche",
+    "jalons": [
+      66,
+      83
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Cap-Français",
+    "jalons": [
+      100,
+      113
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Saint-Domingue Colonies",
+    "jalons": [
+      116,
+      139
+    ]
+  }
+}

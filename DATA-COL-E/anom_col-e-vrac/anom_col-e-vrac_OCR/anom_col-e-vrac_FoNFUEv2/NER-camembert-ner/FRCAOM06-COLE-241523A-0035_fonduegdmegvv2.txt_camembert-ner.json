@@ -1,0 +1,74 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "S. Tailleris de Perigny",
+    "jalons": [
+      3,
+      26
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Léogane",
+    "jalons": [
+      42,
+      50
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "S^t Bomingue",
+    "jalons": [
+      105,
+      117
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "Lieutenant",
+    "jalons": [
+      137,
+      147
+    ]
+  },
+  "entite_4": {
+    "label": "ORG",
+    "text": "Roi",
+    "jalons": [
+      151,
+      154
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "france",
+    "jalons": [
+      253,
+      259
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "S. de Perigne",
+    "jalons": [
+      446,
+      459
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "france",
+    "jalons": [
+      763,
+      769
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "Longtems",
+    "jalons": [
+      803,
+      811
+    ]
+  }
+}

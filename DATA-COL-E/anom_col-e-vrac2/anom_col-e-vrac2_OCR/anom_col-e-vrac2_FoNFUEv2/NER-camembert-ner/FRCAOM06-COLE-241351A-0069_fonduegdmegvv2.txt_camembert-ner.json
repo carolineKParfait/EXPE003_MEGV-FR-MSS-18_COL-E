@@ -1,0 +1,322 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Vingt",
+    "jalons": [
+      9,
+      14
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "S^tr Esprit",
+    "jalons": [
+      55,
+      66
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Julien",
+    "jalons": [
+      114,
+      120
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "M^e Emerigon",
+    "jalons": [
+      158,
+      170
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Bonnet",
+    "jalons": [
+      226,
+      232
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Valoir",
+    "jalons": [
+      236,
+      242
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Verbal",
+    "jalons": [
+      295,
+      301
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "P. Emerigou",
+    "jalons": [
+      326,
+      337
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Petit",
+    "jalons": [
+      339,
+      344
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Verale",
+    "jalons": [
+      346,
+      352
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "conforme",
+    "jalons": [
+      359,
+      367
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "Greffe",
+    "jalons": [
+      379,
+      385
+    ]
+  },
+  "entite_12": {
+    "label": "PER",
+    "text": "Lef s astorg",
+    "jalons": [
+      427,
+      439
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "J",
+    "jalons": [
+      527,
+      528
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "S^t Pierre Martinique",
+    "jalons": [
+      546,
+      567
+    ]
+  },
+  "entite_15": {
+    "label": "PER",
+    "text": "^r Jacquin Greffier",
+    "jalons": [
+      627,
+      646
+    ]
+  },
+  "entite_16": {
+    "label": "LOC",
+    "text": "Saint Pierre Martinique",
+    "jalons": [
+      704,
+      727
+    ]
+  },
+  "entite_17": {
+    "label": "MISC",
+    "text": "Sceau",
+    "jalons": [
+      885,
+      890
+    ]
+  },
+  "entite_18": {
+    "label": "MISC",
+    "text": "Enregistrement",
+    "jalons": [
+      947,
+      961
+    ]
+  },
+  "entite_19": {
+    "label": "LOC",
+    "text": "Colonie",
+    "jalons": [
+      996,
+      1003
+    ]
+  },
+  "entite_20": {
+    "label": "LOC",
+    "text": "S^t Pierre Martinique",
+    "jalons": [
+      1031,
+      1052
+    ]
+  },
+  "entite_21": {
+    "label": "PER",
+    "text": "Juin",
+    "jalons": [
+      1061,
+      1065
+    ]
+  },
+  "entite_22": {
+    "label": "PER",
+    "text": "Astorg",
+    "jalons": [
+      1089,
+      1095
+    ]
+  },
+  "entite_23": {
+    "label": "MISC",
+    "text": "Signature",
+    "jalons": [
+      1159,
+      1168
+    ]
+  },
+  "entite_24": {
+    "label": "PER",
+    "text": "M^r Astorg",
+    "jalons": [
+      1172,
+      1182
+    ]
+  },
+  "entite_25": {
+    "label": "LOC",
+    "text": "S^t Pierre",
+    "jalons": [
+      1235,
+      1245
+    ]
+  },
+  "entite_26": {
+    "label": "LOC",
+    "text": "※ A fort Royal Martinique",
+    "jalons": [
+      1246,
+      1271
+    ]
+  },
+  "entite_27": {
+    "label": "PER",
+    "text": "Lieutenant",
+    "jalons": [
+      1294,
+      1304
+    ]
+  },
+  "entite_28": {
+    "label": "PER",
+    "text": "Roi",
+    "jalons": [
+      1352,
+      1355
+    ]
+  },
+  "entite_29": {
+    "label": "PER",
+    "text": "Ml Douselet",
+    "jalons": [
+      1398,
+      1409
+    ]
+  },
+  "entite_30": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      1411,
+      1416
+    ]
+  },
+  "entite_31": {
+    "label": "ORG",
+    "text": "Ministre Secretaire d",
+    "jalons": [
+      1444,
+      1465
+    ]
+  },
+  "entite_32": {
+    "label": "ORG",
+    "text": "Etat",
+    "jalons": [
+      1470,
+      1474
+    ]
+  },
+  "entite_33": {
+    "label": "ORG",
+    "text": "Doureloz TAe Marine",
+    "jalons": [
+      1481,
+      1500
+    ]
+  },
+  "entite_34": {
+    "label": "ORG",
+    "text": "Colonies",
+    "jalons": [
+      1508,
+      1516
+    ]
+  },
+  "entite_35": {
+    "label": "PER",
+    "text": "Secrétaire",
+    "jalons": [
+      1545,
+      1556
+    ]
+  },
+  "entite_36": {
+    "label": "ORG",
+    "text": "Général",
+    "jalons": [
+      1557,
+      1566
+    ]
+  },
+  "entite_37": {
+    "label": "LOC",
+    "text": "du",
+    "jalons": [
+      1567,
+      1569
+    ]
+  },
+  "entite_38": {
+    "label": "ORG",
+    "text": "Ministère",
+    "jalons": [
+      1570,
+      1580
+    ]
+  },
+  "entite_39": {
+    "label": "PER",
+    "text": "V Vauvillieus",
+    "jalons": [
+      1581,
+      1594
+    ]
+  }
+}

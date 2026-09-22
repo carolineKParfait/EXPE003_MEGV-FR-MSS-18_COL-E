@@ -1,0 +1,82 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "paris",
+    "jalons": [
+      72,
+      77
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      220,
+      226
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "M^re de tarpere",
+    "jalons": [
+      232,
+      247
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Mr",
+    "jalons": [
+      259,
+      261
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "répond",
+    "jalons": [
+      295,
+      302
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Logouveaux",
+    "jalons": [
+      412,
+      422
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "M^lle de Rcionne",
+    "jalons": [
+      586,
+      602
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      665,
+      670
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "Piece",
+    "jalons": [
+      858,
+      863
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "M. B",
+    "jalons": [
+      872,
+      876
+    ]
+  }
+}

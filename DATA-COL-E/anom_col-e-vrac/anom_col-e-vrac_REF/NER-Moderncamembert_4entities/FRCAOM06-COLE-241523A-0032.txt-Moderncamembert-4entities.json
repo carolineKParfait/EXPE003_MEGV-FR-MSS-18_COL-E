@@ -1,0 +1,26 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "france",
+    "jalons": [
+      42,
+      48
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Roi",
+    "jalons": [
+      189,
+      192
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Dernier Réglement",
+    "jalons": [
+      412,
+      429
+    ]
+  }
+}

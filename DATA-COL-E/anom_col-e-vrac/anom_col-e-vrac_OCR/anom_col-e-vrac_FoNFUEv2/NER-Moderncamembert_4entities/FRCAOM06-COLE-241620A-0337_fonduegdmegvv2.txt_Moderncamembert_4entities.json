@@ -1,0 +1,74 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "MT",
+    "jalons": [
+      36,
+      38
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "##art",
+    "jalons": [
+      41,
+      44
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Jean ) R. Taffart",
+    "jalons": [
+      46,
+      62
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Colonel",
+    "jalons": [
+      103,
+      110
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "M. de Sartine",
+    "jalons": [
+      136,
+      149
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Caffart",
+    "jalons": [
+      373,
+      380
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Intendant",
+    "jalons": [
+      396,
+      405
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "S ^ t Domingue,",
+    "jalons": [
+      409,
+      422
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": ".",
+    "jalons": [
+      682,
+      683
+    ]
+  }
+}

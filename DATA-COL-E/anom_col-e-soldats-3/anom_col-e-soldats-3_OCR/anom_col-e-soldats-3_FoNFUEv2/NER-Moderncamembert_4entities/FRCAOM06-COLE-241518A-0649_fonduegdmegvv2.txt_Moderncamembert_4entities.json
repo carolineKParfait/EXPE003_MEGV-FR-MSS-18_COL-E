@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Julien d",
+    "jalons": [
+      61,
+      69
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "&# 39 ;",
+    "jalons": [
+      69,
+      74
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Armagnac",
+    "jalons": [
+      74,
+      82
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Gu",
+    "jalons": [
+      89,
+      91
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "##adel",
+    "jalons": [
+      91,
+      95
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "##oup",
+    "jalons": [
+      95,
+      98
+    ]
+  }
+}

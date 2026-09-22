@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "V",
+    "jalons": [
+      211,
+      212
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "^ r",
+    "jalons": [
+      212,
+      214
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "##llon",
+    "jalons": [
+      220,
+      224
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "##re",
+    "jalons": [
+      623,
+      625
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Dealintelligeme",
+    "jalons": [
+      644,
+      659
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "##yre avant",
+    "jalons": [
+      1463,
+      1472
+    ]
+  }
+}

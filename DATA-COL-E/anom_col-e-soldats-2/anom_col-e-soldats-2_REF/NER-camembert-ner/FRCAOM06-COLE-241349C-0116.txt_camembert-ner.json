@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": ". Le V^te de Damas",
+    "jalons": [
+      102,
+      120
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Gouverneur",
+    "jalons": [
+      121,
+      131
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "La Martinique",
+    "jalons": [
+      134,
+      147
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "M",
+    "jalons": [
+      191,
+      192
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Roy",
+    "jalons": [
+      201,
+      204
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "S^r Joly",
+    "jalons": [
+      230,
+      238
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "S^t Pierre",
+    "jalons": [
+      265,
+      275
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "M. de Senneville",
+    "jalons": [
+      410,
+      426
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Pierre",
+    "jalons": [
+      8,
+      14
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Rennes",
+    "jalons": [
+      24,
+      30
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Sol",
+    "jalons": [
+      31,
+      34
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Martinique",
+    "jalons": [
+      57,
+      67
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Port-Royal",
+    "jalons": [
+      76,
+      86
+    ]
+  }
+}

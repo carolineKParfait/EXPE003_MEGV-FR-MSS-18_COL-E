@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Daillebout",
+    "jalons": [
+      32,
+      42
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Prefet",
+    "jalons": [
+      100,
+      106
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Monseigneur de votre Excellence",
+    "jalons": [
+      240,
+      271
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "trè hum",
+    "jalons": [
+      275,
+      283
+    ]
+  },
+  "entite_4": {
+    "label": "ORG",
+    "text": "Conseille d&#39;Etat",
+    "jalons": [
+      317,
+      337
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "M^e Lrpeu",
+    "jalons": [
+      339,
+      348
+    ]
+  }
+}

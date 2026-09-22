@@ -1,0 +1,90 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "##dant",
+    "jalons": [
+      13,
+      17
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Gignoux",
+    "jalons": [
+      30,
+      37
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Darmancourt",
+    "jalons": [
+      45,
+      56
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Nantes",
+    "jalons": [
+      86,
+      92
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Brig",
+    "jalons": [
+      167,
+      171
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Chevreux",
+    "jalons": [
+      178,
+      186
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Pierre \n michel Voydant",
+    "jalons": [
+      310,
+      331
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Geneve",
+    "jalons": [
+      481,
+      487
+    ]
+  },
+  "entite_8": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      565,
+      570
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Sebastien Géraud",
+    "jalons": [
+      649,
+      665
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Noël",
+    "jalons": [
+      670,
+      674
+    ]
+  }
+}

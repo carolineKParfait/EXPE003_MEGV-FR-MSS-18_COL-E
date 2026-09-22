@@ -1,0 +1,58 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Domingue de Montarcher S. de Jogard",
+    "jalons": [
+      2,
+      37
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Port au Prince",
+    "jalons": [
+      55,
+      69
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Depeche",
+    "jalons": [
+      107,
+      114
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Connoré",
+    "jalons": [
+      136,
+      143
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "S^r de Jujardy",
+    "jalons": [
+      182,
+      196
+    ]
+  },
+  "entite_5": {
+    "label": "ORG",
+    "text": "Ordre du Roy",
+    "jalons": [
+      204,
+      216
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Etablit",
+    "jalons": [
+      227,
+      234
+    ]
+  }
+}

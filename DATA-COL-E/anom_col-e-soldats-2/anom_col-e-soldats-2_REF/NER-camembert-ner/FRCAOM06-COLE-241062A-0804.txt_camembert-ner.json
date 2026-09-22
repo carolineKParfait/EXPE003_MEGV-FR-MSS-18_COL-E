@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Brussel (Pierre-Louis",
+    "jalons": [
+      0,
+      21
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "la Pointe",
+    "jalons": [
+      28,
+      37
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "du Havre",
+    "jalons": [
+      45,
+      53
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "régiment du Cap-français",
+    "jalons": [
+      65,
+      89
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Saint-Domingue",
+    "jalons": [
+      93,
+      107
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Anne Saty",
+    "jalons": [
+      117,
+      126
+    ]
+  }
+}

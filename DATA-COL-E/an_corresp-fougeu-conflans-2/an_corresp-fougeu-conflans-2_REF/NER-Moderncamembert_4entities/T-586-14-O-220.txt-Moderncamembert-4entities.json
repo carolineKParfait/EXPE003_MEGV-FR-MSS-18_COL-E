@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Brest",
+    "jalons": [
+      2,
+      7
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "##ce",
+    "jalons": [
+      31,
+      33
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "##tée",
+    "jalons": [
+      37,
+      40
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "M ^ r Duguay",
+    "jalons": [
+      771,
+      781
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Daiguillon",
+    "jalons": [
+      1248,
+      1258
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "M ^ r Duguay",
+    "jalons": [
+      1308,
+      1318
+    ]
+  }
+}

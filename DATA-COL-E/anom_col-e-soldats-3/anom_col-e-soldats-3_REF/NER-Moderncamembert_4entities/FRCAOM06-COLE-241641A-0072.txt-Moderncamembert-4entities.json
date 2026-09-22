@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "antoine",
+    "jalons": [
+      9,
+      16
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "Valliere",
+    "jalons": [
+      51,
+      59
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Basse -",
+    "jalons": [
+      124,
+      130
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Terre Guadeloupe",
+    "jalons": [
+      131,
+      147
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Darmagnac",
+    "jalons": [
+      158,
+      167
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Terre Guadeloupe",
+    "jalons": [
+      223,
+      239
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Cuve",
+    "jalons": [
+      292,
+      296
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Basse - Terre Guadeloupe",
+    "jalons": [
+      544,
+      566
+    ]
+  }
+}

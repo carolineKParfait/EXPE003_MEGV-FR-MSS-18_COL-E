@@ -1,0 +1,338 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "M. le Duc de Montpezast.",
+    "jalons": [
+      11,
+      35
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Monseigneur le Marquis de Castries",
+    "jalons": [
+      52,
+      86
+    ]
+  },
+  "entite_2": {
+    "label": "ORG",
+    "text": "Ministre",
+    "jalons": [
+      87,
+      95
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "Secretaire d",
+    "jalons": [
+      99,
+      111
+    ]
+  },
+  "entite_4": {
+    "label": "ORG",
+    "text": "Etat",
+    "jalons": [
+      117,
+      121
+    ]
+  },
+  "entite_5": {
+    "label": "ORG",
+    "text": "Departement de la Marine",
+    "jalons": [
+      125,
+      149
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Monseigneur– M. Vl. 21 8^bre n&",
+    "jalons": [
+      151,
+      182
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "L&#x",
+    "jalons": [
+      188,
+      192
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": ";eveque de Vaison",
+    "jalons": [
+      194,
+      211
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "Puymeras",
+    "jalons": [
+      273,
+      281
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "comtat Venaissin",
+    "jalons": [
+      285,
+      301
+    ]
+  },
+  "entite_11": {
+    "label": "MISC",
+    "text": "Representer",
+    "jalons": [
+      325,
+      336
+    ]
+  },
+  "entite_12": {
+    "label": "PER",
+    "text": "Votre Grandeur",
+    "jalons": [
+      355,
+      369
+    ]
+  },
+  "entite_13": {
+    "label": "PER",
+    "text": "Jean pierre Jullien",
+    "jalons": [
+      374,
+      393
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "Puymeras",
+    "jalons": [
+      403,
+      411
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "la Grenade",
+    "jalons": [
+      434,
+      444
+    ]
+  },
+  "entite_16": {
+    "label": "MISC",
+    "text": "Testament ol",
+    "jalons": [
+      534,
+      546
+    ]
+  },
+  "entite_17": {
+    "label": "PER",
+    "text": "Vacher",
+    "jalons": [
+      589,
+      595
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "Saint pierre de la Martinique",
+    "jalons": [
+      604,
+      633
+    ]
+  },
+  "entite_19": {
+    "label": "MISC",
+    "text": "Succession",
+    "jalons": [
+      686,
+      696
+    ]
+  },
+  "entite_20": {
+    "label": "LOC",
+    "text": "la Grenade",
+    "jalons": [
+      708,
+      718
+    ]
+  },
+  "entite_21": {
+    "label": "MISC",
+    "text": "Testament",
+    "jalons": [
+      724,
+      733
+    ]
+  },
+  "entite_22": {
+    "label": "LOC",
+    "text": "S^t pierre de la martinique",
+    "jalons": [
+      777,
+      804
+    ]
+  },
+  "entite_23": {
+    "label": "LOC",
+    "text": "Greffe de la Grenade",
+    "jalons": [
+      875,
+      895
+    ]
+  },
+  "entite_24": {
+    "label": "LOC",
+    "text": "S^t pierre de la Martinique",
+    "jalons": [
+      1086,
+      1113
+    ]
+  },
+  "entite_25": {
+    "label": "PER",
+    "text": "Jean pierre Jullien",
+    "jalons": [
+      1151,
+      1170
+    ]
+  },
+  "entite_26": {
+    "label": "MISC",
+    "text": "Supliants",
+    "jalons": [
+      1201,
+      1210
+    ]
+  },
+  "entite_27": {
+    "label": "MISC",
+    "text": "Testament",
+    "jalons": [
+      1241,
+      1250
+    ]
+  },
+  "entite_28": {
+    "label": "MISC",
+    "text": "Consequence",
+    "jalons": [
+      1282,
+      1293
+    ]
+  },
+  "entite_29": {
+    "label": "MISC",
+    "text": "Succession",
+    "jalons": [
+      1402,
+      1412
+    ]
+  },
+  "entite_30": {
+    "label": "PER",
+    "text": "Votre Grandeur",
+    "jalons": [
+      1519,
+      1533
+    ]
+  },
+  "entite_31": {
+    "label": "PER",
+    "text": "Daigne",
+    "jalons": [
+      1537,
+      1543
+    ]
+  },
+  "entite_32": {
+    "label": "PER",
+    "text": "–",
+    "jalons": [
+      1548,
+      1549
+    ]
+  },
+  "entite_33": {
+    "label": "LOC",
+    "text": "Pro",
+    "jalons": [
+      1550,
+      1553
+    ]
+  },
+  "entite_34": {
+    "label": "MISC",
+    "text": "er",
+    "jalons": [
+      1556,
+      1558
+    ]
+  },
+  "entite_35": {
+    "label": "PER",
+    "text": ". Reymond",
+    "jalons": [
+      1579,
+      1588
+    ]
+  },
+  "entite_36": {
+    "label": "LOC",
+    "text": "Parlement",
+    "jalons": [
+      1599,
+      1608
+    ]
+  },
+  "entite_37": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      1620,
+      1625
+    ]
+  },
+  "entite_38": {
+    "label": "PER",
+    "text": "S^t Germain l&#x27;auxerrois",
+    "jalons": [
+      1634,
+      1662
+    ]
+  },
+  "entite_39": {
+    "label": "PER",
+    "text": "Correspondant",
+    "jalons": [
+      1674,
+      1687
+    ]
+  },
+  "entite_40": {
+    "label": "MISC",
+    "text": "Supliants",
+    "jalons": [
+      1692,
+      1701
+    ]
+  },
+  "entite_41": {
+    "label": "PER",
+    "text": "M.M. des Gouverneur Et Comme",
+    "jalons": [
+      1717,
+      1745
+    ]
+  }
+}

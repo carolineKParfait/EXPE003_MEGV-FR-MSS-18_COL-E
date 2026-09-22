@@ -1,0 +1,58 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "D",
+    "jalons": [
+      14,
+      15
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "&# x27 ;",
+    "jalons": [
+      15,
+      21
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "aubenton",
+    "jalons": [
+      21,
+      29
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Rochefort",
+    "jalons": [
+      64,
+      73
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Versailles",
+    "jalons": [
+      277,
+      287
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Boynes",
+    "jalons": [
+      318,
+      324
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "\n",
+    "jalons": [
+      342,
+      342
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "##re",
+    "jalons": [
+      21,
+      23
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Monseigneur de Cartine",
+    "jalons": [
+      38,
+      60
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Mons",
+    "jalons": [
+      136,
+      140
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "##ur Le S ^ r de Perrigny",
+    "jalons": [
+      145,
+      166
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Domingue",
+    "jalons": [
+      320,
+      328
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Duc de Praslin",
+    "jalons": [
+      412,
+      426
+    ]
+  }
+}

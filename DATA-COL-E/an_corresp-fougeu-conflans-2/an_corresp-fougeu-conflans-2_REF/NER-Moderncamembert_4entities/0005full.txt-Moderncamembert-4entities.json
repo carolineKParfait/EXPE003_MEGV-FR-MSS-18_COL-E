@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Nantes",
+    "jalons": [
+      173,
+      179
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Longpré",
+    "jalons": [
+      411,
+      418
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "de Longpré",
+    "jalons": [
+      635,
+      645
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "##gue",
+    "jalons": [
+      969,
+      972
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Long",
+    "jalons": [
+      1423,
+      1427
+    ]
+  }
+}

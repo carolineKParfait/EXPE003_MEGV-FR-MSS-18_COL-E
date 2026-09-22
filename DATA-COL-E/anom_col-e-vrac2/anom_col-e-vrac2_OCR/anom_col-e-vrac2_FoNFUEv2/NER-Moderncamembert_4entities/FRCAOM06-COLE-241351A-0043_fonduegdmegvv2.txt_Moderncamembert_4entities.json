@@ -1,0 +1,82 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "de Montpesal",
+    "jalons": [
+      5,
+      17
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Rue Princis",
+    "jalons": [
+      18,
+      29
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      32,
+      37
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Antrees",
+    "jalons": [
+      56,
+      63
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Msle Jons Caches Volant",
+    "jalons": [
+      155,
+      178
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Relalivement",
+    "jalons": [
+      292,
+      304
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "##meros",
+    "jalons": [
+      395,
+      400
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Pierre",
+    "jalons": [
+      412,
+      418
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Julien",
+    "jalons": [
+      419,
+      425
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "Grenade",
+    "jalons": [
+      439,
+      446
+    ]
+  }
+}

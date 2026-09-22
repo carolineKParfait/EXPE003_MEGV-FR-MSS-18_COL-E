@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "^",
+    "jalons": [
+      125,
+      126
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Daille",
+    "jalons": [
+      128,
+      134
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "##bou",
+    "jalons": [
+      134,
+      137
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "##t",
+    "jalons": [
+      137,
+      138
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "##bout",
+    "jalons": [
+      424,
+      428
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "1 ^ er Janvier \n 1816",
+    "jalons": [
+      637,
+      654
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Daillebout",
+    "jalons": [
+      947,
+      957
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "1 ^ er Janvier 1792",
+    "jalons": [
+      1365,
+      1382
+    ]
+  }
+}

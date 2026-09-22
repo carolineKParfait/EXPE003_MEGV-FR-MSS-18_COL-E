@@ -1,0 +1,58 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Le C ^ te de Vaudreuil",
+    "jalons": [
+      12,
+      32
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "de la Grandville",
+    "jalons": [
+      36,
+      52
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Rochefort",
+    "jalons": [
+      70,
+      79
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Naure",
+    "jalons": [
+      101,
+      106
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Fand",
+    "jalons": [
+      226,
+      230
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "&#",
+    "jalons": [
+      418,
+      420
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Cayenne",
+    "jalons": [
+      460,
+      467
+    ]
+  }
+}

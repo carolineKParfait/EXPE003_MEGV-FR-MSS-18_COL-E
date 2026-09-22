@@ -1,0 +1,170 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "sieur Preval",
+    "jalons": [
+      10,
+      22
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Mad^ele michel",
+    "jalons": [
+      25,
+      39
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Mademoiselle Nayans",
+    "jalons": [
+      55,
+      74
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Mademoiselle M. de la Mere",
+    "jalons": [
+      191,
+      217
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Chere niece",
+    "jalons": [
+      429,
+      440
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Chere",
+    "jalons": [
+      626,
+      631
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "ece",
+    "jalons": [
+      634,
+      637
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Loriginal",
+    "jalons": [
+      695,
+      704
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Jean de Prenal",
+    "jalons": [
+      705,
+      719
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "Galtion",
+    "jalons": [
+      724,
+      731
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "–",
+    "jalons": [
+      780,
+      781
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "ité",
+    "jalons": [
+      787,
+      790
+    ]
+  },
+  "entite_12": {
+    "label": "PER",
+    "text": "M. Dubois",
+    "jalons": [
+      795,
+      804
+    ]
+  },
+  "entite_13": {
+    "label": "PER",
+    "text": "Mademoiselle Mademoiselle Michel",
+    "jalons": [
+      853,
+      885
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "M^r Dubois Jourdam",
+    "jalons": [
+      901,
+      919
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "la Bassepointe",
+    "jalons": [
+      923,
+      937
+    ]
+  },
+  "entite_16": {
+    "label": "PER",
+    "text": "Monsieur Et très Chere Bien anne on dle M^r du bois jourdain",
+    "jalons": [
+      938,
+      999
+    ]
+  },
+  "entite_17": {
+    "label": "PER",
+    "text": "sentement",
+    "jalons": [
+      1086,
+      1095
+    ]
+  },
+  "entite_18": {
+    "label": "PER",
+    "text": "Monsieur Lamure",
+    "jalons": [
+      1098,
+      1113
+    ]
+  },
+  "entite_19": {
+    "label": "PER",
+    "text": "Madame de la Chausée",
+    "jalons": [
+      1201,
+      1222
+    ]
+  },
+  "entite_20": {
+    "label": "PER",
+    "text": "S^r La Chaussé",
+    "jalons": [
+      1308,
+      1322
+    ]
+  }
+}

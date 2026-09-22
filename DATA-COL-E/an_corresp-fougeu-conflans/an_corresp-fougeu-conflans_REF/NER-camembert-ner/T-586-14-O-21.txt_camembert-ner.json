@@ -1,0 +1,58 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Bordeaux",
+    "jalons": [
+      21,
+      29
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Benaudot",
+    "jalons": [
+      142,
+      150
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "S^t louis",
+    "jalons": [
+      273,
+      282
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "M^r de pondel",
+    "jalons": [
+      411,
+      424
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Bureaux",
+    "jalons": [
+      533,
+      540
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "^",
+    "jalons": [
+      712,
+      713
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Vienne",
+    "jalons": [
+      718,
+      724
+    ]
+  }
+}

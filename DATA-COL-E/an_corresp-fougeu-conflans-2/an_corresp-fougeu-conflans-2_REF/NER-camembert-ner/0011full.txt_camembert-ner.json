@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "Piece",
+    "jalons": [
+      5,
+      10
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "M.",
+    "jalons": [
+      18,
+      20
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "is Madame la Marechale",
+    "jalons": [
+      27,
+      49
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "M^r de bonneguise",
+    "jalons": [
+      153,
+      170
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Madame la Marechale",
+    "jalons": [
+      298,
+      317
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Couvent",
+    "jalons": [
+      364,
+      371
+    ]
+  }
+}

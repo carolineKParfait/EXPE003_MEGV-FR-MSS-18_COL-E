@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Brest",
+    "jalons": [
+      2,
+      7
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "cher",
+    "jalons": [
+      59,
+      63
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "M",
+    "jalons": [
+      65,
+      66
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "&#",
+    "jalons": [
+      69,
+      71
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "M ^ r de la Touche",
+    "jalons": [
+      86,
+      102
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "##s",
+    "jalons": [
+      244,
+      245
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "&#",
+    "jalons": [
+      469,
+      471
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Vienne",
+    "jalons": [
+      769,
+      775
+    ]
+  }
+}

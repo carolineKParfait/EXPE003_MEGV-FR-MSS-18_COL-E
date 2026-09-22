@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Royal",
+    "jalons": [
+      6,
+      11
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "petit",
+    "jalons": [
+      15,
+      20
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Goave",
+    "jalons": [
+      21,
+      26
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Dupuy",
+    "jalons": [
+      219,
+      224
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "⟦Royal du petit",
+    "jalons": [
+      445,
+      460
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Goave",
+    "jalons": [
+      461,
+      466
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "DEcopin",
+    "jalons": [
+      662,
+      669
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "S. Figuiere S.O.",
+    "jalons": [
+      778,
+      794
+    ]
+  }
+}

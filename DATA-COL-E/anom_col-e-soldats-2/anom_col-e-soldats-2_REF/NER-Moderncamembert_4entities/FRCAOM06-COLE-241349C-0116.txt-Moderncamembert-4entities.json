@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Le V ^ te de Damas",
+    "jalons": [
+      104,
+      120
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "La Martinique",
+    "jalons": [
+      134,
+      147
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Joly",
+    "jalons": [
+      234,
+      238
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Pierre",
+    "jalons": [
+      269,
+      275
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "de Senneville",
+    "jalons": [
+      413,
+      426
+    ]
+  }
+}

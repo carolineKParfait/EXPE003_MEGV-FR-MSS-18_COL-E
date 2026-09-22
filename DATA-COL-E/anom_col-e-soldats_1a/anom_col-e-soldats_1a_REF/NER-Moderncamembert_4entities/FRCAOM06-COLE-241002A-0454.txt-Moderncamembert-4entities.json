@@ -1,0 +1,58 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Leroux",
+    "jalons": [
+      28,
+      34
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Daillebout",
+    "jalons": [
+      62,
+      72
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Rochefort",
+    "jalons": [
+      551,
+      560
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": ".",
+    "jalons": [
+      566,
+      567
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Decherisey \n",
+    "jalons": [
+      586,
+      597
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Comandant",
+    "jalons": [
+      609,
+      618
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Gard",
+    "jalons": [
+      635,
+      639
+    ]
+  }
+}

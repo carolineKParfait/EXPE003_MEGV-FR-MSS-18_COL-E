@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Jourdain Joyeux",
+    "jalons": [
+      14,
+      29
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Cazalier",
+    "jalons": [
+      151,
+      159
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Neu",
+    "jalons": [
+      163,
+      166
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "##ville",
+    "jalons": [
+      166,
+      171
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "la Chassagne",
+    "jalons": [
+      247,
+      259
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Et Pre",
+    "jalons": [
+      275,
+      281
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "##val",
+    "jalons": [
+      281,
+      284
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Lettres",
+    "jalons": [
+      864,
+      871
+    ]
+  }
+}

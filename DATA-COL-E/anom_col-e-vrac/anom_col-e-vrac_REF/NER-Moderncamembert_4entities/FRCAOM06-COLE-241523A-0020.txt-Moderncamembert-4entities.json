@@ -1,0 +1,82 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Monsei",
+    "jalons": [
+      15,
+      21
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Villeneuve",
+    "jalons": [
+      34,
+      44
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "4",
+    "jalons": [
+      45,
+      46
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Sédiéres",
+    "jalons": [
+      67,
+      75
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      105,
+      110
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Saint Domingue",
+    "jalons": [
+      241,
+      255
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      822,
+      833
+    ]
+  },
+  "entite_7": {
+    "label": "ORG",
+    "text": "Compagnie",
+    "jalons": [
+      947,
+      956
+    ]
+  },
+  "entite_8": {
+    "label": "ORG",
+    "text": "gardes",
+    "jalons": [
+      961,
+      967
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "Rochefort",
+    "jalons": [
+      971,
+      980
+    ]
+  }
+}

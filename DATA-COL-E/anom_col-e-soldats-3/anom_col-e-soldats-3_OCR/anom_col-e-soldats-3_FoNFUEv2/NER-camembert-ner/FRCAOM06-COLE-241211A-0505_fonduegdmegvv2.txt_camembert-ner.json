@@ -1,0 +1,26 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Prenet",
+    "jalons": [
+      0,
+      6
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "Colontaires étrangers",
+    "jalons": [
+      27,
+      49
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Saint-Vincent",
+    "jalons": [
+      76,
+      89
+    ]
+  }
+}

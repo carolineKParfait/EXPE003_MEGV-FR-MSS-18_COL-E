@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Siméon",
+    "jalons": [
+      11,
+      17
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Saint - Marcel",
+    "jalons": [
+      23,
+      35
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Cap - Français",
+    "jalons": [
+      98,
+      110
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Saint - Domingue",
+    "jalons": [
+      113,
+      127
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "E 62",
+    "jalons": [
+      142,
+      146
+    ]
+  }
+}

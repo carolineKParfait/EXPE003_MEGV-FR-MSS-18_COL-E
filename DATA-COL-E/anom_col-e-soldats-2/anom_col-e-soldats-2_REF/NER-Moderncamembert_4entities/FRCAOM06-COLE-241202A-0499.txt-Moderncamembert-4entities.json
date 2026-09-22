@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Flor",
+    "jalons": [
+      0,
+      4
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "##ac",
+    "jalons": [
+      4,
+      6
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Karrer",
+    "jalons": [
+      10,
+      16
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": ". a",
+    "jalons": [
+      19,
+      22
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "1747",
+    "jalons": [
+      27,
+      31
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "de la Sons \n",
+    "jalons": [
+      46,
+      57
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "pierre florac",
+    "jalons": [
+      99,
+      112
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "##ÿ",
+    "jalons": [
+      418,
+      419
+    ]
+  }
+}

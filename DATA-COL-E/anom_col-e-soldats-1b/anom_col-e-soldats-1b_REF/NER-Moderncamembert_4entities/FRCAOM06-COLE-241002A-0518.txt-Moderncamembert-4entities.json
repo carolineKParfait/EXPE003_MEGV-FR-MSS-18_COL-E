@@ -1,0 +1,82 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Da",
+    "jalons": [
+      276,
+      278
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "##bout",
+    "jalons": [
+      282,
+      286
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Charles Philippe",
+    "jalons": [
+      288,
+      304
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Rochefort",
+    "jalons": [
+      311,
+      320
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "^",
+    "jalons": [
+      508,
+      509
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "##) Mai 1787",
+    "jalons": [
+      511,
+      521
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Senlis",
+    "jalons": [
+      565,
+      571
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "##bout",
+    "jalons": [
+      1032,
+      1036
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "##enne",
+    "jalons": [
+      1083,
+      1087
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "##alides",
+    "jalons": [
+      1423,
+      1429
+    ]
+  }
+}

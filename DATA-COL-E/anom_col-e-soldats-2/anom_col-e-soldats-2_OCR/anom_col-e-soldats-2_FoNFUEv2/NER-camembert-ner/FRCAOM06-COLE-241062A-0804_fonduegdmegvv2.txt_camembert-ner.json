@@ -1,0 +1,74 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Brussel (Pierre-Louis) det la Sointe Latit du Harre",
+    "jalons": [
+      0,
+      51
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Soldet",
+    "jalons": [
+      53,
+      59
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "du Cap",
+    "jalons": [
+      73,
+      79
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "-",
+    "jalons": [
+      79,
+      80
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Franc",
+    "jalons": [
+      80,
+      85
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "ais",
+    "jalons": [
+      85,
+      88
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Saint",
+    "jalons": [
+      92,
+      97
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Domingue Sa",
+    "jalons": [
+      100,
+      111
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "nne Saty",
+    "jalons": [
+      118,
+      126
+    ]
+  }
+}

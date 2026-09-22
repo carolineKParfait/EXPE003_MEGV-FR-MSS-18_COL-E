@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "S ^ t Louis",
+    "jalons": [
+      13,
+      22
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Cayenne",
+    "jalons": [
+      108,
+      115
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Provinse",
+    "jalons": [
+      120,
+      128
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Guyane",
+    "jalons": [
+      135,
+      141
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Amerique",
+    "jalons": [
+      155,
+      163
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Baptiste Le Roi de Preville",
+    "jalons": [
+      174,
+      201
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Sebastien Gourgue",
+    "jalons": [
+      335,
+      352
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Constant",
+    "jalons": [
+      956,
+      964
+    ]
+  }
+}

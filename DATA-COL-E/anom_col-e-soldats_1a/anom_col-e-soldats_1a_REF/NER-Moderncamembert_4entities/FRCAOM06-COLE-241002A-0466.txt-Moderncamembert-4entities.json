@@ -1,0 +1,58 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "de Navir",
+    "jalons": [
+      26,
+      34
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Sund",
+    "jalons": [
+      103,
+      107
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "&# x27 ; Ailleboust",
+    "jalons": [
+      162,
+      178
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "Guyanne",
+    "jalons": [
+      210,
+      217
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Rigal",
+    "jalons": [
+      1152,
+      1157
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Bordeaux",
+    "jalons": [
+      1185,
+      1193
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Prevot Ordonnateur",
+    "jalons": [
+      1235,
+      1253
+    ]
+  }
+}

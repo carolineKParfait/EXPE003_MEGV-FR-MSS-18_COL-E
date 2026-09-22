@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Madame Le ministre",
+    "jalons": [
+      0,
+      18
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "M. Taffart",
+    "jalons": [
+      30,
+      40
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "S^t Domingue",
+    "jalons": [
+      64,
+      76
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "M. Votre frere",
+    "jalons": [
+      88,
+      102
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Lesle de Ré",
+    "jalons": [
+      175,
+      186
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "M. Volre Pere",
+    "jalons": [
+      209,
+      222
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "M. Votre frere",
+    "jalons": [
+      316,
+      330
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Etre",
+    "jalons": [
+      451,
+      455
+    ]
+  }
+}

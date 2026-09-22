@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Cap",
+    "jalons": [
+      38,
+      41
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Monseigneur le Vice - chancelier",
+    "jalons": [
+      180,
+      210
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Garde des Sceaux",
+    "jalons": [
+      211,
+      227
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Lettres de \n grace",
+    "jalons": [
+      274,
+      290
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Belloumeau",
+    "jalons": [
+      401,
+      411
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Pierre Lous",
+    "jalons": [
+      23,
+      34
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Monseigneur Monseigneur de Sartine",
+    "jalons": [
+      37,
+      71
+    ]
+  },
+  "entite_2": {
+    "label": "ORG",
+    "text": "Ministre",
+    "jalons": [
+      73,
+      81
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "decretaire",
+    "jalons": [
+      84,
+      94
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "d",
+    "jalons": [
+      95,
+      96
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Etat",
+    "jalons": [
+      101,
+      105
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "La",
+    "jalons": [
+      109,
+      111
+    ]
+  },
+  "entite_7": {
+    "label": "ORG",
+    "text": "marine",
+    "jalons": [
+      112,
+      118
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": ". Villeur",
+    "jalons": [
+      121,
+      130
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": ". Misbal",
+    "jalons": [
+      148,
+      156
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Anne Victoire Caly",
+    "jalons": [
+      203,
+      221
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "Votre Grandeur Monseigneur",
+    "jalons": [
+      308,
+      334
+    ]
+  },
+  "entite_12": {
+    "label": "PER",
+    "text": "Pierre Louis Brussel",
+    "jalons": [
+      340,
+      360
+    ]
+  }
+}

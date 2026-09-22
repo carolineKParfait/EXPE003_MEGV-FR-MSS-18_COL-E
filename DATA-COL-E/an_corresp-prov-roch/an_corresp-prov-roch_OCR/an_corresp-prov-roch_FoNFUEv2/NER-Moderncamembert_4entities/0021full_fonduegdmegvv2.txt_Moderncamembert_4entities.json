@@ -1,0 +1,34 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "de Viomemil",
+    "jalons": [
+      143,
+      154
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "##ilance",
+    "jalons": [
+      394,
+      400
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Rier",
+    "jalons": [
+      558,
+      562
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "##ge ;",
+    "jalons": [
+      570,
+      573
+    ]
+  }
+}

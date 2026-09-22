@@ -1,0 +1,82 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Régiment",
+    "jalons": [
+      14,
+      22
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "la",
+    "jalons": [
+      26,
+      28
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Guadeloupe",
+    "jalons": [
+      29,
+      39
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "de Cheminades",
+    "jalons": [
+      60,
+      73
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Montpellier",
+    "jalons": [
+      154,
+      165
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "##bour",
+    "jalons": [
+      179,
+      183
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Régiment de \n Vexin",
+    "jalons": [
+      193,
+      210
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Basseterre",
+    "jalons": [
+      342,
+      352
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Desnoyers",
+    "jalons": [
+      378,
+      387
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "Morau \n",
+    "jalons": [
+      399,
+      405
+    ]
+  }
+}

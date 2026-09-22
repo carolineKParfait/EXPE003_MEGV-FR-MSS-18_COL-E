@@ -1,0 +1,34 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "jean francois Monpas dit Dumas",
+    "jalons": [
+      15,
+      45
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Jean \n françois Monpas dit Dumas",
+    "jalons": [
+      437,
+      467
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Jean françois Monpas",
+    "jalons": [
+      1165,
+      1185
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Dumas",
+    "jalons": [
+      1190,
+      1195
+    ]
+  }
+}

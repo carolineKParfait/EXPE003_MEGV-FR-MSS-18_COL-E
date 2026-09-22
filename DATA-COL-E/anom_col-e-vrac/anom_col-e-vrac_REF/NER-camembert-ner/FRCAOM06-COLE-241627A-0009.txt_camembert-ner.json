@@ -1,0 +1,98 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Domingue",
+    "jalons": [
+      4,
+      12
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "Lettre Commune",
+    "jalons": [
+      13,
+      27
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "S^r Janson",
+    "jalons": [
+      31,
+      41
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Port au Prince",
+    "jalons": [
+      64,
+      78
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Brevet",
+    "jalons": [
+      153,
+      159
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Rehabilitation",
+    "jalons": [
+      163,
+      177
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Décision",
+    "jalons": [
+      185,
+      193
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Conseil",
+    "jalons": [
+      197,
+      204
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "Dépêche",
+    "jalons": [
+      285,
+      292
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "Procédure",
+    "jalons": [
+      343,
+      352
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "S^r Janson",
+    "jalons": [
+      369,
+      379
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "Thomy",
+    "jalons": [
+      402,
+      407
+    ]
+  }
+}

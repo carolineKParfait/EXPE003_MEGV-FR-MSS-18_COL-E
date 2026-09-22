@@ -1,0 +1,90 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Mont",
+    "jalons": [
+      15,
+      19
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "##pesal",
+    "jalons": [
+      19,
+      24
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Princesse",
+    "jalons": [
+      29,
+      38
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      41,
+      46
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "1783",
+    "jalons": [
+      67,
+      71
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "⎀",
+    "jalons": [
+      102,
+      103
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Martinique",
+    "jalons": [
+      208,
+      218
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Puymeras",
+    "jalons": [
+      295,
+      303
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Pierre Julien",
+    "jalons": [
+      315,
+      328
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "Grenade",
+    "jalons": [
+      341,
+      348
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "marquis de \n Antriès",
+    "jalons": [
+      356,
+      374
+    ]
+  }
+}

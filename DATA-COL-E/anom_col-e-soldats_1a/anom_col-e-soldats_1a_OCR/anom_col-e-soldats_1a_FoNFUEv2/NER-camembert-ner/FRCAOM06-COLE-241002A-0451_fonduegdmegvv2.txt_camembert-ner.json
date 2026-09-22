@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Dailleboust",
+    "jalons": [
+      4,
+      15
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      40,
+      51
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "M Le C^te de Cherisey",
+    "jalons": [
+      55,
+      76
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Versailles",
+    "jalons": [
+      82,
+      92
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "M. Lervine N^le L&#39;inserire Le S. D&#39;aillebout, Monsieur",
+    "jalons": [
+      110,
+      172
+    ]
+  },
+  "entite_5": {
+    "label": "ORG",
+    "text": "Garde de la Marine",
+    "jalons": [
+      264,
+      282
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Lieutenant de Vaisseau",
+    "jalons": [
+      384,
+      406
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "la Baronnoise",
+    "jalons": [
+      429,
+      442
+    ]
+  }
+}

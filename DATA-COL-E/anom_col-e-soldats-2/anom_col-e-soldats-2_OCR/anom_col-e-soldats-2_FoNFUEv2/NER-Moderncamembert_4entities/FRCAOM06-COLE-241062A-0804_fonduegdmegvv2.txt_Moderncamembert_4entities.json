@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Louis",
+    "jalons": [
+      16,
+      21
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Latit du Harre",
+    "jalons": [
+      37,
+      51
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Cap - Francais",
+    "jalons": [
+      76,
+      88
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Saint. Domingue",
+    "jalons": [
+      92,
+      108
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Saty",
+    "jalons": [
+      122,
+      126
+    ]
+  }
+}

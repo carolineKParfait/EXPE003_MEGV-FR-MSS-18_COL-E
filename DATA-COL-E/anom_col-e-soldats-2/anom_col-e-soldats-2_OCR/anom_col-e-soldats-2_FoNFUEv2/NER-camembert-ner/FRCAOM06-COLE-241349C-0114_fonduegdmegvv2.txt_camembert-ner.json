@@ -1,0 +1,370 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "S Pierre",
+    "jalons": [
+      7,
+      15
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Martinique",
+    "jalons": [
+      16,
+      26
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Collonies",
+    "jalons": [
+      45,
+      54
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Jean Baptiste Joly",
+    "jalons": [
+      55,
+      73
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Perpignan",
+    "jalons": [
+      83,
+      92
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Rossillon",
+    "jalons": [
+      96,
+      105
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Dernieres Campagnes",
+    "jalons": [
+      143,
+      162
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Les volontaires de Gantés",
+    "jalons": [
+      176,
+      202
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "commencer",
+    "jalons": [
+      206,
+      215
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "Lanné",
+    "jalons": [
+      219,
+      224
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "Msq̃ue",
+    "jalons": [
+      248,
+      254
+    ]
+  },
+  "entite_11": {
+    "label": "MISC",
+    "text": "Compagnies franches des Canoniers Bombardiers",
+    "jalons": [
+      302,
+      347
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "Rochefort",
+    "jalons": [
+      374,
+      383
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "Compagnie de Pelletier",
+    "jalons": [
+      475,
+      497
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "S^ t pierre",
+    "jalons": [
+      501,
+      512
+    ]
+  },
+  "entite_15": {
+    "label": "MISC",
+    "text": "Commission",
+    "jalons": [
+      542,
+      552
+    ]
+  },
+  "entite_16": {
+    "label": "PER",
+    "text": "Maitre C",
+    "jalons": [
+      556,
+      564
+    ]
+  },
+  "entite_17": {
+    "label": "MISC",
+    "text": "annonier",
+    "jalons": [
+      564,
+      572
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "Lisle",
+    "jalons": [
+      636,
+      641
+    ]
+  },
+  "entite_19": {
+    "label": "LOC",
+    "text": "france",
+    "jalons": [
+      662,
+      668
+    ]
+  },
+  "entite_20": {
+    "label": "MISC",
+    "text": "Compagnie de Lincencie",
+    "jalons": [
+      677,
+      699
+    ]
+  },
+  "entite_21": {
+    "label": "LOC",
+    "text": "Rochefort Lannée",
+    "jalons": [
+      703,
+      720
+    ]
+  },
+  "entite_22": {
+    "label": "LOC",
+    "text": "A S^t Pierre",
+    "jalons": [
+      761,
+      773
+    ]
+  },
+  "entite_23": {
+    "label": "MISC",
+    "text": "la Médaille",
+    "jalons": [
+      803,
+      815
+    ]
+  },
+  "entite_24": {
+    "label": "MISC",
+    "text": "Susdit tens",
+    "jalons": [
+      827,
+      838
+    ]
+  },
+  "entite_25": {
+    "label": "MISC",
+    "text": "Bataille de Plaisance",
+    "jalons": [
+      860,
+      881
+    ]
+  },
+  "entite_26": {
+    "label": "MISC",
+    "text": "Retraitte de Tortone",
+    "jalons": [
+      889,
+      909
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "Martinique",
+    "jalons": [
+      950,
+      960
+    ]
+  },
+  "entite_28": {
+    "label": "MISC",
+    "text": "es Guerress",
+    "jalons": [
+      991,
+      1002
+    ]
+  },
+  "entite_29": {
+    "label": "LOC",
+    "text": "lisle",
+    "jalons": [
+      1058,
+      1063
+    ]
+  },
+  "entite_30": {
+    "label": "MISC",
+    "text": "Jusqu",
+    "jalons": [
+      1147,
+      1152
+    ]
+  },
+  "entite_31": {
+    "label": "MISC",
+    "text": "es à ce Jour",
+    "jalons": [
+      1157,
+      1170
+    ]
+  },
+  "entite_32": {
+    "label": "PER",
+    "text": "Roy",
+    "jalons": [
+      1314,
+      1317
+    ]
+  },
+  "entite_33": {
+    "label": "LOC",
+    "text": "martinique",
+    "jalons": [
+      1398,
+      1408
+    ]
+  },
+  "entite_34": {
+    "label": "PER",
+    "text": "S^r joly",
+    "jalons": [
+      1445,
+      1453
+    ]
+  },
+  "entite_35": {
+    "label": "LOC",
+    "text": "Marite",
+    "jalons": [
+      1454,
+      1460
+    ]
+  },
+  "entite_36": {
+    "label": "MISC",
+    "text": "Garde",
+    "jalons": [
+      1520,
+      1525
+    ]
+  },
+  "entite_37": {
+    "label": "LOC",
+    "text": "S^t Pierre",
+    "jalons": [
+      1540,
+      1550
+    ]
+  },
+  "entite_38": {
+    "label": "MISC",
+    "text": "Continué",
+    "jalons": [
+      1560,
+      1568
+    ]
+  },
+  "entite_39": {
+    "label": "MISC",
+    "text": "Jusqu",
+    "jalons": [
+      1582,
+      1587
+    ]
+  },
+  "entite_40": {
+    "label": "MISC",
+    "text": "es à ce Jour",
+    "jalons": [
+      1592,
+      1605
+    ]
+  },
+  "entite_41": {
+    "label": "PER",
+    "text": "sieur Joli",
+    "jalons": [
+      1610,
+      1620
+    ]
+  },
+  "entite_42": {
+    "label": "PER",
+    "text": "M^r le Marechal",
+    "jalons": [
+      1700,
+      1715
+    ]
+  },
+  "entite_43": {
+    "label": "LOC",
+    "text": "S^t Pierre",
+    "jalons": [
+      1719,
+      1729
+    ]
+  },
+  "entite_44": {
+    "label": "MISC",
+    "text": "Cons",
+    "jalons": [
+      1770,
+      1774
+    ]
+  },
+  "entite_45": {
+    "label": "LOC",
+    "text": "M",
+    "jalons": [
+      1864,
+      1865
+    ]
+  }
+}

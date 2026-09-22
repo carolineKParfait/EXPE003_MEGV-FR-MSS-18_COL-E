@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Comte de Corbière",
+    "jalons": [
+      3,
+      20
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "S^r Dailleboust",
+    "jalons": [
+      61,
+      76
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Senlis",
+    "jalons": [
+      245,
+      251
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "S^r Daillebout",
+    "jalons": [
+      343,
+      357
+    ]
+  },
+  "entite_4": {
+    "label": "ORG",
+    "text": "Gouvernement",
+    "jalons": [
+      390,
+      402
+    ]
+  }
+}

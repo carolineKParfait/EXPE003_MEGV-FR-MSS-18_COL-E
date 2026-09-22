@@ -1,0 +1,82 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Jean françois Monpas",
+    "jalons": [
+      137,
+      157
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Dumas",
+    "jalons": [
+      162,
+      167
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Compagnie",
+    "jalons": [
+      180,
+      189
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Coulons",
+    "jalons": [
+      193,
+      200
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Jean",
+    "jalons": [
+      316,
+      320
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "françois Monpas dit Dumas",
+    "jalons": [
+      321,
+      346
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "soit",
+    "jalons": [
+      347,
+      351
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Ceque",
+    "jalons": [
+      401,
+      406
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "guerre",
+    "jalons": [
+      512,
+      518
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "Bataille",
+    "jalons": [
+      597,
+      605
+    ]
+  }
+}

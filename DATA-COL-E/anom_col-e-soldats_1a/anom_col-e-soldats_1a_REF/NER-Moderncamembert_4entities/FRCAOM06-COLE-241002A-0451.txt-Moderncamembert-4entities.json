@@ -1,0 +1,74 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "&#",
+    "jalons": [
+      8,
+      10
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "##eigneur",
+    "jalons": [
+      53,
+      60
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Cherisey",
+    "jalons": [
+      76,
+      84
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Versailles",
+    "jalons": [
+      87,
+      97
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Lesurne",
+    "jalons": [
+      120,
+      127
+    ]
+  },
+  "entite_5": {
+    "label": "ORG",
+    "text": "Marine",
+    "jalons": [
+      286,
+      292
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Lieutenant",
+    "jalons": [
+      394,
+      404
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Vaisseau peri",
+    "jalons": [
+      408,
+      421
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "Bayonnoise",
+    "jalons": [
+      441,
+      451
+    ]
+  }
+}

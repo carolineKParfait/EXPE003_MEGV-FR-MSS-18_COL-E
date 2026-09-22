@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Domingue",
+    "jalons": [
+      5,
+      13
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Cap",
+    "jalons": [
+      29,
+      32
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Dubuq",
+    "jalons": [
+      55,
+      60
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Duc",
+    "jalons": [
+      115,
+      118
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Tach",
+    "jalons": [
+      225,
+      229
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "le Duc",
+    "jalons": [
+      286,
+      292
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Le Duc",
+    "jalons": [
+      550,
+      556
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "prince de Rohan",
+    "jalons": [
+      608,
+      623
+    ]
+  }
+}

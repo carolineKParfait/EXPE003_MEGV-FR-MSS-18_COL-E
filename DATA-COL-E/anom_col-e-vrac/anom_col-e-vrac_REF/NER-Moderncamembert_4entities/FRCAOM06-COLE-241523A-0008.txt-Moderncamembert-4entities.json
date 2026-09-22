@@ -1,0 +1,34 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "De Perrigny",
+    "jalons": [
+      12,
+      23
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Léogane",
+    "jalons": [
+      55,
+      62
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Isle S ^ t Domingue",
+    "jalons": [
+      63,
+      80
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "##t",
+    "jalons": [
+      92,
+      93
+    ]
+  }
+}

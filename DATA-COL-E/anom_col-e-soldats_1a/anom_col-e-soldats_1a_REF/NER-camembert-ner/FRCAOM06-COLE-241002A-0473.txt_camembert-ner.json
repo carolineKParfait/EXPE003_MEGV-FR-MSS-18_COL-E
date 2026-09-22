@@ -1,0 +1,66 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Le C^te de Vaudreuil",
+    "jalons": [
+      12,
+      32
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "de la Grandville D&#x27;aillebout",
+    "jalons": [
+      36,
+      69
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Rochefort",
+    "jalons": [
+      70,
+      79
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "M de Naure",
+    "jalons": [
+      96,
+      106
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Monseigneur, M. Fand",
+    "jalons": [
+      210,
+      230
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "S. D&#x27;aillebout",
+    "jalons": [
+      414,
+      433
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Cayenne",
+    "jalons": [
+      460,
+      467
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      525,
+      536
+    ]
+  }
+}
