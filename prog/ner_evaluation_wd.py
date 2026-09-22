@@ -1,6 +1,6 @@
 # Ce script fait l'évaluation de l'HTR (entre textes de REF et OCR) et de la NER il faut lire les commentaire pour adapter le programme au besoin
 # Ce script a été lancé sous windows avec succès/il devrait fonctionner pour distributions linux mais à tester
-# en ligne de commande sous windows avant, puis sélectionner le projet sous le disque X. Pour contrer la limitation des caractères dans les noms de chemin subst X: "C:\Users\Administrator\Documents\AVH2027_carolinekoudoroparfait"
+# en ligne de commande sous windows avant, puis sélectionner le projet sous le disque X. Pour contrer la limitation des caractères dans les noms de chamin subst X: "C:\Users\Administrator\Documents\AVH2027_carolinekoudoroparfait"
 
 from generic_tools import *
 import re
@@ -64,8 +64,8 @@ def traiter_corpus(reference_files,ocr_files, is_json=False):
             print("Nom du fichier OCR base : ",name_ocr)
             name_ocr_file = name_ocr.split("_")[0]
             # print("Nom du fichier OCR : ",name_ocr_file)
-            model_name_ocr = name_ocr.split("_")[-1]## pour Textes
-            # model_name_ocr = name_ocr.split("_")[-2].split(".")[0]## pour NER
+            # model_name_ocr = name_ocr.split("_")[-1]## pour Textes
+            model_name_ocr = name_ocr.split("_")[-2].split(".")[0]## pour NER
             configNER_ocr = name_ocr.split("_")[-1]
             print("Nom du fichier OCR",name_ocr_file,"|| OCR model :", model_name_ocr,"|| configNER :",configNER_ocr)
             texte_ocr = lire_fichier(ocr_file, is_json=is_json)
@@ -83,26 +83,26 @@ def traiter_corpus(reference_files,ocr_files, is_json=False):
             sim_path = ocr_file.parent / "SIM"
             sim_path.mkdir(parents=True, exist_ok=True)
 
-            if name_ref_file == name_ocr_file:## pour Textes
-            # if name_ref_file == name_ocr_file and configNER == configNER_ocr:## pour NER
+            # if name_ref_file == name_ocr_file:## pour Textes
+            if name_ref_file == name_ocr_file and configNER == configNER_ocr:## pour NER
                 print("La comparaison est OK....")
-                distance_txt = get_distances(texte_ref, texte_ocr)## pour Textes
-                # distance_txt = get_distances(ner_res, ner_res_ocr)## pour NER
+                # distance_txt = get_distances(texte_ref, texte_ocr)## pour Textes
+                distance_txt = get_distances(ner_res, ner_res_ocr)## pour NER
                 print("Distances :", distance_txt)
                 print("____________________________________________________________")
                 print("____________________________________________________________")
                 clean_eval_scores_txt = evaluate_file(reference_file, ocr_file)
                 clean_eval_scores_txt = {x: y for x, y in clean_eval_scores_txt.items() if "tag" not in x}
 
-                new_scores_text = get_new_scores(texte_ref, texte_ocr)## pour Textes
-                # new_scores_text = get_new_scores(str(ner_res), str(ner_res_ocr))## pour NER
+                # new_scores_text = get_new_scores(texte_ref, texte_ocr)## pour Textes
+                new_scores_text = get_new_scores(str(ner_res), str(ner_res_ocr))## pour NER
                 print("Nouveaux scores :", new_scores_text)
 
                 new_scores_text["clean_eval"] = clean_eval_scores_txt
                 for k, v in distance_txt.items():
                     new_scores_text[k] = v
-                json_path = (sim_path / f"sim2-3_{name_ocr_file}_{model_name_ocr}.json").resolve() ## pour Textes
-                # json_path = (sim_path / f"sim2-3_{name_ocr_file}_{model_name_ocr}_{configNER_ocr}.json").resolve() ## pour NER # absolu
+                # json_path = (sim_path / f"sim2-3_{name_ocr_file}_{model_name_ocr}.json").resolve() ## pour Textes # absolu
+                json_path = (sim_path / f"sim2-3_{name_ocr_file}_{model_name_ocr}_{configNER_ocr}.json").resolve() ## pour NER # absolu
                 if json_path.is_file():  # Vérifie que c'est un vrai fichier
                     print("Already DONE : ", json_path)
                     continue
@@ -124,7 +124,7 @@ if len(sys.argv) < 2:
 # Crée un dossier temporaire si nécessaire
 os.makedirs("tmp", exist_ok=True)
 
-# Chemin vers le dossier des sous-corpus
+# Chemin vers le dossier des auteurs
 path_auteurs = Path(sys.argv[1])
 print("Chemin auteurs :", path_auteurs)
 
@@ -143,13 +143,13 @@ for auteur in liste_dossiers_auteurs:
     print("-" * 20)
     print("Auteur :", auteur.name)
 
-    # Recherche des fichiers références et OCR pour les textes
-    reference_files = list(auteur.glob("*REF/*.txt"))
-    ocr_paths = list(auteur.glob("*OCR/*/*.txt"))
-    traiter_corpus(reference_files, ocr_paths, False)
+    # # Recherche des fichiers références et OCR pour les textes
+    # reference_files = list(auteur.glob("*REF/*.txt"))
+    # ocr_paths = list(auteur.glob("*OCR/*/*.txt"))
+    # traiter_corpus(reference_files, ocr_paths, False)
 
-    # # Recherche des fichiers références et OCR pour les sorties de REN
-    # reference_ren_files = list(auteur.glob("*REF/NER*/*.json"))
-    # ocr_ren_paths = list(auteur.glob("*OCR/*/NER*/*.json"))
-    # traiter_corpus(reference_ren_files, ocr_ren_paths, True)
+    # Recherche des fichiers références et OCR pour les sorties de REN
+    reference_ren_files = list(auteur.glob("*REF/NER*/*.json"))
+    ocr_ren_paths = list(auteur.glob("*OCR/*/NER*/*.json"))
+    traiter_corpus(reference_ren_files, ocr_ren_paths, True)
 

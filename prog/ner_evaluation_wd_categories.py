@@ -90,7 +90,7 @@ def traiter_corpus(reference_files,ocr_files, lab, is_json=False):
                 if ner_res_ocr:
                     print("Résultats OCR : ", ner_res_ocr)
                 else:
-                    print(f"→ Aucun label {lab} trouvé dans ce fichier OCR, on passe")
+                    print(f"→→→→→→→→→ Aucun label {lab} trouvé dans ce fichier OCR, on passe")
 
             if not texte_ocr:
                 print("→ OCR ignoré (vide)")
@@ -160,13 +160,8 @@ for auteur in liste_dossiers_auteurs:
     print("-" * 20)
     print("Auteur :", auteur.name)
 
-    # # Recherche des fichiers références et OCR pour les textes
-    # reference_files = list(auteur.glob("*REF/*.txt"))
-    # ocr_paths = list(auteur.glob("*OCR/*/*.txt"))
-    # traiter_corpus(reference_files, ocr_paths, False)
-
-    # Recherche des fichiers références et OCR pour les sorties de REN
+    # Recherche des fichiers références et OCR pour les sorties de REN et calcul distances par catégories pour la REN
     reference_ren_files = list(auteur.glob("*REF/NER*/*.json"))
     ocr_ren_paths = list(auteur.glob("*OCR/*/NER*/*.json"))
-    traiter_corpus(reference_ren_files, ocr_ren_paths,"MISC", True)
+    traiter_corpus(reference_ren_files, ocr_ren_paths,"ORG", True)
 
