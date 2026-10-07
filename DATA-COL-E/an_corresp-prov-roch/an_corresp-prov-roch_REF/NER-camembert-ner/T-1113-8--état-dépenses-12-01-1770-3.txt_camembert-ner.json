@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      266,
+      271
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Janvier",
+    "jalons": [
+      278,
+      285
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Pro",
+    "jalons": [
+      292,
+      295
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "ven",
+    "jalons": [
+      295,
+      298
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "chere",
+    "jalons": [
+      298,
+      303
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "la France",
+    "jalons": [
+      209,
+      218
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Colonie",
+    "jalons": [
+      234,
+      241
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "le Marquis",
+    "jalons": [
+      386,
+      396
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Prov",
+    "jalons": [
+      424,
+      428
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "##enc",
+    "jalons": [
+      428,
+      431
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "##her",
+    "jalons": [
+      431,
+      434
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "##e",
+    "jalons": [
+      434,
+      435
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Saint-Domingue",
+    "jalons": [
+      13,
+      27
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "Assemblée",
+    "jalons": [
+      51,
+      60
+    ]
+  },
+  "entite_2": {
+    "label": "ORG",
+    "text": "Représentans",
+    "jalons": [
+      68,
+      80
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "Assemblée générale",
+    "jalons": [
+      96,
+      114
+    ]
+  },
+  "entite_4": {
+    "label": "ORG",
+    "text": "Partie",
+    "jalons": [
+      121,
+      127
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Française",
+    "jalons": [
+      128,
+      137
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Saint-Domingue",
+    "jalons": [
+      141,
+      155
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "ART.",
+    "jalons": [
+      157,
+      161
+    ]
+  },
+  "entite_8": {
+    "label": "LOC",
+    "text": "II",
+    "jalons": [
+      162,
+      164
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "Re",
+    "jalons": [
+      310,
+      312
+    ]
+  },
+  "entite_10": {
+    "label": "MISC",
+    "text": "ans",
+    "jalons": [
+      319,
+      322
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "Partie Française de Saint-Domingue",
+    "jalons": [
+      329,
+      363
+    ]
+  },
+  "entite_12": {
+    "label": "PER",
+    "text": "Roi",
+    "jalons": [
+      437,
+      440
+    ]
+  },
+  "entite_13": {
+    "label": "LOC",
+    "text": "ART",
+    "jalons": [
+      442,
+      445
+    ]
+  },
+  "entite_14": {
+    "label": "MISC",
+    "text": ".",
+    "jalons": [
+      445,
+      446
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "III",
+    "jalons": [
+      447,
+      450
+    ]
+  },
+  "entite_16": {
+    "label": "ORG",
+    "text": "As¬ semblée",
+    "jalons": [
+      489,
+      500
+    ]
+  },
+  "entite_17": {
+    "label": "MISC",
+    "text": "Décret",
+    "jalons": [
+      642,
+      648
+    ]
+  },
+  "entite_18": {
+    "label": "ORG",
+    "text": "Gou¬ verneu",
+    "jalons": [
+      665,
+      676
+    ]
+  },
+  "entite_19": {
+    "label": "ORG",
+    "text": "As¬ ¬semblée",
+    "jalons": [
+      808,
+      820
+    ]
+  },
+  "entite_20": {
+    "label": "MISC",
+    "text": "Décret",
+    "jalons": [
+      872,
+      878
+    ]
+  },
+  "entite_21": {
+    "label": "MISC",
+    "text": "ART.",
+    "jalons": [
+      880,
+      884
+    ]
+  },
+  "entite_22": {
+    "label": "MISC",
+    "text": "Décret",
+    "jalons": [
+      985,
+      991
+    ]
+  },
+  "entite_23": {
+    "label": "MISC",
+    "text": "ART.",
+    "jalons": [
+      1098,
+      1102
+    ]
+  },
+  "entite_24": {
+    "label": "LOC",
+    "text": "V",
+    "jalons": [
+      1103,
+      1104
+    ]
+  },
+  "entite_25": {
+    "label": "ORG",
+    "text": "Gouverneur",
+    "jalons": [
+      1112,
+      1122
+    ]
+  },
+  "entite_26": {
+    "label": "ORG",
+    "text": "Assemblée générale",
+    "jalons": [
+      1221,
+      1239
+    ]
+  },
+  "entite_27": {
+    "label": "MISC",
+    "text": "Décret",
+    "jalons": [
+      1280,
+      1286
+    ]
+  },
+  "entite_28": {
+    "label": "MISC",
+    "text": "Décret",
+    "jalons": [
+      1322,
+      1328
+    ]
+  },
+  "entite_29": {
+    "label": "MISC",
+    "text": "Décret",
+    "jalons": [
+      1489,
+      1495
+    ]
+  },
+  "entite_30": {
+    "label": "ORG",
+    "text": "Membres",
+    "jalons": [
+      1557,
+      1564
+    ]
+  },
+  "entite_31": {
+    "label": "MISC",
+    "text": "Dé¬ ¬cret",
+    "jalons": [
+      1710,
+      1719
+    ]
+  },
+  "entite_32": {
+    "label": "ORG",
+    "text": "Gouverneur",
+    "jalons": [
+      1746,
+      1756
+    ]
+  },
+  "entite_33": {
+    "label": "MISC",
+    "text": "ART",
+    "jalons": [
+      1792,
+      1795
+    ]
+  },
+  "entite_34": {
+    "label": "LOC",
+    "text": "Partie Française de Saint-Domingue",
+    "jalons": [
+      1890,
+      1924
+    ]
+  }
+}

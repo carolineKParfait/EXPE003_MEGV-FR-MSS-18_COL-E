@@ -1,0 +1,34 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Cul de sac",
+    "jalons": [
+      3,
+      13
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "de S",
+    "jalons": [
+      263,
+      267
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "^",
+    "jalons": [
+      267,
+      268
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "t",
+    "jalons": [
+      268,
+      269
+    ]
+  }
+}

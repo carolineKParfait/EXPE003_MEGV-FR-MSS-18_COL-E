@@ -1,0 +1,50 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Pra",
+    "jalons": [
+      3,
+      6
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "##slin",
+    "jalons": [
+      6,
+      10
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Le Duc de Choÿseul Enfin",
+    "jalons": [
+      34,
+      58
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "M ^ r Provenchere",
+    "jalons": [
+      68,
+      83
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Reserve \n",
+    "jalons": [
+      160,
+      168
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Les Preuves",
+    "jalons": [
+      346,
+      357
+    ]
+  }
+}
