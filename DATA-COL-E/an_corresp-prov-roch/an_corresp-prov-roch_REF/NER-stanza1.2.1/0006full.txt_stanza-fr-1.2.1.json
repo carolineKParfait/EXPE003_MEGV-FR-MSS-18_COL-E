@@ -1,0 +1,122 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Bordeaux",
+    "jalons": [
+      0,
+      8
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      26,
+      34
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Recevant",
+    "jalons": [
+      38,
+      46
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Provenchere",
+    "jalons": [
+      384,
+      395
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Beau freres",
+    "jalons": [
+      723,
+      734
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Ecrit",
+    "jalons": [
+      840,
+      845
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Beaufreres de\nRemettre",
+    "jalons": [
+      926,
+      948
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Details",
+    "jalons": [
+      1044,
+      1051
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Trompette",
+    "jalons": [
+      1335,
+      1344
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "Rohan",
+    "jalons": [
+      1433,
+      1438
+    ]
+  },
+  "entite_10": {
+    "label": "MISC",
+    "text": "Provenchere",
+    "jalons": [
+      1505,
+      1516
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "Cap^ne",
+    "jalons": [
+      1541,
+      1547
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "Roy",
+    "jalons": [
+      1576,
+      1579
+    ]
+  },
+  "entite_13": {
+    "label": "LOC",
+    "text": "Provencher",
+    "jalons": [
+      1604,
+      1614
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "Rochefoucault Bayers",
+    "jalons": [
+      1632,
+      1652
+    ]
+  }
+}

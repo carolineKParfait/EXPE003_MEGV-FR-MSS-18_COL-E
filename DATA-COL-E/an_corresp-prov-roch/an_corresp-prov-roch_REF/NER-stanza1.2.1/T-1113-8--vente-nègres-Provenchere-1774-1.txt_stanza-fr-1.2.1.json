@@ -1,0 +1,34 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Nicolas",
+    "jalons": [
+      409,
+      416
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      427,
+      432
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      466,
+      471
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Juillet Mil Sept cent Soixante",
+    "jalons": [
+      502,
+      532
+    ]
+  }
+}

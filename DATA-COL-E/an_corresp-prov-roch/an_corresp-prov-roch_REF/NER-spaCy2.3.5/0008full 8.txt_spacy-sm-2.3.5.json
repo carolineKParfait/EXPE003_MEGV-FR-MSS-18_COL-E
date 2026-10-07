@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      2,
+      10
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      11,
+      19
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Rochefoucauld Bayers",
+    "jalons": [
+      37,
+      57
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Roy",
+    "jalons": [
+      90,
+      93
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Germain",
+    "jalons": [
+      122,
+      129
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Monsieur\nMonsieur le marquis de la\nRochefoucauld",
+    "jalons": [
+      2,
+      50
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Roy",
+    "jalons": [
+      90,
+      93
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "S^t-Germain",
+    "jalons": [
+      118,
+      129
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      132,
+      137
+    ]
+  }
+}

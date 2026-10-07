@@ -1,0 +1,58 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "EXTRAIT",
+    "jalons": [
+      0,
+      7
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "SEANCE",
+    "jalons": [
+      96,
+      102
+    ]
+  },
+  "entite_2": {
+    "label": "ORG",
+    "text": "L&#x27;ASSEMBLÉE",
+    "jalons": [
+      118,
+      134
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "Partie",
+    "jalons": [
+      177,
+      183
+    ]
+  },
+  "entite_4": {
+    "label": "ORG",
+    "text": "¬gue",
+    "jalons": [
+      210,
+      214
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Français",
+    "jalons": [
+      409,
+      417
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "essentiel¬",
+    "jalons": [
+      653,
+      663
+    ]
+  }
+}

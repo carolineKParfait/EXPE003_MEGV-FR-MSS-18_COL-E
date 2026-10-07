@@ -1,0 +1,122 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Bordeaux",
+    "jalons": [
+      0,
+      8
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Janvier",
+    "jalons": [
+      14,
+      21
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      27,
+      35
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Recevant",
+    "jalons": [
+      39,
+      47
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Beaufreres",
+    "jalons": [
+      469,
+      479
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Lagraulet",
+    "jalons": [
+      645,
+      654
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Bordeaux",
+    "jalons": [
+      725,
+      733
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Remettre",
+    "jalons": [
+      1000,
+      1008
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "Reçü",
+    "jalons": [
+      1109,
+      1113
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "M.",
+    "jalons": [
+      1129,
+      1131
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "Rohan",
+    "jalons": [
+      1144,
+      1149
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "Bordeaux",
+    "jalons": [
+      1270,
+      1278
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "Lachapelle",
+    "jalons": [
+      1302,
+      1312
+    ]
+  },
+  "entite_13": {
+    "label": "LOC",
+    "text": "Remise",
+    "jalons": [
+      1359,
+      1365
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "Rochefoucault Bayers",
+    "jalons": [
+      1428,
+      1448
+    ]
+  }
+}

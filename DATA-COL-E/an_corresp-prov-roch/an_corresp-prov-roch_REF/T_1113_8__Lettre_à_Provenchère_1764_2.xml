@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>T_1113_8__Lettre_à_Provenchère_1764_2.jpg</fileName>
+      <fileIdentifier>zip//plantation_conflans_la_rochefouc_alto_20241122_Marion_51-66.zip/T_1113_8__Lettre_à_Provenchère_1764_2.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="QZ7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="QZ8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="QZ9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="QZ10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="QZ11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="QZ12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="QZ13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="QZ14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="QZ15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="QZ17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="QZ18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="QZ19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="QZ20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="QZ21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="QZ22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="1591"
+          HEIGHT="2392"
+          PHYSICAL_IMG_NR="55"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1591"
+                  HEIGHT="2392">
+        <TextBlock HPOS="261.0"
+                   VPOS="444.0"
+                   WIDTH="1298.0"
+                   HEIGHT="376.0"
+                   ID="eSc_textblock_7c74bf26"
+                   TAGREFS="QZ12">
+          <Shape><Polygon POINTS="261 444 261 820 1559 820 1559 444"/></Shape>
+          <TextLine ID="eSc_line_dfe56188"
+                    TAGREFS="LT8"
+                    BASELINE="398 512 717 512 1406 535" 
+                    HPOS="397"
+                    VPOS="471"
+                    WIDTH="1009"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="397 528 478 531 479 531 481 531 509 520 530 528 531 528 532 528 534 528 560 522 630 532 631 532 668 524 878 536 879 536 881 536 895 531 913 543 914 543 915 543 917 543 926 543 1022 538 1058 547 1060 547 1061 547 1063 547 1068 547 1124 538 1140 548 1141 548 1143 548 1144 548 1145 548 1230 540 1250 548 1252 548 1403 555 1406 535 1406 512 1362 508 1345 494 1343 494 1342 494 1341 494 1339 494 1313 507 1234 507 1210 490 1209 490 1208 490 1206 490 1111 503 1109 503 1072 494 1071 494 1069 494 1038 500 1002 486 1000 486 999 486 998 486 962 499 935 499 930 499 914 487 913 487 911 487 910 487 865 494 816 479 814 479 813 479 812 479 778 494 745 494 736 494 717 478 716 478 715 478 713 478 712 478 684 485 667 477 665 477 664 477 663 477 661 477 649 487 619 474 618 474 505 471 503 471 502 471 471 483 398 483 398 512"/></Shape>
+            <String CONTENT="Copie d&#x27;une lettre Ecrite a Monsieur Provenchere"
+                    HPOS="397"
+                    VPOS="471"
+                    WIDTH="1009"
+                    HEIGHT="84"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_a50a770d"
+                    TAGREFS="LT8"
+                    BASELINE="316 584 491 582 1422 604" 
+                    HPOS="315"
+                    VPOS="540"
+                    WIDTH="1107"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="316 556 316 584 315 599 368 592 424 600 425 600 551 596 579 605 580 605 582 605 656 600 671 609 672 609 673 609 733 611 735 611 736 611 739 611 773 601 801 609 802 609 804 609 895 605 914 615 915 615 917 615 918 615 919 615 921 615 945 607 955 615 956 615 958 615 959 615 1055 608 1072 617 1073 617 1075 617 1131 613 1229 621 1248 623 1249 623 1253 623 1289 613 1311 624 1313 624 1314 624 1315 624 1322 624 1362 619 1419 625 1422 604 1422 568 1279 562 1278 562 1256 566 1232 570 1206 564 1194 563 1193 563 1182 564 1140 572 1125 564 1119 559 1117 559 1116 559 1115 559 1113 559 1112 559 1105 563 1092 571 1073 563 1056 556 1055 556 1054 556 1052 556 1038 563 1034 564 1031 563 1019 555 1018 555 1016 555 990 555 988 555 987 555 986 555 975 562 964 568 950 562 945 559 943 559 942 559 941 559 939 559 937 562 925 567 728 564 709 558 669 547 668 547 641 547 640 547 639 547 637 547 622 558 618 559 614 558 588 546 587 546 586 546 513 556 495 558 420 555 417 555 380 540 378 540 377 540 321 551 316 556"/></Shape>
+            <String CONTENT="Procureur des biens provenants de la succession de feu"
+                    HPOS="315"
+                    VPOS="540"
+                    WIDTH="1107"
+                    HEIGHT="85"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9e99f16a"
+                    TAGREFS="LT8"
+                    BASELINE="313 645 543 645 717 657 1493 680" 
+                    HPOS="313"
+                    VPOS="604"
+                    WIDTH="1180"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="313 645 313 665 470 663 501 672 517 676 518 676 611 679 612 679 640 676 683 671 700 677 709 681 711 681 712 681 745 679 808 673 824 681 830 684 832 684 890 687 891 687 893 687 905 684 926 677 980 684 982 684 1058 680 1083 688 1085 689 1087 689 1088 689 1089 689 1092 689 1120 681 1148 691 1149 691 1151 691 1491 700 1493 680 1493 647 1468 640 1467 640 1466 640 1464 640 1451 647 1444 649 1402 649 1395 644 1382 636 1380 636 1379 636 1305 629 1303 629 1302 629 1266 641 1260 644 1214 644 1206 639 1193 632 1192 632 1190 632 1151 637 1131 640 1119 636 1093 628 1092 628 1091 628 1048 635 1028 637 1020 633 999 623 998 623 996 623 933 631 922 632 918 631 889 617 887 617 886 617 830 624 776 615 774 615 773 615 772 615 754 625 749 629 704 629 595 624 590 621 564 608 563 608 562 608 469 613 396 604 394 604 313 612 313 645"/></Shape>
+            <String CONTENT="Monsieur Fougeu ecrite en datte de Paris du 24 Aoust 1764."
+                    HPOS="313"
+                    VPOS="604"
+                    WIDTH="1180"
+                    HEIGHT="96"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="493.0"
+                   VPOS="386.0"
+                   WIDTH="176.0"
+                   HEIGHT="137.0"
+                   ID="eSc_textblock_344d9840"
+                   TAGREFS="QZ20">
+          <Shape><Polygon POINTS="493 386 493 523 669 523 669 386"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

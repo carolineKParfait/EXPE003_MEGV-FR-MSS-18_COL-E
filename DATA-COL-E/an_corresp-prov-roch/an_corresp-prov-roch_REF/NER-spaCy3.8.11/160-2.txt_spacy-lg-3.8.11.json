@@ -1,0 +1,298 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      24,
+      32
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Roy",
+    "jalons": [
+      458,
+      461
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Brigadier",
+    "jalons": [
+      479,
+      488
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "Liberté",
+    "jalons": [
+      766,
+      773
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Domingue",
+    "jalons": [
+      878,
+      886
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Esprits",
+    "jalons": [
+      1062,
+      1069
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Jay",
+    "jalons": [
+      1073,
+      1076
+    ]
+  },
+  "entite_7": {
+    "label": "ORG",
+    "text": "N^e",
+    "jalons": [
+      1187,
+      1190
+    ]
+  },
+  "entite_8": {
+    "label": "ORG",
+    "text": "Net",
+    "jalons": [
+      1248,
+      1251
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "Bariques",
+    "jalons": [
+      1266,
+      1274
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Messieurs",
+    "jalons": [
+      1382,
+      1391
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "Fougeu",
+    "jalons": [
+      1406,
+      1412
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "Navire",
+    "jalons": [
+      1420,
+      1426
+    ]
+  },
+  "entite_13": {
+    "label": "PER",
+    "text": "Giraud",
+    "jalons": [
+      1442,
+      1448
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "venduës",
+    "jalons": [
+      1496,
+      1503
+    ]
+  },
+  "entite_15": {
+    "label": "PER",
+    "text": "Delmar",
+    "jalons": [
+      1617,
+      1623
+    ]
+  },
+  "entite_16": {
+    "label": "MISC",
+    "text": "ort",
+    "jalons": [
+      1684,
+      1687
+    ]
+  },
+  "entite_17": {
+    "label": "LOC",
+    "text": "584^lt",
+    "jalons": [
+      1689,
+      1695
+    ]
+  },
+  "entite_18": {
+    "label": "MISC",
+    "text": "Net",
+    "jalons": [
+      1794,
+      1797
+    ]
+  },
+  "entite_19": {
+    "label": "ORG",
+    "text": "Froust",
+    "jalons": [
+      1913,
+      1919
+    ]
+  },
+  "entite_20": {
+    "label": "PER",
+    "text": "cp^e",
+    "jalons": [
+      1926,
+      1930
+    ]
+  },
+  "entite_21": {
+    "label": "MISC",
+    "text": "ort",
+    "jalons": [
+      1981,
+      1984
+    ]
+  },
+  "entite_22": {
+    "label": "MISC",
+    "text": "Net",
+    "jalons": [
+      2204,
+      2207
+    ]
+  },
+  "entite_23": {
+    "label": "MISC",
+    "text": "Net",
+    "jalons": [
+      2351,
+      2354
+    ]
+  },
+  "entite_24": {
+    "label": "LOC",
+    "text": "gabarrage",
+    "jalons": [
+      2432,
+      2441
+    ]
+  },
+  "entite_25": {
+    "label": "LOC",
+    "text": "Prevôté",
+    "jalons": [
+      2502,
+      2509
+    ]
+  },
+  "entite_26": {
+    "label": "MISC",
+    "text": ".....................................................",
+    "jalons": [
+      2524,
+      2577
+    ]
+  },
+  "entite_27": {
+    "label": "MISC",
+    "text": "Dom^e",
+    "jalons": [
+      2588,
+      2593
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "Ville",
+    "jalons": [
+      2774,
+      2779
+    ]
+  },
+  "entite_29": {
+    "label": "MISC",
+    "text": "Magazinage",
+    "jalons": [
+      2933,
+      2943
+    ]
+  },
+  "entite_30": {
+    "label": "ORG",
+    "text": "Commission",
+    "jalons": [
+      3123,
+      3133
+    ]
+  },
+  "entite_31": {
+    "label": "LOC",
+    "text": "L.",
+    "jalons": [
+      3148,
+      3150
+    ]
+  },
+  "entite_32": {
+    "label": "MISC",
+    "text": "Net",
+    "jalons": [
+      3192,
+      3195
+    ]
+  },
+  "entite_33": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      3263,
+      3271
+    ]
+  },
+  "entite_34": {
+    "label": "LOC",
+    "text": "Nantes",
+    "jalons": [
+      3464,
+      3470
+    ]
+  },
+  "entite_35": {
+    "label": "ORG",
+    "text": "N^e",
+    "jalons": [
+      3496,
+      3499
+    ]
+  },
+  "entite_36": {
+    "label": "PER",
+    "text": "Charet",
+    "jalons": [
+      3500,
+      3506
+    ]
+  }
+}

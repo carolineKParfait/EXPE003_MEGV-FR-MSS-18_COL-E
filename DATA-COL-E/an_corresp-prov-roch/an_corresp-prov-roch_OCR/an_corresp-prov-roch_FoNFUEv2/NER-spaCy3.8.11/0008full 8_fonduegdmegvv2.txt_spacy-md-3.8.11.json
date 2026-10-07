@@ -1,0 +1,42 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      2,
+      10
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Rochefoucauld",
+    "jalons": [
+      35,
+      48
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Bayes",
+    "jalons": [
+      49,
+      54
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Roy",
+    "jalons": [
+      89,
+      92
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      128,
+      133
+    ]
+  }
+}

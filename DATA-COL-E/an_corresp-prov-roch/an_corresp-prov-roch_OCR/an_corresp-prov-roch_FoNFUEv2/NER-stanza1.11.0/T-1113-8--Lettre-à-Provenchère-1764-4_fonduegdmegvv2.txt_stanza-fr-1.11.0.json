@@ -1,0 +1,538 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "Charmie",
+    "jalons": [
+      14,
+      21
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "Cul de sac",
+    "jalons": [
+      287,
+      297
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Charrïe",
+    "jalons": [
+      368,
+      376
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Labonneur",
+    "jalons": [
+      467,
+      476
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "S^t Domingue",
+    "jalons": [
+      511,
+      523
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Labounes",
+    "jalons": [
+      551,
+      559
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Jaçon",
+    "jalons": [
+      607,
+      613
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Manieres",
+    "jalons": [
+      889,
+      897
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "Charriie",
+    "jalons": [
+      926,
+      934
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "Blune",
+    "jalons": [
+      1153,
+      1158
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "M^r",
+    "jalons": [
+      1163,
+      1166
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "Charrüe",
+    "jalons": [
+      1595,
+      1603
+    ]
+  },
+  "entite_12": {
+    "label": "MISC",
+    "text": "Juçon",
+    "jalons": [
+      1656,
+      1662
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "Cannes",
+    "jalons": [
+      1962,
+      1968
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "Monsieur Le Marechal",
+    "jalons": [
+      2253,
+      2273
+    ]
+  },
+  "entite_15": {
+    "label": "MISC",
+    "text": "Monsieur d&#39;Estaing",
+    "jalons": [
+      2295,
+      2317
+    ]
+  },
+  "entite_16": {
+    "label": "PER",
+    "text": "Monsieur Magan",
+    "jalons": [
+      2323,
+      2337
+    ]
+  },
+  "entite_17": {
+    "label": "PER",
+    "text": "Madame de Bayers",
+    "jalons": [
+      2650,
+      2666
+    ]
+  },
+  "entite_18": {
+    "label": "MISC",
+    "text": "La Bepne Gomlesse",
+    "jalons": [
+      2819,
+      2836
+    ]
+  },
+  "entite_19": {
+    "label": "MISC",
+    "text": "Dudeura",
+    "jalons": [
+      2864,
+      2871
+    ]
+  },
+  "entite_20": {
+    "label": "PER",
+    "text": "Manechal",
+    "jalons": [
+      2956,
+      2964
+    ]
+  },
+  "entite_21": {
+    "label": "PER",
+    "text": "M^r",
+    "jalons": [
+      3034,
+      3037
+    ]
+  },
+  "entite_22": {
+    "label": "PER",
+    "text": "Grand Carlos",
+    "jalons": [
+      3103,
+      3115
+    ]
+  },
+  "entite_23": {
+    "label": "PER",
+    "text": "Gavillan",
+    "jalons": [
+      3122,
+      3130
+    ]
+  },
+  "entite_24": {
+    "label": "MISC",
+    "text": "Envoy",
+    "jalons": [
+      3434,
+      3439
+    ]
+  },
+  "entite_25": {
+    "label": "MISC",
+    "text": "Monsieur le Machal",
+    "jalons": [
+      3473,
+      3491
+    ]
+  },
+  "entite_26": {
+    "label": "MISC",
+    "text": "Revenüs de nos habitations",
+    "jalons": [
+      3548,
+      3575
+    ]
+  },
+  "entite_27": {
+    "label": "PER",
+    "text": "S^t Domingue",
+    "jalons": [
+      3579,
+      3591
+    ]
+  },
+  "entite_28": {
+    "label": "MISC",
+    "text": "Envois",
+    "jalons": [
+      3712,
+      3718
+    ]
+  },
+  "entite_29": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      3780,
+      3788
+    ]
+  },
+  "entite_30": {
+    "label": "PER",
+    "text": "S^t Domingue",
+    "jalons": [
+      3835,
+      3847
+    ]
+  },
+  "entite_31": {
+    "label": "MISC",
+    "text": "Monsieur vottre frere",
+    "jalons": [
+      3919,
+      3940
+    ]
+  },
+  "entite_32": {
+    "label": "LOC",
+    "text": "Colonie",
+    "jalons": [
+      4085,
+      4092
+    ]
+  },
+  "entite_33": {
+    "label": "LOC",
+    "text": "Merdames",
+    "jalons": [
+      4138,
+      4146
+    ]
+  },
+  "entite_34": {
+    "label": "LOC",
+    "text": "Marechale",
+    "jalons": [
+      4150,
+      4159
+    ]
+  },
+  "entite_35": {
+    "label": "LOC",
+    "text": "Conflans",
+    "jalons": [
+      4163,
+      4171
+    ]
+  },
+  "entite_36": {
+    "label": "PER",
+    "text": "Marquise de Bayers",
+    "jalons": [
+      4176,
+      4194
+    ]
+  },
+  "entite_37": {
+    "label": "PER",
+    "text": "Gar",
+    "jalons": [
+      4223,
+      4226
+    ]
+  },
+  "entite_38": {
+    "label": "PER",
+    "text": "Monsieur le Marechal",
+    "jalons": [
+      4390,
+      4410
+    ]
+  },
+  "entite_39": {
+    "label": "PER",
+    "text": "Monsieur le comte d&#39;Estaing",
+    "jalons": [
+      4445,
+      4476
+    ]
+  },
+  "entite_40": {
+    "label": "PER",
+    "text": "Monsieur Magon",
+    "jalons": [
+      4482,
+      4496
+    ]
+  },
+  "entite_41": {
+    "label": "MISC",
+    "text": "Monsieur Beudet",
+    "jalons": [
+      4538,
+      4553
+    ]
+  },
+  "entite_42": {
+    "label": "PER",
+    "text": "Monsieur le Duc de Choiseüil",
+    "jalons": [
+      4625,
+      4654
+    ]
+  },
+  "entite_43": {
+    "label": "MISC",
+    "text": "1^er May",
+    "jalons": [
+      4935,
+      4943
+    ]
+  },
+  "entite_44": {
+    "label": "MISC",
+    "text": "S^r Jaune",
+    "jalons": [
+      5104,
+      5113
+    ]
+  },
+  "entite_45": {
+    "label": "LOC",
+    "text": "Bordeaux",
+    "jalons": [
+      5132,
+      5140
+    ]
+  },
+  "entite_46": {
+    "label": "LOC",
+    "text": "Barriques",
+    "jalons": [
+      5213,
+      5222
+    ]
+  },
+  "entite_47": {
+    "label": "LOC",
+    "text": "Medione",
+    "jalons": [
+      5226,
+      5233
+    ]
+  },
+  "entite_48": {
+    "label": "LOC",
+    "text": "Navire",
+    "jalons": [
+      5238,
+      5244
+    ]
+  },
+  "entite_49": {
+    "label": "MISC",
+    "text": "Bondeaux",
+    "jalons": [
+      5480,
+      5488
+    ]
+  },
+  "entite_50": {
+    "label": "MISC",
+    "text": "leMavine",
+    "jalons": [
+      5756,
+      5764
+    ]
+  },
+  "entite_51": {
+    "label": "MISC",
+    "text": "Julie Cap^ne",
+    "jalons": [
+      5778,
+      5790
+    ]
+  },
+  "entite_52": {
+    "label": "MISC",
+    "text": "Blane",
+    "jalons": [
+      5820,
+      5825
+    ]
+  },
+  "entite_53": {
+    "label": "MISC",
+    "text": "Barriques",
+    "jalons": [
+      5869,
+      5878
+    ]
+  },
+  "entite_54": {
+    "label": "PER",
+    "text": "Monsieur Charnet",
+    "jalons": [
+      5914,
+      5930
+    ]
+  },
+  "entite_55": {
+    "label": "LOC",
+    "text": "Penbouf",
+    "jalons": [
+      6002,
+      6009
+    ]
+  },
+  "entite_56": {
+    "label": "LOC",
+    "text": "Roviere",
+    "jalons": [
+      6023,
+      6030
+    ]
+  },
+  "entite_57": {
+    "label": "LOC",
+    "text": "Nantes",
+    "jalons": [
+      6034,
+      6040
+    ]
+  },
+  "entite_58": {
+    "label": "PER",
+    "text": "S^t Domingue",
+    "jalons": [
+      6099,
+      6111
+    ]
+  },
+  "entite_59": {
+    "label": "MISC",
+    "text": "25 May",
+    "jalons": [
+      6197,
+      6203
+    ]
+  },
+  "entite_60": {
+    "label": "MISC",
+    "text": "Mlavine",
+    "jalons": [
+      6261,
+      6268
+    ]
+  },
+  "entite_61": {
+    "label": "PER",
+    "text": "Julie Cap^ne La Barne",
+    "jalons": [
+      6272,
+      6293
+    ]
+  },
+  "entite_62": {
+    "label": "MISC",
+    "text": "Burriques",
+    "jalons": [
+      6371,
+      6380
+    ]
+  },
+  "entite_63": {
+    "label": "PER",
+    "text": "Mavine",
+    "jalons": [
+      6628,
+      6634
+    ]
+  },
+  "entite_64": {
+    "label": "PER",
+    "text": "Boudeaux",
+    "jalons": [
+      6740,
+      6748
+    ]
+  },
+  "entite_65": {
+    "label": "MISC",
+    "text": "Julie",
+    "jalons": [
+      6853,
+      6858
+    ]
+  },
+  "entite_66": {
+    "label": "LOC",
+    "text": "23 May",
+    "jalons": [
+      7250,
+      7256
+    ]
+  }
+}

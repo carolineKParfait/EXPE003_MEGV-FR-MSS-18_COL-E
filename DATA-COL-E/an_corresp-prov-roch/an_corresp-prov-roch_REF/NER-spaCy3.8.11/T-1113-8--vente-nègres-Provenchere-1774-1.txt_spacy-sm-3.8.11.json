@@ -1,0 +1,58 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Sieur",
+    "jalons": [
+      88,
+      93
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Terre",
+    "jalons": [
+      272,
+      277
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Nicolas",
+    "jalons": [
+      409,
+      416
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      427,
+      432
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      466,
+      471
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Hôtel",
+    "jalons": [
+      481,
+      486
+    ]
+  },
+  "entite_6": {
+    "label": "ORG",
+    "text": "Soixante",
+    "jalons": [
+      524,
+      532
+    ]
+  }
+}
