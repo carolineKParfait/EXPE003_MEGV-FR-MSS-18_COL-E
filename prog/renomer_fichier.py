@@ -1,65 +1,50 @@
-## Normaliser les noms de fichiers HTR et REF pour anom
+
 
 import glob
 import os
 
+def renamme(anc_nom, new_name):
 
-def renommer_fichier(chemin_fichier):
-    dossier, nom_fichier = os.path.split(chemin_fichier)
-
-    # Séparer nom et extension
-    nom, extension = os.path.splitext(nom_fichier)
-    #Pour REF
-    # nouveau_nom = nom.replace("_", "-")
-
-    # Pour OCR
-    # Remplacer tous les "_" sauf le dernier
-    # parties = nom.rsplit("_", 1)
-    # if len(parties) == 2:
-    #     avant, dernier = parties
-        # # # ______________Fichiers NER
-        # nouveau_nom = avant.replace("_", "-") + "-" + dernier
-        # # ______________Fichiers SIM global
-        # nouveau_nom = avant.replace("_", "-") + "-" + dernier
-        # # ________Fichiers SIM Par catégories __________________
-        # nouveau_nom = avant.replace("_", "-") + "_" + dernier
-
-    # else:
-    #     nouveau_nom = nom  # Aucun "_" trouvé
-
-    # nouveau_nom_complet = nouveau_nom + extension
-    # nouveau_chemin = os.path.join(dossier, nouveau_nom_complet)
-    nouveau_chemin = p.name.replace(
-        "-Moderncamembert-4entities",
-        "_Moderncamembert-4entities"
-    )
-
-    # Renommer le fichier
-    # os.rename(chemin_fichier, nouveau_chemin)
-
-    return nouveau_chemin
+    name_change = os.rename(anc_nom, new_name)
+    return name_change
 
 
-# Exemple d'utilisation
+# paths = ["../DATA-COL-E/*/*REF" , "../DATA-COL-E/*/*OCR/"]
+paths = "../DATA-COL-E/"
+# for subcorpus in glob.glob(corpus_orig+"/Mémoi*/*"):
+#     print(subcorpus)
+for subcorpus in glob.glob(paths + "*/*REF"): ## */ pour OCR
+    # print(subcorpus)
+    for subsubcorpus in glob.glob(subcorpus + "/*/"):
+        print(subsubcorpus)
+    print("___________________________________\n")
+    # for subsubcorpus in glob.glob(subcorpus + "NER-Moderncamembert-4entities/*.json"):
+    #     print("Chemin d'entrée : ",subsubcorpus)
 
-# ________Fichiers  __________________
-path_ref = "../DATA-COL-E/*/*REF/NER-Moderncamembert_4entities/*_4entities.json"
-path_ocr = "../DATA-COL-E/an_corresp-fougeu-conflans/*OCR/*/NER-Moderncamembert_4entities/*_4entities.json"
+        # decoup_pathname = subsubcorpus.split("/")
+        # # print("Découpage du chemin originel :",decoup_pathname)
+        #
+        # # correction_dossier = decoup_pathname[-1]
+        # # nouveau_nom = correction_dossier.replace("_", "-")
+        # # print("Correction du dossier originel :",nouveau_nom)
+        #
+        # # path_name = "/".join(decoup_pathname[:-1])+"/"+nouveau_nom ## Adapter l'index de la liste selon le chemin d'entrée
+        # # print("Nom du chemin de sortie ", path_name)
+        #
+        # path_name = "/".join(decoup_pathname[:-1])  ## Adapter l'index de la liste selon le chemin d'entrée
+        # # print("Nom du chemin de sortie ", path_name)
+        #
+        # file_name = decoup_pathname[-1].split("_")
+        # # print("Liste du nom complet : ",file_name)
+        # correction = "_".join(file_name[0:1])+"_"+"-".join(file_name[-2:])
+        # # print("Correction : ",correction)
+        # #
+        # complet_name = path_name + "/" + correction
+        # print("Chemin complet : ", complet_name)
+        # # # print(complet_name)
 
-# # ______________Fichiers SIM global
-# path_ref = "../DATAan_corresp-fougeu-conflans/*REF/NER-Moderncamembert_4entities/SIM/*_4entities.json"
-# path_ocr = "../DATA/an_corresp-fougeu-conflans/*OCR/*/NER-Moderncamembert_4entities/SIM/*_4entities.json"
-
-# # ________Fichiers SIM Par catégories __________________
-# path_ref = "../DATAan_corresp-fougeu-conflans/*REF/NER-Moderncamembert_4entities/SIM/*_4entities_*.json"
-# path_ocr = "../DATA/an_corresp-fougeu-conflans/*OCR/*/NER-Moderncamembert_4entities/SIM/*_4entities_*.json"
-
-for path in glob.glob(path_ref):
-    print("PATH : ",path)
-    ancien_fichier = path
-    nouveau_fichier = renommer_fichier(ancien_fichier)
-
-    print("Fichier renommé en :", nouveau_fichier)
+## A décommanter à la fin lorsqu'on est certain du chemin en vérifiant le print de complet_name
+        # renamme(subsubcorpus,complet_name)
 
 
 
