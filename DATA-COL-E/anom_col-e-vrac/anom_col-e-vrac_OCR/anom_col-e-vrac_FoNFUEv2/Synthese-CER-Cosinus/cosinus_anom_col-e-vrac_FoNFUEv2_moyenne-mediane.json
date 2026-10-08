@@ -1,0 +1,42 @@
+{
+  "FoNFUEv2_spacy-lg-2.3.5.json": {
+    "mediane": 0.2327374463998978,
+    "moyenne": 0.2405577681578675
+  },
+  "FoNFUEv2_spacy-md-2.3.5.json": {
+    "mediane": 0.2354394632637009,
+    "moyenne": 0.26158688757801624
+  },
+  "FoNFUEv2_spacy-sm-2.3.5.json": {
+    "mediane": 0.27289466337907053,
+    "moyenne": 0.2964083660666119
+  },
+  "FoNFUEv2_spacy-lg-3.8.11.json": {
+    "mediane": 0.3106571083534743,
+    "moyenne": 0.31882008078666535
+  },
+  "FoNFUEv2_spacy-md-3.8.11.json": {
+    "mediane": 0.3219831225054671,
+    "moyenne": 0.3181039996474453
+  },
+  "FoNFUEv2_spacy-sm-3.8.11.json": {
+    "mediane": 0.26778530985958937,
+    "moyenne": 0.28911546286790785
+  },
+  "FoNFUEv2_stanza-fr-1.2.1.json": {
+    "mediane": 0.18865779206918443,
+    "moyenne": 0.21469409140317747
+  },
+  "FoNFUEv2_stanza-fr-1.11.0.json": {
+    "mediane": 0.14657987046870413,
+    "moyenne": 0.18601012850623633
+  },
+  "FoNFUEv2_Moderncamembert-4entities.json": {
+    "mediane": 0.32911137311286054,
+    "moyenne": 0.3515000137959254
+  },
+  "FoNFUEv2_camembert-ner.json": {
+    "mediane": 0.12638014030395517,
+    "moyenne": 0.15075039475495622
+  }
+}
