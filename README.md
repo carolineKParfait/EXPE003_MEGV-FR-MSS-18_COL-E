@@ -10,26 +10,30 @@ Dans ce dépôt tu trouveras les programmes (prog) et les résultats pour :
     + [X] spaCy 3.8.11 ;
     + [X] Stanza 1.2.1 ;
     + [X] Stanza 1.11.0 ;
-    + [ ] Bert ;
+    + [X] camemBert-ner ;
+    + [X] Moderncamembert ;
 
 - Calcul de distances avec diverses métriques de similarité/distances dans les dossiers SIM :
     + [x] spaCy 2.3.5 ;
     + [X] spaCy 3.8.11 ;
     + [X] Stanza 1.2.1 ;
     + [X] Stanza 1.11.0 ;
-    + [ ] Bert ;
+    + [X] camemBert-ner ;
+    + [X] Moderncamembert ;
 - Graphiques pour les résultats des SIM ;
     + [x] spaCy 2.3.5 ;
     + [X] spaCy 3.8.11 ;
     + [X] Stanza 1.2.1 ;
     + [X] Stanza 1.11.0 ;
-    + [ ] Bert ;
+    + [ ] camemBert-ner ;
+    + [ ] Moderncamembert ;
 - Calcul des intersections et graphiques ;
     + [X] spaCy 2.3.5 ;
     + [X] spaCy 3.8.11 ;
     + [X] Stanza 1.2.1 ;
     + [X] Stanza 1.11.0 ;
-    + [ ] Bert ;
+    + [ ] camemBert-ner ;
+    + [ ] Moderncamembert ;
 
 # Conseils de dév.
 
